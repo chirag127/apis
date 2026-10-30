@@ -1,0 +1,73 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Programming Languages",
+    "description": "Major programming languages with paradigms, typing, versions, and extensions",
+    "version": "1.0.0",
+    "license": {
+      "name": "CC0-1.0"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://chirag127.github.io/programming-languages",
+      "description": "GitHub Pages"
+    }
+  ],
+  "paths": {
+    "/data.json": {
+      "get": {
+        "summary": "Programming Languages data",
+        "description": "Major programming languages with paradigms, typing, versions, and extensions",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/languages": {
+      "get": {
+        "summary": "Programming Languages",
+        "description": "Major programming languages with paradigms, typing, versions, and extensions",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/languages/{lang}": {
+      "get": {
+        "summary": "Programming Languages",
+        "description": "Major programming languages with paradigms, typing, versions, and extensions",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
