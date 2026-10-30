@@ -1,0 +1,73 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "RBI Policy Rates",
+    "description": "Current and historical RBI repo rate, reverse repo, CRR, SLR, and SDF",
+    "version": "1.0.0",
+    "license": {
+      "name": "CC-BY-4.0"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://chirag127.github.io/rbi-rates",
+      "description": "GitHub Pages"
+    }
+  ],
+  "paths": {
+    "/data.json": {
+      "get": {
+        "summary": "RBI Policy Rates data",
+        "description": "Current and historical RBI repo rate, reverse repo, CRR, SLR, and SDF",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/rates/current": {
+      "get": {
+        "summary": "RBI Policy Rates",
+        "description": "Current and historical RBI repo rate, reverse repo, CRR, SLR, and SDF",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/rates/history": {
+      "get": {
+        "summary": "RBI Policy Rates",
+        "description": "Current and historical RBI repo rate, reverse repo, CRR, SLR, and SDF",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
