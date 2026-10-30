@@ -1,0 +1,55 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "USB Standards",
+    "description": "USB 2.0/3.x/4 with speeds, connector types, and power delivery",
+    "version": "1.0.0",
+    "license": {
+      "name": "CC0-1.0"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://chirag127.github.io/usb-standards",
+      "description": "GitHub Pages"
+    }
+  ],
+  "paths": {
+    "/data.json": {
+      "get": {
+        "summary": "USB Standards data",
+        "description": "USB 2.0/3.x/4 with speeds, connector types, and power delivery",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/usb": {
+      "get": {
+        "summary": "USB Standards",
+        "description": "USB 2.0/3.x/4 with speeds, connector types, and power delivery",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
