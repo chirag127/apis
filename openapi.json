@@ -1,0 +1,55 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Software Licenses",
+    "description": "Open-source licenses with terms, compatibility, and SPDX identifiers",
+    "version": "1.0.0",
+    "license": {
+      "name": "CC0-1.0"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://chirag127.github.io/software-licenses",
+      "description": "GitHub Pages"
+    }
+  ],
+  "paths": {
+    "/data.json": {
+      "get": {
+        "summary": "Software Licenses data",
+        "description": "Open-source licenses with terms, compatibility, and SPDX identifiers",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/licenses": {
+      "get": {
+        "summary": "Software Licenses",
+        "description": "Open-source licenses with terms, compatibility, and SPDX identifiers",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
