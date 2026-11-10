@@ -1,0 +1,629 @@
+{
+ "generated": "2026-11-10",
+ "total": 89,
+ "apis": [
+  {
+   "name": "Deepseek-API",
+   "desc": ".description",
+   "hasData": false,
+   "hasIndex": false,
+   "hasOpenapi": false
+  },
+  {
+   "name": "chemistry-formulas-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": false,
+   "hasOpenapi": true
+  },
+  {
+   "name": "colors-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "continents-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "countries-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "country-calling-codes-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "cricket-ipl-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "cricket-world-cup-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "crop-seasons-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "crypto-algorithms-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "css-properties-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "currencies-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "currency-rates-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "display-panels-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "emoji-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "fd-rates-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "fear-greed-index-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": false
+  },
+  {
+   "name": "fii-dii-activity-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": false,
+   "hasOpenapi": true
+  },
+  {
+   "name": "file-extensions-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "freellmapi",
+   "desc": ".description",
+   "hasData": false,
+   "hasIndex": false,
+   "hasOpenapi": false
+  },
+  {
+   "name": "fruits-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "gate-syllabus-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "git-commands-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "govt-colleges-api",
+   "desc": ".description",
+   "hasData": false,
+   "hasIndex": false,
+   "hasOpenapi": true
+  },
+  {
+   "name": "govt-hospitals-api",
+   "desc": ".description",
+   "hasData": false,
+   "hasIndex": false,
+   "hasOpenapi": true
+  },
+  {
+   "name": "govt-schemes-api",
+   "desc": ".description",
+   "hasData": false,
+   "hasIndex": false,
+   "hasOpenapi": true
+  },
+  {
+   "name": "gpus-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "gsec-rates-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "gst-rates-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "holiday-world-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "html-elements-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "http-headers-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "http-status-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "income-tax-slabs-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "india-airports-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "india-districts-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "india-holidays-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "india-isd-codes-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "india-parliament-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "india-pincode-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "india-pincodes-by-state-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "india-railway-stations-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "india-states-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "india-timezones-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "indian-banks-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "indian-crops-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "indian-foods-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "indian-spices-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "ipo-calendar-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "ipo-performance-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "iso-codes-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "javascript-builtin-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "jee-syllabus-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "json-schema-ref-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "languages-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "linux-commands-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "math-formulas-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "mime-types-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "mobile-chipsets-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "mutual-fund-categories-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "nav-units-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "ncert-books-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "ncert-chapters-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "neet-syllabus-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "nutrition-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "olympics-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "oriz-json",
+   "desc": ".description",
+   "hasData": false,
+   "hasIndex": false,
+   "hasOpenapi": false
+  },
+  {
+   "name": "periodic-table-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "physics-formulas-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "programming-concepts-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "programming-languages-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "quotes-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "rbi-rates-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "regex-tokens-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "reit-data-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "savings-rates-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "si-units-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "smartphones-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "software-licenses-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "sql-functions-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "stock-exchanges-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "tds-rates-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "timezone-data-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "typography-terms-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "unicode-blocks-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "upsc-syllabus-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "usb-standards-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "vegetables-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  },
+  {
+   "name": "wifi-standards-api",
+   "desc": ".description",
+   "hasData": true,
+   "hasIndex": true,
+   "hasOpenapi": true
+  }
+ ]
+}
