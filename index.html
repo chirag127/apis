@@ -206,7 +206,7 @@ function render() {
     + (activeFilter !== "all" ? " · filter: " + activeFilter : "");
 
   grid.innerHTML = rows.map((a) => {
-    const url = "https://chirag127.github.io/" + a.name + "/api/v1/data.json";
+    const url = "https://chirag127.github.io/" + a.name + "/api/v1/" + (a.path || "data.json");
     const statusClass = a.status === "live" ? "live" : a.status === "checking" ? "checking" : "stub";
     const statusText = a.status === "live"
       ? a.records + " records"
@@ -227,24 +227,35 @@ function render() {
 }
 
 // Live test: fetch each API and record the real record count.
-// Bounded concurrency so we don't hammer GitHub Pages.
+// Paths vary per repo (india-states serves states.json, not data.json), so probe
+// the known candidates and use the first that returns JSON. Bounded concurrency.
+const PROBE_PATHS = ["data.json", "index.json", "states.json", "elements.json", "compounds.json", "quotes.json", "emoji.json"];
+
 async function liveTest() {
   const queue = APIS.slice();
   const worker = async () => {
     while (queue.length) {
       const a = queue.shift();
-      const url = "https://chirag127.github.io/" + a.name + "/api/v1/data.json";
-      try {
-        const r = await fetch(url, { cache: "no-store" });
-        if (!r.ok) throw new Error(r.status);
-        const j = await r.json();
-        const n = Array.isArray(j) ? j.length : (Array.isArray(j.data) ? j.data.length : Object.keys(j).length);
-        a.records = n;
-        a.status = n > 5 ? "live" : "stub";
-      } catch (e) {
-        a.status = "stub";
-        a.records = 0;
+      let hit = null;
+      for (const p of PROBE_PATHS) {
+        const url = "https://chirag127.github.io/" + a.name + "/api/v1/" + p;
+        try {
+          const r = await fetch(url, { cache: "no-store" });
+          if (!r.ok) continue;
+          const j = await r.json();
+          hit = { path: p, json: j };
+          break;
+        } catch (e) { /* not JSON, try the next */ }
       }
+      if (!hit) { a.status = "stub"; a.records = 0; continue; }
+      const j = hit.json;
+      const n = Array.isArray(j) ? j.length
+        : Array.isArray(j.data) ? j.data.length
+        : typeof j.count === "number" ? j.count
+        : Object.keys(j).length;
+      a.records = n;
+      a.path = hit.path;
+      a.status = n > 5 ? "live" : "stub";
     }
   };
   await Promise.all([worker(), worker(), worker(), worker()]);
