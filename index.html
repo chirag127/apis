@@ -241,7 +241,10 @@ async function liveTest() {
       let best = 0;
       let bestPath = "data.json";
       let found = false;
-      for (const p of PROBE_PATHS) {
+      // Some repos put data at the site root rather than under api/v1/ (fear-greed
+      // serves /data/latest.json), so probe both places.
+      const paths = PROBE_PATHS.concat(["../../data/latest.json", "../../data/index.json"]);
+      for (const p of paths) {
         const url = "https://chirag127.github.io/" + a.name + "/api/v1/" + p;
         try {
           const r = await fetch(url, { cache: "no-store" });
