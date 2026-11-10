@@ -1,0 +1,30 @@
+{
+  "id": "Am",
+  "atomicNumber": 95,
+  "symbol": "Am",
+  "name": "Americium",
+  "atomicMass": 243,
+  "category": "actinide",
+  "block": "f",
+  "group": 3,
+  "period": 7,
+  "phase": "Solid",
+  "density": 12,
+  "meltingPoint": 1449,
+  "boilingPoint": 2880,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f7",
+  "electronConfigurationSemantic": "[Rn] 5f7 7s2",
+  "electronegativity": 1.13,
+  "shells": [
+    2,
+    8,
+    18,
+    32,
+    25,
+    8,
+    2
+  ],
+  "cpkHex": "545cf2",
+  "discoveredBy": "Glenn T. Seaborg",
+  "yearDiscovered": "1944"
+}

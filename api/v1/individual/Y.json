@@ -1,0 +1,28 @@
+{
+  "id": "Y",
+  "atomicNumber": 39,
+  "symbol": "Y",
+  "name": "Yttrium",
+  "atomicMass": 88.905842,
+  "category": "transition metal",
+  "block": "d",
+  "group": 3,
+  "period": 5,
+  "phase": "Solid",
+  "density": 4.472,
+  "meltingPoint": 1799,
+  "boilingPoint": 3203,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d1",
+  "electronConfigurationSemantic": "[Kr] 4d1 5s2",
+  "electronegativity": 1.22,
+  "shells": [
+    2,
+    8,
+    18,
+    9,
+    2
+  ],
+  "cpkHex": "94ffff",
+  "discoveredBy": "Johan Gadolin",
+  "yearDiscovered": "1794"
+}

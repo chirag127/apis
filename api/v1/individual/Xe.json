@@ -1,0 +1,28 @@
+{
+  "id": "Xe",
+  "atomicNumber": 54,
+  "symbol": "Xe",
+  "name": "Xenon",
+  "atomicMass": 131.2936,
+  "category": "noble gas",
+  "block": "p",
+  "group": 18,
+  "period": 5,
+  "phase": "Gas",
+  "density": 5.894,
+  "meltingPoint": 161.4,
+  "boilingPoint": 165.051,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6",
+  "electronConfigurationSemantic": "[Kr] 4d10 5s2 5p6",
+  "electronegativity": 2.6,
+  "shells": [
+    2,
+    8,
+    18,
+    18,
+    8
+  ],
+  "cpkHex": "429eb0",
+  "discoveredBy": "William Ramsay",
+  "yearDiscovered": "1898"
+}

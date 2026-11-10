@@ -1,0 +1,30 @@
+{
+  "id": "Ra",
+  "atomicNumber": 88,
+  "symbol": "Ra",
+  "name": "Radium",
+  "atomicMass": 226,
+  "category": "alkaline earth metal",
+  "block": "s",
+  "group": 2,
+  "period": 7,
+  "phase": "Solid",
+  "density": 5.5,
+  "meltingPoint": 1233,
+  "boilingPoint": 2010,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2",
+  "electronConfigurationSemantic": "[Rn] 7s2",
+  "electronegativity": 0.9,
+  "shells": [
+    2,
+    8,
+    18,
+    32,
+    18,
+    8,
+    2
+  ],
+  "cpkHex": "007d00",
+  "discoveredBy": "Pierre Curie",
+  "yearDiscovered": "1898"
+}

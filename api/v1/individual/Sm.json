@@ -1,0 +1,29 @@
+{
+  "id": "Sm",
+  "atomicNumber": 62,
+  "symbol": "Sm",
+  "name": "Samarium",
+  "atomicMass": 150.362,
+  "category": "lanthanide",
+  "block": "f",
+  "group": 3,
+  "period": 6,
+  "phase": "Solid",
+  "density": 7.52,
+  "meltingPoint": 1345,
+  "boilingPoint": 2173,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f6",
+  "electronConfigurationSemantic": "[Xe] 4f6 6s2",
+  "electronegativity": 1.17,
+  "shells": [
+    2,
+    8,
+    18,
+    24,
+    8,
+    2
+  ],
+  "cpkHex": "8fffc7",
+  "discoveredBy": "Lecoq de Boisbaudran",
+  "yearDiscovered": "1879"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Be",
+  "atomicNumber": 4,
+  "symbol": "Be",
+  "name": "Beryllium",
+  "atomicMass": 9.01218315,
+  "category": "alkaline earth metal",
+  "block": "s",
+  "group": 2,
+  "period": 2,
+  "phase": "Solid",
+  "density": 1.85,
+  "meltingPoint": 1560,
+  "boilingPoint": 2742,
+  "electronConfiguration": "1s2 2s2",
+  "electronConfigurationSemantic": "[He] 2s2",
+  "electronegativity": 1.57,
+  "shells": [
+    2,
+    2
+  ],
+  "cpkHex": "c2ff00",
+  "discoveredBy": "Louis Nicolas Vauquelin",
+  "yearDiscovered": "1798"
+}

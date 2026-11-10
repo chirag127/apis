@@ -1,0 +1,29 @@
+{
+  "id": "Ta",
+  "atomicNumber": 73,
+  "symbol": "Ta",
+  "name": "Tantalum",
+  "atomicMass": 180.947882,
+  "category": "transition metal",
+  "block": "d",
+  "group": 5,
+  "period": 6,
+  "phase": "Solid",
+  "density": 16.69,
+  "meltingPoint": 3290,
+  "boilingPoint": 5731,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d3",
+  "electronConfigurationSemantic": "[Xe] 4f14 5d3 6s2",
+  "electronegativity": 1.5,
+  "shells": [
+    2,
+    8,
+    18,
+    32,
+    11,
+    2
+  ],
+  "cpkHex": "4da6ff",
+  "discoveredBy": "Anders Gustaf Ekeberg",
+  "yearDiscovered": "1802"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Th",
+  "atomicNumber": 90,
+  "symbol": "Th",
+  "name": "Thorium",
+  "atomicMass": 232.03774,
+  "category": "actinide",
+  "block": "f",
+  "group": 3,
+  "period": 7,
+  "phase": "Solid",
+  "density": 11.724,
+  "meltingPoint": 2023,
+  "boilingPoint": 5061,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 6d2",
+  "electronConfigurationSemantic": "[Rn] 6d2 7s2",
+  "electronegativity": 1.3,
+  "shells": [
+    2,
+    8,
+    18,
+    32,
+    18,
+    10,
+    2
+  ],
+  "cpkHex": "00baff",
+  "discoveredBy": "Jöns Jakob Berzelius",
+  "yearDiscovered": "1828"
+}

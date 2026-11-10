@@ -1,0 +1,27 @@
+{
+  "id": "Kr",
+  "atomicNumber": 36,
+  "symbol": "Kr",
+  "name": "Krypton",
+  "atomicMass": 83.7982,
+  "category": "noble gas",
+  "block": "p",
+  "group": 18,
+  "period": 4,
+  "phase": "Gas",
+  "density": 3.749,
+  "meltingPoint": 115.78,
+  "boilingPoint": 119.93,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6",
+  "electronConfigurationSemantic": "[Ar] 3d10 4s2 4p6",
+  "electronegativity": 3,
+  "shells": [
+    2,
+    8,
+    18,
+    8
+  ],
+  "cpkHex": "5cb8d1",
+  "discoveredBy": "William Ramsay",
+  "yearDiscovered": "1898"
+}

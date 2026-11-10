@@ -1,0 +1,29 @@
+{
+  "id": "La",
+  "atomicNumber": 57,
+  "symbol": "La",
+  "name": "Lanthanum",
+  "atomicMass": 138.905477,
+  "category": "lanthanide",
+  "block": "f",
+  "group": 3,
+  "period": 6,
+  "phase": "Solid",
+  "density": 6.162,
+  "meltingPoint": 1193,
+  "boilingPoint": 3737,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 5d1",
+  "electronConfigurationSemantic": "[Xe] 5d1 6s2",
+  "electronegativity": 1.1,
+  "shells": [
+    2,
+    8,
+    18,
+    18,
+    9,
+    2
+  ],
+  "cpkHex": "70d4ff",
+  "discoveredBy": "Carl Gustaf Mosander",
+  "yearDiscovered": "1839"
+}

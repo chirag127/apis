@@ -1,0 +1,29 @@
+{
+  "id": "Cs",
+  "atomicNumber": 55,
+  "symbol": "Cs",
+  "name": "Cesium",
+  "atomicMass": 132.905451966,
+  "category": "alkali metal",
+  "block": "s",
+  "group": 1,
+  "period": 6,
+  "phase": "Solid",
+  "density": 1.93,
+  "meltingPoint": 301.7,
+  "boilingPoint": 944,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s1",
+  "electronConfigurationSemantic": "[Xe] 6s1",
+  "electronegativity": 0.79,
+  "shells": [
+    2,
+    8,
+    18,
+    18,
+    8,
+    1
+  ],
+  "cpkHex": "57178f",
+  "discoveredBy": "Robert Bunsen",
+  "yearDiscovered": "1860"
+}

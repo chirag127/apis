@@ -1,0 +1,25 @@
+{
+  "id": "Ne",
+  "atomicNumber": 10,
+  "symbol": "Ne",
+  "name": "Neon",
+  "atomicMass": 20.17976,
+  "category": "noble gas",
+  "block": "p",
+  "group": 18,
+  "period": 2,
+  "phase": "Gas",
+  "density": 0.9002,
+  "meltingPoint": 24.56,
+  "boilingPoint": 27.104,
+  "electronConfiguration": "1s2 2s2 2p6",
+  "electronConfigurationSemantic": "[He] 2s2 2p6",
+  "electronegativity": null,
+  "shells": [
+    2,
+    8
+  ],
+  "cpkHex": "b3e3f5",
+  "discoveredBy": "Morris Travers",
+  "yearDiscovered": "1898"
+}

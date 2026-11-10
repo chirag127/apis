@@ -1,0 +1,26 @@
+{
+  "id": "Ar",
+  "atomicNumber": 18,
+  "symbol": "Ar",
+  "name": "Argon",
+  "atomicMass": 39.9481,
+  "category": "noble gas",
+  "block": "p",
+  "group": 18,
+  "period": 3,
+  "phase": "Gas",
+  "density": 1.784,
+  "meltingPoint": 83.81,
+  "boilingPoint": 87.302,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6",
+  "electronConfigurationSemantic": "[Ne] 3s2 3p6",
+  "electronegativity": null,
+  "shells": [
+    2,
+    8,
+    8
+  ],
+  "cpkHex": "80d1e3",
+  "discoveredBy": "Lord Rayleigh",
+  "yearDiscovered": "1894"
+}

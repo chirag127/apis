@@ -1,0 +1,28 @@
+{
+  "id": "Sb",
+  "atomicNumber": 51,
+  "symbol": "Sb",
+  "name": "Antimony",
+  "atomicMass": 121.7601,
+  "category": "metalloid",
+  "block": "p",
+  "group": 15,
+  "period": 5,
+  "phase": "Solid",
+  "density": 6.697,
+  "meltingPoint": 903.78,
+  "boilingPoint": 1908,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p3",
+  "electronConfigurationSemantic": "[Kr] 4d10 5s2 5p3",
+  "electronegativity": 2.05,
+  "shells": [
+    2,
+    8,
+    18,
+    18,
+    5
+  ],
+  "cpkHex": "9e63b5",
+  "discoveredBy": "unknown, before 3000 BC",
+  "yearDiscovered": "Ancient"
+}

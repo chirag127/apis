@@ -1,0 +1,27 @@
+{
+  "id": "As",
+  "atomicNumber": 33,
+  "symbol": "As",
+  "name": "Arsenic",
+  "atomicMass": 74.9215956,
+  "category": "metalloid",
+  "block": "p",
+  "group": 15,
+  "period": 4,
+  "phase": "Solid",
+  "density": 5.727,
+  "meltingPoint": 1090,
+  "boilingPoint": null,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p3",
+  "electronConfigurationSemantic": "[Ar] 3d10 4s2 4p3",
+  "electronegativity": 2.18,
+  "shells": [
+    2,
+    8,
+    18,
+    5
+  ],
+  "cpkHex": "bd80e3",
+  "discoveredBy": "Bronze Age",
+  "yearDiscovered": "Ancient"
+}

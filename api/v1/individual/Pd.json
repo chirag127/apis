@@ -1,0 +1,27 @@
+{
+  "id": "Pd",
+  "atomicNumber": 46,
+  "symbol": "Pd",
+  "name": "Palladium",
+  "atomicMass": 106.421,
+  "category": "transition metal",
+  "block": "d",
+  "group": 10,
+  "period": 5,
+  "phase": "Solid",
+  "density": 12.023,
+  "meltingPoint": 1828.05,
+  "boilingPoint": 3236,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 4d10",
+  "electronConfigurationSemantic": "[Kr] 4d10",
+  "electronegativity": 2.2,
+  "shells": [
+    2,
+    8,
+    18,
+    18
+  ],
+  "cpkHex": "006985",
+  "discoveredBy": "William Hyde Wollaston",
+  "yearDiscovered": "1803"
+}

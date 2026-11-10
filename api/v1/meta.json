@@ -1,15 +1,16 @@
 {
   "status": "healthy",
-  "lastUpdated": "2026-08-25T13:59:37.372Z",
-  "sourceUpdatedAt": "2026-08-25T13:59:37.372Z",
-  "retrievedAt": "2026-08-25T13:59:37.372Z",
-  "recordCount": 1,
+  "lastUpdated": "2026-11-10T17:37:38.263Z",
+  "sourceUpdatedAt": null,
+  "retrievedAt": "2026-11-10T17:37:38.263Z",
+  "recordCount": 118,
   "version": "1.0.0",
   "schemaVersion": "1.0.0",
-  "source": "IUPAC",
-  "license": "CC-BY-4.0",
+  "source": "Bowserinator/Periodic-Table-JSON + PubChem periodic table",
+  "sourceUrl": "https://raw.githubusercontent.com/Bowserinator/Periodic-Table-JSON/master/PeriodicTableJSON.json",
+  "license": "Element facts from IUPAC and NIST; upstream JSON has no licence file",
   "updateCadence": "manual",
-  "nextUpdateDue": "2026-11-23T13:59:37.372Z",
+  "nextUpdateDue": "2027-02-08T17:37:38.263Z",
   "lastFailedAt": null,
   "failureReason": null
 }

@@ -1,0 +1,30 @@
+{
+  "id": "U",
+  "atomicNumber": 92,
+  "symbol": "U",
+  "name": "Uranium",
+  "atomicMass": 238.028913,
+  "category": "actinide",
+  "block": "f",
+  "group": 3,
+  "period": 7,
+  "phase": "Solid",
+  "density": 19.1,
+  "meltingPoint": 1405.3,
+  "boilingPoint": 4404,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f3 6d1",
+  "electronConfigurationSemantic": "[Rn] 5f3 6d1 7s2",
+  "electronegativity": 1.38,
+  "shells": [
+    2,
+    8,
+    18,
+    32,
+    21,
+    9,
+    2
+  ],
+  "cpkHex": "008fff",
+  "discoveredBy": "Martin Heinrich Klaproth",
+  "yearDiscovered": "1789"
+}

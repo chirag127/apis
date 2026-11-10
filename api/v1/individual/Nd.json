@@ -1,0 +1,29 @@
+{
+  "id": "Nd",
+  "atomicNumber": 60,
+  "symbol": "Nd",
+  "name": "Neodymium",
+  "atomicMass": 144.2423,
+  "category": "lanthanide",
+  "block": "f",
+  "group": 3,
+  "period": 6,
+  "phase": "Solid",
+  "density": 7.01,
+  "meltingPoint": 1297,
+  "boilingPoint": 3347,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f4",
+  "electronConfigurationSemantic": "[Xe] 4f4 6s2",
+  "electronegativity": 1.14,
+  "shells": [
+    2,
+    8,
+    18,
+    22,
+    8,
+    2
+  ],
+  "cpkHex": "c7ffc7",
+  "discoveredBy": "Carl Auer von Welsbach",
+  "yearDiscovered": "1885"
+}

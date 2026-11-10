@@ -1,0 +1,28 @@
+{
+  "id": "Ag",
+  "atomicNumber": 47,
+  "symbol": "Ag",
+  "name": "Silver",
+  "atomicMass": 107.86822,
+  "category": "transition metal",
+  "block": "d",
+  "group": 11,
+  "period": 5,
+  "phase": "Solid",
+  "density": 10.49,
+  "meltingPoint": 1234.93,
+  "boilingPoint": 2435,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d10",
+  "electronConfigurationSemantic": "[Kr] 4d10 5s1",
+  "electronegativity": 1.93,
+  "shells": [
+    2,
+    8,
+    18,
+    18,
+    1
+  ],
+  "cpkHex": "c0c0c0",
+  "discoveredBy": "unknown, before 5000 BC",
+  "yearDiscovered": "Ancient"
+}

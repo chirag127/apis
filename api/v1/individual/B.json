@@ -1,0 +1,25 @@
+{
+  "id": "B",
+  "atomicNumber": 5,
+  "symbol": "B",
+  "name": "Boron",
+  "atomicMass": 10.81,
+  "category": "metalloid",
+  "block": "p",
+  "group": 13,
+  "period": 2,
+  "phase": "Solid",
+  "density": 2.08,
+  "meltingPoint": 2349,
+  "boilingPoint": 4200,
+  "electronConfiguration": "1s2 2s2 2p1",
+  "electronConfigurationSemantic": "[He] 2s2 2p1",
+  "electronegativity": 2.04,
+  "shells": [
+    2,
+    3
+  ],
+  "cpkHex": "ffb5b5",
+  "discoveredBy": "Joseph Louis Gay-Lussac",
+  "yearDiscovered": "1808"
+}

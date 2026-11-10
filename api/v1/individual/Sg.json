@@ -1,0 +1,30 @@
+{
+  "id": "Sg",
+  "atomicNumber": 106,
+  "symbol": "Sg",
+  "name": "Seaborgium",
+  "atomicMass": 269,
+  "category": "transition metal",
+  "block": "d",
+  "group": 6,
+  "period": 7,
+  "phase": "Solid",
+  "density": 35,
+  "meltingPoint": null,
+  "boilingPoint": null,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d4",
+  "electronConfigurationSemantic": "*[Rn] 5f14 6d4 7s2",
+  "electronegativity": null,
+  "shells": [
+    2,
+    8,
+    18,
+    32,
+    32,
+    12,
+    2
+  ],
+  "cpkHex": "d90045",
+  "discoveredBy": "Lawrence Berkeley National Laboratory",
+  "yearDiscovered": "1974"
+}

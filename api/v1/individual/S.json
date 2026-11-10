@@ -1,0 +1,26 @@
+{
+  "id": "S",
+  "atomicNumber": 16,
+  "symbol": "S",
+  "name": "Sulfur",
+  "atomicMass": 32.06,
+  "category": "polyatomic nonmetal",
+  "block": "p",
+  "group": 16,
+  "period": 3,
+  "phase": "Solid",
+  "density": 2.07,
+  "meltingPoint": 388.36,
+  "boilingPoint": 717.8,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p4",
+  "electronConfigurationSemantic": "[Ne] 3s2 3p4",
+  "electronegativity": 2.58,
+  "shells": [
+    2,
+    8,
+    6
+  ],
+  "cpkHex": "ffff30",
+  "discoveredBy": "Ancient china",
+  "yearDiscovered": "Ancient"
+}

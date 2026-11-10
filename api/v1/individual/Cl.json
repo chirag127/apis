@@ -1,0 +1,26 @@
+{
+  "id": "Cl",
+  "atomicNumber": 17,
+  "symbol": "Cl",
+  "name": "Chlorine",
+  "atomicMass": 35.45,
+  "category": "diatomic nonmetal",
+  "block": "p",
+  "group": 17,
+  "period": 3,
+  "phase": "Gas",
+  "density": 3.2,
+  "meltingPoint": 171.6,
+  "boilingPoint": 239.11,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p5",
+  "electronConfigurationSemantic": "[Ne] 3s2 3p5",
+  "electronegativity": 3.16,
+  "shells": [
+    2,
+    8,
+    7
+  ],
+  "cpkHex": "1ff01f",
+  "discoveredBy": "Carl Wilhelm Scheele",
+  "yearDiscovered": "1774"
+}

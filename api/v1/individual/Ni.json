@@ -1,0 +1,27 @@
+{
+  "id": "Ni",
+  "atomicNumber": 28,
+  "symbol": "Ni",
+  "name": "Nickel",
+  "atomicMass": 58.69344,
+  "category": "transition metal",
+  "block": "d",
+  "group": 10,
+  "period": 4,
+  "phase": "Solid",
+  "density": 8.908,
+  "meltingPoint": 1728,
+  "boilingPoint": 3003,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d8",
+  "electronConfigurationSemantic": "[Ar] 3d8 4s2",
+  "electronegativity": 1.91,
+  "shells": [
+    2,
+    8,
+    16,
+    2
+  ],
+  "cpkHex": "50d050",
+  "discoveredBy": "Axel Fredrik Cronstedt",
+  "yearDiscovered": "1751"
+}

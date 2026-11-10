@@ -1,0 +1,29 @@
+{
+  "id": "Hg",
+  "atomicNumber": 80,
+  "symbol": "Hg",
+  "name": "Mercury",
+  "atomicMass": 200.5923,
+  "category": "transition metal",
+  "block": "d",
+  "group": 12,
+  "period": 6,
+  "phase": "Liquid",
+  "density": 13.534,
+  "meltingPoint": 234.321,
+  "boilingPoint": 629.88,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10",
+  "electronConfigurationSemantic": "[Xe] 4f14 5d10 6s2",
+  "electronegativity": 2,
+  "shells": [
+    2,
+    8,
+    18,
+    32,
+    18,
+    2
+  ],
+  "cpkHex": "b8b8d0",
+  "discoveredBy": "unknown, before 2000 BCE",
+  "yearDiscovered": "Ancient"
+}

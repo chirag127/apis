@@ -1,0 +1,28 @@
+{
+  "id": "Te",
+  "atomicNumber": 52,
+  "symbol": "Te",
+  "name": "Tellurium",
+  "atomicMass": 127.603,
+  "category": "metalloid",
+  "block": "p",
+  "group": 16,
+  "period": 5,
+  "phase": "Solid",
+  "density": 6.24,
+  "meltingPoint": 722.66,
+  "boilingPoint": 1261,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p4",
+  "electronConfigurationSemantic": "[Kr] 4d10 5s2 5p4",
+  "electronegativity": 2.1,
+  "shells": [
+    2,
+    8,
+    18,
+    18,
+    6
+  ],
+  "cpkHex": "d47a00",
+  "discoveredBy": "Franz-Joseph Müller von Reichenstein",
+  "yearDiscovered": "1782"
+}

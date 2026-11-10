@@ -1,0 +1,29 @@
+{
+  "id": "Au",
+  "atomicNumber": 79,
+  "symbol": "Au",
+  "name": "Gold",
+  "atomicMass": 196.9665695,
+  "category": "transition metal",
+  "block": "d",
+  "group": 11,
+  "period": 6,
+  "phase": "Solid",
+  "density": 19.3,
+  "meltingPoint": 1337.33,
+  "boilingPoint": 3243,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s1 4f14 5d10",
+  "electronConfigurationSemantic": "[Xe] 4f14 5d10 6s1",
+  "electronegativity": 2.54,
+  "shells": [
+    2,
+    8,
+    18,
+    32,
+    18,
+    1
+  ],
+  "cpkHex": "ffd123",
+  "discoveredBy": "Middle East",
+  "yearDiscovered": "Ancient"
+}

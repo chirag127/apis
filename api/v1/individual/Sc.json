@@ -1,0 +1,27 @@
+{
+  "id": "Sc",
+  "atomicNumber": 21,
+  "symbol": "Sc",
+  "name": "Scandium",
+  "atomicMass": 44.9559085,
+  "category": "transition metal",
+  "block": "d",
+  "group": 3,
+  "period": 4,
+  "phase": "Solid",
+  "density": 2.985,
+  "meltingPoint": 1814,
+  "boilingPoint": 3109,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d1",
+  "electronConfigurationSemantic": "[Ar] 3d1 4s2",
+  "electronegativity": 1.36,
+  "shells": [
+    2,
+    8,
+    9,
+    2
+  ],
+  "cpkHex": "e6e6e6",
+  "discoveredBy": "Lars Fredrik Nilson",
+  "yearDiscovered": "1879"
+}

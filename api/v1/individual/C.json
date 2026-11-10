@@ -1,0 +1,25 @@
+{
+  "id": "C",
+  "atomicNumber": 6,
+  "symbol": "C",
+  "name": "Carbon",
+  "atomicMass": 12.011,
+  "category": "polyatomic nonmetal",
+  "block": "p",
+  "group": 14,
+  "period": 2,
+  "phase": "Solid",
+  "density": 1.821,
+  "meltingPoint": 4600,
+  "boilingPoint": null,
+  "electronConfiguration": "1s2 2s2 2p2",
+  "electronConfigurationSemantic": "[He] 2s2 2p2",
+  "electronegativity": 2.55,
+  "shells": [
+    2,
+    4
+  ],
+  "cpkHex": "909090",
+  "discoveredBy": "Ancient Egypt",
+  "yearDiscovered": "Ancient"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Ti",
+  "atomicNumber": 22,
+  "symbol": "Ti",
+  "name": "Titanium",
+  "atomicMass": 47.8671,
+  "category": "transition metal",
+  "block": "d",
+  "group": 4,
+  "period": 4,
+  "phase": "Solid",
+  "density": 4.506,
+  "meltingPoint": 1941,
+  "boilingPoint": 3560,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d2",
+  "electronConfigurationSemantic": "[Ar] 3d2 4s2",
+  "electronegativity": 1.54,
+  "shells": [
+    2,
+    8,
+    10,
+    2
+  ],
+  "cpkHex": "bfc2c7",
+  "discoveredBy": "William Gregor",
+  "yearDiscovered": "1791"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Dy",
+  "atomicNumber": 66,
+  "symbol": "Dy",
+  "name": "Dysprosium",
+  "atomicMass": 162.5001,
+  "category": "lanthanide",
+  "block": "f",
+  "group": 3,
+  "period": 6,
+  "phase": "Solid",
+  "density": 8.54,
+  "meltingPoint": 1680,
+  "boilingPoint": 2840,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f10",
+  "electronConfigurationSemantic": "[Xe] 4f10 6s2",
+  "electronegativity": 1.22,
+  "shells": [
+    2,
+    8,
+    18,
+    28,
+    8,
+    2
+  ],
+  "cpkHex": "1fffc7",
+  "discoveredBy": "Lecoq de Boisbaudran",
+  "yearDiscovered": "1886"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Ca",
+  "atomicNumber": 20,
+  "symbol": "Ca",
+  "name": "Calcium",
+  "atomicMass": 40.0784,
+  "category": "alkaline earth metal",
+  "block": "s",
+  "group": 2,
+  "period": 4,
+  "phase": "Solid",
+  "density": 1.55,
+  "meltingPoint": 1115,
+  "boilingPoint": 1757,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2",
+  "electronConfigurationSemantic": "[Ar] 4s2",
+  "electronegativity": 1,
+  "shells": [
+    2,
+    8,
+    8,
+    2
+  ],
+  "cpkHex": "3dff00",
+  "discoveredBy": "Humphry Davy",
+  "yearDiscovered": "Ancient"
+}

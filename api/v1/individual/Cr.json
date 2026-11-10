@@ -1,0 +1,27 @@
+{
+  "id": "Cr",
+  "atomicNumber": 24,
+  "symbol": "Cr",
+  "name": "Chromium",
+  "atomicMass": 51.99616,
+  "category": "transition metal",
+  "block": "d",
+  "group": 6,
+  "period": 4,
+  "phase": "Solid",
+  "density": 7.19,
+  "meltingPoint": 2180,
+  "boilingPoint": 2944,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s1 3d5",
+  "electronConfigurationSemantic": "[Ar] 3d5 4s1",
+  "electronegativity": 1.66,
+  "shells": [
+    2,
+    8,
+    13,
+    1
+  ],
+  "cpkHex": "8a99c7",
+  "discoveredBy": "Louis Nicolas Vauquelin",
+  "yearDiscovered": "1797"
+}
