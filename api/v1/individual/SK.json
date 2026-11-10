@@ -1,0 +1,14 @@
+{
+  "id": "SK",
+  "iso2": "SK",
+  "name": "Slovakia",
+  "callingCode": "+421",
+  "callingCodeRoot": "421",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "221234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

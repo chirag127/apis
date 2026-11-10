@@ -1,0 +1,14 @@
+{
+  "id": "001-888",
+  "iso2": "001",
+  "name": "Non-geographical entity",
+  "callingCode": "+888",
+  "callingCodeRoot": "888",
+  "internationalPrefix": null,
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "12345678901",
+  "exampleNumberKind": "uan",
+  "mobileNumberPortableRegion": false
+}

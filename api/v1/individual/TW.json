@@ -1,0 +1,14 @@
+{
+  "id": "TW",
+  "iso2": "TW",
+  "name": "Taiwan",
+  "callingCode": "+886",
+  "callingCodeRoot": "886",
+  "internationalPrefix": "0(?:0[25-79]|19)",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "221234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "PG",
+  "iso2": "PG",
+  "name": "Papua New Guinea",
+  "callingCode": "+675",
+  "callingCodeRoot": "675",
+  "internationalPrefix": "00|140[1-3]",
+  "preferredInternationalPrefix": "00",
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "3123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

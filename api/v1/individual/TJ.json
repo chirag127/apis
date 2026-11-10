@@ -1,0 +1,14 @@
+{
+  "id": "TJ",
+  "iso2": "TJ",
+  "name": "Tajikistan",
+  "callingCode": "+992",
+  "callingCodeRoot": "992",
+  "internationalPrefix": "810",
+  "preferredInternationalPrefix": "8~10",
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "372123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

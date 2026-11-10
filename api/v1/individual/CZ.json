@@ -1,0 +1,14 @@
+{
+  "id": "CZ",
+  "iso2": "CZ",
+  "name": "Czechia",
+  "callingCode": "+420",
+  "callingCodeRoot": "420",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "212345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

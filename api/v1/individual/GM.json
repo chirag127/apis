@@ -1,0 +1,14 @@
+{
+  "id": "GM",
+  "iso2": "GM",
+  "name": "Gambia",
+  "callingCode": "+220",
+  "callingCodeRoot": "220",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "5661234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "CA",
+  "iso2": "CA",
+  "name": "Canada",
+  "callingCode": "+1",
+  "callingCodeRoot": "1",
+  "internationalPrefix": "011",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "1",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "5062345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

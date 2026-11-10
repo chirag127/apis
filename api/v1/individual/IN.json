@@ -1,0 +1,14 @@
+{
+  "id": "IN",
+  "iso2": "IN",
+  "name": "India",
+  "callingCode": "+91",
+  "callingCodeRoot": "91",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "7410410123",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

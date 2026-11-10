@@ -1,0 +1,14 @@
+{
+  "id": "CK",
+  "iso2": "CK",
+  "name": "Cook Islands",
+  "callingCode": "+682",
+  "callingCodeRoot": "682",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "21234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

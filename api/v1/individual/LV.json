@@ -1,0 +1,14 @@
+{
+  "id": "LV",
+  "iso2": "LV",
+  "name": "Latvia",
+  "callingCode": "+371",
+  "callingCodeRoot": "371",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "63123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ID",
+  "iso2": "ID",
+  "name": "Indonesia",
+  "callingCode": "+62",
+  "callingCodeRoot": "62",
+  "internationalPrefix": "00[89]",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "218350123",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

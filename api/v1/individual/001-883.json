@@ -1,0 +1,14 @@
+{
+  "id": "001-883",
+  "iso2": "001",
+  "name": "Non-geographical entity",
+  "callingCode": "+883",
+  "callingCodeRoot": "883",
+  "internationalPrefix": null,
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "510012345",
+  "exampleNumberKind": "voip",
+  "mobileNumberPortableRegion": false
+}

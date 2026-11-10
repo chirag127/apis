@@ -1,0 +1,14 @@
+{
+  "id": "MW",
+  "iso2": "MW",
+  "name": "Malawi",
+  "callingCode": "+265",
+  "callingCodeRoot": "265",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "1234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

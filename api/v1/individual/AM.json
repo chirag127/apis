@@ -1,0 +1,14 @@
+{
+  "id": "AM",
+  "iso2": "AM",
+  "name": "Armenia",
+  "callingCode": "+374",
+  "callingCodeRoot": "374",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "10123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

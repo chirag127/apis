@@ -1,0 +1,14 @@
+{
+  "id": "KP",
+  "iso2": "KP",
+  "name": "North Korea",
+  "callingCode": "+850",
+  "callingCodeRoot": "850",
+  "internationalPrefix": "00|99",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "21234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

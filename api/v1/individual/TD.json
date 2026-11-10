@@ -1,0 +1,14 @@
+{
+  "id": "TD",
+  "iso2": "TD",
+  "name": "Chad",
+  "callingCode": "+235",
+  "callingCodeRoot": "235",
+  "internationalPrefix": "00|16",
+  "preferredInternationalPrefix": "00",
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "22501234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

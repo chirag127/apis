@@ -1,0 +1,14 @@
+{
+  "id": "OM",
+  "iso2": "OM",
+  "name": "Oman",
+  "callingCode": "+968",
+  "callingCodeRoot": "968",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "23123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

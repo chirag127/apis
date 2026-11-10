@@ -1,0 +1,14 @@
+{
+  "id": "QA",
+  "iso2": "QA",
+  "name": "Qatar",
+  "callingCode": "+974",
+  "callingCodeRoot": "974",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "44123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

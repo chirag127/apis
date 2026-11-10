@@ -1,0 +1,14 @@
+{
+  "id": "KY",
+  "iso2": "KY",
+  "name": "Cayman Islands",
+  "callingCode": "+1",
+  "callingCodeRoot": "1",
+  "internationalPrefix": "011",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "1",
+  "nationalPrefixForParsing": "([2-9]\\d{6})$|1",
+  "exampleNumber": "3452221234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

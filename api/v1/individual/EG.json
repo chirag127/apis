@@ -1,0 +1,14 @@
+{
+  "id": "EG",
+  "iso2": "EG",
+  "name": "Egypt",
+  "callingCode": "+20",
+  "callingCodeRoot": "20",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "234567890",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

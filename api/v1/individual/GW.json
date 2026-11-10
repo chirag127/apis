@@ -1,0 +1,14 @@
+{
+  "id": "GW",
+  "iso2": "GW",
+  "name": "Guinea-Bissau",
+  "callingCode": "+245",
+  "callingCodeRoot": "245",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "443201234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

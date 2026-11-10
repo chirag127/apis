@@ -1,0 +1,14 @@
+{
+  "id": "PR",
+  "iso2": "PR",
+  "name": "Puerto Rico",
+  "callingCode": "+1",
+  "callingCodeRoot": "1",
+  "internationalPrefix": "011",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "1",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "7872345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

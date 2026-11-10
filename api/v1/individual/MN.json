@@ -1,0 +1,14 @@
+{
+  "id": "MN",
+  "iso2": "MN",
+  "name": "Mongolia",
+  "callingCode": "+976",
+  "callingCodeRoot": "976",
+  "internationalPrefix": "001",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "53123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

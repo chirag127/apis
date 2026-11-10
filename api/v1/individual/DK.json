@@ -1,0 +1,14 @@
+{
+  "id": "DK",
+  "iso2": "DK",
+  "name": "Denmark",
+  "callingCode": "+45",
+  "callingCodeRoot": "45",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "32123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

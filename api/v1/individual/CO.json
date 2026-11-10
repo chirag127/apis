@@ -1,0 +1,14 @@
+{
+  "id": "CO",
+  "iso2": "CO",
+  "name": "Colombia",
+  "callingCode": "+57",
+  "callingCodeRoot": "57",
+  "internationalPrefix": "00(?:4(?:[14]4|56)|[579])",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": "0([3579]|4(?:[14]4|56))?",
+  "exampleNumber": "6012345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

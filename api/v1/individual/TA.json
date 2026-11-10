@@ -1,0 +1,14 @@
+{
+  "id": "TA",
+  "iso2": "TA",
+  "name": "Tristan da Cunha",
+  "callingCode": "+290",
+  "callingCodeRoot": "290",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "8999",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

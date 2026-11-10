@@ -1,0 +1,14 @@
+{
+  "id": "GG",
+  "iso2": "GG",
+  "name": "Guernsey",
+  "callingCode": "+44",
+  "callingCodeRoot": "44",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": "([25-9]\\d{5})$|0|180020",
+  "exampleNumber": "1481256789",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

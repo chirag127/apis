@@ -1,0 +1,14 @@
+{
+  "id": "ZW",
+  "iso2": "ZW",
+  "name": "Zimbabwe",
+  "callingCode": "+263",
+  "callingCodeRoot": "263",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "202012345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

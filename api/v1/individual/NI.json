@@ -1,0 +1,14 @@
+{
+  "id": "NI",
+  "iso2": "NI",
+  "name": "Nicaragua",
+  "callingCode": "+505",
+  "callingCodeRoot": "505",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "21234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

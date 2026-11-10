@@ -1,0 +1,14 @@
+{
+  "id": "GB",
+  "iso2": "GB",
+  "name": "United Kingdom",
+  "callingCode": "+44",
+  "callingCodeRoot": "44",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": "0|180020",
+  "exampleNumber": "1212345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "SO",
+  "iso2": "SO",
+  "name": "Somalia",
+  "callingCode": "+252",
+  "callingCodeRoot": "252",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "4012345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

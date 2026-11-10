@@ -1,0 +1,14 @@
+{
+  "id": "EH",
+  "iso2": "EH",
+  "name": "Western Sahara",
+  "callingCode": "+212",
+  "callingCodeRoot": "212",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "528812345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

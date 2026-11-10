@@ -1,0 +1,14 @@
+{
+  "id": "MG",
+  "iso2": "MG",
+  "name": "Madagascar",
+  "callingCode": "+261",
+  "callingCodeRoot": "261",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": "([24-9]\\d{6})$|0",
+  "exampleNumber": "202123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "MK",
+  "iso2": "MK",
+  "name": "North Macedonia",
+  "callingCode": "+389",
+  "callingCodeRoot": "389",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "22012345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

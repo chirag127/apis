@@ -1,0 +1,14 @@
+{
+  "id": "TL",
+  "iso2": "TL",
+  "name": "Timor-Leste",
+  "callingCode": "+670",
+  "callingCodeRoot": "670",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "2112345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

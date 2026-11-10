@@ -1,0 +1,14 @@
+{
+  "id": "RS",
+  "iso2": "RS",
+  "name": "Serbia",
+  "callingCode": "+381",
+  "callingCodeRoot": "381",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "10234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

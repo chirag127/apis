@@ -1,0 +1,14 @@
+{
+  "id": "PF",
+  "iso2": "PF",
+  "name": "French Polynesia",
+  "callingCode": "+689",
+  "callingCodeRoot": "689",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "40412345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "MQ",
+  "iso2": "MQ",
+  "name": "Martinique",
+  "callingCode": "+596",
+  "callingCodeRoot": "596",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "596301234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "BD",
+  "iso2": "BD",
+  "name": "Bangladesh",
+  "callingCode": "+880",
+  "callingCodeRoot": "880",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "27111234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

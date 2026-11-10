@@ -1,0 +1,14 @@
+{
+  "id": "MF",
+  "iso2": "MF",
+  "name": "St. Martin",
+  "callingCode": "+590",
+  "callingCodeRoot": "590",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "590271234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "AI",
+  "iso2": "AI",
+  "name": "Anguilla",
+  "callingCode": "+1",
+  "callingCodeRoot": "1",
+  "internationalPrefix": "011",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "1",
+  "nationalPrefixForParsing": "([2457]\\d{6})$|1",
+  "exampleNumber": "2644612345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

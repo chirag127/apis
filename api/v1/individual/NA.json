@@ -1,0 +1,14 @@
+{
+  "id": "NA",
+  "iso2": "NA",
+  "name": "Namibia",
+  "callingCode": "+264",
+  "callingCodeRoot": "264",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "61221234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

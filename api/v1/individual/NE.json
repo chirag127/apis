@@ -1,0 +1,14 @@
+{
+  "id": "NE",
+  "iso2": "NE",
+  "name": "Niger",
+  "callingCode": "+227",
+  "callingCodeRoot": "227",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "20201234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

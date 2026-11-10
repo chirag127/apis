@@ -1,0 +1,14 @@
+{
+  "id": "CW",
+  "iso2": "CW",
+  "name": "Curaçao",
+  "callingCode": "+599",
+  "callingCodeRoot": "599",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "94351234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

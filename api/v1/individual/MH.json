@@ -1,0 +1,14 @@
+{
+  "id": "MH",
+  "iso2": "MH",
+  "name": "Marshall Islands",
+  "callingCode": "+692",
+  "callingCodeRoot": "692",
+  "internationalPrefix": "011",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "1",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "2471234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

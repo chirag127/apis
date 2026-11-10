@@ -1,0 +1,14 @@
+{
+  "id": "LU",
+  "iso2": "LU",
+  "name": "Luxembourg",
+  "callingCode": "+352",
+  "callingCodeRoot": "352",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": "(15(?:0[06]|1[12]|[35]5|4[04]|6[26]|77|88|99)\\d)",
+  "exampleNumber": "27123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

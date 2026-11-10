@@ -1,0 +1,14 @@
+{
+  "id": "SV",
+  "iso2": "SV",
+  "name": "El Salvador",
+  "callingCode": "+503",
+  "callingCodeRoot": "503",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "21234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

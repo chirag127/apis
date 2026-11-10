@@ -1,0 +1,14 @@
+{
+  "id": "AC",
+  "iso2": "AC",
+  "name": "Ascension Island",
+  "callingCode": "+247",
+  "callingCodeRoot": "247",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "62889",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

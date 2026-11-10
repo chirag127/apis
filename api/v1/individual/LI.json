@@ -1,0 +1,14 @@
+{
+  "id": "LI",
+  "iso2": "LI",
+  "name": "Liechtenstein",
+  "callingCode": "+423",
+  "callingCodeRoot": "423",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": "(1001)|0",
+  "exampleNumber": "2345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

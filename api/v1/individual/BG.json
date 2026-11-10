@@ -1,0 +1,14 @@
+{
+  "id": "BG",
+  "iso2": "BG",
+  "name": "Bulgaria",
+  "callingCode": "+359",
+  "callingCodeRoot": "359",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "2123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

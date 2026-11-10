@@ -1,0 +1,14 @@
+{
+  "id": "PT",
+  "iso2": "PT",
+  "name": "Portugal",
+  "callingCode": "+351",
+  "callingCodeRoot": "351",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "212345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "VA",
+  "iso2": "VA",
+  "name": "Vatican City",
+  "callingCode": "+39",
+  "callingCodeRoot": "39",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "0669812345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

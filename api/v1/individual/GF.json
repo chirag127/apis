@@ -1,0 +1,14 @@
+{
+  "id": "GF",
+  "iso2": "GF",
+  "name": "French Guiana",
+  "callingCode": "+594",
+  "callingCodeRoot": "594",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "594101234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

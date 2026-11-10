@@ -1,0 +1,14 @@
+{
+  "id": "FJ",
+  "iso2": "FJ",
+  "name": "Fiji",
+  "callingCode": "+679",
+  "callingCodeRoot": "679",
+  "internationalPrefix": "0(?:0|52)",
+  "preferredInternationalPrefix": "00",
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "3212345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

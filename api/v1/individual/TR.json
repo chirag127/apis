@@ -1,0 +1,14 @@
+{
+  "id": "TR",
+  "iso2": "TR",
+  "name": "Türkiye",
+  "callingCode": "+90",
+  "callingCodeRoot": "90",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "2123456789",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

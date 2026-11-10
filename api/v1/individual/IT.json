@@ -1,0 +1,14 @@
+{
+  "id": "IT",
+  "iso2": "IT",
+  "name": "Italy",
+  "callingCode": "+39",
+  "callingCodeRoot": "39",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "0212345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "SM",
+  "iso2": "SM",
+  "name": "San Marino",
+  "callingCode": "+378",
+  "callingCodeRoot": "378",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": "([89]\\d{5})$",
+  "exampleNumber": "0549886377",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

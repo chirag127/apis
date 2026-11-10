@@ -1,0 +1,14 @@
+{
+  "id": "ST",
+  "iso2": "ST",
+  "name": "São Tomé & Príncipe",
+  "callingCode": "+239",
+  "callingCodeRoot": "239",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "2221234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

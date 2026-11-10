@@ -1,0 +1,14 @@
+{
+  "id": "MX",
+  "iso2": "MX",
+  "name": "Mexico",
+  "callingCode": "+52",
+  "callingCodeRoot": "52",
+  "internationalPrefix": "0[09]",
+  "preferredInternationalPrefix": "00",
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "2001234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

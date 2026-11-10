@@ -1,0 +1,14 @@
+{
+  "id": "SG",
+  "iso2": "SG",
+  "name": "Singapore",
+  "callingCode": "+65",
+  "callingCodeRoot": "65",
+  "internationalPrefix": "0[0-3]\\d",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "61234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "BF",
+  "iso2": "BF",
+  "name": "Burkina Faso",
+  "callingCode": "+226",
+  "callingCodeRoot": "226",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "20491234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

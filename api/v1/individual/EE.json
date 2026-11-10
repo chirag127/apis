@@ -1,0 +1,14 @@
+{
+  "id": "EE",
+  "iso2": "EE",
+  "name": "Estonia",
+  "callingCode": "+372",
+  "callingCodeRoot": "372",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "3212345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

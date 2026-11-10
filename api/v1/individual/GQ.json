@@ -1,0 +1,14 @@
+{
+  "id": "GQ",
+  "iso2": "GQ",
+  "name": "Equatorial Guinea",
+  "callingCode": "+240",
+  "callingCodeRoot": "240",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "333091234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

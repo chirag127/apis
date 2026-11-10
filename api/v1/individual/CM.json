@@ -1,0 +1,14 @@
+{
+  "id": "CM",
+  "iso2": "CM",
+  "name": "Cameroon",
+  "callingCode": "+237",
+  "callingCodeRoot": "237",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "222123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

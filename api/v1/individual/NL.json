@@ -1,0 +1,14 @@
+{
+  "id": "NL",
+  "iso2": "NL",
+  "name": "Netherlands",
+  "callingCode": "+31",
+  "callingCodeRoot": "31",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "101234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

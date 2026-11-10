@@ -1,0 +1,14 @@
+{
+  "id": "VN",
+  "iso2": "VN",
+  "name": "Vietnam",
+  "callingCode": "+84",
+  "callingCodeRoot": "84",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "2101234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

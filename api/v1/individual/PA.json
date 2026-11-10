@@ -1,0 +1,14 @@
+{
+  "id": "PA",
+  "iso2": "PA",
+  "name": "Panama",
+  "callingCode": "+507",
+  "callingCodeRoot": "507",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "2001234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

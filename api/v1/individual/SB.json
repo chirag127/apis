@@ -1,0 +1,14 @@
+{
+  "id": "SB",
+  "iso2": "SB",
+  "name": "Solomon Islands",
+  "callingCode": "+677",
+  "callingCodeRoot": "677",
+  "internationalPrefix": "0[01]",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "40123",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

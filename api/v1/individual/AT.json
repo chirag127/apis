@@ -1,0 +1,14 @@
+{
+  "id": "AT",
+  "iso2": "AT",
+  "name": "Austria",
+  "callingCode": "+43",
+  "callingCodeRoot": "43",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "1234567890",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

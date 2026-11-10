@@ -1,0 +1,14 @@
+{
+  "id": "MT",
+  "iso2": "MT",
+  "name": "Malta",
+  "callingCode": "+356",
+  "callingCodeRoot": "356",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "21001234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

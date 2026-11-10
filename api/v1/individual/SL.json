@@ -1,0 +1,14 @@
+{
+  "id": "SL",
+  "iso2": "SL",
+  "name": "Sierra Leone",
+  "callingCode": "+232",
+  "callingCodeRoot": "232",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "22221234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

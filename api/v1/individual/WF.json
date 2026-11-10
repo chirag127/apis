@@ -1,0 +1,14 @@
+{
+  "id": "WF",
+  "iso2": "WF",
+  "name": "Wallis & Futuna",
+  "callingCode": "+681",
+  "callingCodeRoot": "681",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "721234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

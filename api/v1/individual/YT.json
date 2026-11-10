@@ -1,0 +1,14 @@
+{
+  "id": "YT",
+  "iso2": "YT",
+  "name": "Mayotte",
+  "callingCode": "+262",
+  "callingCodeRoot": "262",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "269601234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

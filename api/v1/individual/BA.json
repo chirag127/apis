@@ -1,0 +1,14 @@
+{
+  "id": "BA",
+  "iso2": "BA",
+  "name": "Bosnia & Herzegovina",
+  "callingCode": "+387",
+  "callingCodeRoot": "387",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "30212345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

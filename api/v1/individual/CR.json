@@ -1,0 +1,14 @@
+{
+  "id": "CR",
+  "iso2": "CR",
+  "name": "Costa Rica",
+  "callingCode": "+506",
+  "callingCodeRoot": "506",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": "(19(?:0[0-2468]|1[09]|20|66|77|99))",
+  "exampleNumber": "22123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

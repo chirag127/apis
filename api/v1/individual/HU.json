@@ -1,0 +1,14 @@
+{
+  "id": "HU",
+  "iso2": "HU",
+  "name": "Hungary",
+  "callingCode": "+36",
+  "callingCodeRoot": "36",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "06",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "12345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

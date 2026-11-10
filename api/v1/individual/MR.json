@@ -1,0 +1,14 @@
+{
+  "id": "MR",
+  "iso2": "MR",
+  "name": "Mauritania",
+  "callingCode": "+222",
+  "callingCodeRoot": "222",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "35123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

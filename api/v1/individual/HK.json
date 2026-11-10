@@ -1,0 +1,14 @@
+{
+  "id": "HK",
+  "iso2": "HK",
+  "name": "Hong Kong SAR China",
+  "callingCode": "+852",
+  "callingCodeRoot": "852",
+  "internationalPrefix": "00(?:30|5[09]|[126-9]?)",
+  "preferredInternationalPrefix": "00",
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "21234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

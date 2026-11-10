@@ -1,0 +1,14 @@
+{
+  "id": "SN",
+  "iso2": "SN",
+  "name": "Senegal",
+  "callingCode": "+221",
+  "callingCodeRoot": "221",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "301012345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "TO",
+  "iso2": "TO",
+  "name": "Tonga",
+  "callingCode": "+676",
+  "callingCodeRoot": "676",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "20123",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "PS",
+  "iso2": "PS",
+  "name": "Palestinian Territories",
+  "callingCode": "+970",
+  "callingCodeRoot": "970",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "22234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

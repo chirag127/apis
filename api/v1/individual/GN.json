@@ -1,0 +1,14 @@
+{
+  "id": "GN",
+  "iso2": "GN",
+  "name": "Guinea",
+  "callingCode": "+224",
+  "callingCodeRoot": "224",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "30241234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "KH",
+  "iso2": "KH",
+  "name": "Cambodia",
+  "callingCode": "+855",
+  "callingCodeRoot": "855",
+  "internationalPrefix": "00[14-9]",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "23756789",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "SY",
+  "iso2": "SY",
+  "name": "Syria",
+  "callingCode": "+963",
+  "callingCodeRoot": "963",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "112345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

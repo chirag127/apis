@@ -1,0 +1,14 @@
+{
+  "id": "UA",
+  "iso2": "UA",
+  "name": "Ukraine",
+  "callingCode": "+380",
+  "callingCodeRoot": "380",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": "0~0",
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "311234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

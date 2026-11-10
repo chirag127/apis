@@ -1,0 +1,14 @@
+{
+  "id": "BO",
+  "iso2": "BO",
+  "name": "Bolivia",
+  "callingCode": "+591",
+  "callingCodeRoot": "591",
+  "internationalPrefix": "00(?:1\\d)?",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": "0(1\\d)?",
+  "exampleNumber": "22123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

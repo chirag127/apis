@@ -1,0 +1,14 @@
+{
+  "id": "MA",
+  "iso2": "MA",
+  "name": "Morocco",
+  "callingCode": "+212",
+  "callingCodeRoot": "212",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "520123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

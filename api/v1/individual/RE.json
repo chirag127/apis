@@ -1,0 +1,14 @@
+{
+  "id": "RE",
+  "iso2": "RE",
+  "name": "Réunion",
+  "callingCode": "+262",
+  "callingCodeRoot": "262",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "262161234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

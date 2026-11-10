@@ -1,0 +1,14 @@
+{
+  "id": "EC",
+  "iso2": "EC",
+  "name": "Ecuador",
+  "callingCode": "+593",
+  "callingCodeRoot": "593",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "22123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

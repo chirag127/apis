@@ -1,0 +1,14 @@
+{
+  "id": "001-808",
+  "iso2": "001",
+  "name": "Non-geographical entity",
+  "callingCode": "+808",
+  "callingCodeRoot": "808",
+  "internationalPrefix": null,
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "12345678",
+  "exampleNumberKind": "sharedCost",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ZA",
+  "iso2": "ZA",
+  "name": "South Africa",
+  "callingCode": "+27",
+  "callingCodeRoot": "27",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "101234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

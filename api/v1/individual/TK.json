@@ -1,0 +1,14 @@
+{
+  "id": "TK",
+  "iso2": "TK",
+  "name": "Tokelau",
+  "callingCode": "+690",
+  "callingCodeRoot": "690",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "3101",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

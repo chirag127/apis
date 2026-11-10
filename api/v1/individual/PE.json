@@ -1,0 +1,14 @@
+{
+  "id": "PE",
+  "iso2": "PE",
+  "name": "Peru",
+  "callingCode": "+51",
+  "callingCodeRoot": "51",
+  "internationalPrefix": "00|19(?:1[124]|77|90)00",
+  "preferredInternationalPrefix": "00",
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "11234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "NR",
+  "iso2": "NR",
+  "name": "Nauru",
+  "callingCode": "+674",
+  "callingCodeRoot": "674",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "4441234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

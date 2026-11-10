@@ -1,0 +1,14 @@
+{
+  "id": "WS",
+  "iso2": "WS",
+  "name": "Samoa",
+  "callingCode": "+685",
+  "callingCodeRoot": "685",
+  "internationalPrefix": "0",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "22123",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

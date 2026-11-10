@@ -1,0 +1,14 @@
+{
+  "id": "NP",
+  "iso2": "NP",
+  "name": "Nepal",
+  "callingCode": "+977",
+  "callingCodeRoot": "977",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "14567890",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

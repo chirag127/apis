@@ -1,0 +1,14 @@
+{
+  "id": "HN",
+  "iso2": "HN",
+  "name": "Honduras",
+  "callingCode": "+504",
+  "callingCodeRoot": "504",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "22123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

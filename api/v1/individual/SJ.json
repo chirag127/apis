@@ -1,0 +1,14 @@
+{
+  "id": "SJ",
+  "iso2": "SJ",
+  "name": "Svalbard & Jan Mayen",
+  "callingCode": "+47",
+  "callingCodeRoot": "47",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "79123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

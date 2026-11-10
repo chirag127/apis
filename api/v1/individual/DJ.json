@@ -1,0 +1,14 @@
+{
+  "id": "DJ",
+  "iso2": "DJ",
+  "name": "Djibouti",
+  "callingCode": "+253",
+  "callingCodeRoot": "253",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "21360003",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

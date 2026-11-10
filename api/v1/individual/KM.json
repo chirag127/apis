@@ -1,0 +1,14 @@
+{
+  "id": "KM",
+  "iso2": "KM",
+  "name": "Comoros",
+  "callingCode": "+269",
+  "callingCodeRoot": "269",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "7712345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

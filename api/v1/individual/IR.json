@@ -1,0 +1,14 @@
+{
+  "id": "IR",
+  "iso2": "IR",
+  "name": "Iran",
+  "callingCode": "+98",
+  "callingCodeRoot": "98",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "2123456789",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

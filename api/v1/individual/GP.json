@@ -1,0 +1,14 @@
+{
+  "id": "GP",
+  "iso2": "GP",
+  "name": "Guadeloupe",
+  "callingCode": "+590",
+  "callingCodeRoot": "590",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "590201234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

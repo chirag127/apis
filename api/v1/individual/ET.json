@@ -1,0 +1,14 @@
+{
+  "id": "ET",
+  "iso2": "ET",
+  "name": "Ethiopia",
+  "callingCode": "+251",
+  "callingCodeRoot": "251",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "111112345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

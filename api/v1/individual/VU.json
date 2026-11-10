@@ -1,0 +1,14 @@
+{
+  "id": "VU",
+  "iso2": "VU",
+  "name": "Vanuatu",
+  "callingCode": "+678",
+  "callingCodeRoot": "678",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "22123",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}
