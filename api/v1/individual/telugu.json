@@ -1,0 +1,10 @@
+{
+  "id": "telugu",
+  "name": "Telugu",
+  "start": "U+0C00",
+  "end": "U+0C7F",
+  "startCode": 3072,
+  "endCode": 3199,
+  "size": 128,
+  "range": "U+0C00..U+0C7F"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "tulu-tigalari",
+  "name": "Tulu-Tigalari",
+  "start": "U+11380",
+  "end": "U+113FF",
+  "startCode": 70528,
+  "endCode": 70655,
+  "size": 128,
+  "range": "U+11380..U+113FF"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "spacing-modifier-letters",
+  "name": "Spacing Modifier Letters",
+  "start": "U+02B0",
+  "end": "U+02FF",
+  "startCode": 688,
+  "endCode": 767,
+  "size": 80,
+  "range": "U+02B0..U+02FF"
+}

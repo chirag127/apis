@@ -1,0 +1,10 @@
+{
+  "id": "phonetic-extensions-supplement",
+  "name": "Phonetic Extensions Supplement",
+  "start": "U+1D80",
+  "end": "U+1DBF",
+  "startCode": 7552,
+  "endCode": 7615,
+  "size": 64,
+  "range": "U+1D80..U+1DBF"
+}

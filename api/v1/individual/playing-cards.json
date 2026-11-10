@@ -1,0 +1,10 @@
+{
+  "id": "playing-cards",
+  "name": "Playing Cards",
+  "start": "U+1F0A0",
+  "end": "U+1F0FF",
+  "startCode": 127136,
+  "endCode": 127231,
+  "size": 96,
+  "range": "U+1F0A0..U+1F0FF"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "lycian",
+  "name": "Lycian",
+  "start": "U+10280",
+  "end": "U+1029F",
+  "startCode": 66176,
+  "endCode": 66207,
+  "size": 32,
+  "range": "U+10280..U+1029F"
+}

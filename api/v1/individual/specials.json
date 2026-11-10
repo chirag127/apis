@@ -1,0 +1,10 @@
+{
+  "id": "specials",
+  "name": "Specials",
+  "start": "U+FFF0",
+  "end": "U+FFFF",
+  "startCode": 65520,
+  "endCode": 65535,
+  "size": 16,
+  "range": "U+FFF0..U+FFFF"
+}

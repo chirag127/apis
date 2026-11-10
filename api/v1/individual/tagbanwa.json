@@ -1,0 +1,10 @@
+{
+  "id": "tagbanwa",
+  "name": "Tagbanwa",
+  "start": "U+1760",
+  "end": "U+177F",
+  "startCode": 5984,
+  "endCode": 6015,
+  "size": 32,
+  "range": "U+1760..U+177F"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vedic-extensions",
+  "name": "Vedic Extensions",
+  "start": "U+1CD0",
+  "end": "U+1CFF",
+  "startCode": 7376,
+  "endCode": 7423,
+  "size": 48,
+  "range": "U+1CD0..U+1CFF"
+}

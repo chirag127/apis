@@ -1,0 +1,10 @@
+{
+  "id": "glagolitic",
+  "name": "Glagolitic",
+  "start": "U+2C00",
+  "end": "U+2C5F",
+  "startCode": 11264,
+  "endCode": 11359,
+  "size": 96,
+  "range": "U+2C00..U+2C5F"
+}

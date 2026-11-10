@@ -1,0 +1,10 @@
+{
+  "id": "carian",
+  "name": "Carian",
+  "start": "U+102A0",
+  "end": "U+102DF",
+  "startCode": 66208,
+  "endCode": 66271,
+  "size": 64,
+  "range": "U+102A0..U+102DF"
+}

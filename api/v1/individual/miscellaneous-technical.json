@@ -1,0 +1,10 @@
+{
+  "id": "miscellaneous-technical",
+  "name": "Miscellaneous Technical",
+  "start": "U+2300",
+  "end": "U+23FF",
+  "startCode": 8960,
+  "endCode": 9215,
+  "size": 256,
+  "range": "U+2300..U+23FF"
+}

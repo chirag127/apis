@@ -1,0 +1,10 @@
+{
+  "id": "supplemental-symbols-and-pictographs",
+  "name": "Supplemental Symbols and Pictographs",
+  "start": "U+1F900",
+  "end": "U+1F9FF",
+  "startCode": 129280,
+  "endCode": 129535,
+  "size": 256,
+  "range": "U+1F900..U+1F9FF"
+}

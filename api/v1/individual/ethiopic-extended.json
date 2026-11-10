@@ -1,0 +1,10 @@
+{
+  "id": "ethiopic-extended",
+  "name": "Ethiopic Extended",
+  "start": "U+2D80",
+  "end": "U+2DDF",
+  "startCode": 11648,
+  "endCode": 11743,
+  "size": 96,
+  "range": "U+2D80..U+2DDF"
+}

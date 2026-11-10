@@ -1,0 +1,10 @@
+{
+  "id": "samaritan",
+  "name": "Samaritan",
+  "start": "U+0800",
+  "end": "U+083F",
+  "startCode": 2048,
+  "endCode": 2111,
+  "size": 64,
+  "range": "U+0800..U+083F"
+}

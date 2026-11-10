@@ -1,0 +1,10 @@
+{
+  "id": "mongolian",
+  "name": "Mongolian",
+  "start": "U+1800",
+  "end": "U+18AF",
+  "startCode": 6144,
+  "endCode": 6319,
+  "size": 176,
+  "range": "U+1800..U+18AF"
+}

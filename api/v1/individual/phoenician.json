@@ -1,0 +1,10 @@
+{
+  "id": "phoenician",
+  "name": "Phoenician",
+  "start": "U+10900",
+  "end": "U+1091F",
+  "startCode": 67840,
+  "endCode": 67871,
+  "size": 32,
+  "range": "U+10900..U+1091F"
+}

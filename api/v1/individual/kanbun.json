@@ -1,0 +1,10 @@
+{
+  "id": "kanbun",
+  "name": "Kanbun",
+  "start": "U+3190",
+  "end": "U+319F",
+  "startCode": 12688,
+  "endCode": 12703,
+  "size": 16,
+  "range": "U+3190..U+319F"
+}

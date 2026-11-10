@@ -1,0 +1,10 @@
+{
+  "id": "lao",
+  "name": "Lao",
+  "start": "U+0E80",
+  "end": "U+0EFF",
+  "startCode": 3712,
+  "endCode": 3839,
+  "size": 128,
+  "range": "U+0E80..U+0EFF"
+}

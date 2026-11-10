@@ -1,0 +1,10 @@
+{
+  "id": "dingbats",
+  "name": "Dingbats",
+  "start": "U+2700",
+  "end": "U+27BF",
+  "startCode": 9984,
+  "endCode": 10175,
+  "size": 192,
+  "range": "U+2700..U+27BF"
+}

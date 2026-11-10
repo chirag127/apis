@@ -1,0 +1,10 @@
+{
+  "id": "mahjong-tiles",
+  "name": "Mahjong Tiles",
+  "start": "U+1F000",
+  "end": "U+1F02F",
+  "startCode": 126976,
+  "endCode": 127023,
+  "size": 48,
+  "range": "U+1F000..U+1F02F"
+}

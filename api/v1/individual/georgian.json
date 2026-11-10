@@ -1,0 +1,10 @@
+{
+  "id": "georgian",
+  "name": "Georgian",
+  "start": "U+10A0",
+  "end": "U+10FF",
+  "startCode": 4256,
+  "endCode": 4351,
+  "size": 96,
+  "range": "U+10A0..U+10FF"
+}

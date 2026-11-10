@@ -1,0 +1,10 @@
+{
+  "id": "khitan-small-script",
+  "name": "Khitan Small Script",
+  "start": "U+18B00",
+  "end": "U+18CFF",
+  "startCode": 101120,
+  "endCode": 101631,
+  "size": 512,
+  "range": "U+18B00..U+18CFF"
+}

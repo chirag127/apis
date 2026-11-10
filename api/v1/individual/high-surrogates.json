@@ -1,0 +1,10 @@
+{
+  "id": "high-surrogates",
+  "name": "High Surrogates",
+  "start": "U+D800",
+  "end": "U+DB7F",
+  "startCode": 55296,
+  "endCode": 56191,
+  "size": 896,
+  "range": "U+D800..U+DB7F"
+}

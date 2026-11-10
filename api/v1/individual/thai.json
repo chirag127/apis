@@ -1,0 +1,10 @@
+{
+  "id": "thai",
+  "name": "Thai",
+  "start": "U+0E00",
+  "end": "U+0E7F",
+  "startCode": 3584,
+  "endCode": 3711,
+  "size": 128,
+  "range": "U+0E00..U+0E7F"
+}

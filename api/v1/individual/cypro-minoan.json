@@ -1,0 +1,10 @@
+{
+  "id": "cypro-minoan",
+  "name": "Cypro-Minoan",
+  "start": "U+12F90",
+  "end": "U+12FFF",
+  "startCode": 77712,
+  "endCode": 77823,
+  "size": 112,
+  "range": "U+12F90..U+12FFF"
+}

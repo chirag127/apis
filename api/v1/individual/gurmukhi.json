@@ -1,0 +1,10 @@
+{
+  "id": "gurmukhi",
+  "name": "Gurmukhi",
+  "start": "U+0A00",
+  "end": "U+0A7F",
+  "startCode": 2560,
+  "endCode": 2687,
+  "size": 128,
+  "range": "U+0A00..U+0A7F"
+}

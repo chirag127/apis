@@ -1,0 +1,10 @@
+{
+  "id": "nushu",
+  "name": "Nushu",
+  "start": "U+1B170",
+  "end": "U+1B2FF",
+  "startCode": 110960,
+  "endCode": 111359,
+  "size": 400,
+  "range": "U+1B170..U+1B2FF"
+}

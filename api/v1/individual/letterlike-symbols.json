@@ -1,0 +1,10 @@
+{
+  "id": "letterlike-symbols",
+  "name": "Letterlike Symbols",
+  "start": "U+2100",
+  "end": "U+214F",
+  "startCode": 8448,
+  "endCode": 8527,
+  "size": 80,
+  "range": "U+2100..U+214F"
+}

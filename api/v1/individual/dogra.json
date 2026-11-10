@@ -1,0 +1,10 @@
+{
+  "id": "dogra",
+  "name": "Dogra",
+  "start": "U+11800",
+  "end": "U+1184F",
+  "startCode": 71680,
+  "endCode": 71759,
+  "size": 80,
+  "range": "U+11800..U+1184F"
+}

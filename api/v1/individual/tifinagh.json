@@ -1,0 +1,10 @@
+{
+  "id": "tifinagh",
+  "name": "Tifinagh",
+  "start": "U+2D30",
+  "end": "U+2D7F",
+  "startCode": 11568,
+  "endCode": 11647,
+  "size": 80,
+  "range": "U+2D30..U+2D7F"
+}

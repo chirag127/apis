@@ -1,0 +1,10 @@
+{
+  "id": "supplemental-punctuation",
+  "name": "Supplemental Punctuation",
+  "start": "U+2E00",
+  "end": "U+2E7F",
+  "startCode": 11776,
+  "endCode": 11903,
+  "size": 128,
+  "range": "U+2E00..U+2E7F"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cyrillic-extended-b",
+  "name": "Cyrillic Extended-B",
+  "start": "U+A640",
+  "end": "U+A69F",
+  "startCode": 42560,
+  "endCode": 42655,
+  "size": 96,
+  "range": "U+A640..U+A69F"
+}

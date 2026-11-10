@@ -1,0 +1,10 @@
+{
+  "id": "hebrew",
+  "name": "Hebrew",
+  "start": "U+0590",
+  "end": "U+05FF",
+  "startCode": 1424,
+  "endCode": 1535,
+  "size": 112,
+  "range": "U+0590..U+05FF"
+}

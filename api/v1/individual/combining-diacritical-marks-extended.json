@@ -1,0 +1,10 @@
+{
+  "id": "combining-diacritical-marks-extended",
+  "name": "Combining Diacritical Marks Extended",
+  "start": "U+1AB0",
+  "end": "U+1AFF",
+  "startCode": 6832,
+  "endCode": 6911,
+  "size": 80,
+  "range": "U+1AB0..U+1AFF"
+}

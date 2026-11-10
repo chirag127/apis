@@ -1,0 +1,10 @@
+{
+  "id": "yi-radicals",
+  "name": "Yi Radicals",
+  "start": "U+A490",
+  "end": "U+A4CF",
+  "startCode": 42128,
+  "endCode": 42191,
+  "size": 64,
+  "range": "U+A490..U+A4CF"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "common-indic-number-forms",
+  "name": "Common Indic Number Forms",
+  "start": "U+A830",
+  "end": "U+A83F",
+  "startCode": 43056,
+  "endCode": 43071,
+  "size": 16,
+  "range": "U+A830..U+A83F"
+}

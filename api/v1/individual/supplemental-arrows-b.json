@@ -1,0 +1,10 @@
+{
+  "id": "supplemental-arrows-b",
+  "name": "Supplemental Arrows-B",
+  "start": "U+2900",
+  "end": "U+297F",
+  "startCode": 10496,
+  "endCode": 10623,
+  "size": 128,
+  "range": "U+2900..U+297F"
+}

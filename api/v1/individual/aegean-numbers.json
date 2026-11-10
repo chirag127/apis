@@ -1,0 +1,10 @@
+{
+  "id": "aegean-numbers",
+  "name": "Aegean Numbers",
+  "start": "U+10100",
+  "end": "U+1013F",
+  "startCode": 65792,
+  "endCode": 65855,
+  "size": 64,
+  "range": "U+10100..U+1013F"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "khojki",
+  "name": "Khojki",
+  "start": "U+11200",
+  "end": "U+1124F",
+  "startCode": 70144,
+  "endCode": 70223,
+  "size": 80,
+  "range": "U+11200..U+1124F"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cjk-compatibility-forms",
+  "name": "CJK Compatibility Forms",
+  "start": "U+FE30",
+  "end": "U+FE4F",
+  "startCode": 65072,
+  "endCode": 65103,
+  "size": 32,
+  "range": "U+FE30..U+FE4F"
+}

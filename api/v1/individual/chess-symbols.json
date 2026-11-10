@@ -1,0 +1,10 @@
+{
+  "id": "chess-symbols",
+  "name": "Chess Symbols",
+  "start": "U+1FA00",
+  "end": "U+1FA6F",
+  "startCode": 129536,
+  "endCode": 129647,
+  "size": 112,
+  "range": "U+1FA00..U+1FA6F"
+}

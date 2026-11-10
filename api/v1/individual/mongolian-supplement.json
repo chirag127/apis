@@ -1,0 +1,10 @@
+{
+  "id": "mongolian-supplement",
+  "name": "Mongolian Supplement",
+  "start": "U+11660",
+  "end": "U+1167F",
+  "startCode": 71264,
+  "endCode": 71295,
+  "size": 32,
+  "range": "U+11660..U+1167F"
+}

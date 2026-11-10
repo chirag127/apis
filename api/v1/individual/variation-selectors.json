@@ -1,0 +1,10 @@
+{
+  "id": "variation-selectors",
+  "name": "Variation Selectors",
+  "start": "U+FE00",
+  "end": "U+FE0F",
+  "startCode": 65024,
+  "endCode": 65039,
+  "size": 16,
+  "range": "U+FE00..U+FE0F"
+}

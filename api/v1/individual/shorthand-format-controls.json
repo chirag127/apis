@@ -1,0 +1,10 @@
+{
+  "id": "shorthand-format-controls",
+  "name": "Shorthand Format Controls",
+  "start": "U+1BCA0",
+  "end": "U+1BCAF",
+  "startCode": 113824,
+  "endCode": 113839,
+  "size": 16,
+  "range": "U+1BCA0..U+1BCAF"
+}

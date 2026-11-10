@@ -1,0 +1,10 @@
+{
+  "id": "tangut-components-supplement",
+  "name": "Tangut Components Supplement",
+  "start": "U+18D80",
+  "end": "U+18DFF",
+  "startCode": 101760,
+  "endCode": 101887,
+  "size": 128,
+  "range": "U+18D80..U+18DFF"
+}

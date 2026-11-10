@@ -1,0 +1,10 @@
+{
+  "id": "kannada",
+  "name": "Kannada",
+  "start": "U+0C80",
+  "end": "U+0CFF",
+  "startCode": 3200,
+  "endCode": 3327,
+  "size": 128,
+  "range": "U+0C80..U+0CFF"
+}

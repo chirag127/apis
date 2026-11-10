@@ -1,0 +1,10 @@
+{
+  "id": "supplemental-mathematical-operators",
+  "name": "Supplemental Mathematical Operators",
+  "start": "U+2A00",
+  "end": "U+2AFF",
+  "startCode": 10752,
+  "endCode": 11007,
+  "size": 256,
+  "range": "U+2A00..U+2AFF"
+}

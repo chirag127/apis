@@ -1,0 +1,10 @@
+{
+  "id": "cyrillic-extended-c",
+  "name": "Cyrillic Extended-C",
+  "start": "U+1C80",
+  "end": "U+1C8F",
+  "startCode": 7296,
+  "endCode": 7311,
+  "size": 16,
+  "range": "U+1C80..U+1C8F"
+}

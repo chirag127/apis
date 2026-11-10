@@ -1,0 +1,10 @@
+{
+  "id": "gothic",
+  "name": "Gothic",
+  "start": "U+10330",
+  "end": "U+1034F",
+  "startCode": 66352,
+  "endCode": 66383,
+  "size": 32,
+  "range": "U+10330..U+1034F"
+}

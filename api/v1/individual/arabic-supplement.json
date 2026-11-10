@@ -1,0 +1,10 @@
+{
+  "id": "arabic-supplement",
+  "name": "Arabic Supplement",
+  "start": "U+0750",
+  "end": "U+077F",
+  "startCode": 1872,
+  "endCode": 1919,
+  "size": 48,
+  "range": "U+0750..U+077F"
+}

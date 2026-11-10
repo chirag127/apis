@@ -1,0 +1,10 @@
+{
+  "id": "lisu-supplement",
+  "name": "Lisu Supplement",
+  "start": "U+11FB0",
+  "end": "U+11FBF",
+  "startCode": 73648,
+  "endCode": 73663,
+  "size": 16,
+  "range": "U+11FB0..U+11FBF"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "psalter-pahlavi",
+  "name": "Psalter Pahlavi",
+  "start": "U+10B80",
+  "end": "U+10BAF",
+  "startCode": 68480,
+  "endCode": 68527,
+  "size": 48,
+  "range": "U+10B80..U+10BAF"
+}

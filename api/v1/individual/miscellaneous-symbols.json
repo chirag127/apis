@@ -1,0 +1,10 @@
+{
+  "id": "miscellaneous-symbols",
+  "name": "Miscellaneous Symbols",
+  "start": "U+2600",
+  "end": "U+26FF",
+  "startCode": 9728,
+  "endCode": 9983,
+  "size": 256,
+  "range": "U+2600..U+26FF"
+}

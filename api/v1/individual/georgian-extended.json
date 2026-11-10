@@ -1,0 +1,10 @@
+{
+  "id": "georgian-extended",
+  "name": "Georgian Extended",
+  "start": "U+1C90",
+  "end": "U+1CBF",
+  "startCode": 7312,
+  "endCode": 7359,
+  "size": 48,
+  "range": "U+1C90..U+1CBF"
+}

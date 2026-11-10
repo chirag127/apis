@@ -1,0 +1,10 @@
+{
+  "id": "javanese",
+  "name": "Javanese",
+  "start": "U+A980",
+  "end": "U+A9DF",
+  "startCode": 43392,
+  "endCode": 43487,
+  "size": 96,
+  "range": "U+A980..U+A9DF"
+}

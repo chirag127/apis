@@ -1,0 +1,10 @@
+{
+  "id": "inscriptional-pahlavi",
+  "name": "Inscriptional Pahlavi",
+  "start": "U+10B60",
+  "end": "U+10B7F",
+  "startCode": 68448,
+  "endCode": 68479,
+  "size": 32,
+  "range": "U+10B60..U+10B7F"
+}

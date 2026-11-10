@@ -1,0 +1,10 @@
+{
+  "id": "enclosed-alphanumeric-supplement",
+  "name": "Enclosed Alphanumeric Supplement",
+  "start": "U+1F100",
+  "end": "U+1F1FF",
+  "startCode": 127232,
+  "endCode": 127487,
+  "size": 256,
+  "range": "U+1F100..U+1F1FF"
+}

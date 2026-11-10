@@ -1,0 +1,10 @@
+{
+  "id": "osmanya",
+  "name": "Osmanya",
+  "start": "U+10480",
+  "end": "U+104AF",
+  "startCode": 66688,
+  "endCode": 66735,
+  "size": 48,
+  "range": "U+10480..U+104AF"
+}

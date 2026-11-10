@@ -1,0 +1,10 @@
+{
+  "id": "ethiopic-supplement",
+  "name": "Ethiopic Supplement",
+  "start": "U+1380",
+  "end": "U+139F",
+  "startCode": 4992,
+  "endCode": 5023,
+  "size": 32,
+  "range": "U+1380..U+139F"
+}

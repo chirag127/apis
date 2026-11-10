@@ -1,0 +1,10 @@
+{
+  "id": "old-permic",
+  "name": "Old Permic",
+  "start": "U+10350",
+  "end": "U+1037F",
+  "startCode": 66384,
+  "endCode": 66431,
+  "size": 48,
+  "range": "U+10350..U+1037F"
+}

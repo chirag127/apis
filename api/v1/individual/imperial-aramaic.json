@@ -1,0 +1,10 @@
+{
+  "id": "imperial-aramaic",
+  "name": "Imperial Aramaic",
+  "start": "U+10840",
+  "end": "U+1085F",
+  "startCode": 67648,
+  "endCode": 67679,
+  "size": 32,
+  "range": "U+10840..U+1085F"
+}

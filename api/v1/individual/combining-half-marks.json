@@ -1,0 +1,10 @@
+{
+  "id": "combining-half-marks",
+  "name": "Combining Half Marks",
+  "start": "U+FE20",
+  "end": "U+FE2F",
+  "startCode": 65056,
+  "endCode": 65071,
+  "size": 16,
+  "range": "U+FE20..U+FE2F"
+}

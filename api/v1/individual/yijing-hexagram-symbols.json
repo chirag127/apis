@@ -1,0 +1,10 @@
+{
+  "id": "yijing-hexagram-symbols",
+  "name": "Yijing Hexagram Symbols",
+  "start": "U+4DC0",
+  "end": "U+4DFF",
+  "startCode": 19904,
+  "endCode": 19967,
+  "size": 64,
+  "range": "U+4DC0..U+4DFF"
+}

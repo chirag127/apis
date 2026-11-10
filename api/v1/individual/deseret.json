@@ -1,0 +1,10 @@
+{
+  "id": "deseret",
+  "name": "Deseret",
+  "start": "U+10400",
+  "end": "U+1044F",
+  "startCode": 66560,
+  "endCode": 66639,
+  "size": 80,
+  "range": "U+10400..U+1044F"
+}

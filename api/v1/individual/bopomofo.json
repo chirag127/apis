@@ -1,0 +1,10 @@
+{
+  "id": "bopomofo",
+  "name": "Bopomofo",
+  "start": "U+3100",
+  "end": "U+312F",
+  "startCode": 12544,
+  "endCode": 12591,
+  "size": 48,
+  "range": "U+3100..U+312F"
+}

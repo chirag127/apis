@@ -1,0 +1,10 @@
+{
+  "id": "mayan-numerals",
+  "name": "Mayan Numerals",
+  "start": "U+1D2E0",
+  "end": "U+1D2FF",
+  "startCode": 119520,
+  "endCode": 119551,
+  "size": 32,
+  "range": "U+1D2E0..U+1D2FF"
+}

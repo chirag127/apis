@@ -1,0 +1,10 @@
+{
+  "id": "miscellaneous-symbols-supplement",
+  "name": "Miscellaneous Symbols Supplement",
+  "start": "U+1CEC0",
+  "end": "U+1CEFF",
+  "startCode": 118464,
+  "endCode": 118527,
+  "size": 64,
+  "range": "U+1CEC0..U+1CEFF"
+}

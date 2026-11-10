@@ -1,0 +1,10 @@
+{
+  "id": "zanabazar-square",
+  "name": "Zanabazar Square",
+  "start": "U+11A00",
+  "end": "U+11A4F",
+  "startCode": 72192,
+  "endCode": 72271,
+  "size": 80,
+  "range": "U+11A00..U+11A4F"
+}

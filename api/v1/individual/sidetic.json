@@ -1,0 +1,10 @@
+{
+  "id": "sidetic",
+  "name": "Sidetic",
+  "start": "U+10940",
+  "end": "U+1095F",
+  "startCode": 67904,
+  "endCode": 67935,
+  "size": 32,
+  "range": "U+10940..U+1095F"
+}

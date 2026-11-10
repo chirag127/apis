@@ -1,0 +1,10 @@
+{
+  "id": "ancient-symbols",
+  "name": "Ancient Symbols",
+  "start": "U+10190",
+  "end": "U+101CF",
+  "startCode": 65936,
+  "endCode": 65999,
+  "size": 64,
+  "range": "U+10190..U+101CF"
+}

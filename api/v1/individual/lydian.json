@@ -1,0 +1,10 @@
+{
+  "id": "lydian",
+  "name": "Lydian",
+  "start": "U+10920",
+  "end": "U+1093F",
+  "startCode": 67872,
+  "endCode": 67903,
+  "size": 32,
+  "range": "U+10920..U+1093F"
+}

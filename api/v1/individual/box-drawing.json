@@ -1,0 +1,10 @@
+{
+  "id": "box-drawing",
+  "name": "Box Drawing",
+  "start": "U+2500",
+  "end": "U+257F",
+  "startCode": 9472,
+  "endCode": 9599,
+  "size": 128,
+  "range": "U+2500..U+257F"
+}

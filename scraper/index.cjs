@@ -1,6 +1,6 @@
 /**
  * Unicode Blocks Scraper
- * Source: Unicode.org
+ * Source: Unicode UCD Blocks.txt
  * Run: node scraper/index.cjs
  */
 const fs = require('fs');
@@ -11,7 +11,7 @@ const OUTPUT_DIR = path.join(__dirname, '../api/v1');
 
 async function scrape() {
   console.log('Unicode Blocks Scraper');
-  console.log('Source:', 'Unicode.org');
+  console.log('Source:', "Unicode.org UCD Blocks.txt");
   console.log('Note: Static reference data. Validating existing data.');
 
   const existing = JSON.parse(fs.readFileSync(path.join(OUTPUT_DIR, 'data.json'), 'utf8'));

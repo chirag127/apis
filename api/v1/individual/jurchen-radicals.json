@@ -1,0 +1,10 @@
+{
+  "id": "jurchen-radicals",
+  "name": "Jurchen Radicals",
+  "start": "U+191A0",
+  "end": "U+191DF",
+  "startCode": 102816,
+  "endCode": 102879,
+  "size": 64,
+  "range": "U+191A0..U+191DF"
+}

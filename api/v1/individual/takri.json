@@ -1,0 +1,10 @@
+{
+  "id": "takri",
+  "name": "Takri",
+  "start": "U+11680",
+  "end": "U+116CF",
+  "startCode": 71296,
+  "endCode": 71375,
+  "size": 80,
+  "range": "U+11680..U+116CF"
+}

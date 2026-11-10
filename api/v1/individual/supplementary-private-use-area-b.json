@@ -1,0 +1,10 @@
+{
+  "id": "supplementary-private-use-area-b",
+  "name": "Supplementary Private Use Area-B",
+  "start": "U+100000",
+  "end": "U+10FFFF",
+  "startCode": 1048576,
+  "endCode": 1114111,
+  "size": 65536,
+  "range": "U+100000..U+10FFFF"
+}

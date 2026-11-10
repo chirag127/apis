@@ -1,0 +1,10 @@
+{
+  "id": "symbols-for-legacy-computing-supplement",
+  "name": "Symbols for Legacy Computing Supplement",
+  "start": "U+1CC00",
+  "end": "U+1CEBF",
+  "startCode": 117760,
+  "endCode": 118463,
+  "size": 704,
+  "range": "U+1CC00..U+1CEBF"
+}

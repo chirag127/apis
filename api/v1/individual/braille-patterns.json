@@ -1,0 +1,10 @@
+{
+  "id": "braille-patterns",
+  "name": "Braille Patterns",
+  "start": "U+2800",
+  "end": "U+28FF",
+  "startCode": 10240,
+  "endCode": 10495,
+  "size": 256,
+  "range": "U+2800..U+28FF"
+}

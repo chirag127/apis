@@ -1,0 +1,10 @@
+{
+  "id": "runic",
+  "name": "Runic",
+  "start": "U+16A0",
+  "end": "U+16FF",
+  "startCode": 5792,
+  "endCode": 5887,
+  "size": 96,
+  "range": "U+16A0..U+16FF"
+}

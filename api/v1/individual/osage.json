@@ -1,0 +1,10 @@
+{
+  "id": "osage",
+  "name": "Osage",
+  "start": "U+104B0",
+  "end": "U+104FF",
+  "startCode": 66736,
+  "endCode": 66815,
+  "size": 80,
+  "range": "U+104B0..U+104FF"
+}

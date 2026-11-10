@@ -1,0 +1,10 @@
+{
+  "id": "batak",
+  "name": "Batak",
+  "start": "U+1BC0",
+  "end": "U+1BFF",
+  "startCode": 7104,
+  "endCode": 7167,
+  "size": 64,
+  "range": "U+1BC0..U+1BFF"
+}

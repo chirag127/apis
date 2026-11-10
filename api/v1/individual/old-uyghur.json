@@ -1,0 +1,10 @@
+{
+  "id": "old-uyghur",
+  "name": "Old Uyghur",
+  "start": "U+10F70",
+  "end": "U+10FAF",
+  "startCode": 69488,
+  "endCode": 69551,
+  "size": 64,
+  "range": "U+10F70..U+10FAF"
+}

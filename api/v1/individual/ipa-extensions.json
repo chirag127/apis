@@ -1,0 +1,10 @@
+{
+  "id": "ipa-extensions",
+  "name": "IPA Extensions",
+  "start": "U+0250",
+  "end": "U+02AF",
+  "startCode": 592,
+  "endCode": 687,
+  "size": 96,
+  "range": "U+0250..U+02AF"
+}

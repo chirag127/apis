@@ -1,0 +1,10 @@
+{
+  "id": "caucasian-albanian",
+  "name": "Caucasian Albanian",
+  "start": "U+10530",
+  "end": "U+1056F",
+  "startCode": 66864,
+  "endCode": 66927,
+  "size": 64,
+  "range": "U+10530..U+1056F"
+}

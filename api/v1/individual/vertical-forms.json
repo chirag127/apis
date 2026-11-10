@@ -1,0 +1,10 @@
+{
+  "id": "vertical-forms",
+  "name": "Vertical Forms",
+  "start": "U+FE10",
+  "end": "U+FE1F",
+  "startCode": 65040,
+  "endCode": 65055,
+  "size": 16,
+  "range": "U+FE10..U+FE1F"
+}

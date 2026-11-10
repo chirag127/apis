@@ -1,0 +1,10 @@
+{
+  "id": "byzantine-musical-symbols",
+  "name": "Byzantine Musical Symbols",
+  "start": "U+1D000",
+  "end": "U+1D0FF",
+  "startCode": 118784,
+  "endCode": 119039,
+  "size": 256,
+  "range": "U+1D000..U+1D0FF"
+}

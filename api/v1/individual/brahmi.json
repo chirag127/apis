@@ -1,0 +1,10 @@
+{
+  "id": "brahmi",
+  "name": "Brahmi",
+  "start": "U+11000",
+  "end": "U+1107F",
+  "startCode": 69632,
+  "endCode": 69759,
+  "size": 128,
+  "range": "U+11000..U+1107F"
+}

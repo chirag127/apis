@@ -1,0 +1,10 @@
+{
+  "id": "basic-latin",
+  "name": "Basic Latin",
+  "start": "U+0000",
+  "end": "U+007F",
+  "startCode": 0,
+  "endCode": 127,
+  "size": 128,
+  "range": "U+0000..U+007F"
+}

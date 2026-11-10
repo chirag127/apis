@@ -1,0 +1,10 @@
+{
+  "id": "old-italic",
+  "name": "Old Italic",
+  "start": "U+10300",
+  "end": "U+1032F",
+  "startCode": 66304,
+  "endCode": 66351,
+  "size": 48,
+  "range": "U+10300..U+1032F"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "old-persian",
+  "name": "Old Persian",
+  "start": "U+103A0",
+  "end": "U+103DF",
+  "startCode": 66464,
+  "endCode": 66527,
+  "size": 64,
+  "range": "U+103A0..U+103DF"
+}

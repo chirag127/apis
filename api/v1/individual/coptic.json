@@ -1,0 +1,10 @@
+{
+  "id": "coptic",
+  "name": "Coptic",
+  "start": "U+2C80",
+  "end": "U+2CFF",
+  "startCode": 11392,
+  "endCode": 11519,
+  "size": 128,
+  "range": "U+2C80..U+2CFF"
+}

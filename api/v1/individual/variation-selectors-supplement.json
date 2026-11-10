@@ -1,0 +1,10 @@
+{
+  "id": "variation-selectors-supplement",
+  "name": "Variation Selectors Supplement",
+  "start": "U+E0100",
+  "end": "U+E01EF",
+  "startCode": 917760,
+  "endCode": 917999,
+  "size": 240,
+  "range": "U+E0100..U+E01EF"
+}

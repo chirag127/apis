@@ -1,0 +1,10 @@
+{
+  "id": "unified-canadian-aboriginal-syllabics-extended-a",
+  "name": "Unified Canadian Aboriginal Syllabics Extended-A",
+  "start": "U+11AB0",
+  "end": "U+11ABF",
+  "startCode": 72368,
+  "endCode": 72383,
+  "size": 16,
+  "range": "U+11AB0..U+11ABF"
+}

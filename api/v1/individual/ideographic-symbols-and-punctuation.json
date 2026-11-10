@@ -1,0 +1,10 @@
+{
+  "id": "ideographic-symbols-and-punctuation",
+  "name": "Ideographic Symbols and Punctuation",
+  "start": "U+16FE0",
+  "end": "U+16FFF",
+  "startCode": 94176,
+  "endCode": 94207,
+  "size": 32,
+  "range": "U+16FE0..U+16FFF"
+}

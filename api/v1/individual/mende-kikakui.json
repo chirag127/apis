@@ -1,0 +1,10 @@
+{
+  "id": "mende-kikakui",
+  "name": "Mende Kikakui",
+  "start": "U+1E800",
+  "end": "U+1E8DF",
+  "startCode": 124928,
+  "endCode": 125151,
+  "size": 224,
+  "range": "U+1E800..U+1E8DF"
+}

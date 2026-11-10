@@ -1,0 +1,10 @@
+{
+  "id": "greek-and-coptic",
+  "name": "Greek and Coptic",
+  "start": "U+0370",
+  "end": "U+03FF",
+  "startCode": 880,
+  "endCode": 1023,
+  "size": 144,
+  "range": "U+0370..U+03FF"
+}

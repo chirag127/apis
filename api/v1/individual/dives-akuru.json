@@ -1,0 +1,10 @@
+{
+  "id": "dives-akuru",
+  "name": "Dives Akuru",
+  "start": "U+11900",
+  "end": "U+1195F",
+  "startCode": 71936,
+  "endCode": 72031,
+  "size": 96,
+  "range": "U+11900..U+1195F"
+}

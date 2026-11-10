@@ -1,0 +1,10 @@
+{
+  "id": "musical-symbols",
+  "name": "Musical Symbols",
+  "start": "U+1D100",
+  "end": "U+1D1FF",
+  "startCode": 119040,
+  "endCode": 119295,
+  "size": 256,
+  "range": "U+1D100..U+1D1FF"
+}

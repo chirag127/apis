@@ -1,0 +1,10 @@
+{
+  "id": "sogdian",
+  "name": "Sogdian",
+  "start": "U+10F30",
+  "end": "U+10F6F",
+  "startCode": 69424,
+  "endCode": 69487,
+  "size": 64,
+  "range": "U+10F30..U+10F6F"
+}

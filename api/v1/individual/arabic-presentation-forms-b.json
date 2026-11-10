@@ -1,0 +1,10 @@
+{
+  "id": "arabic-presentation-forms-b",
+  "name": "Arabic Presentation Forms-B",
+  "start": "U+FE70",
+  "end": "U+FEFF",
+  "startCode": 65136,
+  "endCode": 65279,
+  "size": 144,
+  "range": "U+FE70..U+FEFF"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "newa",
+  "name": "Newa",
+  "start": "U+11400",
+  "end": "U+1147F",
+  "startCode": 70656,
+  "endCode": 70783,
+  "size": 128,
+  "range": "U+11400..U+1147F"
+}

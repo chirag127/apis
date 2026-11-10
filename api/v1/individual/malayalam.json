@@ -1,0 +1,10 @@
+{
+  "id": "malayalam",
+  "name": "Malayalam",
+  "start": "U+0D00",
+  "end": "U+0D7F",
+  "startCode": 3328,
+  "endCode": 3455,
+  "size": 128,
+  "range": "U+0D00..U+0D7F"
+}

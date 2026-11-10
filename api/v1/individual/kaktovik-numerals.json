@@ -1,0 +1,10 @@
+{
+  "id": "kaktovik-numerals",
+  "name": "Kaktovik Numerals",
+  "start": "U+1D2C0",
+  "end": "U+1D2DF",
+  "startCode": 119488,
+  "endCode": 119519,
+  "size": 32,
+  "range": "U+1D2C0..U+1D2DF"
+}

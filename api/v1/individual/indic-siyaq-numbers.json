@@ -1,0 +1,10 @@
+{
+  "id": "indic-siyaq-numbers",
+  "name": "Indic Siyaq Numbers",
+  "start": "U+1EC70",
+  "end": "U+1ECBF",
+  "startCode": 126064,
+  "endCode": 126143,
+  "size": 80,
+  "range": "U+1EC70..U+1ECBF"
+}

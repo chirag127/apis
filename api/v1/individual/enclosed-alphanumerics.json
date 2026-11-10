@@ -1,0 +1,10 @@
+{
+  "id": "enclosed-alphanumerics",
+  "name": "Enclosed Alphanumerics",
+  "start": "U+2460",
+  "end": "U+24FF",
+  "startCode": 9312,
+  "endCode": 9471,
+  "size": 160,
+  "range": "U+2460..U+24FF"
+}

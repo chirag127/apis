@@ -1,0 +1,10 @@
+{
+  "id": "number-forms",
+  "name": "Number Forms",
+  "start": "U+2150",
+  "end": "U+218F",
+  "startCode": 8528,
+  "endCode": 8591,
+  "size": 64,
+  "range": "U+2150..U+218F"
+}

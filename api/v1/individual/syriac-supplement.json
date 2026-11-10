@@ -1,0 +1,10 @@
+{
+  "id": "syriac-supplement",
+  "name": "Syriac Supplement",
+  "start": "U+0860",
+  "end": "U+086F",
+  "startCode": 2144,
+  "endCode": 2159,
+  "size": 16,
+  "range": "U+0860..U+086F"
+}

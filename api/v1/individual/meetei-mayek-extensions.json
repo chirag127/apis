@@ -1,0 +1,10 @@
+{
+  "id": "meetei-mayek-extensions",
+  "name": "Meetei Mayek Extensions",
+  "start": "U+AAE0",
+  "end": "U+AAFF",
+  "startCode": 43744,
+  "endCode": 43775,
+  "size": 32,
+  "range": "U+AAE0..U+AAFF"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "coptic-epact-numbers",
+  "name": "Coptic Epact Numbers",
+  "start": "U+102E0",
+  "end": "U+102FF",
+  "startCode": 66272,
+  "endCode": 66303,
+  "size": 32,
+  "range": "U+102E0..U+102FF"
+}

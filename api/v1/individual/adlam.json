@@ -1,0 +1,10 @@
+{
+  "id": "adlam",
+  "name": "Adlam",
+  "start": "U+1E900",
+  "end": "U+1E95F",
+  "startCode": 125184,
+  "endCode": 125279,
+  "size": 96,
+  "range": "U+1E900..U+1E95F"
+}

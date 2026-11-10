@@ -1,0 +1,10 @@
+{
+  "id": "tagalog",
+  "name": "Tagalog",
+  "start": "U+1700",
+  "end": "U+171F",
+  "startCode": 5888,
+  "endCode": 5919,
+  "size": 32,
+  "range": "U+1700..U+171F"
+}

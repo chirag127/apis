@@ -1,0 +1,10 @@
+{
+  "id": "thaana",
+  "name": "Thaana",
+  "start": "U+0780",
+  "end": "U+07BF",
+  "startCode": 1920,
+  "endCode": 1983,
+  "size": 64,
+  "range": "U+0780..U+07BF"
+}

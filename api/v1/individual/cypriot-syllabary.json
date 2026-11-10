@@ -1,0 +1,10 @@
+{
+  "id": "cypriot-syllabary",
+  "name": "Cypriot Syllabary",
+  "start": "U+10800",
+  "end": "U+1083F",
+  "startCode": 67584,
+  "endCode": 67647,
+  "size": 64,
+  "range": "U+10800..U+1083F"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "latin-extended-additional",
+  "name": "Latin Extended Additional",
+  "start": "U+1E00",
+  "end": "U+1EFF",
+  "startCode": 7680,
+  "endCode": 7935,
+  "size": 256,
+  "range": "U+1E00..U+1EFF"
+}

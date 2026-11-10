@@ -1,0 +1,10 @@
+{
+  "id": "sundanese",
+  "name": "Sundanese",
+  "start": "U+1B80",
+  "end": "U+1BBF",
+  "startCode": 7040,
+  "endCode": 7103,
+  "size": 64,
+  "range": "U+1B80..U+1BBF"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "old-north-arabian",
+  "name": "Old North Arabian",
+  "start": "U+10A80",
+  "end": "U+10A9F",
+  "startCode": 68224,
+  "endCode": 68255,
+  "size": 32,
+  "range": "U+10A80..U+10A9F"
+}

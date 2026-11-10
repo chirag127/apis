@@ -1,0 +1,10 @@
+{
+  "id": "khudawadi",
+  "name": "Khudawadi",
+  "start": "U+112B0",
+  "end": "U+112FF",
+  "startCode": 70320,
+  "endCode": 70399,
+  "size": 80,
+  "range": "U+112B0..U+112FF"
+}

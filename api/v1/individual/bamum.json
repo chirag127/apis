@@ -1,0 +1,10 @@
+{
+  "id": "bamum",
+  "name": "Bamum",
+  "start": "U+A6A0",
+  "end": "U+A6FF",
+  "startCode": 42656,
+  "endCode": 42751,
+  "size": 96,
+  "range": "U+A6A0..U+A6FF"
+}

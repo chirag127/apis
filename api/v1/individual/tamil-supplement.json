@@ -1,0 +1,10 @@
+{
+  "id": "tamil-supplement",
+  "name": "Tamil Supplement",
+  "start": "U+11FC0",
+  "end": "U+11FFF",
+  "startCode": 73664,
+  "endCode": 73727,
+  "size": 64,
+  "range": "U+11FC0..U+11FFF"
+}

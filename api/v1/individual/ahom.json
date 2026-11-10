@@ -1,0 +1,10 @@
+{
+  "id": "ahom",
+  "name": "Ahom",
+  "start": "U+11700",
+  "end": "U+1174F",
+  "startCode": 71424,
+  "endCode": 71503,
+  "size": 80,
+  "range": "U+11700..U+1174F"
+}

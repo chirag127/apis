@@ -1,0 +1,10 @@
+{
+  "id": "latin-extended-d",
+  "name": "Latin Extended-D",
+  "start": "U+A720",
+  "end": "U+A7FF",
+  "startCode": 42784,
+  "endCode": 43007,
+  "size": 224,
+  "range": "U+A720..U+A7FF"
+}

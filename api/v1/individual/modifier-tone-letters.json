@@ -1,0 +1,10 @@
+{
+  "id": "modifier-tone-letters",
+  "name": "Modifier Tone Letters",
+  "start": "U+A700",
+  "end": "U+A71F",
+  "startCode": 42752,
+  "endCode": 42783,
+  "size": 32,
+  "range": "U+A700..U+A71F"
+}

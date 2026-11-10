@@ -1,0 +1,10 @@
+{
+  "id": "ancient-greek-musical-notation",
+  "name": "Ancient Greek Musical Notation",
+  "start": "U+1D200",
+  "end": "U+1D24F",
+  "startCode": 119296,
+  "endCode": 119375,
+  "size": 80,
+  "range": "U+1D200..U+1D24F"
+}

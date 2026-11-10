@@ -1,0 +1,10 @@
+{
+  "id": "small-form-variants",
+  "name": "Small Form Variants",
+  "start": "U+FE50",
+  "end": "U+FE6F",
+  "startCode": 65104,
+  "endCode": 65135,
+  "size": 32,
+  "range": "U+FE50..U+FE6F"
+}

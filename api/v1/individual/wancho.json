@@ -1,0 +1,10 @@
+{
+  "id": "wancho",
+  "name": "Wancho",
+  "start": "U+1E2C0",
+  "end": "U+1E2FF",
+  "startCode": 123584,
+  "endCode": 123647,
+  "size": 64,
+  "range": "U+1E2C0..U+1E2FF"
+}

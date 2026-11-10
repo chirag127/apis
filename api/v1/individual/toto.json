@@ -1,0 +1,10 @@
+{
+  "id": "toto",
+  "name": "Toto",
+  "start": "U+1E290",
+  "end": "U+1E2BF",
+  "startCode": 123536,
+  "endCode": 123583,
+  "size": 48,
+  "range": "U+1E290..U+1E2BF"
+}

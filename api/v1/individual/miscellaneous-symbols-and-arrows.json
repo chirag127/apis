@@ -1,0 +1,10 @@
+{
+  "id": "miscellaneous-symbols-and-arrows",
+  "name": "Miscellaneous Symbols and Arrows",
+  "start": "U+2B00",
+  "end": "U+2BFF",
+  "startCode": 11008,
+  "endCode": 11263,
+  "size": 256,
+  "range": "U+2B00..U+2BFF"
+}

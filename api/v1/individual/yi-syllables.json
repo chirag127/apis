@@ -1,0 +1,10 @@
+{
+  "id": "yi-syllables",
+  "name": "Yi Syllables",
+  "start": "U+A000",
+  "end": "U+A48F",
+  "startCode": 40960,
+  "endCode": 42127,
+  "size": 1168,
+  "range": "U+A000..U+A48F"
+}

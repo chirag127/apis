@@ -1,0 +1,10 @@
+{
+  "id": "tibetan",
+  "name": "Tibetan",
+  "start": "U+0F00",
+  "end": "U+0FFF",
+  "startCode": 3840,
+  "endCode": 4095,
+  "size": 256,
+  "range": "U+0F00..U+0FFF"
+}

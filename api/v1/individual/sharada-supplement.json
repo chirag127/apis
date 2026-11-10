@@ -1,0 +1,10 @@
+{
+  "id": "sharada-supplement",
+  "name": "Sharada Supplement",
+  "start": "U+11B60",
+  "end": "U+11B7F",
+  "startCode": 72544,
+  "endCode": 72575,
+  "size": 32,
+  "range": "U+11B60..U+11B7F"
+}

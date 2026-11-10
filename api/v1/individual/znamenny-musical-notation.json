@@ -1,0 +1,10 @@
+{
+  "id": "znamenny-musical-notation",
+  "name": "Znamenny Musical Notation",
+  "start": "U+1CF00",
+  "end": "U+1CFCF",
+  "startCode": 118528,
+  "endCode": 118735,
+  "size": 208,
+  "range": "U+1CF00..U+1CFCF"
+}

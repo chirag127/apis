@@ -1,0 +1,10 @@
+{
+  "id": "kana-extended-b",
+  "name": "Kana Extended-B",
+  "start": "U+1AFF0",
+  "end": "U+1AFFF",
+  "startCode": 110576,
+  "endCode": 110591,
+  "size": 16,
+  "range": "U+1AFF0..U+1AFFF"
+}

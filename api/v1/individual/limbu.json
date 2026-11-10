@@ -1,0 +1,10 @@
+{
+  "id": "limbu",
+  "name": "Limbu",
+  "start": "U+1900",
+  "end": "U+194F",
+  "startCode": 6400,
+  "endCode": 6479,
+  "size": 80,
+  "range": "U+1900..U+194F"
+}

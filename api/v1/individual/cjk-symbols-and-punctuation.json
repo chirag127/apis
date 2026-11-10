@@ -1,0 +1,10 @@
+{
+  "id": "cjk-symbols-and-punctuation",
+  "name": "CJK Symbols and Punctuation",
+  "start": "U+3000",
+  "end": "U+303F",
+  "startCode": 12288,
+  "endCode": 12351,
+  "size": 64,
+  "range": "U+3000..U+303F"
+}

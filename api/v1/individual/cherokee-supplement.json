@@ -1,0 +1,10 @@
+{
+  "id": "cherokee-supplement",
+  "name": "Cherokee Supplement",
+  "start": "U+AB70",
+  "end": "U+ABBF",
+  "startCode": 43888,
+  "endCode": 43967,
+  "size": 80,
+  "range": "U+AB70..U+ABBF"
+}

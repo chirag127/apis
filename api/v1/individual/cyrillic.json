@@ -1,0 +1,10 @@
+{
+  "id": "cyrillic",
+  "name": "Cyrillic",
+  "start": "U+0400",
+  "end": "U+04FF",
+  "startCode": 1024,
+  "endCode": 1279,
+  "size": 256,
+  "range": "U+0400..U+04FF"
+}
