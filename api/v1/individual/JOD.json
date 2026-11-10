@@ -1,0 +1,10 @@
+{
+  "id": "JOD",
+  "alpha3": "JOD",
+  "numeric": "400",
+  "name": "Jordanian Dinar",
+  "minorUnits": 3,
+  "countries": [
+    "JORDAN"
+  ]
+}

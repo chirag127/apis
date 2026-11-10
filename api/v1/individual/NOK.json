@@ -1,0 +1,12 @@
+{
+  "id": "NOK",
+  "alpha3": "NOK",
+  "numeric": "578",
+  "name": "Norwegian Krone",
+  "minorUnits": 2,
+  "countries": [
+    "BOUVET ISLAND",
+    "NORWAY",
+    "SVALBARD AND JAN MAYEN"
+  ]
+}

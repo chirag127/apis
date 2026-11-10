@@ -1,0 +1,10 @@
+{
+  "id": "BSD",
+  "alpha3": "BSD",
+  "numeric": "044",
+  "name": "Bahamian Dollar",
+  "minorUnits": 2,
+  "countries": [
+    "BAHAMAS (THE)"
+  ]
+}

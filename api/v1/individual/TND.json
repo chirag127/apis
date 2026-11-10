@@ -1,0 +1,10 @@
+{
+  "id": "TND",
+  "alpha3": "TND",
+  "numeric": "788",
+  "name": "Tunisian Dinar",
+  "minorUnits": 3,
+  "countries": [
+    "TUNISIA"
+  ]
+}

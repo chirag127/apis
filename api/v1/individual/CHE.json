@@ -1,0 +1,10 @@
+{
+  "id": "CHE",
+  "alpha3": "CHE",
+  "numeric": "947",
+  "name": "WIR Euro",
+  "minorUnits": 2,
+  "countries": [
+    "SWITZERLAND"
+  ]
+}

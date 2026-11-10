@@ -1,0 +1,10 @@
+{
+  "id": "SEK",
+  "alpha3": "SEK",
+  "numeric": "752",
+  "name": "Swedish Krona",
+  "minorUnits": 2,
+  "countries": [
+    "SWEDEN"
+  ]
+}

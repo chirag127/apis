@@ -1,0 +1,10 @@
+{
+  "id": "AMD",
+  "alpha3": "AMD",
+  "numeric": "051",
+  "name": "Armenian Dram",
+  "minorUnits": 2,
+  "countries": [
+    "ARMENIA"
+  ]
+}

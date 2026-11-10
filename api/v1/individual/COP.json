@@ -1,0 +1,10 @@
+{
+  "id": "COP",
+  "alpha3": "COP",
+  "numeric": "170",
+  "name": "Colombian Peso",
+  "minorUnits": 2,
+  "countries": [
+    "COLOMBIA"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "XTS",
+  "alpha3": "XTS",
+  "numeric": "963",
+  "name": "Codes specifically reserved for testing purposes",
+  "minorUnits": null,
+  "countries": [
+    "ZZ06_Testing_Code"
+  ]
+}

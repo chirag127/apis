@@ -1,0 +1,10 @@
+{
+  "id": "KPW",
+  "alpha3": "KPW",
+  "numeric": "408",
+  "name": "North Korean Won",
+  "minorUnits": 2,
+  "countries": [
+    "KOREA (THE DEMOCRATIC PEOPLE’S REPUBLIC OF)"
+  ]
+}

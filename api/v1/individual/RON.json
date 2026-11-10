@@ -1,0 +1,10 @@
+{
+  "id": "RON",
+  "alpha3": "RON",
+  "numeric": "946",
+  "name": "Romanian Leu",
+  "minorUnits": 2,
+  "countries": [
+    "ROMANIA"
+  ]
+}

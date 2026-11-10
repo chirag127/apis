@@ -1,0 +1,10 @@
+{
+  "id": "BYN",
+  "alpha3": "BYN",
+  "numeric": "933",
+  "name": "Belarusian Ruble",
+  "minorUnits": 2,
+  "countries": [
+    "BELARUS"
+  ]
+}

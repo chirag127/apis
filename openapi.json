@@ -2,30 +2,67 @@
   "openapi": "3.1.0",
   "info": {
     "title": "World Currencies",
-    "description": "All ISO 4217 currencies with name, symbol, and decimal digits",
+    "description": "All ISO 4217 currencies with alpha-3 code, numeric code, minor unit and the territories that use them.",
     "version": "1.0.0",
     "license": {
-      "name": "CC0-1.0"
+      "name": "MIT (code); ISO 4217 list one, SIX Group (data)"
+    },
+    "contact": {
+      "name": "Chirag Singhal",
+      "url": "https://github.com/chirag127",
+      "email": "chirag@oriz.in"
     }
   },
   "servers": [
     {
-      "url": "https://chirag127.github.io/currencies",
+      "url": "https://chirag127.github.io/currencies-api",
       "description": "GitHub Pages"
     }
   ],
   "paths": {
-    "/data.json": {
+    "/api/v1/data.json": {
       "get": {
-        "summary": "World Currencies data",
-        "description": "All ISO 4217 currencies with name, symbol, and decimal digits",
+        "summary": "All ISO 4217 currency records",
+        "operationId": "listData",
         "responses": {
           "200": {
-            "description": "JSON response",
+            "description": "JSON array of records",
             "content": {
               "application/json": {
                 "schema": {
-                  "type": "array"
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "id": {
+                        "type": "string",
+                        "description": "ISO 4217 alpha-3 code, used as the record id"
+                      },
+                      "alpha3": {
+                        "type": "string",
+                        "description": "ISO 4217 alphabetic code"
+                      },
+                      "numeric": {
+                        "type": "string",
+                        "description": "ISO 4217 numeric code, zero padded to three digits"
+                      },
+                      "name": {
+                        "type": "string",
+                        "description": "Currency name as registered"
+                      },
+                      "minorUnits": {
+                        "type": "integer",
+                        "description": "Decimal digits in the minor unit; null where the registry says N.A."
+                      },
+                      "countries": {
+                        "type": "array",
+                        "items": {
+                          "type": "string"
+                        },
+                        "description": "Territories listed against this currency in ISO 4217 list one"
+                      }
+                    }
+                  }
                 }
               }
             }
@@ -33,17 +70,123 @@
         }
       }
     },
-    "/data/currencies": {
+    "/api/v1/individual/{id}.json": {
       "get": {
-        "summary": "World Currencies",
-        "description": "All ISO 4217 currencies with name, symbol, and decimal digits",
+        "summary": "Single record by id",
+        "operationId": "getRecord",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
         "responses": {
           "200": {
-            "description": "JSON response",
+            "description": "One record object",
             "content": {
               "application/json": {
                 "schema": {
-                  "type": "array"
+                  "type": "object",
+                  "properties": {
+                    "id": {
+                      "type": "string",
+                      "description": "ISO 4217 alpha-3 code, used as the record id"
+                    },
+                    "alpha3": {
+                      "type": "string",
+                      "description": "ISO 4217 alphabetic code"
+                    },
+                    "numeric": {
+                      "type": "string",
+                      "description": "ISO 4217 numeric code, zero padded to three digits"
+                    },
+                    "name": {
+                      "type": "string",
+                      "description": "Currency name as registered"
+                    },
+                    "minorUnits": {
+                      "type": "integer",
+                      "description": "Decimal digits in the minor unit; null where the registry says N.A."
+                    },
+                    "countries": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      },
+                      "description": "Territories listed against this currency in ISO 4217 list one"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "No record with that id"
+          }
+        }
+      }
+    },
+    "/api/v1/search-index.json": {
+      "get": {
+        "summary": "All records keyed by id",
+        "operationId": "getSearchIndex",
+        "responses": {
+          "200": {
+            "description": "Object of records keyed by id"
+          }
+        }
+      }
+    },
+    "/api/v1/meta.json": {
+      "get": {
+        "summary": "Dataset metadata (record count, source, retrieval time)",
+        "operationId": "getMeta",
+        "responses": {
+          "200": {
+            "description": "Metadata",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "status": {
+                      "type": "string"
+                    },
+                    "lastUpdated": {
+                      "type": "string"
+                    },
+                    "sourceUpdatedAt": {
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    },
+                    "retrievedAt": {
+                      "type": "string"
+                    },
+                    "recordCount": {
+                      "type": "integer"
+                    },
+                    "version": {
+                      "type": "string"
+                    },
+                    "schemaVersion": {
+                      "type": "string"
+                    },
+                    "source": {
+                      "type": "string"
+                    },
+                    "sourceUrl": {
+                      "type": "string"
+                    },
+                    "license": {
+                      "type": "string"
+                    }
+                  }
                 }
               }
             }

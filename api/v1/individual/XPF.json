@@ -1,0 +1,12 @@
+{
+  "id": "XPF",
+  "alpha3": "XPF",
+  "numeric": "953",
+  "name": "CFP Franc",
+  "minorUnits": 0,
+  "countries": [
+    "FRENCH POLYNESIA",
+    "NEW CALEDONIA",
+    "WALLIS AND FUTUNA"
+  ]
+}

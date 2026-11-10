@@ -1,0 +1,11 @@
+{
+  "id": "XCG",
+  "alpha3": "XCG",
+  "numeric": "532",
+  "name": "Caribbean Guilder",
+  "minorUnits": 2,
+  "countries": [
+    "CURAÇAO",
+    "SINT MAARTEN (DUTCH PART)"
+  ]
+}

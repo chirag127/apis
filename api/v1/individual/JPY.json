@@ -1,0 +1,10 @@
+{
+  "id": "JPY",
+  "alpha3": "JPY",
+  "numeric": "392",
+  "name": "Yen",
+  "minorUnits": 0,
+  "countries": [
+    "JAPAN"
+  ]
+}

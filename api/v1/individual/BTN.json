@@ -1,0 +1,10 @@
+{
+  "id": "BTN",
+  "alpha3": "BTN",
+  "numeric": "064",
+  "name": "Ngultrum",
+  "minorUnits": 2,
+  "countries": [
+    "BHUTAN"
+  ]
+}

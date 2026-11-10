@@ -1,0 +1,10 @@
+{
+  "id": "XDR",
+  "alpha3": "XDR",
+  "numeric": "960",
+  "name": "SDR (Special Drawing Right)",
+  "minorUnits": null,
+  "countries": [
+    "INTERNATIONAL MONETARY FUND (IMF)"
+  ]
+}

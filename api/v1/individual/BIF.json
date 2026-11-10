@@ -1,0 +1,10 @@
+{
+  "id": "BIF",
+  "alpha3": "BIF",
+  "numeric": "108",
+  "name": "Burundi Franc",
+  "minorUnits": 0,
+  "countries": [
+    "BURUNDI"
+  ]
+}

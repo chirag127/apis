@@ -1,0 +1,10 @@
+{
+  "id": "KRW",
+  "alpha3": "KRW",
+  "numeric": "410",
+  "name": "Won",
+  "minorUnits": 0,
+  "countries": [
+    "KOREA (THE REPUBLIC OF)"
+  ]
+}

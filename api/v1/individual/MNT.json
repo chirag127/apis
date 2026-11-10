@@ -1,0 +1,10 @@
+{
+  "id": "MNT",
+  "alpha3": "MNT",
+  "numeric": "496",
+  "name": "Tugrik",
+  "minorUnits": 2,
+  "countries": [
+    "MONGOLIA"
+  ]
+}

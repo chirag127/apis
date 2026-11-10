@@ -1,0 +1,10 @@
+{
+  "id": "BBD",
+  "alpha3": "BBD",
+  "numeric": "052",
+  "name": "Barbados Dollar",
+  "minorUnits": 2,
+  "countries": [
+    "BARBADOS"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "THB",
+  "alpha3": "THB",
+  "numeric": "764",
+  "name": "Baht",
+  "minorUnits": 2,
+  "countries": [
+    "THAILAND"
+  ]
+}

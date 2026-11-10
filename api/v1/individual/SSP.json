@@ -1,0 +1,10 @@
+{
+  "id": "SSP",
+  "alpha3": "SSP",
+  "numeric": "728",
+  "name": "South Sudanese Pound",
+  "minorUnits": 2,
+  "countries": [
+    "SOUTH SUDAN"
+  ]
+}

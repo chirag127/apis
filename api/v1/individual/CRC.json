@@ -1,0 +1,10 @@
+{
+  "id": "CRC",
+  "alpha3": "CRC",
+  "numeric": "188",
+  "name": "Costa Rican Colon",
+  "minorUnits": 2,
+  "countries": [
+    "COSTA RICA"
+  ]
+}

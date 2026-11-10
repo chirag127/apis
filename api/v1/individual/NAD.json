@@ -1,0 +1,10 @@
+{
+  "id": "NAD",
+  "alpha3": "NAD",
+  "numeric": "516",
+  "name": "Namibia Dollar",
+  "minorUnits": 2,
+  "countries": [
+    "NAMIBIA"
+  ]
+}

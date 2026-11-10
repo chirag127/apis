@@ -1,0 +1,10 @@
+{
+  "id": "TMT",
+  "alpha3": "TMT",
+  "numeric": "934",
+  "name": "Turkmenistan New Manat",
+  "minorUnits": 2,
+  "countries": [
+    "TURKMENISTAN"
+  ]
+}

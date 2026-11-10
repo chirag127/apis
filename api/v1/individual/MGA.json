@@ -1,0 +1,10 @@
+{
+  "id": "MGA",
+  "alpha3": "MGA",
+  "numeric": "969",
+  "name": "Malagasy Ariary",
+  "minorUnits": 2,
+  "countries": [
+    "MADAGASCAR"
+  ]
+}

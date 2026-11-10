@@ -1,0 +1,10 @@
+{
+  "id": "BZD",
+  "alpha3": "BZD",
+  "numeric": "084",
+  "name": "Belize Dollar",
+  "minorUnits": 2,
+  "countries": [
+    "BELIZE"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "LYD",
+  "alpha3": "LYD",
+  "numeric": "434",
+  "name": "Libyan Dinar",
+  "minorUnits": 3,
+  "countries": [
+    "LIBYA"
+  ]
+}

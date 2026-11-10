@@ -1,0 +1,11 @@
+{
+  "id": "MAD",
+  "alpha3": "MAD",
+  "numeric": "504",
+  "name": "Moroccan Dirham",
+  "minorUnits": 2,
+  "countries": [
+    "MOROCCO",
+    "WESTERN SAHARA"
+  ]
+}

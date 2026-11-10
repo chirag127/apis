@@ -1,0 +1,10 @@
+{
+  "id": "NPR",
+  "alpha3": "NPR",
+  "numeric": "524",
+  "name": "Nepalese Rupee",
+  "minorUnits": 2,
+  "countries": [
+    "NEPAL"
+  ]
+}

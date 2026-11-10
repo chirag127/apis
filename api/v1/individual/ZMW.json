@@ -1,0 +1,10 @@
+{
+  "id": "ZMW",
+  "alpha3": "ZMW",
+  "numeric": "967",
+  "name": "Zambian Kwacha",
+  "minorUnits": 2,
+  "countries": [
+    "ZAMBIA"
+  ]
+}

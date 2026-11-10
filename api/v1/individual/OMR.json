@@ -1,0 +1,10 @@
+{
+  "id": "OMR",
+  "alpha3": "OMR",
+  "numeric": "512",
+  "name": "Rial Omani",
+  "minorUnits": 3,
+  "countries": [
+    "OMAN"
+  ]
+}

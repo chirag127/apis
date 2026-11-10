@@ -1,0 +1,10 @@
+{
+  "id": "SRD",
+  "alpha3": "SRD",
+  "numeric": "968",
+  "name": "Surinam Dollar",
+  "minorUnits": 2,
+  "countries": [
+    "SURINAME"
+  ]
+}

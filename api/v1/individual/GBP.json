@@ -1,0 +1,13 @@
+{
+  "id": "GBP",
+  "alpha3": "GBP",
+  "numeric": "826",
+  "name": "Pound Sterling",
+  "minorUnits": 2,
+  "countries": [
+    "GUERNSEY",
+    "ISLE OF MAN",
+    "JERSEY",
+    "UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)"
+  ]
+}

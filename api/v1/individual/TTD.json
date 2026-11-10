@@ -1,0 +1,10 @@
+{
+  "id": "TTD",
+  "alpha3": "TTD",
+  "numeric": "780",
+  "name": "Trinidad and Tobago Dollar",
+  "minorUnits": 2,
+  "countries": [
+    "TRINIDAD AND TOBAGO"
+  ]
+}

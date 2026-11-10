@@ -1,0 +1,15 @@
+{
+  "id": "XAF",
+  "alpha3": "XAF",
+  "numeric": "950",
+  "name": "CFA Franc BEAC",
+  "minorUnits": 0,
+  "countries": [
+    "CAMEROON",
+    "CENTRAL AFRICAN REPUBLIC (THE)",
+    "CHAD",
+    "CONGO (THE)",
+    "EQUATORIAL GUINEA",
+    "GABON"
+  ]
+}

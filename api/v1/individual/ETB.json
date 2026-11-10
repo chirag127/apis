@@ -1,0 +1,10 @@
+{
+  "id": "ETB",
+  "alpha3": "ETB",
+  "numeric": "230",
+  "name": "Ethiopian Birr",
+  "minorUnits": 2,
+  "countries": [
+    "ETHIOPIA"
+  ]
+}

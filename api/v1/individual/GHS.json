@@ -1,0 +1,10 @@
+{
+  "id": "GHS",
+  "alpha3": "GHS",
+  "numeric": "936",
+  "name": "Ghana Cedi",
+  "minorUnits": 2,
+  "countries": [
+    "GHANA"
+  ]
+}

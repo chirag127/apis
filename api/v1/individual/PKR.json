@@ -1,0 +1,10 @@
+{
+  "id": "PKR",
+  "alpha3": "PKR",
+  "numeric": "586",
+  "name": "Pakistan Rupee",
+  "minorUnits": 2,
+  "countries": [
+    "PAKISTAN"
+  ]
+}

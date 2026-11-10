@@ -1,0 +1,10 @@
+{
+  "id": "HKD",
+  "alpha3": "HKD",
+  "numeric": "344",
+  "name": "Hong Kong Dollar",
+  "minorUnits": 2,
+  "countries": [
+    "HONG KONG"
+  ]
+}
