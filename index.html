@@ -236,26 +236,29 @@ async function liveTest() {
   const worker = async () => {
     while (queue.length) {
       const a = queue.shift();
-      let hit = null;
+      // Probe every known path and take the LARGEST count — a repo may serve a small
+      // index at data.json while its real dataset lives at another path.
+      let best = 0;
+      let bestPath = "data.json";
+      let found = false;
       for (const p of PROBE_PATHS) {
         const url = "https://chirag127.github.io/" + a.name + "/api/v1/" + p;
         try {
           const r = await fetch(url, { cache: "no-store" });
           if (!r.ok) continue;
           const j = await r.json();
-          hit = { path: p, json: j };
-          break;
+          found = true;
+          const n = Array.isArray(j) ? j.length
+            : Array.isArray(j.data) ? j.data.length
+            : typeof j.count === "number" ? j.count
+            : Array.isArray(j.dates) ? j.dates.length
+            : Object.keys(j).length;
+          if (n > best) { best = n; bestPath = p; }
         } catch (e) { /* not JSON, try the next */ }
       }
-      if (!hit) { a.status = "stub"; a.records = 0; continue; }
-      const j = hit.json;
-      const n = Array.isArray(j) ? j.length
-        : Array.isArray(j.data) ? j.data.length
-        : typeof j.count === "number" ? j.count
-        : Object.keys(j).length;
-      a.records = n;
-      a.path = hit.path;
-      a.status = n > 5 ? "live" : "stub";
+      a.records = best;
+      a.path = bestPath;
+      a.status = found && best > 2 ? "live" : "stub";
     }
   };
   await Promise.all([worker(), worker(), worker(), worker()]);
