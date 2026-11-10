@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    10606
+  ],
+  "codepointsHex": [
+    "0x296E"
+  ],
+  "character": "⥮",
+  "names": [
+    {
+      "name": "&UpEquilibrium;",
+      "legacy": false
+    },
+    {
+      "name": "&udhar;",
+      "legacy": false
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    977
+  ],
+  "codepointsHex": [
+    "0x03D1"
+  ],
+  "character": "ϑ",
+  "names": [
+    {
+      "name": "&thetasym;",
+      "legacy": false
+    },
+    {
+      "name": "&thetav;",
+      "legacy": false
+    },
+    {
+      "name": "&vartheta;",
+      "legacy": false
+    }
+  ]
+}

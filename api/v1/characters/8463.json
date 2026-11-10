@@ -1,0 +1,28 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8463
+  ],
+  "codepointsHex": [
+    "0x210F"
+  ],
+  "character": "ℏ",
+  "names": [
+    {
+      "name": "&hbar;",
+      "legacy": false
+    },
+    {
+      "name": "&hslash;",
+      "legacy": false
+    },
+    {
+      "name": "&planck;",
+      "legacy": false
+    },
+    {
+      "name": "&plankv;",
+      "legacy": false
+    }
+  ]
+}

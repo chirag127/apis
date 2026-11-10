@@ -1,0 +1,16 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    302
+  ],
+  "codepointsHex": [
+    "0x012E"
+  ],
+  "character": "Į",
+  "names": [
+    {
+      "name": "&Iogon;",
+      "legacy": false
+    }
+  ]
+}

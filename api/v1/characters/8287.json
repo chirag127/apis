@@ -1,0 +1,16 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8287
+  ],
+  "codepointsHex": [
+    "0x205F"
+  ],
+  "character": " ",
+  "names": [
+    {
+      "name": "&MediumSpace;",
+      "legacy": false
+    }
+  ]
+}

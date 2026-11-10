@@ -1,0 +1,16 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    9792
+  ],
+  "codepointsHex": [
+    "0x2640"
+  ],
+  "character": "♀",
+  "names": [
+    {
+      "name": "&female;",
+      "legacy": false
+    }
+  ]
+}

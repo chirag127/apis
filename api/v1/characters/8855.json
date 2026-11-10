@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8855
+  ],
+  "codepointsHex": [
+    "0x2297"
+  ],
+  "character": "⊗",
+  "names": [
+    {
+      "name": "&CircleTimes;",
+      "legacy": false
+    },
+    {
+      "name": "&otimes;",
+      "legacy": false
+    }
+  ]
+}

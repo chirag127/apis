@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8450
+  ],
+  "codepointsHex": [
+    "0x2102"
+  ],
+  "character": "ℂ",
+  "names": [
+    {
+      "name": "&Copf;",
+      "legacy": false
+    },
+    {
+      "name": "&complexes;",
+      "legacy": false
+    }
+  ]
+}

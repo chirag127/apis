@@ -1,0 +1,16 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    922
+  ],
+  "codepointsHex": [
+    "0x039A"
+  ],
+  "character": "Κ",
+  "names": [
+    {
+      "name": "&Kappa;",
+      "legacy": false
+    }
+  ]
+}

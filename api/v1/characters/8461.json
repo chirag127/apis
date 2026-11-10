@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8461
+  ],
+  "codepointsHex": [
+    "0x210D"
+  ],
+  "character": "ℍ",
+  "names": [
+    {
+      "name": "&Hopf;",
+      "legacy": false
+    },
+    {
+      "name": "&quaternions;",
+      "legacy": false
+    }
+  ]
+}

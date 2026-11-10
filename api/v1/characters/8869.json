@@ -1,0 +1,28 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8869
+  ],
+  "codepointsHex": [
+    "0x22A5"
+  ],
+  "character": "⊥",
+  "names": [
+    {
+      "name": "&UpTee;",
+      "legacy": false
+    },
+    {
+      "name": "&bot;",
+      "legacy": false
+    },
+    {
+      "name": "&bottom;",
+      "legacy": false
+    },
+    {
+      "name": "&perp;",
+      "legacy": false
+    }
+  ]
+}

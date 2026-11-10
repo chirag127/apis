@@ -1,0 +1,16 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    10514
+  ],
+  "codepointsHex": [
+    "0x2912"
+  ],
+  "character": "⤒",
+  "names": [
+    {
+      "name": "&UpArrowBar;",
+      "legacy": false
+    }
+  ]
+}

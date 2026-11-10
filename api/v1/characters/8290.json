@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8290
+  ],
+  "codepointsHex": [
+    "0x2062"
+  ],
+  "character": "⁢",
+  "names": [
+    {
+      "name": "&InvisibleTimes;",
+      "legacy": false
+    },
+    {
+      "name": "&it;",
+      "legacy": false
+    }
+  ]
+}

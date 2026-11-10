@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    9824
+  ],
+  "codepointsHex": [
+    "0x2660"
+  ],
+  "character": "♠",
+  "names": [
+    {
+      "name": "&spades;",
+      "legacy": false
+    },
+    {
+      "name": "&spadesuit;",
+      "legacy": false
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    184
+  ],
+  "codepointsHex": [
+    "0x00B8"
+  ],
+  "character": "¸",
+  "names": [
+    {
+      "name": "&Cedilla;",
+      "legacy": false
+    },
+    {
+      "name": "&cedil",
+      "legacy": true
+    },
+    {
+      "name": "&cedil;",
+      "legacy": false
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8644
+  ],
+  "codepointsHex": [
+    "0x21C4"
+  ],
+  "character": "⇄",
+  "names": [
+    {
+      "name": "&RightArrowLeftArrow;",
+      "legacy": false
+    },
+    {
+      "name": "&rightleftarrows;",
+      "legacy": false
+    },
+    {
+      "name": "&rlarr;",
+      "legacy": false
+    }
+  ]
+}

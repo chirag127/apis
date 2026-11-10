@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HTML Entities API — free static JSON of every WHATWG named character reference</title>
+<meta name="description" content="All 2,231 named character references from the WHATWG HTML Standard as free static JSON. No authentication, no rate limit, no server.">
+<style>
+  :root {
+    --bg: #0d1117;
+    --fg: #e6edf3;
+    --muted: #9198a1;
+    --accent: #58a6ff;
+    --border: #30363d;
+    --card: #161b22;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--fg);
+    line-height: 1.6;
+  }
+  main { max-width: 52rem; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+  h1 { font-size: 1.9rem; margin: 0 0 0.25rem; }
+  h2 { font-size: 1.25rem; margin-top: 2.5rem; border-bottom: 1px solid var(--border); padding-bottom: 0.3rem; }
+  p.lead { color: var(--muted); font-size: 1.05rem; }
+  a { color: var(--accent); }
+  code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.1em 0.35em;
+    font-size: 0.9em;
+  }
+  pre {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1rem;
+    overflow-x: auto;
+    font-size: 0.85rem;
+  }
+  table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+  th, td { text-align: left; padding: 0.5rem 0.6rem; border-bottom: 1px solid var(--border); vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; }
+  ul { padding-left: 1.25rem; }
+  li { margin-bottom: 0.4rem; }
+  .badge {
+    display: inline-block;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 0.15rem 0.7rem;
+    font-size: 0.8rem;
+    color: var(--muted);
+    margin-right: 0.4rem;
+  }
+  footer.hire-me {
+    margin-top: 3rem;
+    border-top: 1px solid var(--border);
+    padding-top: 1.5rem;
+  }
+  footer.hire-me h3 { margin: 0 0 0.5rem; }
+  footer.hire-me p { margin: 0.25rem 0; }
+  #output {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1rem;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 0.85rem;
+    white-space: pre-wrap;
+    min-height: 4rem;
+    color: var(--muted);
+  }
+</style>
+</head>
+<body>
+<main>
+
+<h1>HTML Entities API</h1>
+<p class="lead">
+  All 2,231 named character references from the WHATWG HTML Standard as free static JSON.
+  No authentication. No server. No rate limit.
+</p>
+<p>
+  <span class="badge">2,231 entities</span>
+  <span class="badge">106 legacy</span>
+  <span class="badge">updated weekly</span>
+</p>
+
+<h2>Try it</h2>
+<pre>curl https://chirag127.github.io/html-entities-api/api/v1/entities.json</pre>
+<p>Or fetch the first record right now:</p>
+<div id="output">Loading…</div>
+
+<h2>Endpoints</h2>
+<table>
+  <tr><th>Endpoint</th><th>Description</th><th>Size</th></tr>
+  <tr>
+    <td><code>/api/v1/entities.json</code></td>
+    <td>All 2,231 entities</td>
+    <td>~410 KB</td>
+  </tr>
+  <tr>
+    <td><code>/api/v1/entities/index.json</code></td>
+    <td>Name → <code>{codepoints, legacy}</code> map for all 2,231 references</td>
+    <td>~90 KB</td>
+  </tr>
+  <tr>
+    <td><code>/api/v1/characters/{codepoint}.json</code></td>
+    <td>One character per file, keyed by decimal codepoint — e.g. <code>/api/v1/characters/38.json</code> returns <code>&amp;</code> with every entity name that maps to it</td>
+    <td>1,511 files</td>
+  </tr>
+  <tr>
+    <td><code>/data/entities.json</code></td>
+    <td>Same data as above (source of truth for the repo)</td>
+    <td>~410 KB</td>
+  </tr>
+</table>
+
+<h2>What you get</h2>
+<table>
+  <tr><th>Field</th><th>Example</th><th>Notes</th></tr>
+  <tr>
+    <td><code>name</code></td>
+    <td><code>&amp;amp;</code></td>
+    <td>The reference exactly as written in the spec, including <code>&amp;</code> and the trailing <code>;</code> when present</td>
+  </tr>
+  <tr>
+    <td><code>codepoints</code></td>
+    <td><code>[38]</code></td>
+    <td>Decimal Unicode codepoints, one per character — multi-codepoint for sequences like <code>&amp;NotEqualTilde;</code> → <code>[8770, 824]</code></td>
+  </tr>
+  <tr>
+    <td><code>codepointsHex</code></td>
+    <td><code>["0x0026"]</code></td>
+    <td>The same codepoints as 4-digit uppercase hex</td>
+  </tr>
+  <tr>
+    <td><code>character</code></td>
+    <td><code>&amp;</code></td>
+    <td>The rendered character or sequence</td>
+  </tr>
+  <tr>
+    <td><code>legacy</code></td>
+    <td><code>false</code></td>
+    <td><code>true</code> when the reference has no trailing semicolon — tolerated in HTML attributes, not valid in XHTML/XML</td>
+  </tr>
+</table>
+
+<h2>How it stays fresh</h2>
+<p>
+  The <code>update.yml</code> workflow runs weekly, fetches
+  <a href="https://html.spec.whatwg.org/entities.json">entities.json</a> from the WHATWG HTML
+  Standard, regenerates the JSON and commits only when the data actually changed. GitHub Pages
+  serves the result. No server to run.
+</p>
+
+<h2>Data source and accuracy</h2>
+<p>
+  The <a href="https://html.spec.whatwg.org/multipage/syntax.html#character-references">WHATWG
+  HTML Standard</a> publishes <code>entities.json</code> as the authoritative list of every named
+  character reference browsers must support. It covers both the legacy (no-semicolon) and full
+  (semicolon) forms, 106 and 2,125 of them respectively. It does not include numeric references
+  (<code>&amp;#38;</code>, <code>&amp;#x26;</code>) — those are computable from the codepoint
+  itself and deliberately not listed.
+</p>
+
+<h2>Limits, stated plainly</h2>
+<ul>
+  <li>The full dataset is ~410 KB — fine for a one-off fetch, but use the per-character endpoints if you need one lookup at a time.</li>
+  <li>No per-entity file: case-insensitive filesystems make <code>&amp;AMP;.json</code> and <code>&amp;amp;.json</code> collide, so lookups go through the index or the character files.</li>
+  <li>The entity list is extremely stable — the weekly workflow may go many runs without a commit.</li>
+  <li>The data is generated from the spec at build time; the commit history is the only change log.</li>
+</ul>
+
+<h2>Licence</h2>
+<p>Data: the WHATWG HTML Standard entity list (WHATWG), reproduced as-is. Code: MIT.</p>
+
+<footer class="hire-me">
+  <h3>Hire me</h3>
+  <p>Chirag Singhal — building free, open APIs and tools.</p>
+  <p>
+    <a href="mailto:chirag@oriz.in">chirag@oriz.in</a> ·
+    <a href="https://github.com/chirag127">GitHub</a> ·
+    <a href="https://www.linkedin.com/in/chirag127/">LinkedIn</a> ·
+    <a href="https://x.com/singhal127">X</a> ·
+    <a href="https://www.youtube.com/@ChiragSinghal127">YouTube</a> ·
+    <a href="https://www.instagram.com/chiragsinghal127/">Instagram</a> ·
+    <a href="https://www.reddit.com/user/Far_Macaron_9910/">Reddit</a> ·
+    <a href="https://buymeacoffee.com/chirag127">Buy me a coffee</a>
+  </p>
+</footer>
+
+</main>
+<script>
+  fetch("api/v1/entities.json")
+    .then((r) => r.json())
+    .then((d) => {
+      document.getElementById("output").textContent =
+        JSON.stringify(d.entities[0], null, 2) + "\n… " + d.count + " entities total";
+    })
+    .catch(() => {
+      document.getElementById("output").textContent =
+        "Live fetch failed here — on GitHub Pages this returns the real data.";
+    });
+</script>
+</body>
+</html>

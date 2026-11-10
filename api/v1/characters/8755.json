@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8755
+  ],
+  "codepointsHex": [
+    "0x2233"
+  ],
+  "character": "∳",
+  "names": [
+    {
+      "name": "&CounterClockwiseContourIntegral;",
+      "legacy": false
+    },
+    {
+      "name": "&awconint;",
+      "legacy": false
+    }
+  ]
+}

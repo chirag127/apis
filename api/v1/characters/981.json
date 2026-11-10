@@ -1,0 +1,24 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    981
+  ],
+  "codepointsHex": [
+    "0x03D5"
+  ],
+  "character": "ϕ",
+  "names": [
+    {
+      "name": "&phiv;",
+      "legacy": false
+    },
+    {
+      "name": "&straightphi;",
+      "legacy": false
+    },
+    {
+      "name": "&varphi;",
+      "legacy": false
+    }
+  ]
+}

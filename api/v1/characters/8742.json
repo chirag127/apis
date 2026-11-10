@@ -1,0 +1,32 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8742
+  ],
+  "codepointsHex": [
+    "0x2226"
+  ],
+  "character": "∦",
+  "names": [
+    {
+      "name": "&NotDoubleVerticalBar;",
+      "legacy": false
+    },
+    {
+      "name": "&npar;",
+      "legacy": false
+    },
+    {
+      "name": "&nparallel;",
+      "legacy": false
+    },
+    {
+      "name": "&nshortparallel;",
+      "legacy": false
+    },
+    {
+      "name": "&nspar;",
+      "legacy": false
+    }
+  ]
+}

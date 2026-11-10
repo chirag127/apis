@@ -1,0 +1,28 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8476
+  ],
+  "codepointsHex": [
+    "0x211C"
+  ],
+  "character": "ℜ",
+  "names": [
+    {
+      "name": "&Re;",
+      "legacy": false
+    },
+    {
+      "name": "&Rfr;",
+      "legacy": false
+    },
+    {
+      "name": "&real;",
+      "legacy": false
+    },
+    {
+      "name": "&realpart;",
+      "legacy": false
+    }
+  ]
+}

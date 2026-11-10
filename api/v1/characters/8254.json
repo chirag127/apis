@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8254
+  ],
+  "codepointsHex": [
+    "0x203E"
+  ],
+  "character": "‾",
+  "names": [
+    {
+      "name": "&OverBar;",
+      "legacy": false
+    },
+    {
+      "name": "&oline;",
+      "legacy": false
+    }
+  ]
+}

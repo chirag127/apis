@@ -1,0 +1,28 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    9642
+  ],
+  "codepointsHex": [
+    "0x25AA"
+  ],
+  "character": "▪",
+  "names": [
+    {
+      "name": "&FilledVerySmallSquare;",
+      "legacy": false
+    },
+    {
+      "name": "&blacksquare;",
+      "legacy": false
+    },
+    {
+      "name": "&squarf;",
+      "legacy": false
+    },
+    {
+      "name": "&squf;",
+      "legacy": false
+    }
+  ]
+}

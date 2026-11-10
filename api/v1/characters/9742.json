@@ -1,0 +1,16 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    9742
+  ],
+  "codepointsHex": [
+    "0x260E"
+  ],
+  "character": "☎",
+  "names": [
+    {
+      "name": "&phone;",
+      "legacy": false
+    }
+  ]
+}

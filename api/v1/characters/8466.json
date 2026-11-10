@@ -1,0 +1,24 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8466
+  ],
+  "codepointsHex": [
+    "0x2112"
+  ],
+  "character": "ℒ",
+  "names": [
+    {
+      "name": "&Laplacetrf;",
+      "legacy": false
+    },
+    {
+      "name": "&Lscr;",
+      "legacy": false
+    },
+    {
+      "name": "&lagran;",
+      "legacy": false
+    }
+  ]
+}

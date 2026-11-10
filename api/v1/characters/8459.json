@@ -1,0 +1,24 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8459
+  ],
+  "codepointsHex": [
+    "0x210B"
+  ],
+  "character": "ℋ",
+  "names": [
+    {
+      "name": "&HilbertSpace;",
+      "legacy": false
+    },
+    {
+      "name": "&Hscr;",
+      "legacy": false
+    },
+    {
+      "name": "&hamilt;",
+      "legacy": false
+    }
+  ]
+}

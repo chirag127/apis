@@ -1,0 +1,24 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8811
+  ],
+  "codepointsHex": [
+    "0x226B"
+  ],
+  "character": "≫",
+  "names": [
+    {
+      "name": "&Gt;",
+      "legacy": false
+    },
+    {
+      "name": "&NestedGreaterGreater;",
+      "legacy": false
+    },
+    {
+      "name": "&gg;",
+      "legacy": false
+    }
+  ]
+}

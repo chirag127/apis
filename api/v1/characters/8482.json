@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8482
+  ],
+  "codepointsHex": [
+    "0x2122"
+  ],
+  "character": "™",
+  "names": [
+    {
+      "name": "&TRADE;",
+      "legacy": false
+    },
+    {
+      "name": "&trade;",
+      "legacy": false
+    }
+  ]
+}
