@@ -1,0 +1,14 @@
+{
+  "id": "DocBook-Schema",
+  "name": "DocBook Schema License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 68,
+  "reference": "https://spdx.org/licenses/DocBook-Schema.html",
+  "detailsUrl": "https://spdx.org/licenses/DocBook-Schema.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/DocBook-Schema.txt",
+  "seeAlso": [
+    "https://github.com/docbook/xslt10-stylesheets/blob/efd62655c11cc8773708df7a843613fa1e932bf8/xsl/assembly/schema/docbook51b7.rnc"
+  ]
+}

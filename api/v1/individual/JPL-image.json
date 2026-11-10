@@ -1,0 +1,14 @@
+{
+  "id": "JPL-image",
+  "name": "JPL Image Use Policy",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 494,
+  "reference": "https://spdx.org/licenses/JPL-image.html",
+  "detailsUrl": "https://spdx.org/licenses/JPL-image.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/JPL-image.txt",
+  "seeAlso": [
+    "https://www.jpl.nasa.gov/jpl-image-use-policy"
+  ]
+}

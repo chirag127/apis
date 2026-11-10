@@ -1,0 +1,14 @@
+{
+  "id": "CC-BY-3.0-US",
+  "name": "Creative Commons Attribution 3.0 United States",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 230,
+  "reference": "https://spdx.org/licenses/CC-BY-3.0-US.html",
+  "detailsUrl": "https://spdx.org/licenses/CC-BY-3.0-US.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-3.0-US.txt",
+  "seeAlso": [
+    "https://creativecommons.org/licenses/by/3.0/us/legalcode"
+  ]
+}

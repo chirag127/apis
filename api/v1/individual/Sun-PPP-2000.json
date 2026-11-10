@@ -1,0 +1,14 @@
+{
+  "id": "Sun-PPP-2000",
+  "name": "Sun PPP License (2000)",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 724,
+  "reference": "https://spdx.org/licenses/Sun-PPP-2000.html",
+  "detailsUrl": "https://spdx.org/licenses/Sun-PPP-2000.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Sun-PPP-2000.txt",
+  "seeAlso": [
+    "https://github.com/ppp-project/ppp/blob/master/modules/ppp_ahdlc.c#L7-L19"
+  ]
+}

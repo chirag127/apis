@@ -1,0 +1,15 @@
+{
+  "id": "Fair",
+  "name": "Fair License",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 720,
+  "reference": "https://spdx.org/licenses/Fair.html",
+  "detailsUrl": "https://spdx.org/licenses/Fair.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Fair.txt",
+  "seeAlso": [
+    "https://web.archive.org/web/20150926120323/http://fairlicense.org/",
+    "https://opensource.org/license/Fair"
+  ]
+}

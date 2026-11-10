@@ -1,0 +1,14 @@
+{
+  "id": "BSD-3-Clause-Clear",
+  "name": "BSD 3-Clause Clear License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": true,
+  "referenceNumber": 640,
+  "reference": "https://spdx.org/licenses/BSD-3-Clause-Clear.html",
+  "detailsUrl": "https://spdx.org/licenses/BSD-3-Clause-Clear.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-Clear.txt",
+  "seeAlso": [
+    "http://labs.metacarta.com/license-explanation.html#license"
+  ]
+}

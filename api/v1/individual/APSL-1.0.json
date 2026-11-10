@@ -1,0 +1,14 @@
+{
+  "id": "APSL-1.0",
+  "name": "Apple Public Source License 1.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 374,
+  "reference": "https://spdx.org/licenses/APSL-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/APSL-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/APSL-1.0.txt",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/Apple_Public_Source_License_1.0"
+  ]
+}

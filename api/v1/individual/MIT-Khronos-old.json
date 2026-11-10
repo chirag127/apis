@@ -1,0 +1,14 @@
+{
+  "id": "MIT-Khronos-old",
+  "name": "MIT Khronos - old variant",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 40,
+  "reference": "https://spdx.org/licenses/MIT-Khronos-old.html",
+  "detailsUrl": "https://spdx.org/licenses/MIT-Khronos-old.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT-Khronos-old.txt",
+  "seeAlso": [
+    "https://github.com/KhronosGroup/SPIRV-Cross/blob/main/LICENSES/LicenseRef-KhronosFreeUse.txt"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "FSFULLRSD",
+  "name": "FSF Unlimited License (with License Retention and Short Disclaimer)",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 560,
+  "reference": "https://spdx.org/licenses/FSFULLRSD.html",
+  "detailsUrl": "https://spdx.org/licenses/FSFULLRSD.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/FSFULLRSD.txt",
+  "seeAlso": [
+    "https://git.savannah.gnu.org/cgit/gnulib.git/tree/modules/COPYING?id=7b08932179d0d6b017f7df01a2ddf6e096b038e3"
+  ]
+}

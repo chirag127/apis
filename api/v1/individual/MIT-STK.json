@@ -1,0 +1,14 @@
+{
+  "id": "MIT-STK",
+  "name": "MIT-STK License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 13,
+  "reference": "https://spdx.org/licenses/MIT-STK.html",
+  "detailsUrl": "https://spdx.org/licenses/MIT-STK.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT-STK.txt",
+  "seeAlso": [
+    "https://github.com/thestk/stk/blob/6aacd357d76250bb7da2b1ddf675651828784bbc/LICENSE"
+  ]
+}

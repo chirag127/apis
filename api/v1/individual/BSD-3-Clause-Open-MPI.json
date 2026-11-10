@@ -1,0 +1,15 @@
+{
+  "id": "BSD-3-Clause-Open-MPI",
+  "name": "BSD 3-Clause Open MPI variant",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 703,
+  "reference": "https://spdx.org/licenses/BSD-3-Clause-Open-MPI.html",
+  "detailsUrl": "https://spdx.org/licenses/BSD-3-Clause-Open-MPI.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-Open-MPI.txt",
+  "seeAlso": [
+    "https://www.open-mpi.org/community/license.php",
+    "http://www.netlib.org/lapack/LICENSE.txt"
+  ]
+}

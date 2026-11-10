@@ -1,0 +1,14 @@
+{
+  "id": "Arphic-1999",
+  "name": "Arphic Public License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 395,
+  "reference": "https://spdx.org/licenses/Arphic-1999.html",
+  "detailsUrl": "https://spdx.org/licenses/Arphic-1999.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Arphic-1999.txt",
+  "seeAlso": [
+    "http://ftp.gnu.org/gnu/non-gnu/chinese-fonts-truetype/LICENSE"
+  ]
+}

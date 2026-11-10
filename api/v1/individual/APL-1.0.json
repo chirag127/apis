@@ -1,0 +1,14 @@
+{
+  "id": "APL-1.0",
+  "name": "Adaptive Public License 1.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 347,
+  "reference": "https://spdx.org/licenses/APL-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/APL-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/APL-1.0.txt",
+  "seeAlso": [
+    "https://opensource.org/license/APL-1.0"
+  ]
+}

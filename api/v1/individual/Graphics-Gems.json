@@ -1,0 +1,14 @@
+{
+  "id": "Graphics-Gems",
+  "name": "Graphics Gems License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 684,
+  "reference": "https://spdx.org/licenses/Graphics-Gems.html",
+  "detailsUrl": "https://spdx.org/licenses/Graphics-Gems.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Graphics-Gems.txt",
+  "seeAlso": [
+    "https://github.com/erich666/GraphicsGems/blob/master/LICENSE.md"
+  ]
+}

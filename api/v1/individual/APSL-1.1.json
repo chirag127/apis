@@ -1,0 +1,14 @@
+{
+  "id": "APSL-1.1",
+  "name": "Apple Public Source License 1.1",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 39,
+  "reference": "https://spdx.org/licenses/APSL-1.1.html",
+  "detailsUrl": "https://spdx.org/licenses/APSL-1.1.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/APSL-1.1.txt",
+  "seeAlso": [
+    "http://www.opensource.apple.com/source/IOSerialFamily/IOSerialFamily-7/APPLE_LICENSE"
+  ]
+}

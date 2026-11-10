@@ -1,0 +1,14 @@
+{
+  "id": "Leptonica",
+  "name": "Leptonica License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 556,
+  "reference": "https://spdx.org/licenses/Leptonica.html",
+  "detailsUrl": "https://spdx.org/licenses/Leptonica.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Leptonica.txt",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/Leptonica"
+  ]
+}

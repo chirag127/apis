@@ -1,0 +1,15 @@
+{
+  "id": "ClArtistic",
+  "name": "Clarified Artistic License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": true,
+  "referenceNumber": 166,
+  "reference": "https://spdx.org/licenses/ClArtistic.html",
+  "detailsUrl": "https://spdx.org/licenses/ClArtistic.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/ClArtistic.txt",
+  "seeAlso": [
+    "http://gianluca.dellavedova.org/2011/01/03/clarified-artistic-license/",
+    "http://www.ncftp.com/ncftp/doc/LICENSE.txt"
+  ]
+}

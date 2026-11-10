@@ -1,0 +1,14 @@
+{
+  "id": "SimPL-2.0",
+  "name": "Simple Public License 2.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 84,
+  "reference": "https://spdx.org/licenses/SimPL-2.0.html",
+  "detailsUrl": "https://spdx.org/licenses/SimPL-2.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/SimPL-2.0.txt",
+  "seeAlso": [
+    "https://opensource.org/license/SiMPL-2.0"
+  ]
+}

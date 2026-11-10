@@ -1,0 +1,14 @@
+{
+  "id": "APSL-1.2",
+  "name": "Apple Public Source License 1.2",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 586,
+  "reference": "https://spdx.org/licenses/APSL-1.2.html",
+  "detailsUrl": "https://spdx.org/licenses/APSL-1.2.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/APSL-1.2.txt",
+  "seeAlso": [
+    "http://www.samurajdata.se/opensource/mirror/licenses/apsl.php"
+  ]
+}

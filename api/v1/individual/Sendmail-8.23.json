@@ -1,0 +1,15 @@
+{
+  "id": "Sendmail-8.23",
+  "name": "Sendmail License 8.23",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 330,
+  "reference": "https://spdx.org/licenses/Sendmail-8.23.html",
+  "detailsUrl": "https://spdx.org/licenses/Sendmail-8.23.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Sendmail-8.23.txt",
+  "seeAlso": [
+    "https://www.proofpoint.com/sites/default/files/sendmail-license.pdf",
+    "https://web.archive.org/web/20181003101040/https://www.proofpoint.com/sites/default/files/sendmail-license.pdf"
+  ]
+}

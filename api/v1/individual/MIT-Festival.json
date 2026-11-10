@@ -1,0 +1,15 @@
+{
+  "id": "MIT-Festival",
+  "name": "MIT Festival Variant",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 151,
+  "reference": "https://spdx.org/licenses/MIT-Festival.html",
+  "detailsUrl": "https://spdx.org/licenses/MIT-Festival.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT-Festival.txt",
+  "seeAlso": [
+    "https://github.com/festvox/flite/blob/master/COPYING",
+    "https://github.com/festvox/speech_tools/blob/master/COPYING"
+  ]
+}

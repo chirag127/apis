@@ -1,0 +1,14 @@
+{
+  "id": "threeparttable",
+  "name": "threeparttable License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 329,
+  "reference": "https://spdx.org/licenses/threeparttable.html",
+  "detailsUrl": "https://spdx.org/licenses/threeparttable.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/threeparttable.txt",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/Threeparttable"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "TTYP0",
+  "name": "TTYP0 License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 600,
+  "reference": "https://spdx.org/licenses/TTYP0.html",
+  "detailsUrl": "https://spdx.org/licenses/TTYP0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/TTYP0.txt",
+  "seeAlso": [
+    "https://people.mpi-inf.mpg.de/~uwe/misc/uw-ttyp0/"
+  ]
+}

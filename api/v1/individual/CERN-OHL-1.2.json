@@ -1,0 +1,14 @@
+{
+  "id": "CERN-OHL-1.2",
+  "name": "CERN Open Hardware Licence v1.2",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 500,
+  "reference": "https://spdx.org/licenses/CERN-OHL-1.2.html",
+  "detailsUrl": "https://spdx.org/licenses/CERN-OHL-1.2.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CERN-OHL-1.2.txt",
+  "seeAlso": [
+    "https://www.ohwr.org/project/licenses/wikis/cern-ohl-v1.2"
+  ]
+}

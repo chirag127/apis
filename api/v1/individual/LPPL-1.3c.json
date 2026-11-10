@@ -1,0 +1,15 @@
+{
+  "id": "LPPL-1.3c",
+  "name": "LaTeX Project Public License v1.3c",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 164,
+  "reference": "https://spdx.org/licenses/LPPL-1.3c.html",
+  "detailsUrl": "https://spdx.org/licenses/LPPL-1.3c.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/LPPL-1.3c.txt",
+  "seeAlso": [
+    "http://www.latex-project.org/lppl/LPPL-1.3c.txt",
+    "https://opensource.org/license/LPPL-1.3c"
+  ]
+}

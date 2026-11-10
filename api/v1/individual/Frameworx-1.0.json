@@ -1,0 +1,14 @@
+{
+  "id": "Frameworx-1.0",
+  "name": "Frameworx Open License 1.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 348,
+  "reference": "https://spdx.org/licenses/Frameworx-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/Frameworx-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Frameworx-1.0.txt",
+  "seeAlso": [
+    "https://opensource.org/license/Frameworx-1.0"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "CECILL-B",
+  "name": "CeCILL-B Free Software License Agreement",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": true,
+  "referenceNumber": 621,
+  "reference": "https://spdx.org/licenses/CECILL-B.html",
+  "detailsUrl": "https://spdx.org/licenses/CECILL-B.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CECILL-B.txt",
+  "seeAlso": [
+    "http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.html"
+  ]
+}

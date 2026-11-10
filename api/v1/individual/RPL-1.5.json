@@ -1,0 +1,14 @@
+{
+  "id": "RPL-1.5",
+  "name": "Reciprocal Public License 1.5",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 50,
+  "reference": "https://spdx.org/licenses/RPL-1.5.html",
+  "detailsUrl": "https://spdx.org/licenses/RPL-1.5.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/RPL-1.5.txt",
+  "seeAlso": [
+    "https://opensource.org/license/RPL-1.5"
+  ]
+}

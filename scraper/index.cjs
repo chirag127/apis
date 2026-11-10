@@ -1,6 +1,6 @@
 /**
- * Software Licenses Scraper
- * Source: SPDX / public docs
+ * Software Licences Scraper
+ * Source: SPDX License List
  * Run: node scraper/index.cjs
  */
 const fs = require('fs');
@@ -11,7 +11,7 @@ const OUTPUT_DIR = path.join(__dirname, '../api/v1');
 
 async function scrape() {
   console.log('Software Licenses Scraper');
-  console.log('Source:', 'SPDX / public docs');
+  console.log('Source:', "SPDX License List JSON");
   console.log('Note: Static reference data. Validating existing data.');
 
   const existing = JSON.parse(fs.readFileSync(path.join(OUTPUT_DIR, 'data.json'), 'utf8'));

@@ -1,0 +1,14 @@
+{
+  "id": "Kastrup",
+  "name": "Kastrup License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 208,
+  "reference": "https://spdx.org/licenses/Kastrup.html",
+  "detailsUrl": "https://spdx.org/licenses/Kastrup.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Kastrup.txt",
+  "seeAlso": [
+    "https://ctan.math.utah.edu/ctan/tex-archive/macros/generic/kastrup/binhex.dtx"
+  ]
+}

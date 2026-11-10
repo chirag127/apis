@@ -1,0 +1,14 @@
+{
+  "id": "DSDP",
+  "name": "DSDP License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 606,
+  "reference": "https://spdx.org/licenses/DSDP.html",
+  "detailsUrl": "https://spdx.org/licenses/DSDP.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/DSDP.txt",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/DSDP"
+  ]
+}

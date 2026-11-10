@@ -1,0 +1,15 @@
+{
+  "id": "MIT-CMU",
+  "name": "CMU License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 712,
+  "reference": "https://spdx.org/licenses/MIT-CMU.html",
+  "detailsUrl": "https://spdx.org/licenses/MIT-CMU.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT-CMU.txt",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#CMU_Style",
+    "https://github.com/python-pillow/Pillow/blob/fffb426092c8db24a5f4b6df243a8a3c01fb63cd/LICENSE"
+  ]
+}

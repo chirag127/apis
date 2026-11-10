@@ -1,0 +1,14 @@
+{
+  "id": "Abstyles",
+  "name": "Abstyles License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 623,
+  "reference": "https://spdx.org/licenses/Abstyles.html",
+  "detailsUrl": "https://spdx.org/licenses/Abstyles.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Abstyles.txt",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/Abstyles"
+  ]
+}

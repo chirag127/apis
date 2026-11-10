@@ -1,0 +1,14 @@
+{
+  "id": "CC-BY-2.5-AU",
+  "name": "Creative Commons Attribution 2.5 Australia",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 732,
+  "reference": "https://spdx.org/licenses/CC-BY-2.5-AU.html",
+  "detailsUrl": "https://spdx.org/licenses/CC-BY-2.5-AU.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-2.5-AU.txt",
+  "seeAlso": [
+    "https://creativecommons.org/licenses/by/2.5/au/legalcode"
+  ]
+}

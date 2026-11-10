@@ -1,0 +1,14 @@
+{
+  "id": "radvd",
+  "name": "radvd License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 241,
+  "reference": "https://spdx.org/licenses/radvd.html",
+  "detailsUrl": "https://spdx.org/licenses/radvd.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/radvd.txt",
+  "seeAlso": [
+    "https://github.com/radvd-project/radvd/blob/master/COPYRIGHT"
+  ]
+}

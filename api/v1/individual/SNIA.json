@@ -1,0 +1,14 @@
+{
+  "id": "SNIA",
+  "name": "SNIA Public License 1.1",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 137,
+  "reference": "https://spdx.org/licenses/SNIA.html",
+  "detailsUrl": "https://spdx.org/licenses/SNIA.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/SNIA.txt",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/SNIA_Public_License"
+  ]
+}

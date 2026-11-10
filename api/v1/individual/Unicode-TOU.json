@@ -1,0 +1,15 @@
+{
+  "id": "Unicode-TOU",
+  "name": "Unicode Terms of Use",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 568,
+  "reference": "https://spdx.org/licenses/Unicode-TOU.html",
+  "detailsUrl": "https://spdx.org/licenses/Unicode-TOU.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Unicode-TOU.txt",
+  "seeAlso": [
+    "http://web.archive.org/web/20140704074106/http://www.unicode.org/copyright.html",
+    "http://www.unicode.org/copyright.html"
+  ]
+}

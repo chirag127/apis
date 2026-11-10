@@ -1,0 +1,12 @@
+{
+  "id": "ALGLIB-Documentation",
+  "name": "ALGLIB Documentation License",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 583,
+  "reference": "https://spdx.org/licenses/ALGLIB-Documentation.html",
+  "detailsUrl": "https://spdx.org/licenses/ALGLIB-Documentation.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/ALGLIB-Documentation.txt",
+  "seeAlso": []
+}

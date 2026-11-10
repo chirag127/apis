@@ -1,0 +1,15 @@
+{
+  "id": "CDDL-1.1",
+  "name": "Common Development and Distribution License 1.1",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 183,
+  "reference": "https://spdx.org/licenses/CDDL-1.1.html",
+  "detailsUrl": "https://spdx.org/licenses/CDDL-1.1.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CDDL-1.1.txt",
+  "seeAlso": [
+    "http://glassfish.java.net/public/CDDL+GPL_1_1.html",
+    "https://javaee.github.io/glassfish/LICENSE"
+  ]
+}

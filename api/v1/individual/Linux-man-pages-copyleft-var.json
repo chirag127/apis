@@ -1,0 +1,14 @@
+{
+  "id": "Linux-man-pages-copyleft-var",
+  "name": "Linux man-pages Copyleft Variant",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 143,
+  "reference": "https://spdx.org/licenses/Linux-man-pages-copyleft-var.html",
+  "detailsUrl": "https://spdx.org/licenses/Linux-man-pages-copyleft-var.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Linux-man-pages-copyleft-var.txt",
+  "seeAlso": [
+    "https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/man2/set_mempolicy.2#n5"
+  ]
+}

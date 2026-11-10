@@ -1,0 +1,14 @@
+{
+  "id": "NPL-1.0",
+  "name": "Netscape Public License v1.0",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": true,
+  "referenceNumber": 290,
+  "reference": "https://spdx.org/licenses/NPL-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/NPL-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/NPL-1.0.txt",
+  "seeAlso": [
+    "http://www.mozilla.org/MPL/NPL/1.0/"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "GPL-2.0-with-classpath-exception",
+  "name": "GNU General Public License v2.0 w/Classpath exception",
+  "deprecated": true,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 385,
+  "reference": "https://spdx.org/licenses/GPL-2.0-with-classpath-exception.html",
+  "detailsUrl": "https://spdx.org/licenses/GPL-2.0-with-classpath-exception.json",
+  "textUrl": null,
+  "seeAlso": [
+    "https://www.gnu.org/software/classpath/license.html"
+  ]
+}

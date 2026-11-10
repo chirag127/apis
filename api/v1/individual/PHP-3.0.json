@@ -1,0 +1,15 @@
+{
+  "id": "PHP-3.0",
+  "name": "PHP License v3.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 604,
+  "reference": "https://spdx.org/licenses/PHP-3.0.html",
+  "detailsUrl": "https://spdx.org/licenses/PHP-3.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/PHP-3.0.txt",
+  "seeAlso": [
+    "http://www.php.net/license/3_0.txt",
+    "https://opensource.org/license/PHP-3.0"
+  ]
+}

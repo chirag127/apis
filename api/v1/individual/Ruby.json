@@ -1,0 +1,14 @@
+{
+  "id": "Ruby",
+  "name": "Ruby License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": true,
+  "referenceNumber": 693,
+  "reference": "https://spdx.org/licenses/Ruby.html",
+  "detailsUrl": "https://spdx.org/licenses/Ruby.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Ruby.txt",
+  "seeAlso": [
+    "https://www.ruby-lang.org/en/about/license.txt"
+  ]
+}

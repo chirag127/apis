@@ -1,0 +1,15 @@
+{
+  "id": "AGPL-3.0",
+  "name": "GNU Affero General Public License v3.0",
+  "deprecated": true,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 659,
+  "reference": "https://spdx.org/licenses/AGPL-3.0.html",
+  "detailsUrl": "https://spdx.org/licenses/AGPL-3.0.json",
+  "textUrl": null,
+  "seeAlso": [
+    "https://www.gnu.org/licenses/agpl.txt",
+    "https://opensource.org/license/AGPL-3.0"
+  ]
+}

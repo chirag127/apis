@@ -1,0 +1,14 @@
+{
+  "id": "CC-BY-NC-ND-2.5",
+  "name": "Creative Commons Attribution Non Commercial No Derivatives 2.5 Generic",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 349,
+  "reference": "https://spdx.org/licenses/CC-BY-NC-ND-2.5.html",
+  "detailsUrl": "https://spdx.org/licenses/CC-BY-NC-ND-2.5.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-ND-2.5.txt",
+  "seeAlso": [
+    "https://creativecommons.org/licenses/by-nc-nd/2.5/legalcode"
+  ]
+}

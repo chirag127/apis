@@ -1,0 +1,14 @@
+{
+  "id": "CC-BY-4.0",
+  "name": "Creative Commons Attribution 4.0 International",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": true,
+  "referenceNumber": 313,
+  "reference": "https://spdx.org/licenses/CC-BY-4.0.html",
+  "detailsUrl": "https://spdx.org/licenses/CC-BY-4.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-4.0.txt",
+  "seeAlso": [
+    "https://creativecommons.org/licenses/by/4.0/legalcode"
+  ]
+}

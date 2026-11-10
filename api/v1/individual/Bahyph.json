@@ -1,0 +1,14 @@
+{
+  "id": "Bahyph",
+  "name": "Bahyph License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 252,
+  "reference": "https://spdx.org/licenses/Bahyph.html",
+  "detailsUrl": "https://spdx.org/licenses/Bahyph.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Bahyph.txt",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/Bahyph"
+  ]
+}

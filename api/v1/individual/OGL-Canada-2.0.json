@@ -1,0 +1,14 @@
+{
+  "id": "OGL-Canada-2.0",
+  "name": "Open Government Licence - Canada",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 731,
+  "reference": "https://spdx.org/licenses/OGL-Canada-2.0.html",
+  "detailsUrl": "https://spdx.org/licenses/OGL-Canada-2.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/OGL-Canada-2.0.txt",
+  "seeAlso": [
+    "https://open.canada.ca/en/open-government-licence-canada"
+  ]
+}

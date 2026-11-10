@@ -1,0 +1,14 @@
+{
+  "id": "psfrag",
+  "name": "psfrag License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 729,
+  "reference": "https://spdx.org/licenses/psfrag.html",
+  "detailsUrl": "https://spdx.org/licenses/psfrag.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/psfrag.txt",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/psfrag"
+  ]
+}

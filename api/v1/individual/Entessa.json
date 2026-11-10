@@ -1,0 +1,14 @@
+{
+  "id": "Entessa",
+  "name": "Entessa Public License v1.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 386,
+  "reference": "https://spdx.org/licenses/Entessa.html",
+  "detailsUrl": "https://spdx.org/licenses/Entessa.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Entessa.txt",
+  "seeAlso": [
+    "https://opensource.org/license/Entessa"
+  ]
+}

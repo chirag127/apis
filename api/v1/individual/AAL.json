@@ -1,0 +1,14 @@
+{
+  "id": "AAL",
+  "name": "Attribution Assurance License",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 223,
+  "reference": "https://spdx.org/licenses/AAL.html",
+  "detailsUrl": "https://spdx.org/licenses/AAL.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/AAL.txt",
+  "seeAlso": [
+    "https://opensource.org/license/AAL"
+  ]
+}

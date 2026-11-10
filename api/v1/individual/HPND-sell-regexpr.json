@@ -1,0 +1,14 @@
+{
+  "id": "HPND-sell-regexpr",
+  "name": "Historical Permission Notice and Disclaimer - sell regexpr variant",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 715,
+  "reference": "https://spdx.org/licenses/HPND-sell-regexpr.html",
+  "detailsUrl": "https://spdx.org/licenses/HPND-sell-regexpr.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-sell-regexpr.txt",
+  "seeAlso": [
+    "https://gitlab.com/bacula-org/bacula/-/blob/Branch-11.0/bacula/LICENSE-FOSS?ref_type=heads#L245"
+  ]
+}

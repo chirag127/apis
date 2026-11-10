@@ -1,0 +1,14 @@
+{
+  "id": "CPAL-1.0",
+  "name": "Common Public Attribution License 1.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 709,
+  "reference": "https://spdx.org/licenses/CPAL-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/CPAL-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CPAL-1.0.txt",
+  "seeAlso": [
+    "https://opensource.org/license/CPAL-1.0"
+  ]
+}

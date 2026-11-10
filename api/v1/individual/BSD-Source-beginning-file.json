@@ -1,0 +1,14 @@
+{
+  "id": "BSD-Source-beginning-file",
+  "name": "BSD Source Code Attribution - beginning of file variant",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 415,
+  "reference": "https://spdx.org/licenses/BSD-Source-beginning-file.html",
+  "detailsUrl": "https://spdx.org/licenses/BSD-Source-beginning-file.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-Source-beginning-file.txt",
+  "seeAlso": [
+    "https://github.com/lattera/freebsd/blob/master/sys/cam/cam.c#L4"
+  ]
+}

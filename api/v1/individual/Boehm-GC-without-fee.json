@@ -1,0 +1,14 @@
+{
+  "id": "Boehm-GC-without-fee",
+  "name": "Boehm-Demers-Weiser GC License (without fee)",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 253,
+  "reference": "https://spdx.org/licenses/Boehm-GC-without-fee.html",
+  "detailsUrl": "https://spdx.org/licenses/Boehm-GC-without-fee.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Boehm-GC-without-fee.txt",
+  "seeAlso": [
+    "https://github.com/MariaDB/server/blob/11.6/libmysqld/lib_sql.cc"
+  ]
+}

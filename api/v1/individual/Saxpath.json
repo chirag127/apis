@@ -1,0 +1,14 @@
+{
+  "id": "Saxpath",
+  "name": "Saxpath License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 43,
+  "reference": "https://spdx.org/licenses/Saxpath.html",
+  "detailsUrl": "https://spdx.org/licenses/Saxpath.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Saxpath.txt",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/Saxpath_License"
+  ]
+}

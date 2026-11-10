@@ -1,0 +1,15 @@
+{
+  "id": "TTWL",
+  "name": "Text-Tabs+Wrap License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 517,
+  "reference": "https://spdx.org/licenses/TTWL.html",
+  "detailsUrl": "https://spdx.org/licenses/TTWL.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/TTWL.txt",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/TTWL",
+    "https://github.com/ap/Text-Tabs/blob/master/lib.modern/Text/Tabs.pm#L148"
+  ]
+}

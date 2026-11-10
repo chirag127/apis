@@ -1,0 +1,14 @@
+{
+  "id": "Crossword",
+  "name": "Crossword License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 430,
+  "reference": "https://spdx.org/licenses/Crossword.html",
+  "detailsUrl": "https://spdx.org/licenses/Crossword.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Crossword.txt",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/Crossword"
+  ]
+}

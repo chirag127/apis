@@ -1,0 +1,15 @@
+{
+  "id": "blessing",
+  "name": "SQLite Blessing",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 599,
+  "reference": "https://spdx.org/licenses/blessing.html",
+  "detailsUrl": "https://spdx.org/licenses/blessing.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/blessing.txt",
+  "seeAlso": [
+    "https://www.sqlite.org/src/artifact/e33a4df7e32d742a?ln=4-9",
+    "https://sqlite.org/src/artifact/df5091916dbb40e6"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "TAPR-OHL-1.0",
+  "name": "TAPR Open Hardware License v1.0",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 705,
+  "reference": "https://spdx.org/licenses/TAPR-OHL-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/TAPR-OHL-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/TAPR-OHL-1.0.txt",
+  "seeAlso": [
+    "https://www.tapr.org/OHL"
+  ]
+}

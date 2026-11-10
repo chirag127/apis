@@ -1,0 +1,14 @@
+{
+  "id": "GFDL-1.2-or-later",
+  "name": "GNU Free Documentation License v1.2 or later",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": true,
+  "referenceNumber": 63,
+  "reference": "https://spdx.org/licenses/GFDL-1.2-or-later.html",
+  "detailsUrl": "https://spdx.org/licenses/GFDL-1.2-or-later.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/GFDL-1.2-or-later.txt",
+  "seeAlso": [
+    "https://www.gnu.org/licenses/old-licenses/fdl-1.2.txt"
+  ]
+}

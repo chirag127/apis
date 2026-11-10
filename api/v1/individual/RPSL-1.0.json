@@ -1,0 +1,15 @@
+{
+  "id": "RPSL-1.0",
+  "name": "RealNetworks Public Source License v1.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 638,
+  "reference": "https://spdx.org/licenses/RPSL-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/RPSL-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/RPSL-1.0.txt",
+  "seeAlso": [
+    "https://helixcommunity.org/content/rpsl",
+    "https://opensource.org/license/RPSL-1.0"
+  ]
+}

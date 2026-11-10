@@ -1,0 +1,14 @@
+{
+  "id": "OSSP",
+  "name": "OSSP License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 445,
+  "reference": "https://spdx.org/licenses/OSSP.html",
+  "detailsUrl": "https://spdx.org/licenses/OSSP.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/OSSP.txt",
+  "seeAlso": [
+    "https://git.sr.ht/~nabijaczleweli/ossp-var"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "BSD-2-Clause",
+  "name": "BSD 2-Clause \"Simplified\" License",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 57,
+  "reference": "https://spdx.org/licenses/BSD-2-Clause.html",
+  "detailsUrl": "https://spdx.org/licenses/BSD-2-Clause.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-2-Clause.txt",
+  "seeAlso": [
+    "https://opensource.org/license/BSD-2-Clause"
+  ]
+}

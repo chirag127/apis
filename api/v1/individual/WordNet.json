@@ -1,0 +1,14 @@
+{
+  "id": "WordNet",
+  "name": "WordNet License",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 550,
+  "reference": "https://spdx.org/licenses/WordNet.html",
+  "detailsUrl": "https://spdx.org/licenses/WordNet.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/WordNet.txt",
+  "seeAlso": [
+    "https://wordnet.princeton.edu/license-and-commercial-use"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Game-Programming-Gems",
+  "name": "Game Programming Gems License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 607,
+  "reference": "https://spdx.org/licenses/Game-Programming-Gems.html",
+  "detailsUrl": "https://spdx.org/licenses/Game-Programming-Gems.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Game-Programming-Gems.txt",
+  "seeAlso": [
+    "https://github.com/OGRECave/ogre/blob/master/OgreMain/include/OgreSingleton.h#L28C3-L35C46"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "CNRI-Jython",
+  "name": "CNRI Jython License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 48,
+  "reference": "https://spdx.org/licenses/CNRI-Jython.html",
+  "detailsUrl": "https://spdx.org/licenses/CNRI-Jython.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CNRI-Jython.txt",
+  "seeAlso": [
+    "http://www.jython.org/license.html"
+  ]
+}

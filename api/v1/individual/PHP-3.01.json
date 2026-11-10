@@ -1,0 +1,14 @@
+{
+  "id": "PHP-3.01",
+  "name": "PHP License v3.01",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 326,
+  "reference": "https://spdx.org/licenses/PHP-3.01.html",
+  "detailsUrl": "https://spdx.org/licenses/PHP-3.01.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/PHP-3.01.txt",
+  "seeAlso": [
+    "http://www.php.net/license/3_01.txt"
+  ]
+}

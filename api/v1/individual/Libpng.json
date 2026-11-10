@@ -1,0 +1,14 @@
+{
+  "id": "Libpng",
+  "name": "libpng License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 90,
+  "reference": "https://spdx.org/licenses/Libpng.html",
+  "detailsUrl": "https://spdx.org/licenses/Libpng.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Libpng.txt",
+  "seeAlso": [
+    "http://www.libpng.org/pub/png/src/libpng-LICENSE.txt"
+  ]
+}

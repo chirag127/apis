@@ -1,0 +1,14 @@
+{
+  "id": "BSD-2-Clause-Darwin",
+  "name": "BSD 2-Clause - Ian Darwin variant",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 152,
+  "reference": "https://spdx.org/licenses/BSD-2-Clause-Darwin.html",
+  "detailsUrl": "https://spdx.org/licenses/BSD-2-Clause-Darwin.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-2-Clause-Darwin.txt",
+  "seeAlso": [
+    "https://github.com/file/file/blob/master/COPYING"
+  ]
+}

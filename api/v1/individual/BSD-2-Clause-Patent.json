@@ -1,0 +1,14 @@
+{
+  "id": "BSD-2-Clause-Patent",
+  "name": "BSD-2-Clause Plus Patent License",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 224,
+  "reference": "https://spdx.org/licenses/BSD-2-Clause-Patent.html",
+  "detailsUrl": "https://spdx.org/licenses/BSD-2-Clause-Patent.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-2-Clause-Patent.txt",
+  "seeAlso": [
+    "https://opensource.org/license/BSD-2-Clause-Patent"
+  ]
+}

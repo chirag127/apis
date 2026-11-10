@@ -1,0 +1,16 @@
+{
+  "id": "MIT-0",
+  "name": "MIT No Attribution",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 577,
+  "reference": "https://spdx.org/licenses/MIT-0.html",
+  "detailsUrl": "https://spdx.org/licenses/MIT-0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT-0.txt",
+  "seeAlso": [
+    "https://github.com/aws/mit-0",
+    "https://romanrm.net/mit-zero",
+    "https://github.com/awsdocs/aws-cloud9-user-guide/blob/master/LICENSE-SAMPLECODE"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "GPL-3.0-only",
+  "name": "GNU General Public License v3.0 only",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 298,
+  "reference": "https://spdx.org/licenses/GPL-3.0-only.html",
+  "detailsUrl": "https://spdx.org/licenses/GPL-3.0-only.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/GPL-3.0-only.txt",
+  "seeAlso": [
+    "https://www.gnu.org/licenses/gpl-3.0-standalone.html",
+    "https://opensource.org/license/GPL-3.0-only"
+  ]
+}

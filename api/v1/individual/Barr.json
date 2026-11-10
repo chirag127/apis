@@ -1,0 +1,14 @@
+{
+  "id": "Barr",
+  "name": "Barr License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 444,
+  "reference": "https://spdx.org/licenses/Barr.html",
+  "detailsUrl": "https://spdx.org/licenses/Barr.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Barr.txt",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/Barr"
+  ]
+}

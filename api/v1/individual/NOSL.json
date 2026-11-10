@@ -1,0 +1,14 @@
+{
+  "id": "NOSL",
+  "name": "Netizen Open Source License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": true,
+  "referenceNumber": 680,
+  "reference": "https://spdx.org/licenses/NOSL.html",
+  "detailsUrl": "https://spdx.org/licenses/NOSL.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/NOSL.txt",
+  "seeAlso": [
+    "http://bits.netizen.com.au/licenses/NOSL/nosl.txt"
+  ]
+}

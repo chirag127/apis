@@ -1,0 +1,14 @@
+{
+  "id": "NGPL",
+  "name": "Nethack General Public License",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 515,
+  "reference": "https://spdx.org/licenses/NGPL.html",
+  "detailsUrl": "https://spdx.org/licenses/NGPL.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/NGPL.txt",
+  "seeAlso": [
+    "https://opensource.org/license/NGPL"
+  ]
+}

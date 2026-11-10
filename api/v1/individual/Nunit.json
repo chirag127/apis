@@ -1,0 +1,14 @@
+{
+  "id": "Nunit",
+  "name": "Nunit License",
+  "deprecated": true,
+  "osiApproved": false,
+  "fsfLibre": true,
+  "referenceNumber": 636,
+  "reference": "https://spdx.org/licenses/Nunit.html",
+  "detailsUrl": "https://spdx.org/licenses/Nunit.json",
+  "textUrl": null,
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/Nunit"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "GPL-2.0-with-GCC-exception",
+  "name": "GNU General Public License v2.0 w/GCC Runtime Library exception",
+  "deprecated": true,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 660,
+  "reference": "https://spdx.org/licenses/GPL-2.0-with-GCC-exception.html",
+  "detailsUrl": "https://spdx.org/licenses/GPL-2.0-with-GCC-exception.json",
+  "textUrl": null,
+  "seeAlso": [
+    "https://gcc.gnu.org/git/?p=gcc.git;a=blob;f=gcc/libgcc1.c;h=762f5143fc6eed57b6797c82710f3538aa52b40b;hb=cb143a3ce4fb417c68f5fa2691a1b1b1053dfba9#l10"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "XFree86-1.1",
+  "name": "XFree86 License 1.1",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": true,
+  "referenceNumber": 21,
+  "reference": "https://spdx.org/licenses/XFree86-1.1.html",
+  "detailsUrl": "https://spdx.org/licenses/XFree86-1.1.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/XFree86-1.1.txt",
+  "seeAlso": [
+    "http://www.xfree86.org/current/LICENSE4.html"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "C-UDA-1.0",
+  "name": "Computational Use of Data Agreement v1.0",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 382,
+  "reference": "https://spdx.org/licenses/C-UDA-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/C-UDA-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/C-UDA-1.0.txt",
+  "seeAlso": [
+    "https://github.com/microsoft/Computational-Use-of-Data-Agreement/blob/master/C-UDA-1.0.md",
+    "https://cdla.dev/computational-use-of-data-agreement-v1-0/"
+  ]
+}

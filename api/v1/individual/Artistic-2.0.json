@@ -1,0 +1,16 @@
+{
+  "id": "Artistic-2.0",
+  "name": "Artistic License 2.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 220,
+  "reference": "https://spdx.org/licenses/Artistic-2.0.html",
+  "detailsUrl": "https://spdx.org/licenses/Artistic-2.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Artistic-2.0.txt",
+  "seeAlso": [
+    "http://www.perlfoundation.org/artistic_license_2_0",
+    "https://www.perlfoundation.org/artistic-license-20.html",
+    "https://opensource.org/license/Artistic-2.0"
+  ]
+}

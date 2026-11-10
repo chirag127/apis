@@ -1,0 +1,14 @@
+{
+  "id": "OSC-1.0",
+  "name": "OSC License 1.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 267,
+  "reference": "https://spdx.org/licenses/OSC-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/OSC-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/OSC-1.0.txt",
+  "seeAlso": [
+    "https://opensource.org/license/OSC-1.0"
+  ]
+}

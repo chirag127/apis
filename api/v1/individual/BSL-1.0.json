@@ -1,0 +1,15 @@
+{
+  "id": "BSL-1.0",
+  "name": "Boost Software License 1.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 507,
+  "reference": "https://spdx.org/licenses/BSL-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/BSL-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSL-1.0.txt",
+  "seeAlso": [
+    "http://www.boost.org/LICENSE_1_0.txt",
+    "https://opensource.org/license/BSL-1.0"
+  ]
+}

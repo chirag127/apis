@@ -1,0 +1,14 @@
+{
+  "id": "Adobe-Utopia",
+  "name": "Adobe Utopia Font License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 195,
+  "reference": "https://spdx.org/licenses/Adobe-Utopia.html",
+  "detailsUrl": "https://spdx.org/licenses/Adobe-Utopia.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Adobe-Utopia.txt",
+  "seeAlso": [
+    "https://gitlab.freedesktop.org/xorg/font/adobe-utopia-100dpi/-/blob/master/COPYING?ref_type=heads"
+  ]
+}

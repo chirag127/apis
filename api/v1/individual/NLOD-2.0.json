@@ -1,0 +1,14 @@
+{
+  "id": "NLOD-2.0",
+  "name": "Norwegian Licence for Open Government Data (NLOD) 2.0",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 51,
+  "reference": "https://spdx.org/licenses/NLOD-2.0.html",
+  "detailsUrl": "https://spdx.org/licenses/NLOD-2.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/NLOD-2.0.txt",
+  "seeAlso": [
+    "http://data.norge.no/nlod/en/2.0"
+  ]
+}

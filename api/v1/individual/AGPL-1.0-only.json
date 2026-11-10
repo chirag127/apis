@@ -1,0 +1,14 @@
+{
+  "id": "AGPL-1.0-only",
+  "name": "Affero General Public License v1.0 only",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 678,
+  "reference": "https://spdx.org/licenses/AGPL-1.0-only.html",
+  "detailsUrl": "https://spdx.org/licenses/AGPL-1.0-only.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/AGPL-1.0-only.txt",
+  "seeAlso": [
+    "http://www.affero.org/oagpl.html"
+  ]
+}

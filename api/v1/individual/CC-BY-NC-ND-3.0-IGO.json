@@ -1,0 +1,14 @@
+{
+  "id": "CC-BY-NC-ND-3.0-IGO",
+  "name": "Creative Commons Attribution Non Commercial No Derivatives 3.0 IGO",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 231,
+  "reference": "https://spdx.org/licenses/CC-BY-NC-ND-3.0-IGO.html",
+  "detailsUrl": "https://spdx.org/licenses/CC-BY-NC-ND-3.0-IGO.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-ND-3.0-IGO.txt",
+  "seeAlso": [
+    "https://creativecommons.org/licenses/by-nc-nd/3.0/igo/legalcode"
+  ]
+}

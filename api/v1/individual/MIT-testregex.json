@@ -1,0 +1,14 @@
+{
+  "id": "MIT-testregex",
+  "name": "MIT testregex Variant",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 665,
+  "reference": "https://spdx.org/licenses/MIT-testregex.html",
+  "detailsUrl": "https://spdx.org/licenses/MIT-testregex.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT-testregex.txt",
+  "seeAlso": [
+    "https://github.com/dotnet/runtime/blob/55e1ac7c07df62c4108d4acedf78f77574470ce5/src/libraries/System.Text.RegularExpressions/tests/FunctionalTests/AttRegexTests.cs#L12-L28"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "SHL-0.51",
+  "name": "Solderpad Hardware License, Version 0.51",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 169,
+  "reference": "https://spdx.org/licenses/SHL-0.51.html",
+  "detailsUrl": "https://spdx.org/licenses/SHL-0.51.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/SHL-0.51.txt",
+  "seeAlso": [
+    "https://solderpad.org/licenses/SHL-0.51/"
+  ]
+}
