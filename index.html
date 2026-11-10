@@ -229,7 +229,7 @@ function render() {
 // Live test: fetch each API and record the real record count.
 // Paths vary per repo (india-states serves states.json, not data.json), so probe
 // the known candidates and use the first that returns JSON. Bounded concurrency.
-const PROBE_PATHS = ["data.json", "index.json", "states.json", "elements.json", "compounds.json", "quotes.json", "emoji.json"];
+const PROBE_PATHS = ["data.json", "index.json", "states.json", "elements.json", "compounds.json", "quotes.json", "emoji.json", "ports.json", "entities/index.json"];
 
 async function liveTest() {
   const queue = APIS.slice();
