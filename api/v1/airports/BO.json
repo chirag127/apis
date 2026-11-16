@@ -1,6 +1,6 @@
 {
   "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
-  "count": 208,
+  "count": 220,
   "records": [
     {
       "ident": "BO-0003",
@@ -148,14 +148,14 @@
     {
       "ident": "BO-0014",
       "iata": null,
-      "icao": null,
-      "name": "Espiritu Airstrip",
+      "icao": "SLSL",
+      "name": "Santa Anita de Los Robles Airport",
       "type": "small_airport",
-      "lat": -16.226916,
+      "lat": -16.226915,
       "lon": -60.546454,
-      "elevation": null,
+      "elevation": 950,
       "country": "BO",
-      "municipality": "Espiritu",
+      "municipality": "Espiritu, Velasco",
       "scheduledService": "no"
     },
     {
@@ -289,6 +289,84 @@
       "scheduledService": "no"
     },
     {
+      "ident": "BO-0025",
+      "iata": null,
+      "icao": "SLHY",
+      "name": "Yacuses Heliport",
+      "type": "heliport",
+      "lat": -18.894902,
+      "lon": -58.422173,
+      "elevation": 509,
+      "country": "BO",
+      "municipality": "Germán Busch",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "BO-0026",
+      "iata": null,
+      "icao": "SLCR",
+      "name": "Carrasco Airport",
+      "type": "small_airport",
+      "lat": -17.212467,
+      "lon": -64.552985,
+      "elevation": 813,
+      "country": "BO",
+      "municipality": "Carrasco",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "BO-0027",
+      "iata": null,
+      "icao": "SLEC",
+      "name": "El Carmen de Ruiz Airport",
+      "type": "small_airport",
+      "lat": -16.034141,
+      "lon": -61.066386,
+      "elevation": 1185,
+      "country": "BO",
+      "municipality": "Velasco",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "BO-0028",
+      "iata": null,
+      "icao": "SLSP",
+      "name": "San Pablo Airport",
+      "type": "small_airport",
+      "lat": -17.557214,
+      "lon": -59.886755,
+      "elevation": 1048,
+      "country": "BO",
+      "municipality": "Chiquitos",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "BO-0029",
+      "iata": null,
+      "icao": "SLSJ",
+      "name": "San Juan Pando Airport",
+      "type": "small_airport",
+      "lat": -10.039906,
+      "lon": -65.963019,
+      "elevation": 590,
+      "country": "BO",
+      "municipality": "Federico Román",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "BO-0030",
+      "iata": "PUR",
+      "icao": "SLPR",
+      "name": "Parai(Puerto Rico) Airport",
+      "type": "small_airport",
+      "lat": -17.690612,
+      "lon": -63.199016,
+      "elevation": 1262,
+      "country": "BO",
+      "municipality": "Parai, Santa Cruz",
+      "scheduledService": "no"
+    },
+    {
       "ident": "BO-BVL",
       "iata": "BVL",
       "icao": null,
@@ -403,6 +481,19 @@
       "elevation": 886,
       "country": "BO",
       "municipality": "Carrasco",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "SLBE",
+      "iata": null,
+      "icao": "SLBE",
+      "name": "Beirut Airstrip",
+      "type": "small_airport",
+      "lat": -17.6525,
+      "lon": -62.654722,
+      "elevation": 925,
+      "country": "BO",
+      "municipality": "Chiquitos",
       "scheduledService": "no"
     },
     {
@@ -616,11 +707,11 @@
     {
       "ident": "SLCM",
       "iata": null,
-      "icao": null,
+      "icao": "SLCM",
       "name": "Camacho Airport",
       "type": "small_airport",
-      "lat": -11.505,
-      "lon": -67.6847,
+      "lat": -11.505062,
+      "lon": -67.685006,
       "elevation": 690,
       "country": "BO",
       "municipality": "Camacho",
@@ -770,9 +861,22 @@
       "scheduledService": "no"
     },
     {
+      "ident": "SLDF",
+      "iata": null,
+      "icao": "SLDF",
+      "name": "Doña Francisca Airstrip",
+      "type": "small_airport",
+      "lat": -17.945267,
+      "lon": -62.101059,
+      "elevation": 955,
+      "country": "BO",
+      "municipality": "Chiquitos",
+      "scheduledService": "no"
+    },
+    {
       "ident": "SLDL",
       "iata": null,
-      "icao": null,
+      "icao": "SLDL",
       "name": "Dalmacia Airport",
       "type": "small_airport",
       "lat": -17.4426,
@@ -780,6 +884,19 @@
       "elevation": 888,
       "country": "BO",
       "municipality": null,
+      "scheduledService": "no"
+    },
+    {
+      "ident": "SLDM",
+      "iata": null,
+      "icao": "SLDM",
+      "name": "Don Mario Airport",
+      "type": "small_airport",
+      "lat": -17.363041,
+      "lon": -59.701439,
+      "elevation": 1364,
+      "country": "BO",
+      "municipality": "Chiquitos",
       "scheduledService": "no"
     },
     {
@@ -1058,7 +1175,7 @@
     {
       "ident": "SLGQ",
       "iata": null,
-      "icao": null,
+      "icao": "SLCQ",
       "name": "Chiquitos Airport",
       "type": "small_airport",
       "lat": -18.5222,
@@ -1131,6 +1248,19 @@
       "elevation": 846,
       "country": "BO",
       "municipality": "Itenes",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "SLHM",
+      "iata": null,
+      "icao": "SLHM",
+      "name": "Mutun Heliport",
+      "type": "heliport",
+      "lat": -19.108898,
+      "lon": -57.822845,
+      "elevation": 494,
+      "country": "BO",
+      "municipality": "Carnen de la Frontera",
       "scheduledService": "no"
     },
     {
@@ -1277,6 +1407,19 @@
       "scheduledService": "no"
     },
     {
+      "ident": "SLJD",
+      "iata": null,
+      "icao": "SLJD",
+      "name": "San Judas Tadeo Airport",
+      "type": "small_airport",
+      "lat": -17.236212,
+      "lon": -61.906415,
+      "elevation": 842,
+      "country": "BO",
+      "municipality": "Ñuflo de Chávez",
+      "scheduledService": "no"
+    },
+    {
       "ident": "SLJE",
       "iata": "SJS",
       "icao": "SLJE",
@@ -1339,6 +1482,19 @@
       "elevation": 722,
       "country": "BO",
       "municipality": "Yacuma",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "SLLC",
+      "iata": null,
+      "icao": "SLLC",
+      "name": "Santa Lucia Airport",
+      "type": "small_airport",
+      "lat": -17.770393,
+      "lon": -62.805924,
+      "elevation": 1050,
+      "country": "BO",
+      "municipality": "Chiquitos",
       "scheduledService": "no"
     },
     {
@@ -1720,8 +1876,8 @@
     },
     {
       "ident": "SLPR",
-      "iata": "PUR",
-      "icao": "SLPR",
+      "iata": null,
+      "icao": null,
       "name": "Puerto Rico Airport",
       "type": "small_airport",
       "lat": -11.107663,
@@ -2063,7 +2219,7 @@
       "name": "Salinas Airport",
       "type": "small_airport",
       "lat": -19.5,
-      "lon": -67.33333587646484,
+      "lon": -67.333336,
       "elevation": 12027,
       "country": "BO",
       "municipality": "Ladislao Cabrera",
@@ -2114,8 +2270,8 @@
       "icao": null,
       "name": "Sipuati Airport",
       "type": "small_airport",
-      "lat": -21.0735,
-      "lon": -63.109501,
+      "lat": -21.068746,
+      "lon": -63.109594,
       "elevation": 1400,
       "country": "BO",
       "municipality": "Gran Chaco",
@@ -2150,14 +2306,14 @@
     {
       "ident": "SLSS",
       "iata": null,
-      "icao": null,
+      "icao": "SLSS",
       "name": "Sunsas Airport",
       "type": "small_airport",
-      "lat": -18.4754,
-      "lon": -58.2767,
+      "lat": -18.475358,
+      "lon": -58.276458,
       "elevation": 855,
       "country": "BO",
-      "municipality": "Sunsas",
+      "municipality": "Sunsas, Germán Busch",
       "scheduledService": "no"
     },
     {
@@ -2272,7 +2428,7 @@
       "type": "small_airport",
       "lat": -21.175602,
       "lon": -67.166689,
-      "elevation": 11800,
+      "elevation": 12467,
       "country": "BO",
       "municipality": "Nor Lipez",
       "scheduledService": "no"

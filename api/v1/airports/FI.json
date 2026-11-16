@@ -1631,13 +1631,13 @@
       "ident": "FI-0025",
       "iata": null,
       "icao": "EFMH",
-      "name": "Åland Central Hospital",
+      "name": "Åland Central Hospital Heliport",
       "type": "heliport",
       "lat": 60.114719,
       "lon": 19.932905,
       "elevation": 52,
       "country": "FI",
-      "municipality": null,
+      "municipality": "Mariehamn",
       "scheduledService": "no"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
-  "count": 86350,
+  "count": 86368,
   "countries": [
     {
       "country": "AD",
@@ -140,7 +140,7 @@
     {
       "country": "BO",
       "file": "airports/BO.json",
-      "count": 208
+      "count": 220
     },
     {
       "country": "BQ",
@@ -220,7 +220,7 @@
     {
       "country": "CL",
       "file": "airports/CL.json",
-      "count": 544
+      "count": 545
     },
     {
       "country": "CM",
@@ -245,7 +245,7 @@
     {
       "country": "CU",
       "file": "airports/CU.json",
-      "count": 156
+      "count": 157
     },
     {
       "country": "CV",
@@ -940,7 +940,7 @@
     {
       "country": "RU",
       "file": "airports/RU.json",
-      "count": 1845
+      "count": 1849
     },
     {
       "country": "RW",

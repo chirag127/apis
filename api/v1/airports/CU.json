@@ -1,6 +1,6 @@
 {
   "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
-  "count": 156,
+  "count": 157,
   "records": [
     {
       "ident": "CU-0001",
@@ -1495,6 +1495,19 @@
       "elevation": null,
       "country": "CU",
       "municipality": "Holguin",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "CU-0116",
+      "iata": null,
+      "icao": null,
+      "name": "26 De Julio (Aeropuerto Viejo)",
+      "type": "closed",
+      "lat": 20.380941,
+      "lon": -76.620453,
+      "elevation": null,
+      "country": "CU",
+      "municipality": "Bayamo",
       "scheduledService": "no"
     },
     {

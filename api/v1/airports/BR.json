@@ -42661,9 +42661,9 @@
       "icao": null,
       "name": "Pontalina de Goiás Airport",
       "type": "small_airport",
-      "lat": -17.505782,
-      "lon": -49.406429,
-      "elevation": 625,
+      "lat": -17.499461,
+      "lon": -49.407793,
+      "elevation": 2247,
       "country": "BR",
       "municipality": "Pontalina",
       "scheduledService": "no"
