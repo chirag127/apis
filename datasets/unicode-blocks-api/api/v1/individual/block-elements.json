@@ -1,0 +1,10 @@
+{
+  "id": "block-elements",
+  "name": "Block Elements",
+  "start": "U+2580",
+  "end": "U+259F",
+  "startCode": 9600,
+  "endCode": 9631,
+  "size": 32,
+  "range": "U+2580..U+259F"
+}

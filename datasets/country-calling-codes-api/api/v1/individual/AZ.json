@@ -1,0 +1,14 @@
+{
+  "id": "AZ",
+  "iso2": "AZ",
+  "name": "Azerbaijan",
+  "callingCode": "+994",
+  "callingCodeRoot": "994",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "123123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

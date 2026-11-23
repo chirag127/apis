@@ -1,0 +1,14 @@
+{
+  "id": "BI",
+  "iso2": "BI",
+  "name": "Burundi",
+  "callingCode": "+257",
+  "callingCodeRoot": "257",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "22201234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

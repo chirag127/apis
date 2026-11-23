@@ -1,0 +1,29 @@
+{
+  "id": "At",
+  "atomicNumber": 85,
+  "symbol": "At",
+  "name": "Astatine",
+  "atomicMass": 210,
+  "category": "metalloid",
+  "block": "p",
+  "group": 17,
+  "period": 6,
+  "phase": "Solid",
+  "density": 6.35,
+  "meltingPoint": 575,
+  "boilingPoint": 610,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p5",
+  "electronConfigurationSemantic": "[Xe] 4f14 5d10 6s2 6p5",
+  "electronegativity": 2.2,
+  "shells": [
+    2,
+    8,
+    18,
+    32,
+    18,
+    7
+  ],
+  "cpkHex": "754f45",
+  "discoveredBy": "Dale R. Corson",
+  "yearDiscovered": "1940"
+}

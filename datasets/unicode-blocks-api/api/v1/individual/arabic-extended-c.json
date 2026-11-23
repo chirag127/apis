@@ -1,0 +1,10 @@
+{
+  "id": "arabic-extended-c",
+  "name": "Arabic Extended-C",
+  "start": "U+10EC0",
+  "end": "U+10EFF",
+  "startCode": 69312,
+  "endCode": 69375,
+  "size": 64,
+  "range": "U+10EC0..U+10EFF"
+}

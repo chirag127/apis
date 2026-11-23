@@ -1,0 +1,10 @@
+{
+  "id": "symbols-for-legacy-computing",
+  "name": "Symbols for Legacy Computing",
+  "start": "U+1FB00",
+  "end": "U+1FBFF",
+  "startCode": 129792,
+  "endCode": 130047,
+  "size": 256,
+  "range": "U+1FB00..U+1FBFF"
+}

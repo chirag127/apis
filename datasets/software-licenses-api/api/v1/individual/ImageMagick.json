@@ -1,0 +1,14 @@
+{
+  "id": "ImageMagick",
+  "name": "ImageMagick License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 23,
+  "reference": "https://spdx.org/licenses/ImageMagick.html",
+  "detailsUrl": "https://spdx.org/licenses/ImageMagick.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/ImageMagick.txt",
+  "seeAlso": [
+    "http://www.imagemagick.org/script/license.php"
+  ]
+}

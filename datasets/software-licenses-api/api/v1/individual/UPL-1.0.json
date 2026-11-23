@@ -1,0 +1,14 @@
+{
+  "id": "UPL-1.0",
+  "name": "Universal Permissive License v1.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 15,
+  "reference": "https://spdx.org/licenses/UPL-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/UPL-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/UPL-1.0.txt",
+  "seeAlso": [
+    "https://opensource.org/license/UPL-1.0"
+  ]
+}

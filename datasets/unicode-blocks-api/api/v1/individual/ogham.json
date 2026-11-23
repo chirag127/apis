@@ -1,0 +1,10 @@
+{
+  "id": "ogham",
+  "name": "Ogham",
+  "start": "U+1680",
+  "end": "U+169F",
+  "startCode": 5760,
+  "endCode": 5791,
+  "size": 32,
+  "range": "U+1680..U+169F"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "sutton-signwriting",
+  "name": "Sutton SignWriting",
+  "start": "U+1D800",
+  "end": "U+1DAAF",
+  "startCode": 120832,
+  "endCode": 121519,
+  "size": 688,
+  "range": "U+1D800..U+1DAAF"
+}

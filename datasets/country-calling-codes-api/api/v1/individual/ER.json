@@ -1,0 +1,14 @@
+{
+  "id": "ER",
+  "iso2": "ER",
+  "name": "Eritrea",
+  "callingCode": "+291",
+  "callingCodeRoot": "291",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "8370362",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

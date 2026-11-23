@@ -1,0 +1,10 @@
+{
+  "id": "ideographic-description-characters",
+  "name": "Ideographic Description Characters",
+  "start": "U+2FF0",
+  "end": "U+2FFF",
+  "startCode": 12272,
+  "endCode": 12287,
+  "size": 16,
+  "range": "U+2FF0..U+2FFF"
+}

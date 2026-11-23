@@ -1,0 +1,10 @@
+{
+  "id": "miao",
+  "name": "Miao",
+  "start": "U+16F00",
+  "end": "U+16F9F",
+  "startCode": 93952,
+  "endCode": 94111,
+  "size": 160,
+  "range": "U+16F00..U+16F9F"
+}

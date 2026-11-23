@@ -1,0 +1,105 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://chirag127.github.io/periodic-table/schemas/data.json",
+  "title": "Periodic Table",
+  "description": "All 118 elements with atomic number, mass, category, electron configuration, electronegativity, melting and boiling points, discovery attribution and year.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "atomicNumber",
+      "symbol",
+      "name",
+      "atomicMass",
+      "category",
+      "period",
+      "group"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "description": "Element symbol, used as the record id"
+      },
+      "atomicNumber": {
+        "type": "integer",
+        "description": "Atomic number"
+      },
+      "symbol": {
+        "type": "string",
+        "description": "IUPAC element symbol"
+      },
+      "name": {
+        "type": "string",
+        "description": "IUPAC element name"
+      },
+      "atomicMass": {
+        "type": "number",
+        "description": "Standard atomic weight in u"
+      },
+      "category": {
+        "type": "string",
+        "description": "Category string as published upstream"
+      },
+      "block": {
+        "type": "string",
+        "description": "Periodic table block"
+      },
+      "group": {
+        "type": "integer",
+        "description": "Periodic table group"
+      },
+      "period": {
+        "type": "integer",
+        "description": "Periodic table period"
+      },
+      "phase": {
+        "type": "string",
+        "description": "Phase at standard conditions"
+      },
+      "density": {
+        "type": "number",
+        "description": "Density at standard conditions in g/cm3"
+      },
+      "meltingPoint": {
+        "type": "number",
+        "description": "Melting point in kelvin; null where no agreed value exists"
+      },
+      "boilingPoint": {
+        "type": "number",
+        "description": "Boiling point in kelvin; null where no agreed value exists"
+      },
+      "electronConfiguration": {
+        "type": "string",
+        "description": "Full electron configuration"
+      },
+      "electronConfigurationSemantic": {
+        "type": "string",
+        "description": "Noble-gas shorthand configuration"
+      },
+      "electronegativity": {
+        "type": "number",
+        "description": "Pauling electronegativity; null where no agreed value exists"
+      },
+      "shells": {
+        "type": "array",
+        "items": {
+          "type": "integer"
+        },
+        "description": "Electrons per shell"
+      },
+      "cpkHex": {
+        "type": "string",
+        "description": "CPK colour used for molecular renderings"
+      },
+      "discoveredBy": {
+        "type": "string",
+        "description": "Discovery attribution, upstream verbatim: a person, an era or a year depending on the element"
+      },
+      "yearDiscovered": {
+        "type": "string",
+        "description": "Year of discovery from PubChem; \"Ancient\" where the element was known before records"
+      }
+    }
+  }
+}

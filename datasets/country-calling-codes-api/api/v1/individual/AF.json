@@ -1,0 +1,14 @@
+{
+  "id": "AF",
+  "iso2": "AF",
+  "name": "Afghanistan",
+  "callingCode": "+93",
+  "callingCodeRoot": "93",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "234567890",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

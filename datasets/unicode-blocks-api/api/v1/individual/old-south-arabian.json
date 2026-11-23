@@ -1,0 +1,10 @@
+{
+  "id": "old-south-arabian",
+  "name": "Old South Arabian",
+  "start": "U+10A60",
+  "end": "U+10A7F",
+  "startCode": 68192,
+  "endCode": 68223,
+  "size": 32,
+  "range": "U+10A60..U+10A7F"
+}

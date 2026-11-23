@@ -1,0 +1,10 @@
+{
+  "id": "cjk-compatibility-ideographs-supplement",
+  "name": "CJK Compatibility Ideographs Supplement",
+  "start": "U+2F800",
+  "end": "U+2FA1F",
+  "startCode": 194560,
+  "endCode": 195103,
+  "size": 544,
+  "range": "U+2F800..U+2FA1F"
+}

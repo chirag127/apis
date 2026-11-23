@@ -1,0 +1,10 @@
+{
+  "id": "syriac",
+  "name": "Syriac",
+  "start": "U+0700",
+  "end": "U+074F",
+  "startCode": 1792,
+  "endCode": 1871,
+  "size": 80,
+  "range": "U+0700..U+074F"
+}

@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8846
+  ],
+  "codepointsHex": [
+    "0x228E"
+  ],
+  "character": "⊎",
+  "names": [
+    {
+      "name": "&UnionPlus;",
+      "legacy": false
+    },
+    {
+      "name": "&uplus;",
+      "legacy": false
+    }
+  ]
+}

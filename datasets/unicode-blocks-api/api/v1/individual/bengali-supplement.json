@@ -1,0 +1,10 @@
+{
+  "id": "bengali-supplement",
+  "name": "Bengali Supplement",
+  "start": "U+11DF0",
+  "end": "U+11DFF",
+  "startCode": 73200,
+  "endCode": 73215,
+  "size": 16,
+  "range": "U+11DF0..U+11DFF"
+}

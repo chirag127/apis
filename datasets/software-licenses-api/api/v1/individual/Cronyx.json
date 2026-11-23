@@ -1,0 +1,17 @@
+{
+  "id": "Cronyx",
+  "name": "Cronyx License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 488,
+  "reference": "https://spdx.org/licenses/Cronyx.html",
+  "detailsUrl": "https://spdx.org/licenses/Cronyx.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Cronyx.txt",
+  "seeAlso": [
+    "https://gitlab.freedesktop.org/xorg/font/alias/-/blob/master/COPYING",
+    "https://gitlab.freedesktop.org/xorg/font/cronyx-cyrillic/-/blob/master/COPYING",
+    "https://gitlab.freedesktop.org/xorg/font/misc-cyrillic/-/blob/master/COPYING",
+    "https://gitlab.freedesktop.org/xorg/font/screen-cyrillic/-/blob/master/COPYING"
+  ]
+}

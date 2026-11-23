@@ -1,0 +1,15 @@
+{
+  "id": "hyphen-bulgarian",
+  "name": "hyphen-bulgarian License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 380,
+  "reference": "https://spdx.org/licenses/hyphen-bulgarian.html",
+  "detailsUrl": "https://spdx.org/licenses/hyphen-bulgarian.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/hyphen-bulgarian.txt",
+  "seeAlso": [
+    "https://ctan.math.illinois.edu/systems/texlive/tlnet/archive/hyphen-bulgarian.tar.xz",
+    "https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/-/blob/959538769bfad6a73bdf34275d46520ec0f9cbb5/COPYING#L176-185"
+  ]
+}

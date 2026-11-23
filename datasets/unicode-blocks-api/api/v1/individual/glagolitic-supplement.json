@@ -1,0 +1,10 @@
+{
+  "id": "glagolitic-supplement",
+  "name": "Glagolitic Supplement",
+  "start": "U+1E000",
+  "end": "U+1E02F",
+  "startCode": 122880,
+  "endCode": 122927,
+  "size": 48,
+  "range": "U+1E000..U+1E02F"
+}

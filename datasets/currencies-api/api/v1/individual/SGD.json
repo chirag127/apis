@@ -1,0 +1,10 @@
+{
+  "id": "SGD",
+  "alpha3": "SGD",
+  "numeric": "702",
+  "name": "Singapore Dollar",
+  "minorUnits": 2,
+  "countries": [
+    "SINGAPORE"
+  ]
+}

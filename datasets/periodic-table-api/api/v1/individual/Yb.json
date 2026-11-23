@@ -1,0 +1,29 @@
+{
+  "id": "Yb",
+  "atomicNumber": 70,
+  "symbol": "Yb",
+  "name": "Ytterbium",
+  "atomicMass": 173.0451,
+  "category": "lanthanide",
+  "block": "f",
+  "group": 3,
+  "period": 6,
+  "phase": "Solid",
+  "density": 6.9,
+  "meltingPoint": 1097,
+  "boilingPoint": 1469,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14",
+  "electronConfigurationSemantic": "[Xe] 4f14 6s2",
+  "electronegativity": 1.1,
+  "shells": [
+    2,
+    8,
+    18,
+    32,
+    8,
+    2
+  ],
+  "cpkHex": "00bf38",
+  "discoveredBy": "Jean Charles Galissard de Marignac",
+  "yearDiscovered": "1878"
+}

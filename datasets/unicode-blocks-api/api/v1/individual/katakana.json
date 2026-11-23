@@ -1,0 +1,10 @@
+{
+  "id": "katakana",
+  "name": "Katakana",
+  "start": "U+30A0",
+  "end": "U+30FF",
+  "startCode": 12448,
+  "endCode": 12543,
+  "size": 96,
+  "range": "U+30A0..U+30FF"
+}

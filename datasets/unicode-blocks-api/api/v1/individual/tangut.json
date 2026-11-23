@@ -1,0 +1,10 @@
+{
+  "id": "tangut",
+  "name": "Tangut",
+  "start": "U+17000",
+  "end": "U+187FF",
+  "startCode": 94208,
+  "endCode": 100351,
+  "size": 6144,
+  "range": "U+17000..U+187FF"
+}

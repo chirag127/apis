@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "jee-syllabus": {
+      "id": "jee-syllabus",
+      "name": "JEE Syllabus",
+      "status": "scaffold",
+      "source": "NTA public notification"
+    }
+  },
+  "searchableFields": []
+}

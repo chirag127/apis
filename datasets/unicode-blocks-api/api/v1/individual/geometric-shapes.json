@@ -1,0 +1,10 @@
+{
+  "id": "geometric-shapes",
+  "name": "Geometric Shapes",
+  "start": "U+25A0",
+  "end": "U+25FF",
+  "startCode": 9632,
+  "endCode": 9727,
+  "size": 96,
+  "range": "U+25A0..U+25FF"
+}

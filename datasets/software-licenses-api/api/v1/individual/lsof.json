@@ -1,0 +1,14 @@
+{
+  "id": "lsof",
+  "name": "lsof License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 476,
+  "reference": "https://spdx.org/licenses/lsof.html",
+  "detailsUrl": "https://spdx.org/licenses/lsof.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/lsof.txt",
+  "seeAlso": [
+    "https://github.com/lsof-org/lsof/blob/master/COPYING"
+  ]
+}

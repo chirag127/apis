@@ -1,0 +1,8 @@
+[
+  {
+    "id": "currency-rates",
+    "name": "Currency Exchange Rates",
+    "status": "scaffold",
+    "source": "RBI reference rate"
+  }
+]

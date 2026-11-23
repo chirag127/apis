@@ -1,0 +1,10 @@
+{
+  "id": "sora-sompeng",
+  "name": "Sora Sompeng",
+  "start": "U+110D0",
+  "end": "U+110FF",
+  "startCode": 69840,
+  "endCode": 69887,
+  "size": 48,
+  "range": "U+110D0..U+110FF"
+}

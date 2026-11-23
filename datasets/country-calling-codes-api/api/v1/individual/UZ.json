@@ -1,0 +1,14 @@
+{
+  "id": "UZ",
+  "iso2": "UZ",
+  "name": "Uzbekistan",
+  "callingCode": "+998",
+  "callingCodeRoot": "998",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "669050123",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

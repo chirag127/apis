@@ -1,0 +1,10 @@
+{
+  "id": "BMD",
+  "alpha3": "BMD",
+  "numeric": "060",
+  "name": "Bermudian Dollar",
+  "minorUnits": 2,
+  "countries": [
+    "BERMUDA"
+  ]
+}

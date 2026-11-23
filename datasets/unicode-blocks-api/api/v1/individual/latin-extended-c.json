@@ -1,0 +1,10 @@
+{
+  "id": "latin-extended-c",
+  "name": "Latin Extended-C",
+  "start": "U+2C60",
+  "end": "U+2C7F",
+  "startCode": 11360,
+  "endCode": 11391,
+  "size": 32,
+  "range": "U+2C60..U+2C7F"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "optical-character-recognition",
+  "name": "Optical Character Recognition",
+  "start": "U+2440",
+  "end": "U+245F",
+  "startCode": 9280,
+  "endCode": 9311,
+  "size": 32,
+  "range": "U+2440..U+245F"
+}

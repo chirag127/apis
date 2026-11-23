@@ -1,0 +1,10 @@
+{
+  "id": "ethiopic",
+  "name": "Ethiopic",
+  "start": "U+1200",
+  "end": "U+137F",
+  "startCode": 4608,
+  "endCode": 4991,
+  "size": 384,
+  "range": "U+1200..U+137F"
+}

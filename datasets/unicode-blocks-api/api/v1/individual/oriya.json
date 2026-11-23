@@ -1,0 +1,10 @@
+{
+  "id": "oriya",
+  "name": "Oriya",
+  "start": "U+0B00",
+  "end": "U+0B7F",
+  "startCode": 2816,
+  "endCode": 2943,
+  "size": 128,
+  "range": "U+0B00..U+0B7F"
+}

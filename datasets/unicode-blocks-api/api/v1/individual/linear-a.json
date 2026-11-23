@@ -1,0 +1,10 @@
+{
+  "id": "linear-a",
+  "name": "Linear A",
+  "start": "U+10600",
+  "end": "U+1077F",
+  "startCode": 67072,
+  "endCode": 67455,
+  "size": 384,
+  "range": "U+10600..U+1077F"
+}

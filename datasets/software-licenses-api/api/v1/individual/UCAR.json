@@ -1,0 +1,14 @@
+{
+  "id": "UCAR",
+  "name": "UCAR License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 358,
+  "reference": "https://spdx.org/licenses/UCAR.html",
+  "detailsUrl": "https://spdx.org/licenses/UCAR.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/UCAR.txt",
+  "seeAlso": [
+    "https://github.com/Unidata/UDUNITS-2/blob/master/COPYRIGHT"
+  ]
+}

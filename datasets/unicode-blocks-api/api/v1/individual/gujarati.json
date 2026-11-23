@@ -1,0 +1,10 @@
+{
+  "id": "gujarati",
+  "name": "Gujarati",
+  "start": "U+0A80",
+  "end": "U+0AFF",
+  "startCode": 2688,
+  "endCode": 2815,
+  "size": 128,
+  "range": "U+0A80..U+0AFF"
+}

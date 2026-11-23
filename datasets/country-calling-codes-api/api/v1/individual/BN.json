@@ -1,0 +1,14 @@
+{
+  "id": "BN",
+  "iso2": "BN",
+  "name": "Brunei",
+  "callingCode": "+673",
+  "callingCodeRoot": "673",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "2345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

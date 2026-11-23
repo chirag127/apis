@@ -1,0 +1,28 @@
+{
+  "id": "I",
+  "atomicNumber": 53,
+  "symbol": "I",
+  "name": "Iodine",
+  "atomicMass": 126.904473,
+  "category": "diatomic nonmetal",
+  "block": "p",
+  "group": 17,
+  "period": 5,
+  "phase": "Solid",
+  "density": 4.933,
+  "meltingPoint": 386.85,
+  "boilingPoint": 457.4,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p5",
+  "electronConfigurationSemantic": "[Kr] 4d10 5s2 5p5",
+  "electronegativity": 2.66,
+  "shells": [
+    2,
+    8,
+    18,
+    18,
+    7
+  ],
+  "cpkHex": "940094",
+  "discoveredBy": "Bernard Courtois",
+  "yearDiscovered": "1811"
+}

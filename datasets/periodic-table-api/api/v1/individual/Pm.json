@@ -1,0 +1,29 @@
+{
+  "id": "Pm",
+  "atomicNumber": 61,
+  "symbol": "Pm",
+  "name": "Promethium",
+  "atomicMass": 145,
+  "category": "lanthanide",
+  "block": "f",
+  "group": 3,
+  "period": 6,
+  "phase": "Solid",
+  "density": 7.26,
+  "meltingPoint": 1315,
+  "boilingPoint": 3273,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f5",
+  "electronConfigurationSemantic": "[Xe] 4f5 6s2",
+  "electronegativity": 1.13,
+  "shells": [
+    2,
+    8,
+    18,
+    23,
+    8,
+    2
+  ],
+  "cpkHex": "a3ffc7",
+  "discoveredBy": "Chien Shiung Wu",
+  "yearDiscovered": "1945"
+}

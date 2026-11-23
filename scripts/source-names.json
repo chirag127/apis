@@ -1,0 +1,10 @@
+[
+  "currencies-api", "currency-rates-api", "gsec-rates-api", "gst-rates-api", "income-tax-slabs-api", "indian-banks-api", "ipo-performance-api", "mutual-fund-categories-api", "rbi-rates-api", "tds-rates-api",
+  "countries-api", "holiday-world-api", "india-airports-api", "india-districts-api", "india-holidays-api", "india-pincode-api", "india-railway-stations-api", "india-states-api", "iso-3166-2-api", "world-airports-api",
+  "gate-syllabus-api", "govt-colleges-api", "govt-hospitals-api", "govt-schemes-api", "india-parliament-api", "jee-syllabus-api", "ncert-books-api", "neet-syllabus-api", "upsc-syllabus-api",
+  "colors-api", "crypto-algorithms-api", "css-properties-api", "git-commands-api", "html-elements-api", "html-entities-api", "http-headers-api", "http-status-api", "javascript-builtin-api", "json-schema-ref-api", "linux-commands-api", "mime-types-api", "programming-languages-api", "regex-tokens-api", "software-licenses-api", "sql-functions-api", "unicode-blocks-api",
+  "country-calling-codes-api", "gpus-api", "mobile-chipsets-api", "phone-number-formats-api", "tcp-ports-api", "tlds-api", "usb-standards-api", "wifi-standards-api",
+  "chemistry-formulas-api", "math-formulas-api", "nav-units-api", "periodic-table-api", "physics-formulas-api", "si-units-api",
+  "indian-crops-api", "indian-foods-api", "indian-spices-api", "nutrition-api",
+  "cricket-ipl-api", "cricket-world-cup-api", "olympics-api", "emoji-api", "languages-api", "quotes-api"
+]

@@ -1,0 +1,10 @@
+{
+  "id": "emoticons",
+  "name": "Emoticons",
+  "start": "U+1F600",
+  "end": "U+1F64F",
+  "startCode": 128512,
+  "endCode": 128591,
+  "size": 80,
+  "range": "U+1F600..U+1F64F"
+}

@@ -1,0 +1,73 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Countries of the World",
+    "description": "All 195 countries with ISO codes, capital, population, area, currency, language, and region",
+    "version": "1.0.0",
+    "license": {
+      "name": "CC0-1.0"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://chirag127.github.io/countries",
+      "description": "GitHub Pages"
+    }
+  ],
+  "paths": {
+    "/data.json": {
+      "get": {
+        "summary": "Countries of the World data",
+        "description": "All 195 countries with ISO codes, capital, population, area, currency, language, and region",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/countries": {
+      "get": {
+        "summary": "Countries of the World",
+        "description": "All 195 countries with ISO codes, capital, population, area, currency, language, and region",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/countries/{code}": {
+      "get": {
+        "summary": "Countries of the World",
+        "description": "All 195 countries with ISO codes, capital, population, area, currency, language, and region",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

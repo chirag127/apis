@@ -1,0 +1,14 @@
+{
+  "id": "OFL-1.0",
+  "name": "SIL Open Font License 1.0",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": true,
+  "referenceNumber": 538,
+  "reference": "https://spdx.org/licenses/OFL-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/OFL-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/OFL-1.0.txt",
+  "seeAlso": [
+    "http://scripts.sil.org/cms/scripts/page.php?item_id=OFL10_web"
+  ]
+}

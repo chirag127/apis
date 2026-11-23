@@ -1,0 +1,14 @@
+{
+  "id": "MV",
+  "iso2": "MV",
+  "name": "Maldives",
+  "callingCode": "+960",
+  "callingCodeRoot": "960",
+  "internationalPrefix": "0(?:0|19)",
+  "preferredInternationalPrefix": "00",
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "6701234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

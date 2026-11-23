@@ -1,0 +1,10 @@
+{
+  "id": "CAD",
+  "alpha3": "CAD",
+  "numeric": "124",
+  "name": "Canadian Dollar",
+  "minorUnits": 2,
+  "countries": [
+    "CANADA"
+  ]
+}

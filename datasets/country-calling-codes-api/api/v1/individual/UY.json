@@ -1,0 +1,14 @@
+{
+  "id": "UY",
+  "iso2": "UY",
+  "name": "Uruguay",
+  "callingCode": "+598",
+  "callingCodeRoot": "598",
+  "internationalPrefix": "0(?:0|1[3-9]\\d)",
+  "preferredInternationalPrefix": "00",
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "21231234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "sunuwar",
+  "name": "Sunuwar",
+  "start": "U+11BC0",
+  "end": "U+11BFF",
+  "startCode": 72640,
+  "endCode": 72703,
+  "size": 64,
+  "range": "U+11BC0..U+11BFF"
+}

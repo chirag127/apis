@@ -1,0 +1,28 @@
+{
+  "id": "Nb",
+  "atomicNumber": 41,
+  "symbol": "Nb",
+  "name": "Niobium",
+  "atomicMass": 92.906372,
+  "category": "transition metal",
+  "block": "d",
+  "group": 5,
+  "period": 5,
+  "phase": "Solid",
+  "density": 8.57,
+  "meltingPoint": 2750,
+  "boilingPoint": 5017,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d4",
+  "electronConfigurationSemantic": "[Kr] 4d4 5s1",
+  "electronegativity": 1.6,
+  "shells": [
+    2,
+    8,
+    18,
+    12,
+    1
+  ],
+  "cpkHex": "73c2c9",
+  "discoveredBy": "Charles Hatchett",
+  "yearDiscovered": "1801"
+}

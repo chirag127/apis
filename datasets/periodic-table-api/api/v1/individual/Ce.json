@@ -1,0 +1,29 @@
+{
+  "id": "Ce",
+  "atomicNumber": 58,
+  "symbol": "Ce",
+  "name": "Cerium",
+  "atomicMass": 140.1161,
+  "category": "lanthanide",
+  "block": "f",
+  "group": 3,
+  "period": 6,
+  "phase": "Solid",
+  "density": 6.77,
+  "meltingPoint": 1068,
+  "boilingPoint": 3716,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 5d1 4f1",
+  "electronConfigurationSemantic": "[Xe] 4f1 5d1 6s2",
+  "electronegativity": 1.12,
+  "shells": [
+    2,
+    8,
+    18,
+    19,
+    9,
+    2
+  ],
+  "cpkHex": "ffffc7",
+  "discoveredBy": "Martin Heinrich Klaproth",
+  "yearDiscovered": "1803"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "AU",
+  "iso2": "AU",
+  "name": "Australia",
+  "callingCode": "+61",
+  "callingCodeRoot": "61",
+  "internationalPrefix": "001[14-689]|14(?:1[14]|34|4[17]|[56]6|7[47]|88)0011",
+  "preferredInternationalPrefix": "0011",
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": "(183[12])|0",
+  "exampleNumber": "212345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

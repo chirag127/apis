@@ -1,0 +1,160 @@
+openapi: 3.1.0
+info:
+  title: Unicode Blocks
+  description: All 353 Unicode blocks in Unicode 18.0.0 — 316,784 code points, from Basic Latin at U+0000..U+007F to Supplementary
+    Private Use Area-B at U+100000..U+10FFFF — with start, end and block size.
+  version: 1.0.0
+  license:
+    name: Unicode License v3
+  contact:
+    name: Chirag Singhal
+    url: https://github.com/chirag127
+    email: chirag@oriz.in
+servers:
+- url: https://chirag127.github.io/unicode-blocks-api
+  description: GitHub Pages
+paths:
+  /api/v1/data.json:
+    get:
+      summary: All 353 Unicode blocks
+      operationId: listData
+      responses:
+        '200':
+          description: JSON array of 353 records
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/UnicodeBlock'
+  /api/v1/individual/{id}.json:
+    get:
+      summary: One record by id
+      operationId: getRecord
+      parameters:
+      - name: id
+        in: path
+        required: true
+        schema:
+          type: string
+        description: Record id
+      responses:
+        '200':
+          description: One record
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/UnicodeBlock'
+        '404':
+          description: No record with that id
+  /api/v1/search-index.json:
+    get:
+      summary: All records keyed by id
+      operationId: getSearchIndex
+      responses:
+        '200':
+          description: Object with a byId map of every record
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  byId:
+                    type: object
+                    additionalProperties:
+                      $ref: '#/components/schemas/UnicodeBlock'
+                required:
+                - byId
+  /api/v1/meta.json:
+    get:
+      summary: Dataset metadata
+      operationId: getMeta
+      responses:
+        '200':
+          description: Record count, source URLs, retrieval time
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                  lastUpdated:
+                    type: string
+                  sourceUpdatedAt:
+                    type:
+                    - string
+                    - 'null'
+                  retrievedAt:
+                    type: string
+                  recordCount:
+                    type: integer
+                  version:
+                    type: string
+                  schemaVersion:
+                    type: string
+                  source:
+                    type: string
+                  sourceUrl:
+                    type: string
+                  license:
+                    type: string
+                  updateCadence:
+                    type: string
+                  nextUpdateDue:
+                    type: string
+                  lastFailedAt:
+                    type:
+                    - string
+                    - 'null'
+                  failureReason:
+                    type:
+                    - string
+                    - 'null'
+components:
+  schemas:
+    UnicodeBlock:
+      type: object
+      required:
+      - id
+      - name
+      - start
+      - end
+      - startCode
+      - endCode
+      - size
+      - range
+      properties:
+        id:
+          type: string
+          description: Slug of the block name, for URLs
+          example: basic-latin
+        name:
+          type: string
+          description: Block name exactly as Blocks.txt writes it
+          example: Basic Latin
+        start:
+          type: string
+          description: First code point, hexadecimal as published
+          example: U+0000
+        end:
+          type: string
+          description: Last code point, hexadecimal as published
+          example: U+007F
+        startCode:
+          type: integer
+          description: First code point as an integer
+          example: 0
+        endCode:
+          type: integer
+          description: Last code point as an integer
+          example: 127
+        size:
+          type: integer
+          description: Number of code points in the block
+          example: 128
+        range:
+          type: string
+          description: The range as one string
+          example: U+0000..U+007F
+      additionalProperties: false

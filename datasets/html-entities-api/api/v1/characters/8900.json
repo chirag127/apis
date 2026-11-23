@@ -1,0 +1,24 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8900
+  ],
+  "codepointsHex": [
+    "0x22C4"
+  ],
+  "character": "⋄",
+  "names": [
+    {
+      "name": "&Diamond;",
+      "legacy": false
+    },
+    {
+      "name": "&diam;",
+      "legacy": false
+    },
+    {
+      "name": "&diamond;",
+      "legacy": false
+    }
+  ]
+}

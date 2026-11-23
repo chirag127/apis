@@ -1,0 +1,14 @@
+{
+  "id": "ML",
+  "iso2": "ML",
+  "name": "Mali",
+  "callingCode": "+223",
+  "callingCodeRoot": "223",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "20212345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": "Rb",
+  "atomicNumber": 37,
+  "symbol": "Rb",
+  "name": "Rubidium",
+  "atomicMass": 85.46783,
+  "category": "alkali metal",
+  "block": "s",
+  "group": 1,
+  "period": 5,
+  "phase": "Solid",
+  "density": 1.532,
+  "meltingPoint": 312.45,
+  "boilingPoint": 961,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1",
+  "electronConfigurationSemantic": "[Kr] 5s1",
+  "electronegativity": 0.82,
+  "shells": [
+    2,
+    8,
+    18,
+    8,
+    1
+  ],
+  "cpkHex": "702eb0",
+  "discoveredBy": "Robert Bunsen",
+  "yearDiscovered": "1861"
+}

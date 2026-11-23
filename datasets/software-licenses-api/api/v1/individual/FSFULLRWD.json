@@ -1,0 +1,14 @@
+{
+  "id": "FSFULLRWD",
+  "name": "FSF Unlimited License (With License Retention and Warranty Disclaimer)",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 722,
+  "reference": "https://spdx.org/licenses/FSFULLRWD.html",
+  "detailsUrl": "https://spdx.org/licenses/FSFULLRWD.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/FSFULLRWD.txt",
+  "seeAlso": [
+    "https://lists.gnu.org/archive/html/autoconf/2012-04/msg00061.html"
+  ]
+}

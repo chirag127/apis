@@ -1,0 +1,14 @@
+{
+  "id": "Xnet",
+  "name": "X.Net License",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 443,
+  "reference": "https://spdx.org/licenses/Xnet.html",
+  "detailsUrl": "https://spdx.org/licenses/Xnet.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Xnet.txt",
+  "seeAlso": [
+    "https://opensource.org/license/Xnet"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "modi",
+  "name": "Modi",
+  "start": "U+11600",
+  "end": "U+1165F",
+  "startCode": 71168,
+  "endCode": 71263,
+  "size": 96,
+  "range": "U+11600..U+1165F"
+}

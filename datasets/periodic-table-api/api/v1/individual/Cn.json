@@ -1,0 +1,30 @@
+{
+  "id": "Cn",
+  "atomicNumber": 112,
+  "symbol": "Cn",
+  "name": "Copernicium",
+  "atomicMass": 285,
+  "category": "transition metal",
+  "block": "d",
+  "group": 12,
+  "period": 7,
+  "phase": "Liquid",
+  "density": 14,
+  "meltingPoint": 283,
+  "boilingPoint": 340,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10",
+  "electronConfigurationSemantic": "*[Rn] 5f14 6d10 7s2",
+  "electronegativity": null,
+  "shells": [
+    2,
+    8,
+    18,
+    32,
+    32,
+    18,
+    2
+  ],
+  "cpkHex": null,
+  "discoveredBy": "Gesellschaft für Schwerionenforschung",
+  "yearDiscovered": "1996"
+}

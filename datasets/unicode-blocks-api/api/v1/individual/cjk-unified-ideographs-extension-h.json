@@ -1,0 +1,10 @@
+{
+  "id": "cjk-unified-ideographs-extension-h",
+  "name": "CJK Unified Ideographs Extension H",
+  "start": "U+31350",
+  "end": "U+323AF",
+  "startCode": 201552,
+  "endCode": 205743,
+  "size": 4192,
+  "range": "U+31350..U+323AF"
+}

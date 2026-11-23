@@ -1,0 +1,10 @@
+{
+  "id": "myanmar-extended-c",
+  "name": "Myanmar Extended-C",
+  "start": "U+116D0",
+  "end": "U+116FF",
+  "startCode": 71376,
+  "endCode": 71423,
+  "size": 48,
+  "range": "U+116D0..U+116FF"
+}

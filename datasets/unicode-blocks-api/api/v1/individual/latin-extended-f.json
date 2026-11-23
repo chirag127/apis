@@ -1,0 +1,10 @@
+{
+  "id": "latin-extended-f",
+  "name": "Latin Extended-F",
+  "start": "U+10780",
+  "end": "U+107BF",
+  "startCode": 67456,
+  "endCode": 67519,
+  "size": 64,
+  "range": "U+10780..U+107BF"
+}

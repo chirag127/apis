@@ -1,0 +1,14 @@
+{
+  "id": "SE",
+  "iso2": "SE",
+  "name": "Sweden",
+  "callingCode": "+46",
+  "callingCodeRoot": "46",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "8123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cjk-strokes",
+  "name": "CJK Strokes",
+  "start": "U+31C0",
+  "end": "U+31EF",
+  "startCode": 12736,
+  "endCode": 12783,
+  "size": 48,
+  "range": "U+31C0..U+31EF"
+}

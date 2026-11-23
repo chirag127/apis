@@ -1,0 +1,10 @@
+{
+  "id": "miscellaneous-symbols-and-pictographs",
+  "name": "Miscellaneous Symbols and Pictographs",
+  "start": "U+1F300",
+  "end": "U+1F5FF",
+  "startCode": 127744,
+  "endCode": 128511,
+  "size": 768,
+  "range": "U+1F300..U+1F5FF"
+}

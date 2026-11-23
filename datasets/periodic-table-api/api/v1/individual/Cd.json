@@ -1,0 +1,28 @@
+{
+  "id": "Cd",
+  "atomicNumber": 48,
+  "symbol": "Cd",
+  "name": "Cadmium",
+  "atomicMass": 112.4144,
+  "category": "transition metal",
+  "block": "d",
+  "group": 12,
+  "period": 5,
+  "phase": "Solid",
+  "density": 8.65,
+  "meltingPoint": 594.22,
+  "boilingPoint": 1040,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10",
+  "electronConfigurationSemantic": "[Kr] 4d10 5s2",
+  "electronegativity": 1.69,
+  "shells": [
+    2,
+    8,
+    18,
+    18,
+    2
+  ],
+  "cpkHex": "ffd98f",
+  "discoveredBy": "Karl Samuel Leberecht Hermann",
+  "yearDiscovered": "1817"
+}

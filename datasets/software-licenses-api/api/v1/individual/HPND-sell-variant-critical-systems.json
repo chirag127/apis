@@ -1,0 +1,14 @@
+{
+  "id": "HPND-sell-variant-critical-systems",
+  "name": "HPND - sell variant with safety critical systems clause",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 328,
+  "reference": "https://spdx.org/licenses/HPND-sell-variant-critical-systems.html",
+  "detailsUrl": "https://spdx.org/licenses/HPND-sell-variant-critical-systems.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-sell-variant-critical-systems.txt",
+  "seeAlso": [
+    "https://gitlab.freedesktop.org/xorg/driver/xf86-video-voodoo/-/blob/68a5b6d98ae34749cca889f4373b4043d00bfe6a/src/voodoo_dga.c#L12-33"
+  ]
+}

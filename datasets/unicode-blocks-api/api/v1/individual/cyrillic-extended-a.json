@@ -1,0 +1,10 @@
+{
+  "id": "cyrillic-extended-a",
+  "name": "Cyrillic Extended-A",
+  "start": "U+2DE0",
+  "end": "U+2DFF",
+  "startCode": 11744,
+  "endCode": 11775,
+  "size": 32,
+  "range": "U+2DE0..U+2DFF"
+}

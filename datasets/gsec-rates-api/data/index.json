@@ -1,0 +1,8 @@
+[
+  {
+    "id": "gsec-rates",
+    "name": "Government Securities Rates",
+    "status": "scaffold",
+    "source": "RBI public data"
+  }
+]

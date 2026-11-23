@@ -1,0 +1,15 @@
+{
+  "id": "Zlib",
+  "name": "zlib License",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 182,
+  "reference": "https://spdx.org/licenses/Zlib.html",
+  "detailsUrl": "https://spdx.org/licenses/Zlib.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Zlib.txt",
+  "seeAlso": [
+    "http://www.zlib.net/zlib_license.html",
+    "https://opensource.org/license/Zlib"
+  ]
+}

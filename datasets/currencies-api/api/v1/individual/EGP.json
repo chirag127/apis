@@ -1,0 +1,10 @@
+{
+  "id": "EGP",
+  "alpha3": "EGP",
+  "numeric": "818",
+  "name": "Egyptian Pound",
+  "minorUnits": 2,
+  "countries": [
+    "EGYPT"
+  ]
+}

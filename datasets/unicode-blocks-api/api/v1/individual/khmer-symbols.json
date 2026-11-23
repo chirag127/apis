@@ -1,0 +1,10 @@
+{
+  "id": "khmer-symbols",
+  "name": "Khmer Symbols",
+  "start": "U+19E0",
+  "end": "U+19FF",
+  "startCode": 6624,
+  "endCode": 6655,
+  "size": 32,
+  "range": "U+19E0..U+19FF"
+}

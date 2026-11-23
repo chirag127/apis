@@ -1,0 +1,10 @@
+{
+  "id": "control-pictures",
+  "name": "Control Pictures",
+  "start": "U+2400",
+  "end": "U+243F",
+  "startCode": 9216,
+  "endCode": 9279,
+  "size": 64,
+  "range": "U+2400..U+243F"
+}

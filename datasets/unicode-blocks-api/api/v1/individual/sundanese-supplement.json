@@ -1,0 +1,10 @@
+{
+  "id": "sundanese-supplement",
+  "name": "Sundanese Supplement",
+  "start": "U+1CC0",
+  "end": "U+1CCF",
+  "startCode": 7360,
+  "endCode": 7375,
+  "size": 16,
+  "range": "U+1CC0..U+1CCF"
+}

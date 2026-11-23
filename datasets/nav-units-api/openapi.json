@@ -1,0 +1,55 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Non-SI Accepted Units",
+    "description": "Non-SI units accepted for use with SI",
+    "version": "1.0.0",
+    "license": {
+      "name": "public-domain"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://chirag127.github.io/nav-units",
+      "description": "GitHub Pages"
+    }
+  ],
+  "paths": {
+    "/data.json": {
+      "get": {
+        "summary": "Non-SI Accepted Units data",
+        "description": "Non-SI units accepted for use with SI",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/units": {
+      "get": {
+        "summary": "Non-SI Accepted Units",
+        "description": "Non-SI units accepted for use with SI",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

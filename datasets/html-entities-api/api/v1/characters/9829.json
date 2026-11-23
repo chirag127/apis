@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    9829
+  ],
+  "codepointsHex": [
+    "0x2665"
+  ],
+  "character": "♥",
+  "names": [
+    {
+      "name": "&hearts;",
+      "legacy": false
+    },
+    {
+      "name": "&heartsuit;",
+      "legacy": false
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "LB",
+  "iso2": "LB",
+  "name": "Lebanon",
+  "callingCode": "+961",
+  "callingCodeRoot": "961",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "1123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

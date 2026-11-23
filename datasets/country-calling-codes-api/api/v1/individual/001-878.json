@@ -1,0 +1,14 @@
+{
+  "id": "001-878",
+  "iso2": "001",
+  "name": "Non-geographical entity",
+  "callingCode": "+878",
+  "callingCodeRoot": "878",
+  "internationalPrefix": null,
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "101234567890",
+  "exampleNumberKind": "voip",
+  "mobileNumberPortableRegion": false
+}

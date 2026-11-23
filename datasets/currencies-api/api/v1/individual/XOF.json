@@ -1,0 +1,17 @@
+{
+  "id": "XOF",
+  "alpha3": "XOF",
+  "numeric": "952",
+  "name": "CFA Franc BCEAO",
+  "minorUnits": 0,
+  "countries": [
+    "BENIN",
+    "BURKINA FASO",
+    "CÔTE D'IVOIRE",
+    "GUINEA-BISSAU",
+    "MALI",
+    "NIGER (THE)",
+    "SENEGAL",
+    "TOGO"
+  ]
+}

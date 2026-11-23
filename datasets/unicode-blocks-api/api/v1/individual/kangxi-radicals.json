@@ -1,0 +1,10 @@
+{
+  "id": "kangxi-radicals",
+  "name": "Kangxi Radicals",
+  "start": "U+2F00",
+  "end": "U+2FDF",
+  "startCode": 12032,
+  "endCode": 12255,
+  "size": 224,
+  "range": "U+2F00..U+2FDF"
+}

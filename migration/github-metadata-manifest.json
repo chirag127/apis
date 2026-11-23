@@ -1,0 +1,2008 @@
+{
+  "schema_version": 1,
+  "captured_at": "2026-11-22T20:31:17.642808+00:00",
+  "discovery_captured_at": "2026-11-22T20:21:05.206015+00:00",
+  "owner": "chirag127",
+  "destination": "apis",
+  "source_allowlist_sha256": "044fa74d92f88294a945be0c21c9464ea93db35ed7d170bea128147ada60d490",
+  "sources": [
+    {
+      "name": "currencies-api",
+      "repository_id": 1346231260,
+      "node_id": "R_kgDOUD3b3A",
+      "url": "https://github.com/chirag127/currencies-api",
+      "default_branch": "main",
+      "default_tip_oid": "3a7cd23816d39973280648036482b5bbb185536b",
+      "pushed_at": "2026-11-10T17:49:28Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "currency-rates-api",
+      "repository_id": 1346231418,
+      "node_id": "R_kgDOUD3ceg",
+      "url": "https://github.com/chirag127/currency-rates-api",
+      "default_branch": "main",
+      "default_tip_oid": "94f836c1684abc5db3cbcdcb1df1960fa086e397",
+      "pushed_at": "2026-10-30T18:55:42Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "gsec-rates-api",
+      "repository_id": 1346232813,
+      "node_id": "R_kgDOUD3h7Q",
+      "url": "https://github.com/chirag127/gsec-rates-api",
+      "default_branch": "main",
+      "default_tip_oid": "6d42af47610327e6306253b6fee46f5bb8fafca2",
+      "pushed_at": "2026-10-30T18:56:55Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "gst-rates-api",
+      "repository_id": 1346232955,
+      "node_id": "R_kgDOUD3iew",
+      "url": "https://github.com/chirag127/gst-rates-api",
+      "default_branch": "main",
+      "default_tip_oid": "5f987e07ec52bb37ad002309ae950dac6e735de4",
+      "pushed_at": "2026-10-30T18:57:03Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "income-tax-slabs-api",
+      "repository_id": 1346233554,
+      "node_id": "R_kgDOUD3k0g",
+      "url": "https://github.com/chirag127/income-tax-slabs-api",
+      "default_branch": "main",
+      "default_tip_oid": "2612a0f4b5dfb3a0e5560d11d663e701f840240b",
+      "pushed_at": "2026-10-30T18:57:42Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "indian-banks-api",
+      "repository_id": 1346234810,
+      "node_id": "R_kgDOUD3pug",
+      "url": "https://github.com/chirag127/indian-banks-api",
+      "default_branch": "main",
+      "default_tip_oid": "98db6bf4e5e173fd31f5f5e567dfbaf6551554d3",
+      "pushed_at": "2026-10-30T18:59:18Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "ipo-performance-api",
+      "repository_id": 1346235442,
+      "node_id": "R_kgDOUD3sMg",
+      "url": "https://github.com/chirag127/ipo-performance-api",
+      "default_branch": "main",
+      "default_tip_oid": "b66b0dce51dd58932e1c895f4686fa49c5b1f404",
+      "pushed_at": "2026-10-30T19:02:37Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "mutual-fund-categories-api",
+      "repository_id": 1346236656,
+      "node_id": "R_kgDOUD3w8A",
+      "url": "https://github.com/chirag127/mutual-fund-categories-api",
+      "default_branch": "main",
+      "default_tip_oid": "40ff8168ef20484b13a2fe5dafd508ec477acc2d",
+      "pushed_at": "2026-10-30T19:06:03Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "rbi-rates-api",
+      "repository_id": 1346238283,
+      "node_id": "R_kgDOUD33Sw",
+      "url": "https://github.com/chirag127/rbi-rates-api",
+      "default_branch": "main",
+      "default_tip_oid": "8d46e7c698685856f049f812e520113e81ea82d8",
+      "pushed_at": "2026-10-30T19:24:14Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "tds-rates-api",
+      "repository_id": 1346239255,
+      "node_id": "R_kgDOUD37Fw",
+      "url": "https://github.com/chirag127/tds-rates-api",
+      "default_branch": "main",
+      "default_tip_oid": "f8c6d0618328579d67e2e03bad60dbcf99ac5dbd",
+      "pushed_at": "2026-10-30T19:24:25Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "countries-api",
+      "repository_id": 1346230476,
+      "node_id": "R_kgDOUD3YzA",
+      "url": "https://github.com/chirag127/countries-api",
+      "default_branch": "main",
+      "default_tip_oid": "077d174c492700d3509fbde447cda0135f4b263e",
+      "pushed_at": "2026-10-30T18:54:33Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "holiday-world-api",
+      "repository_id": 1346233083,
+      "node_id": "R_kgDOUD3i-w",
+      "url": "https://github.com/chirag127/holiday-world-api",
+      "default_branch": "main",
+      "default_tip_oid": "e63e8a562b02743edaa7eeab18d8627bbccd0eff",
+      "pushed_at": "2026-10-30T18:57:10Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "india-airports-api",
+      "repository_id": 1346233670,
+      "node_id": "R_kgDOUD3lRg",
+      "url": "https://github.com/chirag127/india-airports-api",
+      "default_branch": "main",
+      "default_tip_oid": "0bfe3a97fbd261771c2cc40d54808f7b4c224f8b",
+      "pushed_at": "2026-10-30T18:58:45Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "india-districts-api",
+      "repository_id": 1346228999,
+      "node_id": "R_kgDOUD3TBw",
+      "url": "https://github.com/chirag127/india-districts-api",
+      "default_branch": "main",
+      "default_tip_oid": "b7234d84d34d1e9601d98ac30e81463a2acdfbf7",
+      "pushed_at": "2026-10-30T18:58:54Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "india-holidays-api",
+      "repository_id": 1346233789,
+      "node_id": "R_kgDOUD3lvQ",
+      "url": "https://github.com/chirag127/india-holidays-api",
+      "default_branch": "main",
+      "default_tip_oid": "546306493abeb7b5eed64c63a9e0c57d8007ce45",
+      "pushed_at": "2026-10-30T18:59:02Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "india-pincode-api",
+      "repository_id": 1346234153,
+      "node_id": "R_kgDOUD3nKQ",
+      "url": "https://github.com/chirag127/india-pincode-api",
+      "default_branch": "main",
+      "default_tip_oid": "83ecc0d92361e150c439280bcce797f7b0be500b",
+      "pushed_at": "2026-10-30T18:59:58Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "india-railway-stations-api",
+      "repository_id": 1346234381,
+      "node_id": "R_kgDOUD3oDQ",
+      "url": "https://github.com/chirag127/india-railway-stations-api",
+      "default_branch": "main",
+      "default_tip_oid": "846674ce98ef91322bc8e64259e5a7f5fce38135",
+      "pushed_at": "2026-10-30T19:00:16Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "india-states-api",
+      "repository_id": 1346234554,
+      "node_id": "R_kgDOUD3oug",
+      "url": "https://github.com/chirag127/india-states-api",
+      "default_branch": "main",
+      "default_tip_oid": "d146385b53921e326ab392936be7fb98d19abe68",
+      "pushed_at": "2026-11-10T17:22:45Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "iso-3166-2-api",
+      "repository_id": 1453049500,
+      "node_id": "R_kgDOVpvGnA",
+      "url": "https://github.com/chirag127/iso-3166-2-api",
+      "default_branch": "main",
+      "default_tip_oid": "bd59344c46cb0232854a25c017f197619a62f5a8",
+      "pushed_at": "2026-11-10T18:37:05Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "world-airports-api",
+      "repository_id": 1453050259,
+      "node_id": "R_kgDOVpvJkw",
+      "url": "https://github.com/chirag127/world-airports-api",
+      "default_branch": "main",
+      "default_tip_oid": "636de0d93d9529df2cf9382fe1be91d4caeb9c6d",
+      "pushed_at": "2026-11-16T14:40:36Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "gate-syllabus-api",
+      "repository_id": 1346232123,
+      "node_id": "R_kgDOUD3fOw",
+      "url": "https://github.com/chirag127/gate-syllabus-api",
+      "default_branch": "main",
+      "default_tip_oid": "dd4375e446bd0a8374fa233526480e0633600f68",
+      "pushed_at": "2026-10-30T18:56:31Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "govt-colleges-api",
+      "repository_id": 1346232347,
+      "node_id": "R_kgDOUD3gGw",
+      "url": "https://github.com/chirag127/govt-colleges-api",
+      "default_branch": "main",
+      "default_tip_oid": "b7d9e8090bc16116cf522273b2e5bfa09c4729eb",
+      "pushed_at": "2026-10-30T18:29:28Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "govt-hospitals-api",
+      "repository_id": 1346232455,
+      "node_id": "R_kgDOUD3ghw",
+      "url": "https://github.com/chirag127/govt-hospitals-api",
+      "default_branch": "main",
+      "default_tip_oid": "f431645b8f6e01355a20c9314bbe191c3d2637d5",
+      "pushed_at": "2026-10-30T18:29:35Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "govt-schemes-api",
+      "repository_id": 1346232596,
+      "node_id": "R_kgDOUD3hFA",
+      "url": "https://github.com/chirag127/govt-schemes-api",
+      "default_branch": "main",
+      "default_tip_oid": "2400de9e03a9300e162e9a3b0514bb16078b9fe7",
+      "pushed_at": "2026-10-30T18:29:42Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "india-parliament-api",
+      "repository_id": 1346234041,
+      "node_id": "R_kgDOUD3muQ",
+      "url": "https://github.com/chirag127/india-parliament-api",
+      "default_branch": "main",
+      "default_tip_oid": "0935dc9717bbd93ec02ddd48051c3edc9d37ad19",
+      "pushed_at": "2026-10-30T18:59:50Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "jee-syllabus-api",
+      "repository_id": 1346235807,
+      "node_id": "R_kgDOUD3tnw",
+      "url": "https://github.com/chirag127/jee-syllabus-api",
+      "default_branch": "main",
+      "default_tip_oid": "4abb0afa15594e66db10421cf2d01ffa6b840213",
+      "pushed_at": "2026-10-30T19:03:03Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "ncert-books-api",
+      "repository_id": 1346236862,
+      "node_id": "R_kgDOUD3xvg",
+      "url": "https://github.com/chirag127/ncert-books-api",
+      "default_branch": "main",
+      "default_tip_oid": "3e3c7e1a50102b8e9b7387da7b3b4668b03324d5",
+      "pushed_at": "2026-10-30T19:06:20Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "neet-syllabus-api",
+      "repository_id": 1346237243,
+      "node_id": "R_kgDOUD3zOw",
+      "url": "https://github.com/chirag127/neet-syllabus-api",
+      "default_branch": "main",
+      "default_tip_oid": "11e49b0311c53c28b88014396c544c8f496764ea",
+      "pushed_at": "2026-10-30T19:06:35Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "upsc-syllabus-api",
+      "repository_id": 1346239686,
+      "node_id": "R_kgDOUD38xg",
+      "url": "https://github.com/chirag127/upsc-syllabus-api",
+      "default_branch": "main",
+      "default_tip_oid": "bdecc3bf0096000895c8c9d52fccd3530fea8877",
+      "pushed_at": "2026-10-30T19:24:29Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "colors-api",
+      "repository_id": 1346230213,
+      "node_id": "R_kgDOUD3XxQ",
+      "url": "https://github.com/chirag127/colors-api",
+      "default_branch": "main",
+      "default_tip_oid": "f1eb282a0f53d92ec17936fe8e95cd4d4d83edaa",
+      "pushed_at": "2026-10-30T18:53:15Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "crypto-algorithms-api",
+      "repository_id": 1346231017,
+      "node_id": "R_kgDOUD3a6Q",
+      "url": "https://github.com/chirag127/crypto-algorithms-api",
+      "default_branch": "main",
+      "default_tip_oid": "ebe79dacca4cdf5abfd98ea26d9b23b2b749e916",
+      "pushed_at": "2026-10-30T18:55:16Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "css-properties-api",
+      "repository_id": 1346231135,
+      "node_id": "R_kgDOUD3bXw",
+      "url": "https://github.com/chirag127/css-properties-api",
+      "default_branch": "main",
+      "default_tip_oid": "21dc20c42f3817cbf15acd6a40a4d676f2dd267c",
+      "pushed_at": "2026-11-10T18:28:56Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "git-commands-api",
+      "repository_id": 1346232239,
+      "node_id": "R_kgDOUD3frw",
+      "url": "https://github.com/chirag127/git-commands-api",
+      "default_branch": "main",
+      "default_tip_oid": "90075ffe9200824d0fc43795e2f65c0f8ad30471",
+      "pushed_at": "2026-10-30T18:56:39Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "html-elements-api",
+      "repository_id": 1346233206,
+      "node_id": "R_kgDOUD3jdg",
+      "url": "https://github.com/chirag127/html-elements-api",
+      "default_branch": "main",
+      "default_tip_oid": "8d8691ac5108322eb942ae64f526e774c057b2a5",
+      "pushed_at": "2026-10-30T18:57:18Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "html-entities-api",
+      "repository_id": 1452991446,
+      "node_id": "R_kgDOVprj1g",
+      "url": "https://github.com/chirag127/html-entities-api",
+      "default_branch": "main",
+      "default_tip_oid": "8a82ac15ca1bd5fc320a3948e6227271ee8018cc",
+      "pushed_at": "2026-11-10T17:40:35Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "http-headers-api",
+      "repository_id": 1346233334,
+      "node_id": "R_kgDOUD3j9g",
+      "url": "https://github.com/chirag127/http-headers-api",
+      "default_branch": "main",
+      "default_tip_oid": "e6d582d9acc2dfc9325f9e8b7c13e7d081e11f4c",
+      "pushed_at": "2026-10-30T18:57:27Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "http-status-api",
+      "repository_id": 1346233440,
+      "node_id": "R_kgDOUD3kYA",
+      "url": "https://github.com/chirag127/http-status-api",
+      "default_branch": "main",
+      "default_tip_oid": "5ed37ee78adaddd3184f1b255c4c7b72075034cb",
+      "pushed_at": "2026-11-10T17:49:25Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "javascript-builtin-api",
+      "repository_id": 1346235669,
+      "node_id": "R_kgDOUD3tFQ",
+      "url": "https://github.com/chirag127/javascript-builtin-api",
+      "default_branch": "main",
+      "default_tip_oid": "607089c401ebdffcf048cd24d2ee9929ce008367",
+      "pushed_at": "2026-11-10T18:28:59Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "json-schema-ref-api",
+      "repository_id": 1346235901,
+      "node_id": "R_kgDOUD3t_Q",
+      "url": "https://github.com/chirag127/json-schema-ref-api",
+      "default_branch": "main",
+      "default_tip_oid": "aa7256207cdd49df6fbdfcaa3ef8014279edea3c",
+      "pushed_at": "2026-10-30T19:03:11Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "linux-commands-api",
+      "repository_id": 1346236121,
+      "node_id": "R_kgDOUD3u2Q",
+      "url": "https://github.com/chirag127/linux-commands-api",
+      "default_branch": "main",
+      "default_tip_oid": "b9411d5879c2cf8a33d7839935260e47300b9154",
+      "pushed_at": "2026-10-30T19:03:28Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "mime-types-api",
+      "repository_id": 1346236435,
+      "node_id": "R_kgDOUD3wEw",
+      "url": "https://github.com/chirag127/mime-types-api",
+      "default_branch": "main",
+      "default_tip_oid": "caa83693f8787cd63934dd72c63892dd52d59615",
+      "pushed_at": "2026-10-30T19:03:45Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "programming-languages-api",
+      "repository_id": 1346238041,
+      "node_id": "R_kgDOUD32WQ",
+      "url": "https://github.com/chirag127/programming-languages-api",
+      "default_branch": "main",
+      "default_tip_oid": "892a2197b9f66500a483c73079c75a46c7fd9617",
+      "pushed_at": "2026-10-30T19:24:13Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "regex-tokens-api",
+      "repository_id": 1346238395,
+      "node_id": "R_kgDOUD33uw",
+      "url": "https://github.com/chirag127/regex-tokens-api",
+      "default_branch": "main",
+      "default_tip_oid": "0848aade607474e507f03a76ed27f9d40527af98",
+      "pushed_at": "2026-10-30T19:24:15Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "software-licenses-api",
+      "repository_id": 1346238941,
+      "node_id": "R_kgDOUD353Q",
+      "url": "https://github.com/chirag127/software-licenses-api",
+      "default_branch": "main",
+      "default_tip_oid": "19ce8a446cacd8fbd3bec1103bab1f83e2511c49",
+      "pushed_at": "2026-11-10T18:28:50Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "sql-functions-api",
+      "repository_id": 1346239061,
+      "node_id": "R_kgDOUD36VQ",
+      "url": "https://github.com/chirag127/sql-functions-api",
+      "default_branch": "main",
+      "default_tip_oid": "15ea2b38b2ea3c76362392fa40c5716e7c881072",
+      "pushed_at": "2026-10-30T19:24:22Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "unicode-blocks-api",
+      "repository_id": 1346239586,
+      "node_id": "R_kgDOUD38Yg",
+      "url": "https://github.com/chirag127/unicode-blocks-api",
+      "default_branch": "main",
+      "default_tip_oid": "b9adf6205738500c964ad94274dd9dad77a9e448",
+      "pushed_at": "2026-11-10T18:29:02Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "country-calling-codes-api",
+      "repository_id": 1346230590,
+      "node_id": "R_kgDOUD3ZPg",
+      "url": "https://github.com/chirag127/country-calling-codes-api",
+      "default_branch": "main",
+      "default_tip_oid": "ca127c8c693bf035d1f90e54038b5bb8c432c473",
+      "pushed_at": "2026-11-10T18:29:07Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "gpus-api",
+      "repository_id": 1346232702,
+      "node_id": "R_kgDOUD3hfg",
+      "url": "https://github.com/chirag127/gpus-api",
+      "default_branch": "main",
+      "default_tip_oid": "73b72ac07343dee63b86d125bd2606902e674c06",
+      "pushed_at": "2026-10-30T18:56:47Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "mobile-chipsets-api",
+      "repository_id": 1346236569,
+      "node_id": "R_kgDOUD3wmQ",
+      "url": "https://github.com/chirag127/mobile-chipsets-api",
+      "default_branch": "main",
+      "default_tip_oid": "3ed4b145027278ef3f8418fd90b2fdab78bd6a5c",
+      "pushed_at": "2026-10-30T19:05:15Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "phone-number-formats-api",
+      "repository_id": 1453049801,
+      "node_id": "R_kgDOVpvHyQ",
+      "url": "https://github.com/chirag127/phone-number-formats-api",
+      "default_branch": "main",
+      "default_tip_oid": "2970df0bec036e6f654d49772f1a32d34f0ff34e",
+      "pushed_at": "2026-11-10T18:37:20Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "tcp-ports-api",
+      "repository_id": 1452991677,
+      "node_id": "R_kgDOVprkvQ",
+      "url": "https://github.com/chirag127/tcp-ports-api",
+      "default_branch": "main",
+      "default_tip_oid": "4e2d8ddb910731a31e70e9bbd7d013cfef7c40bd",
+      "pushed_at": "2026-11-10T17:40:50Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "tlds-api",
+      "repository_id": 1453049997,
+      "node_id": "R_kgDOVpvIjQ",
+      "url": "https://github.com/chirag127/tlds-api",
+      "default_branch": "main",
+      "default_tip_oid": "70c2c6d1c8cdbe593889204206188b1c9d3c4661",
+      "pushed_at": "2026-11-10T18:37:32Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "usb-standards-api",
+      "repository_id": 1346239785,
+      "node_id": "R_kgDOUD39KQ",
+      "url": "https://github.com/chirag127/usb-standards-api",
+      "default_branch": "main",
+      "default_tip_oid": "adc5303634003acba558b8c93953f24dda537027",
+      "pushed_at": "2026-10-30T19:24:30Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "wifi-standards-api",
+      "repository_id": 1346239979,
+      "node_id": "R_kgDOUD396w",
+      "url": "https://github.com/chirag127/wifi-standards-api",
+      "default_branch": "main",
+      "default_tip_oid": "26bf833fc35f269f9764ff7740568025c785948a",
+      "pushed_at": "2026-10-30T19:24:32Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "chemistry-formulas-api",
+      "repository_id": 1346230105,
+      "node_id": "R_kgDOUD3XWQ",
+      "url": "https://github.com/chirag127/chemistry-formulas-api",
+      "default_branch": "main",
+      "default_tip_oid": "b3738ad7f59299fda590725496e06e45aca69f5c",
+      "pushed_at": "2026-11-01T10:15:24Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "math-formulas-api",
+      "repository_id": 1346236272,
+      "node_id": "R_kgDOUD3vcA",
+      "url": "https://github.com/chirag127/math-formulas-api",
+      "default_branch": "main",
+      "default_tip_oid": "185dbc8535004d7d47055676756e811e679e6b5b",
+      "pushed_at": "2026-10-30T19:03:36Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "nav-units-api",
+      "repository_id": 1346236743,
+      "node_id": "R_kgDOUD3xRw",
+      "url": "https://github.com/chirag127/nav-units-api",
+      "default_branch": "main",
+      "default_tip_oid": "3fbb7a5ae89991df350721589c66d6ea6814e4eb",
+      "pushed_at": "2026-10-30T19:06:12Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "periodic-table-api",
+      "repository_id": 1346237562,
+      "node_id": "R_kgDOUD30eg",
+      "url": "https://github.com/chirag127/periodic-table-api",
+      "default_branch": "main",
+      "default_tip_oid": "dccb390b40f7079cd47206930a4f87ac2ab92164",
+      "pushed_at": "2026-11-10T17:49:33Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "physics-formulas-api",
+      "repository_id": 1346237701,
+      "node_id": "R_kgDOUD31BQ",
+      "url": "https://github.com/chirag127/physics-formulas-api",
+      "default_branch": "main",
+      "default_tip_oid": "eccb9b93920a72d86156315a51394ddee05409ee",
+      "pushed_at": "2026-10-30T19:07:06Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "si-units-api",
+      "repository_id": 1346238717,
+      "node_id": "R_kgDOUD34_Q",
+      "url": "https://github.com/chirag127/si-units-api",
+      "default_branch": "main",
+      "default_tip_oid": "64ca4ab15bc04176ce8e78b017c5915c3c486709",
+      "pushed_at": "2026-11-10T18:29:10Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "indian-crops-api",
+      "repository_id": 1346234924,
+      "node_id": "R_kgDOUD3qLA",
+      "url": "https://github.com/chirag127/indian-crops-api",
+      "default_branch": "main",
+      "default_tip_oid": "00ba5ce8ab64ea416c86acc6298f8bf0ca1abc03",
+      "pushed_at": "2026-10-30T18:59:26Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "indian-foods-api",
+      "repository_id": 1346235047,
+      "node_id": "R_kgDOUD3qpw",
+      "url": "https://github.com/chirag127/indian-foods-api",
+      "default_branch": "main",
+      "default_tip_oid": "69dbdac4e1decec3ef44a60a84cd6413e5f478a6",
+      "pushed_at": "2026-10-30T18:59:34Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "indian-spices-api",
+      "repository_id": 1346235182,
+      "node_id": "R_kgDOUD3rLg",
+      "url": "https://github.com/chirag127/indian-spices-api",
+      "default_branch": "main",
+      "default_tip_oid": "8c3c1d12a8dc1fd84779315f37c51e3db83edb8b",
+      "pushed_at": "2026-10-30T18:59:42Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "nutrition-api",
+      "repository_id": 1346237348,
+      "node_id": "R_kgDOUD3zpA",
+      "url": "https://github.com/chirag127/nutrition-api",
+      "default_branch": "main",
+      "default_tip_oid": "0b72d3db59be2efab289300363c5dcc0ccc9f71f",
+      "pushed_at": "2026-10-30T19:06:43Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "cricket-ipl-api",
+      "repository_id": 1346230701,
+      "node_id": "R_kgDOUD3ZrQ",
+      "url": "https://github.com/chirag127/cricket-ipl-api",
+      "default_branch": "main",
+      "default_tip_oid": "c95fd0f22d0f97c1b0b5aca8e3f31b5d4479878a",
+      "pushed_at": "2026-10-30T18:54:50Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "cricket-world-cup-api",
+      "repository_id": 1346230809,
+      "node_id": "R_kgDOUD3aGQ",
+      "url": "https://github.com/chirag127/cricket-world-cup-api",
+      "default_branch": "main",
+      "default_tip_oid": "cfcc324fdd2de1478394e8d0c16f01e63de83918",
+      "pushed_at": "2026-10-30T18:54:58Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "olympics-api",
+      "repository_id": 1346237469,
+      "node_id": "R_kgDOUD30HQ",
+      "url": "https://github.com/chirag127/olympics-api",
+      "default_branch": "main",
+      "default_tip_oid": "b4e9fcf675f001f6c19082cf4a2ea7e541aa1ef4",
+      "pushed_at": "2026-10-30T19:06:51Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "emoji-api",
+      "repository_id": 1346231659,
+      "node_id": "R_kgDOUD3daw",
+      "url": "https://github.com/chirag127/emoji-api",
+      "default_branch": "main",
+      "default_tip_oid": "a7dd1e8a748bf70ed1451a00e30134ad4a1d1fb3",
+      "pushed_at": "2026-11-10T17:49:40Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "languages-api",
+      "repository_id": 1346235991,
+      "node_id": "R_kgDOUD3uVw",
+      "url": "https://github.com/chirag127/languages-api",
+      "default_branch": "main",
+      "default_tip_oid": "fee5abb314c45ce4a8128ac7b580cfe3876c6e1a",
+      "pushed_at": "2026-10-30T19:03:20Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    },
+    {
+      "name": "quotes-api",
+      "repository_id": 1346238168,
+      "node_id": "R_kgDOUD322A",
+      "url": "https://github.com/chirag127/quotes-api",
+      "default_branch": "main",
+      "default_tip_oid": "834da5a49d580df6719d05198491b8e32eb22189",
+      "pushed_at": "2026-10-30T19:23:31Z",
+      "counts": {
+        "issues": 0,
+        "pullRequests": 0,
+        "releases": 0,
+        "discussions": 0,
+        "labels": 10,
+        "milestones": 0,
+        "branches": 1,
+        "tags": 0
+      },
+      "release_assets": 0,
+      "wiki_status": "no_published_wiki",
+      "metadata_ready": true,
+      "gaps": []
+    }
+  ],
+  "totals": {
+    "issues": 0,
+    "pullRequests": 0,
+    "releases": 0,
+    "discussions": 0,
+    "labels": 700,
+    "milestones": 0,
+    "branches": 70,
+    "tags": 0
+  },
+  "scope": "Public GitHub issue/PR/release/discussion metadata, labels, wiki availability, Pages configuration",
+  "separate_lane": [
+    "Git history and trees",
+    "Git LFS detection and object backup"
+  ],
+  "not_exported": [
+    "secrets",
+    "security alerts",
+    "Actions logs and artifacts",
+    "repository permissions"
+  ],
+  "artifacts": [
+    {
+      "path": "pages-routing.json",
+      "bytes": 31126,
+      "sha256": "a32b2a1e3d20d883da89fcc37848bbd14831e12cb71bade4c6c1ebd83da09d30"
+    },
+    {
+      "path": "repositories.json",
+      "bytes": 103532,
+      "sha256": "ed8c232e0d5e9364fef8733f0557d7bd1612e70da6543fce28f04d281839f5c3"
+    },
+    {
+      "path": "sources/chemistry-formulas-api/metadata.json",
+      "bytes": 4359,
+      "sha256": "b2ed7bab7626d050fb3a14a9303f779387866f22483afbfe4bc62644218b3a7e"
+    },
+    {
+      "path": "sources/colors-api/metadata.json",
+      "bytes": 4163,
+      "sha256": "53268a4b2f7c0a470d37b76e423d2adbdf00a6814ac484a52f1c34d686428b29"
+    },
+    {
+      "path": "sources/countries-api/metadata.json",
+      "bytes": 4217,
+      "sha256": "f64db0b8194b157bf6e0ed16b123090f63ae95e0ff730ff2c0b380300c217ced"
+    },
+    {
+      "path": "sources/country-calling-codes-api/metadata.json",
+      "bytes": 4315,
+      "sha256": "04a622128b537d6320ed4b9e485a9ee9a81fb6359d5a91627f33542de7538574"
+    },
+    {
+      "path": "sources/cricket-ipl-api/metadata.json",
+      "bytes": 4219,
+      "sha256": "ea10b0aadcab66a88aaa325f4cc9feec826b19b1242c472c4469f90dee46cd93"
+    },
+    {
+      "path": "sources/cricket-world-cup-api/metadata.json",
+      "bytes": 4282,
+      "sha256": "bbebb75498c3f2156ae1cde049651ded119524eb0221e62ab0512754c1ce6bc6"
+    },
+    {
+      "path": "sources/crypto-algorithms-api/metadata.json",
+      "bytes": 4285,
+      "sha256": "40ddde64c33a89363f7ea28fa0836f3539bfa7469a206ed35a2fe764768059fe"
+    },
+    {
+      "path": "sources/css-properties-api/metadata.json",
+      "bytes": 4254,
+      "sha256": "e199adb73905a14561d822b371e5c112b320f151046abc3101f9220206a9b4c3"
+    },
+    {
+      "path": "sources/currencies-api/metadata.json",
+      "bytes": 4199,
+      "sha256": "703b3ddbf443e7bf2b91133e9d2817b7e84606cb829eb0155bb33b4acbc277c8"
+    },
+    {
+      "path": "sources/currency-rates-api/metadata.json",
+      "bytes": 4229,
+      "sha256": "ae2e301a912989ae695438ec7a3412d0d8018d136e7e20fc883695782f1dfd70"
+    },
+    {
+      "path": "sources/emoji-api/metadata.json",
+      "bytes": 4142,
+      "sha256": "20515c8b9725cc6ae734e82d535fecfc97409e577d7f33e2805922317b4ff4f2"
+    },
+    {
+      "path": "sources/gate-syllabus-api/metadata.json",
+      "bytes": 4231,
+      "sha256": "8096cbae3e9332d5336845df651e32d361547dd40525fa313c2bb7332eb197d3"
+    },
+    {
+      "path": "sources/git-commands-api/metadata.json",
+      "bytes": 4220,
+      "sha256": "f7a0418871cca774e8a48d7a8baeb25108bc32e1985c67aac5051c626e4a27cd"
+    },
+    {
+      "path": "sources/govt-colleges-api/metadata.json",
+      "bytes": 4244,
+      "sha256": "537e1ef8c4ce849adceb0a796b2e96070fefb819bff0c494d1fb46543ee74dab"
+    },
+    {
+      "path": "sources/govt-hospitals-api/metadata.json",
+      "bytes": 4242,
+      "sha256": "e9122824ae7bf691878dd1305fc476b9391898f951c09d42642d582c2a46305f"
+    },
+    {
+      "path": "sources/govt-schemes-api/metadata.json",
+      "bytes": 4226,
+      "sha256": "f397e98c07338d11d84fe2961854c110c26a21d8583bbc133887edb50d8a8f9f"
+    },
+    {
+      "path": "sources/gpus-api/metadata.json",
+      "bytes": 4125,
+      "sha256": "2272458dead79688eea8fd505a5b281899549cb73a83791e53c49c0b6df41f6b"
+    },
+    {
+      "path": "sources/gsec-rates-api/metadata.json",
+      "bytes": 4159,
+      "sha256": "ef292d3138ed8f8dc53fcf735ee3250942a0dda5e39315769655dac9d570afb2"
+    },
+    {
+      "path": "sources/gst-rates-api/metadata.json",
+      "bytes": 4172,
+      "sha256": "deabaae721f4632f8aad79c756142787033ed7f09a591ae2ca508b585283d52c"
+    },
+    {
+      "path": "sources/holiday-world-api/metadata.json",
+      "bytes": 4210,
+      "sha256": "bf3db25fb1bc4ef9d1d83786a35eee5b0108c30094c2ed08ef776861a2f52cf7"
+    },
+    {
+      "path": "sources/html-elements-api/metadata.json",
+      "bytes": 4238,
+      "sha256": "ccdb94ceca0a039ff5b8752b80c455ac30cb8b6a75f550abca06656e5d261d34"
+    },
+    {
+      "path": "sources/html-entities-api/metadata.json",
+      "bytes": 4176,
+      "sha256": "f10fb2854621c59de9eee3e661b19e20af6ece54ca443f13c5f8289eed17edda"
+    },
+    {
+      "path": "sources/http-headers-api/metadata.json",
+      "bytes": 4241,
+      "sha256": "805d9d5b9a5a869f3a654667e30a475ab4a034b010745ba1ad9fbc3b66fe9f08"
+    },
+    {
+      "path": "sources/http-status-api/metadata.json",
+      "bytes": 4220,
+      "sha256": "ca92884bed95a150a919b7f1c85ca2a4c6ef2c6c2f2daa117a4434d6686a074e"
+    },
+    {
+      "path": "sources/income-tax-slabs-api/metadata.json",
+      "bytes": 4268,
+      "sha256": "2f65e54ae356b6d2de6602f44575b6a7a9de12b1b6d6573bf621874977e52e93"
+    },
+    {
+      "path": "sources/india-airports-api/metadata.json",
+      "bytes": 4257,
+      "sha256": "029684e4adaec6ca616d9c1db4e72ce5b123d3d7cc6400197c5869b0ef7e76d8"
+    },
+    {
+      "path": "sources/india-districts-api/metadata.json",
+      "bytes": 4274,
+      "sha256": "67c05480d0f9ce6fb125e87e362fefe592c7d8238d988f24b2ffe7eaae47601e"
+    },
+    {
+      "path": "sources/india-holidays-api/metadata.json",
+      "bytes": 4272,
+      "sha256": "6aae8af22f2ce687a89e0aa4152e01df3bcd0d680d59a4b979dfc502b637a96d"
+    },
+    {
+      "path": "sources/india-parliament-api/metadata.json",
+      "bytes": 4257,
+      "sha256": "5c602a38e0c12e62cf32771fa565e874505c5786633e24e5f5f6de5c412466ca"
+    },
+    {
+      "path": "sources/india-pincode-api/metadata.json",
+      "bytes": 4246,
+      "sha256": "d5ad5ef1c6916395243278e43b52e4d20888c1b4a0155897d165c2df42902c9a"
+    },
+    {
+      "path": "sources/india-railway-stations-api/metadata.json",
+      "bytes": 4358,
+      "sha256": "9847b3169e7ab0f4d07b94ad5944b9655eb903b5817b43c818d3c7d763130ba4"
+    },
+    {
+      "path": "sources/india-states-api/metadata.json",
+      "bytes": 4314,
+      "sha256": "5c62643e2c0623a61fcf68c2cdfc77cf98ea03af01fb6e0b71e0a523bc664aea"
+    },
+    {
+      "path": "sources/indian-banks-api/metadata.json",
+      "bytes": 4233,
+      "sha256": "00b49431b534d789bb25b09e510ec9a649d3551df241cbf53e98307e6a044fa0"
+    },
+    {
+      "path": "sources/indian-crops-api/metadata.json",
+      "bytes": 4219,
+      "sha256": "3fa14f94793ea4cc359fd098079d0767e469bdc2f354be682d6c868a978842c8"
+    },
+    {
+      "path": "sources/indian-foods-api/metadata.json",
+      "bytes": 4225,
+      "sha256": "055d943110383750626907c463f9c5ab208782e3e7e8313e311df98a7867c33f"
+    },
+    {
+      "path": "sources/indian-spices-api/metadata.json",
+      "bytes": 4249,
+      "sha256": "a9dca95416f5641f823d6fd2d6426c80201f45a3b75ef2b353f1adef4153c232"
+    },
+    {
+      "path": "sources/ipo-performance-api/metadata.json",
+      "bytes": 4254,
+      "sha256": "93c30660009da9314c7404c4eb4e0484ae376d641b7e367cb605a3713530f740"
+    },
+    {
+      "path": "sources/iso-3166-2-api/metadata.json",
+      "bytes": 4140,
+      "sha256": "39c0099e99695869947123dbe309d524e2f0c209095f2ac46946aeced9700b94"
+    },
+    {
+      "path": "sources/javascript-builtin-api/metadata.json",
+      "bytes": 4286,
+      "sha256": "0e2bb038766f74d9d2ec807eeb9a362e4c3b03cf1b2dd827d54c1082019c3fb0"
+    },
+    {
+      "path": "sources/jee-syllabus-api/metadata.json",
+      "bytes": 4218,
+      "sha256": "ffbac9987c1bb35dfbe4d9684cae0c26166b4e687eb42eac60458c3f5caf8c8e"
+    },
+    {
+      "path": "sources/json-schema-ref-api/metadata.json",
+      "bytes": 4263,
+      "sha256": "2376c2344cd3f8fbc02e0862e2640c122b50388aea008e2d42439727ce9ead5e"
+    },
+    {
+      "path": "sources/languages-api/metadata.json",
+      "bytes": 4186,
+      "sha256": "4b845ac60d947874458bc3bfd736fc3c800789da042194221fc15db558e05c21"
+    },
+    {
+      "path": "sources/linux-commands-api/metadata.json",
+      "bytes": 4238,
+      "sha256": "e91b298b41de7e608f4daa4a3773b0a8409bed12d53467a103ae264e45d707f7"
+    },
+    {
+      "path": "sources/math-formulas-api/metadata.json",
+      "bytes": 4240,
+      "sha256": "fd6e917702a58e13d38355e230c4244c43e8afbd9a077eba116a477e235ef020"
+    },
+    {
+      "path": "sources/mime-types-api/metadata.json",
+      "bytes": 4203,
+      "sha256": "6e3948c0b12bc2352c06bd2d377a7da79a7f479d47476bc7c537595b5b34d5aa"
+    },
+    {
+      "path": "sources/mobile-chipsets-api/metadata.json",
+      "bytes": 4267,
+      "sha256": "465f5be925949754c738abef886fcc7ca85a80971a2928bc261d27197aa79dac"
+    },
+    {
+      "path": "sources/mutual-fund-categories-api/metadata.json",
+      "bytes": 4346,
+      "sha256": "7bcf2d2a347d4aa91dd8d60488eb96b81d7905e78a272b047f3e3b1c51413a4d"
+    },
+    {
+      "path": "sources/nav-units-api/metadata.json",
+      "bytes": 4163,
+      "sha256": "c0a51a48a4fc1b1d38f4798738c1dfa135d3a3166d0d3e255ffa0d7691cab6e4"
+    },
+    {
+      "path": "sources/ncert-books-api/metadata.json",
+      "bytes": 4214,
+      "sha256": "f8c216087c3a081d98951af8bd20cc5cfe265a79daf7b2381fcfde55ac5cfbd3"
+    },
+    {
+      "path": "sources/neet-syllabus-api/metadata.json",
+      "bytes": 4230,
+      "sha256": "e7238e6e19c43458f5b6a7366fdfce4ae2a2a3af686d97c70c57daa72e08c4a5"
+    },
+    {
+      "path": "sources/nutrition-api/metadata.json",
+      "bytes": 4181,
+      "sha256": "455af11963639d8954b0c11662f872e80b0a063d4690142d069a19dcdbbbac37"
+    },
+    {
+      "path": "sources/olympics-api/metadata.json",
+      "bytes": 4161,
+      "sha256": "275d228b25137071baf5fed55359be8dc106f5d39d4a1814fe3db89281dd27d5"
+    },
+    {
+      "path": "sources/periodic-table-api/metadata.json",
+      "bytes": 4258,
+      "sha256": "18c9d51ed660ef12dc64b887bdb8a189c2c8c975dd51b24881d592eeca3d51d0"
+    },
+    {
+      "path": "sources/phone-number-formats-api/metadata.json",
+      "bytes": 4260,
+      "sha256": "282edffafca29aa101930317db3879ead2525fd1edbc19fdfc3e8b4912df1ee6"
+    },
+    {
+      "path": "sources/physics-formulas-api/metadata.json",
+      "bytes": 4290,
+      "sha256": "037bc8a46ea375a03511f1e8d46455710bd4c83f7e2270392851b075e119e140"
+    },
+    {
+      "path": "sources/programming-languages-api/metadata.json",
+      "bytes": 4346,
+      "sha256": "cae0840129faeb85c87a21537d203b01d4ffff9183e1507b9c81337975e2c7d6"
+    },
+    {
+      "path": "sources/quotes-api/metadata.json",
+      "bytes": 4134,
+      "sha256": "63126182d346064bba1c707ea901d6c85c1667a43b9343e106bad9664e097982"
+    },
+    {
+      "path": "sources/rbi-rates-api/metadata.json",
+      "bytes": 4195,
+      "sha256": "b61229606a64ae6aa463ac9ca1c1a1fbf833601dfe279e95c1acbbfeb5776499"
+    },
+    {
+      "path": "sources/regex-tokens-api/metadata.json",
+      "bytes": 4212,
+      "sha256": "1d9b78c3d7a78ed47c647d095c91b82081cfdf77075bb4229d1e2a0739ddd5e9"
+    },
+    {
+      "path": "sources/si-units-api/metadata.json",
+      "bytes": 4175,
+      "sha256": "dc7227e69c65758902efa094643c279591c6304e0f1236b185f90430ef1a8f9a"
+    },
+    {
+      "path": "sources/software-licenses-api/metadata.json",
+      "bytes": 4290,
+      "sha256": "4f313a76372ef9320f9960f9b11c0ec6060524e60c372f327697c61479b77317"
+    },
+    {
+      "path": "sources/sql-functions-api/metadata.json",
+      "bytes": 4244,
+      "sha256": "13e454d2095c021b8a417efcd6a510e07afe49b044d2a1062e413fd4c51c83d1"
+    },
+    {
+      "path": "sources/tcp-ports-api/metadata.json",
+      "bytes": 4128,
+      "sha256": "00033cc05d330aabd70d868aa20606f3b62876227fd066343c79ba7082ced7aa"
+    },
+    {
+      "path": "sources/tds-rates-api/metadata.json",
+      "bytes": 4161,
+      "sha256": "edd07dc35009710e97096234b61dd36bacba9fa461d8fe967a7b097ffc532256"
+    },
+    {
+      "path": "sources/tlds-api/metadata.json",
+      "bytes": 4068,
+      "sha256": "080a429a67b3ce93310ce62654923c4bf7e3eb1adc112391545c1a0f777b836b"
+    },
+    {
+      "path": "sources/unicode-blocks-api/metadata.json",
+      "bytes": 4242,
+      "sha256": "83665ecdf781ca128e307d7ee8da4c70e3558f866a216f8a011dcd05f9e93f46"
+    },
+    {
+      "path": "sources/upsc-syllabus-api/metadata.json",
+      "bytes": 4232,
+      "sha256": "9302f7cfe3cb4868505ae773f0a6471514de6fb69a96ef2b7a0e12d6cd490d86"
+    },
+    {
+      "path": "sources/usb-standards-api/metadata.json",
+      "bytes": 4236,
+      "sha256": "479cbcf7f1f3fb00c0426f1f8e80cbbf3f1d2e00e68cca2295c16eb65c4acd11"
+    },
+    {
+      "path": "sources/wifi-standards-api/metadata.json",
+      "bytes": 4253,
+      "sha256": "19e1987f13467650b72b4521dad96b27fba7dc55d8dce142adc1523f56647620"
+    },
+    {
+      "path": "sources/world-airports-api/metadata.json",
+      "bytes": 4188,
+      "sha256": "f2f324e517ee142f59a2192b84564c7f48192deb486ddb22f6748a8fd1e07030"
+    },
+    {
+      "path": "wiki-availability.json",
+      "bytes": 28849,
+      "sha256": "81888046582ddb7e539e01e2dd74c551fdecac2eab2c60b21442716b179b4e53"
+    }
+  ]
+}

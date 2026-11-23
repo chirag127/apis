@@ -1,0 +1,23 @@
+{
+  "byId": {
+    "2026-01-26": {
+      "id": "2026-01-26",
+      "name": "Republic Day",
+      "country": "IN",
+      "status": "pilot-fixture"
+    },
+    "2026-08-15": {
+      "id": "2026-08-15",
+      "name": "Independence Day",
+      "country": "IN",
+      "status": "pilot-fixture"
+    },
+    "2026-10-02": {
+      "id": "2026-10-02",
+      "name": "Gandhi Jayanti",
+      "country": "IN",
+      "status": "pilot-fixture"
+    }
+  },
+  "searchableFields": []
+}

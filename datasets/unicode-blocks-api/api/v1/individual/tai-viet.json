@@ -1,0 +1,10 @@
+{
+  "id": "tai-viet",
+  "name": "Tai Viet",
+  "start": "U+AA80",
+  "end": "U+AADF",
+  "startCode": 43648,
+  "endCode": 43743,
+  "size": 96,
+  "range": "U+AA80..U+AADF"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "PK",
+  "iso2": "PK",
+  "name": "Pakistan",
+  "callingCode": "+92",
+  "callingCodeRoot": "92",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "2123456789",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

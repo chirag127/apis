@@ -1,0 +1,14 @@
+{
+  "id": "BB",
+  "iso2": "BB",
+  "name": "Barbados",
+  "callingCode": "+1",
+  "callingCodeRoot": "1",
+  "internationalPrefix": "011",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "1",
+  "nationalPrefixForParsing": "([2-9]\\d{6})$|1",
+  "exampleNumber": "2464123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

@@ -1,0 +1,6 @@
+{
+  "id": "nutrition",
+  "name": "Nutrition Database",
+  "status": "scaffold",
+  "source": "USDA / public data"
+}

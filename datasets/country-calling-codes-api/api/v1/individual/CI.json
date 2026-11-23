@@ -1,0 +1,14 @@
+{
+  "id": "CI",
+  "iso2": "CI",
+  "name": "Côte d’Ivoire",
+  "callingCode": "+225",
+  "callingCodeRoot": "225",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "2123456789",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "anatolian-hieroglyphs",
+  "name": "Anatolian Hieroglyphs",
+  "start": "U+14400",
+  "end": "U+1467F",
+  "startCode": 82944,
+  "endCode": 83583,
+  "size": 640,
+  "range": "U+14400..U+1467F"
+}

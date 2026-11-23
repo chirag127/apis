@@ -1,0 +1,14 @@
+{
+  "id": "001-800",
+  "iso2": "001",
+  "name": "Non-geographical entity",
+  "callingCode": "+800",
+  "callingCodeRoot": "800",
+  "internationalPrefix": null,
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "12345678",
+  "exampleNumberKind": "tollFree",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": "MVT-1.1",
+  "name": "MVT License 1.1",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 42,
+  "reference": "https://spdx.org/licenses/MVT-1.1.html",
+  "detailsUrl": "https://spdx.org/licenses/MVT-1.1.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MVT-1.1.txt",
+  "seeAlso": [
+    "https://license.mvt.re/1.1/",
+    "https://docs.mvt.re/en/latest/license/",
+    "https://github.com/mvt-project/mvt/blob/main/LICENSE"
+  ]
+}

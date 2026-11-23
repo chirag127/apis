@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-08-25T03:52:42.736Z",
+  "fields": [
+    "id",
+    "name",
+    "keywords"
+  ],
+  "records": [
+    {
+      "id": "india-railway-stations",
+      "name": "Indian Railway Stations",
+      "keywords": "indian railway stations india-railway-stations india-ref railway station train station station code irctc railway zone"
+    }
+  ]
+}

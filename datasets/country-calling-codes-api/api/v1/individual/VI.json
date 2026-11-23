@@ -1,0 +1,14 @@
+{
+  "id": "VI",
+  "iso2": "VI",
+  "name": "U.S. Virgin Islands",
+  "callingCode": "+1",
+  "callingCodeRoot": "1",
+  "internationalPrefix": "011",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "1",
+  "nationalPrefixForParsing": "([2-9]\\d{6})$|1",
+  "exampleNumber": "3406421234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

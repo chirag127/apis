@@ -1,0 +1,10 @@
+{
+  "id": "inscriptional-parthian",
+  "name": "Inscriptional Parthian",
+  "start": "U+10B40",
+  "end": "U+10B5F",
+  "startCode": 68416,
+  "endCode": 68447,
+  "size": 32,
+  "range": "U+10B40..U+10B5F"
+}

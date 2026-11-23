@@ -1,0 +1,10 @@
+{
+  "id": "devanagari-extended-a",
+  "name": "Devanagari Extended-A",
+  "start": "U+11B00",
+  "end": "U+11B5F",
+  "startCode": 72448,
+  "endCode": 72543,
+  "size": 96,
+  "range": "U+11B00..U+11B5F"
+}

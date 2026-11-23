@@ -1,0 +1,10 @@
+{
+  "id": "PHP",
+  "alpha3": "PHP",
+  "numeric": "608",
+  "name": "Philippine Peso",
+  "minorUnits": 2,
+  "countries": [
+    "PHILIPPINES (THE)"
+  ]
+}

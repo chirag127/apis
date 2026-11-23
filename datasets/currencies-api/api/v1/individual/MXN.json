@@ -1,0 +1,10 @@
+{
+  "id": "MXN",
+  "alpha3": "MXN",
+  "numeric": "484",
+  "name": "Mexican Peso",
+  "minorUnits": 2,
+  "countries": [
+    "MEXICO"
+  ]
+}

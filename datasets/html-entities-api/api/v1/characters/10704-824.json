@@ -1,0 +1,18 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    10704,
+    824
+  ],
+  "codepointsHex": [
+    "0x29D0",
+    "0x0338"
+  ],
+  "character": "⧐̸",
+  "names": [
+    {
+      "name": "&NotRightTriangleBar;",
+      "legacy": false
+    }
+  ]
+}

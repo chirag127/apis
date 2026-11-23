@@ -1,0 +1,10 @@
+{
+  "id": "AZN",
+  "alpha3": "AZN",
+  "numeric": "944",
+  "name": "Azerbaijan Manat",
+  "minorUnits": 2,
+  "countries": [
+    "AZERBAIJAN"
+  ]
+}

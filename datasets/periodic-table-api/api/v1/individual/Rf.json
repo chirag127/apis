@@ -1,0 +1,30 @@
+{
+  "id": "Rf",
+  "atomicNumber": 104,
+  "symbol": "Rf",
+  "name": "Rutherfordium",
+  "atomicMass": 267,
+  "category": "transition metal",
+  "block": "d",
+  "group": 4,
+  "period": 7,
+  "phase": "Solid",
+  "density": 23.2,
+  "meltingPoint": 2400,
+  "boilingPoint": 5800,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d2",
+  "electronConfigurationSemantic": "[Rn] 5f14 6d2 7s2",
+  "electronegativity": null,
+  "shells": [
+    2,
+    8,
+    18,
+    32,
+    32,
+    10,
+    2
+  ],
+  "cpkHex": "cc0059",
+  "discoveredBy": "Joint Institute for Nuclear Research",
+  "yearDiscovered": "1964"
+}

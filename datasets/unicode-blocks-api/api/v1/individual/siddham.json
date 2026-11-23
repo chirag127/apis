@@ -1,0 +1,10 @@
+{
+  "id": "siddham",
+  "name": "Siddham",
+  "start": "U+11580",
+  "end": "U+115FF",
+  "startCode": 71040,
+  "endCode": 71167,
+  "size": 128,
+  "range": "U+11580..U+115FF"
+}

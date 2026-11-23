@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "upsc-syllabus": {
+      "id": "upsc-syllabus",
+      "name": "UPSC Civil Services Syllabus",
+      "status": "scaffold",
+      "source": "UPSC public notification"
+    }
+  },
+  "searchableFields": []
+}

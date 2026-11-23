@@ -1,0 +1,14 @@
+{
+  "id": "SGMLUG-PM",
+  "name": "SGMLUG Parser Materials License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 492,
+  "reference": "https://spdx.org/licenses/SGMLUG-PM.html",
+  "detailsUrl": "https://spdx.org/licenses/SGMLUG-PM.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/SGMLUG-PM.txt",
+  "seeAlso": [
+    "https://gitweb.gentoo.org/repo/gentoo.git/tree/licenses/SGMLUG?id=7d999af4a47bf55e53e54713d98d145f935935c1"
+  ]
+}

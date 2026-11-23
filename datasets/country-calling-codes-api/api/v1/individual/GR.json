@@ -1,0 +1,14 @@
+{
+  "id": "GR",
+  "iso2": "GR",
+  "name": "Greece",
+  "callingCode": "+30",
+  "callingCodeRoot": "30",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "2123456789",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

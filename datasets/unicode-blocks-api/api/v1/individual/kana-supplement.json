@@ -1,0 +1,10 @@
+{
+  "id": "kana-supplement",
+  "name": "Kana Supplement",
+  "start": "U+1B000",
+  "end": "U+1B0FF",
+  "startCode": 110592,
+  "endCode": 110847,
+  "size": 256,
+  "range": "U+1B000..U+1B0FF"
+}

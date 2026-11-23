@@ -1,0 +1,26 @@
+{
+  "id": "Na",
+  "atomicNumber": 11,
+  "symbol": "Na",
+  "name": "Sodium",
+  "atomicMass": 22.989769282,
+  "category": "alkali metal",
+  "block": "s",
+  "group": 1,
+  "period": 3,
+  "phase": "Solid",
+  "density": 0.968,
+  "meltingPoint": 370.944,
+  "boilingPoint": 1156.09,
+  "electronConfiguration": "1s2 2s2 2p6 3s1",
+  "electronConfigurationSemantic": "[Ne] 3s1",
+  "electronegativity": 0.93,
+  "shells": [
+    2,
+    8,
+    1
+  ],
+  "cpkHex": "ab5cf2",
+  "discoveredBy": "Humphry Davy",
+  "yearDiscovered": "1807"
+}

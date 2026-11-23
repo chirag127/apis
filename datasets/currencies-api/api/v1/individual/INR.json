@@ -1,0 +1,11 @@
+{
+  "id": "INR",
+  "alpha3": "INR",
+  "numeric": "356",
+  "name": "Indian Rupee",
+  "minorUnits": 2,
+  "countries": [
+    "BHUTAN",
+    "INDIA"
+  ]
+}

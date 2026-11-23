@@ -1,0 +1,10 @@
+{
+  "id": "tai-xuan-jing-symbols",
+  "name": "Tai Xuan Jing Symbols",
+  "start": "U+1D300",
+  "end": "U+1D35F",
+  "startCode": 119552,
+  "endCode": 119647,
+  "size": 96,
+  "range": "U+1D300..U+1D35F"
+}

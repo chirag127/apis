@@ -1,0 +1,11 @@
+{
+  "id": "CHF",
+  "alpha3": "CHF",
+  "numeric": "756",
+  "name": "Swiss Franc",
+  "minorUnits": 2,
+  "countries": [
+    "LIECHTENSTEIN",
+    "SWITZERLAND"
+  ]
+}

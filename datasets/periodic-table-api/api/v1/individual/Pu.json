@@ -1,0 +1,30 @@
+{
+  "id": "Pu",
+  "atomicNumber": 94,
+  "symbol": "Pu",
+  "name": "Plutonium",
+  "atomicMass": 244,
+  "category": "actinide",
+  "block": "f",
+  "group": 3,
+  "period": 7,
+  "phase": "Solid",
+  "density": 19.816,
+  "meltingPoint": 912.5,
+  "boilingPoint": 3505,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f6",
+  "electronConfigurationSemantic": "[Rn] 5f6 7s2",
+  "electronegativity": 1.28,
+  "shells": [
+    2,
+    8,
+    18,
+    32,
+    24,
+    8,
+    2
+  ],
+  "cpkHex": "006bff",
+  "discoveredBy": "Glenn T. Seaborg",
+  "yearDiscovered": "1940"
+}

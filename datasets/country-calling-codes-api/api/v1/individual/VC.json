@@ -1,0 +1,14 @@
+{
+  "id": "VC",
+  "iso2": "VC",
+  "name": "St. Vincent & Grenadines",
+  "callingCode": "+1",
+  "callingCodeRoot": "1",
+  "internationalPrefix": "011",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "1",
+  "nationalPrefixForParsing": "([2-7]\\d{6})$|1",
+  "exampleNumber": "7842661234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "phaistos-disc",
+  "name": "Phaistos Disc",
+  "start": "U+101D0",
+  "end": "U+101FF",
+  "startCode": 66000,
+  "endCode": 66047,
+  "size": 48,
+  "range": "U+101D0..U+101FF"
+}

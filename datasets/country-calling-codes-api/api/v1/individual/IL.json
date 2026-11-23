@@ -1,0 +1,14 @@
+{
+  "id": "IL",
+  "iso2": "IL",
+  "name": "Israel",
+  "callingCode": "+972",
+  "callingCodeRoot": "972",
+  "internationalPrefix": "0(?:0|1(?:05|[2-9]))",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "21234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

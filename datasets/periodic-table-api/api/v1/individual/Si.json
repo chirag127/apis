@@ -1,0 +1,26 @@
+{
+  "id": "Si",
+  "atomicNumber": 14,
+  "symbol": "Si",
+  "name": "Silicon",
+  "atomicMass": 28.085,
+  "category": "metalloid",
+  "block": "p",
+  "group": 14,
+  "period": 3,
+  "phase": "Solid",
+  "density": 2.329,
+  "meltingPoint": 1687,
+  "boilingPoint": 3538,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p2",
+  "electronConfigurationSemantic": "[Ne] 3s2 3p2",
+  "electronegativity": 1.9,
+  "shells": [
+    2,
+    8,
+    4
+  ],
+  "cpkHex": "f0c8a0",
+  "discoveredBy": "Jöns Jacob Berzelius",
+  "yearDiscovered": "1854"
+}

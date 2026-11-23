@@ -1,0 +1,10 @@
+{
+  "id": "ILS",
+  "alpha3": "ILS",
+  "numeric": "376",
+  "name": "New Israeli Sheqel",
+  "minorUnits": 2,
+  "countries": [
+    "ISRAEL"
+  ]
+}

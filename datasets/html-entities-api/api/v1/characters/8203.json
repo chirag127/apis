@@ -1,0 +1,32 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8203
+  ],
+  "codepointsHex": [
+    "0x200B"
+  ],
+  "character": "​",
+  "names": [
+    {
+      "name": "&NegativeMediumSpace;",
+      "legacy": false
+    },
+    {
+      "name": "&NegativeThickSpace;",
+      "legacy": false
+    },
+    {
+      "name": "&NegativeThinSpace;",
+      "legacy": false
+    },
+    {
+      "name": "&NegativeVeryThinSpace;",
+      "legacy": false
+    },
+    {
+      "name": "&ZeroWidthSpace;",
+      "legacy": false
+    }
+  ]
+}

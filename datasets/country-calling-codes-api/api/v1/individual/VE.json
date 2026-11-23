@@ -1,0 +1,14 @@
+{
+  "id": "VE",
+  "iso2": "VE",
+  "name": "Venezuela",
+  "callingCode": "+58",
+  "callingCodeRoot": "58",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "2121234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

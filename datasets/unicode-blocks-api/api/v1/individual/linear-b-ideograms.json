@@ -1,0 +1,10 @@
+{
+  "id": "linear-b-ideograms",
+  "name": "Linear B Ideograms",
+  "start": "U+10080",
+  "end": "U+100FF",
+  "startCode": 65664,
+  "endCode": 65791,
+  "size": 128,
+  "range": "U+10080..U+100FF"
+}

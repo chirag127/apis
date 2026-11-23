@@ -1,0 +1,10 @@
+{
+  "id": "CZK",
+  "alpha3": "CZK",
+  "numeric": "203",
+  "name": "Czech Koruna",
+  "minorUnits": 2,
+  "countries": [
+    "CZECHIA"
+  ]
+}

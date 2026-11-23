@@ -1,0 +1,14 @@
+{
+  "id": "wxWindows",
+  "name": "wxWindows Library License",
+  "deprecated": true,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 94,
+  "reference": "https://spdx.org/licenses/wxWindows.html",
+  "detailsUrl": "https://spdx.org/licenses/wxWindows.json",
+  "textUrl": null,
+  "seeAlso": [
+    "https://opensource.org/license/wxWindows"
+  ]
+}

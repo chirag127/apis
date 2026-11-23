@@ -1,0 +1,27 @@
+{
+  "id": "Fe",
+  "atomicNumber": 26,
+  "symbol": "Fe",
+  "name": "Iron",
+  "atomicMass": 55.8452,
+  "category": "transition metal",
+  "block": "d",
+  "group": 8,
+  "period": 4,
+  "phase": "Solid",
+  "density": 7.874,
+  "meltingPoint": 1811,
+  "boilingPoint": 3134,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d6",
+  "electronConfigurationSemantic": "[Ar] 3d6 4s2",
+  "electronegativity": 1.83,
+  "shells": [
+    2,
+    8,
+    14,
+    2
+  ],
+  "cpkHex": "e06633",
+  "discoveredBy": "5000 BC",
+  "yearDiscovered": "Ancient"
+}

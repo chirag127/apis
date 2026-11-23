@@ -1,0 +1,10 @@
+{
+  "id": "lepcha",
+  "name": "Lepcha",
+  "start": "U+1C00",
+  "end": "U+1C4F",
+  "startCode": 7168,
+  "endCode": 7247,
+  "size": 80,
+  "range": "U+1C00..U+1C4F"
+}

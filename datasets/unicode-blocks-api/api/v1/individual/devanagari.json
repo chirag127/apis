@@ -1,0 +1,10 @@
+{
+  "id": "devanagari",
+  "name": "Devanagari",
+  "start": "U+0900",
+  "end": "U+097F",
+  "startCode": 2304,
+  "endCode": 2431,
+  "size": 128,
+  "range": "U+0900..U+097F"
+}

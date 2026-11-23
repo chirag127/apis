@@ -1,0 +1,14 @@
+{
+  "id": "LS",
+  "iso2": "LS",
+  "name": "Lesotho",
+  "callingCode": "+266",
+  "callingCodeRoot": "266",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "22123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mandaic",
+  "name": "Mandaic",
+  "start": "U+0840",
+  "end": "U+085F",
+  "startCode": 2112,
+  "endCode": 2143,
+  "size": 32,
+  "range": "U+0840..U+085F"
+}

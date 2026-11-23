@@ -1,0 +1,10 @@
+{
+  "id": "LRD",
+  "alpha3": "LRD",
+  "numeric": "430",
+  "name": "Liberian Dollar",
+  "minorUnits": 2,
+  "countries": [
+    "LIBERIA"
+  ]
+}

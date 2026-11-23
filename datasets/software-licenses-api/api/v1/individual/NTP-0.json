@@ -1,0 +1,14 @@
+{
+  "id": "NTP-0",
+  "name": "NTP No Attribution",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 730,
+  "reference": "https://spdx.org/licenses/NTP-0.html",
+  "detailsUrl": "https://spdx.org/licenses/NTP-0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/NTP-0.txt",
+  "seeAlso": [
+    "https://github.com/tytso/e2fsprogs/blob/master/lib/et/et_name.c"
+  ]
+}

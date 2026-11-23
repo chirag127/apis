@@ -1,0 +1,14 @@
+{
+  "id": "Caldera",
+  "name": "Caldera License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 503,
+  "reference": "https://spdx.org/licenses/Caldera.html",
+  "detailsUrl": "https://spdx.org/licenses/Caldera.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Caldera.txt",
+  "seeAlso": [
+    "http://www.lemis.com/grog/UNIX/ancient-source-all.pdf"
+  ]
+}

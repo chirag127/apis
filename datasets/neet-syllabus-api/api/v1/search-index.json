@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "neet-syllabus": {
+      "id": "neet-syllabus",
+      "name": "NEET Syllabus",
+      "status": "scaffold",
+      "source": "NTA public notification"
+    }
+  },
+  "searchableFields": []
+}

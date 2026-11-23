@@ -1,0 +1,10 @@
+{
+  "id": "arabic-presentation-forms-a",
+  "name": "Arabic Presentation Forms-A",
+  "start": "U+FB50",
+  "end": "U+FDFF",
+  "startCode": 64336,
+  "endCode": 65023,
+  "size": 688,
+  "range": "U+FB50..U+FDFF"
+}

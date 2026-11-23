@@ -1,0 +1,27 @@
+{
+  "id": "Co",
+  "atomicNumber": 27,
+  "symbol": "Co",
+  "name": "Cobalt",
+  "atomicMass": 58.9331944,
+  "category": "transition metal",
+  "block": "d",
+  "group": 9,
+  "period": 4,
+  "phase": "Solid",
+  "density": 8.9,
+  "meltingPoint": 1768,
+  "boilingPoint": 3200,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d7",
+  "electronConfigurationSemantic": "[Ar] 3d7 4s2",
+  "electronegativity": 1.88,
+  "shells": [
+    2,
+    8,
+    15,
+    2
+  ],
+  "cpkHex": "f090a0",
+  "discoveredBy": "Georg Brandt",
+  "yearDiscovered": "1735"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "ARS",
+  "alpha3": "ARS",
+  "numeric": "032",
+  "name": "Argentine Peso",
+  "minorUnits": 2,
+  "countries": [
+    "ARGENTINA"
+  ]
+}

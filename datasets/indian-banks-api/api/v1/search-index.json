@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "indian-banks": {
+      "id": "indian-banks",
+      "name": "Indian Banks Directory",
+      "status": "scaffold",
+      "source": "RBI public list"
+    }
+  },
+  "searchableFields": []
+}

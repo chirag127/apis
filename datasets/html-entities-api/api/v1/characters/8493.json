@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8493
+  ],
+  "codepointsHex": [
+    "0x212D"
+  ],
+  "character": "ℭ",
+  "names": [
+    {
+      "name": "&Cayleys;",
+      "legacy": false
+    },
+    {
+      "name": "&Cfr;",
+      "legacy": false
+    }
+  ]
+}

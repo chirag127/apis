@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://chirag127.github.io/rbi-policy-rates/schemas/data.json",
+  "title": "RBI Policy Rates",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "name",
+      "unit",
+      "status"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[A-Z0-9-]+$"
+      },
+      "name": {
+        "type": "string"
+      },
+      "value": {
+        "type": "object"
+      },
+      "unit": {
+        "type": "string"
+      },
+      "status": {
+        "type": "string"
+      }
+    }
+  }
+}

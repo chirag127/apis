@@ -1,0 +1,16 @@
+{
+  "status": "healthy",
+  "lastUpdated": "2026-11-10T18:22:56Z",
+  "sourceUpdatedAt": "2026-11-04T12:04:13.000Z",
+  "retrievedAt": "2026-11-10T18:22:56Z",
+  "recordCount": 254,
+  "version": "1.0.0",
+  "schemaVersion": "1.0.0",
+  "source": "Google libphonenumber PhoneNumberMetadata.xml, CLDR territory names",
+  "sourceUrl": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "license": "Apache-2.0 (libphonenumber); Unicode License v3 (CLDR)",
+  "updateCadence": "quarterly",
+  "nextUpdateDue": "2027-02-08T18:22:56.000Z",
+  "lastFailedAt": null,
+  "failureReason": null
+}

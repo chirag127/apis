@@ -1,0 +1,14 @@
+{
+  "id": "CH",
+  "iso2": "CH",
+  "name": "Switzerland",
+  "callingCode": "+41",
+  "callingCodeRoot": "41",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "212345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

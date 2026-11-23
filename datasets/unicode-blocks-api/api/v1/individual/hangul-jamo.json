@@ -1,0 +1,10 @@
+{
+  "id": "hangul-jamo",
+  "name": "Hangul Jamo",
+  "start": "U+1100",
+  "end": "U+11FF",
+  "startCode": 4352,
+  "endCode": 4607,
+  "size": 256,
+  "range": "U+1100..U+11FF"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "QAR",
+  "alpha3": "QAR",
+  "numeric": "634",
+  "name": "Qatari Rial",
+  "minorUnits": 2,
+  "countries": [
+    "QATAR"
+  ]
+}

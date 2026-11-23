@@ -1,0 +1,14 @@
+{
+  "id": "BJ",
+  "iso2": "BJ",
+  "name": "Benin",
+  "callingCode": "+229",
+  "callingCodeRoot": "229",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "0120211234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

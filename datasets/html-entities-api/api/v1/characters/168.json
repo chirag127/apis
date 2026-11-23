@@ -1,0 +1,32 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    168
+  ],
+  "codepointsHex": [
+    "0x00A8"
+  ],
+  "character": "¨",
+  "names": [
+    {
+      "name": "&Dot;",
+      "legacy": false
+    },
+    {
+      "name": "&DoubleDot;",
+      "legacy": false
+    },
+    {
+      "name": "&die;",
+      "legacy": false
+    },
+    {
+      "name": "&uml",
+      "legacy": true
+    },
+    {
+      "name": "&uml;",
+      "legacy": false
+    }
+  ]
+}

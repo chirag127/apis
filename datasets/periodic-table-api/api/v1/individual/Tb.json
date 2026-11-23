@@ -1,0 +1,29 @@
+{
+  "id": "Tb",
+  "atomicNumber": 65,
+  "symbol": "Tb",
+  "name": "Terbium",
+  "atomicMass": 158.925352,
+  "category": "lanthanide",
+  "block": "f",
+  "group": 3,
+  "period": 6,
+  "phase": "Solid",
+  "density": 8.23,
+  "meltingPoint": 1629,
+  "boilingPoint": 3396,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f9",
+  "electronConfigurationSemantic": "[Xe] 4f9 6s2",
+  "electronegativity": 1.1,
+  "shells": [
+    2,
+    8,
+    18,
+    27,
+    8,
+    2
+  ],
+  "cpkHex": "30ffc7",
+  "discoveredBy": "Carl Gustaf Mosander",
+  "yearDiscovered": "1843"
+}

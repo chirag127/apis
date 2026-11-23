@@ -1,0 +1,29 @@
+{
+  "id": "Eu",
+  "atomicNumber": 63,
+  "symbol": "Eu",
+  "name": "Europium",
+  "atomicMass": 151.9641,
+  "category": "lanthanide",
+  "block": "f",
+  "group": 3,
+  "period": 6,
+  "phase": "Solid",
+  "density": 5.264,
+  "meltingPoint": 1099,
+  "boilingPoint": 1802,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f7",
+  "electronConfigurationSemantic": "[Xe] 4f7 6s2",
+  "electronegativity": 1.2,
+  "shells": [
+    2,
+    8,
+    18,
+    25,
+    8,
+    2
+  ],
+  "cpkHex": "61ffc7",
+  "discoveredBy": "Eugène-Anatole Demarçay",
+  "yearDiscovered": "1901"
+}

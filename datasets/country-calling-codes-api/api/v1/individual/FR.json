@@ -1,0 +1,14 @@
+{
+  "id": "FR",
+  "iso2": "FR",
+  "name": "France",
+  "callingCode": "+33",
+  "callingCodeRoot": "33",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "123456789",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

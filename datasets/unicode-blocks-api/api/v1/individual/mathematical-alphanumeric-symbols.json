@@ -1,0 +1,10 @@
+{
+  "id": "mathematical-alphanumeric-symbols",
+  "name": "Mathematical Alphanumeric Symbols",
+  "start": "U+1D400",
+  "end": "U+1D7FF",
+  "startCode": 119808,
+  "endCode": 120831,
+  "size": 1024,
+  "range": "U+1D400..U+1D7FF"
+}

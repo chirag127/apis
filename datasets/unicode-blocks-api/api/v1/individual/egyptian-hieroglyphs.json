@@ -1,0 +1,10 @@
+{
+  "id": "egyptian-hieroglyphs",
+  "name": "Egyptian Hieroglyphs",
+  "start": "U+13000",
+  "end": "U+1342F",
+  "startCode": 77824,
+  "endCode": 78895,
+  "size": 1072,
+  "range": "U+13000..U+1342F"
+}

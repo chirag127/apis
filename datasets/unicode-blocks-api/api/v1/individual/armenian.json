@@ -1,0 +1,10 @@
+{
+  "id": "armenian",
+  "name": "Armenian",
+  "start": "U+0530",
+  "end": "U+058F",
+  "startCode": 1328,
+  "endCode": 1423,
+  "size": 96,
+  "range": "U+0530..U+058F"
+}

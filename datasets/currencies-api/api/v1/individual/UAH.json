@@ -1,0 +1,10 @@
+{
+  "id": "UAH",
+  "alpha3": "UAH",
+  "numeric": "980",
+  "name": "Hryvnia",
+  "minorUnits": 2,
+  "countries": [
+    "UKRAINE"
+  ]
+}

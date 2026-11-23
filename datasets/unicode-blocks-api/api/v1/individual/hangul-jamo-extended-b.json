@@ -1,0 +1,10 @@
+{
+  "id": "hangul-jamo-extended-b",
+  "name": "Hangul Jamo Extended-B",
+  "start": "U+D7B0",
+  "end": "U+D7FF",
+  "startCode": 55216,
+  "endCode": 55295,
+  "size": 80,
+  "range": "U+D7B0..U+D7FF"
+}

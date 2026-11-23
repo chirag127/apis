@@ -1,0 +1,14 @@
+{
+  "id": "KI",
+  "iso2": "KI",
+  "name": "Kiribati",
+  "callingCode": "+686",
+  "callingCodeRoot": "686",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "31234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,22 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8843,
+    65024
+  ],
+  "codepointsHex": [
+    "0x228B",
+    "0xFE00"
+  ],
+  "character": "⊋︀",
+  "names": [
+    {
+      "name": "&varsupsetneq;",
+      "legacy": false
+    },
+    {
+      "name": "&vsupne;",
+      "legacy": false
+    }
+  ]
+}

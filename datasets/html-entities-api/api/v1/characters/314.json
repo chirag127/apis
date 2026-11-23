@@ -1,0 +1,16 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    314
+  ],
+  "codepointsHex": [
+    "0x013A"
+  ],
+  "character": "ĺ",
+  "names": [
+    {
+      "name": "&lacute;",
+      "legacy": false
+    }
+  ]
+}

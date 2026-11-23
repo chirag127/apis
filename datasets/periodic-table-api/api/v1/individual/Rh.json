@@ -1,0 +1,28 @@
+{
+  "id": "Rh",
+  "atomicNumber": 45,
+  "symbol": "Rh",
+  "name": "Rhodium",
+  "atomicMass": 102.905502,
+  "category": "transition metal",
+  "block": "d",
+  "group": 9,
+  "period": 5,
+  "phase": "Solid",
+  "density": 12.41,
+  "meltingPoint": 2237,
+  "boilingPoint": 3968,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d8",
+  "electronConfigurationSemantic": "[Kr] 4d8 5s1",
+  "electronegativity": 2.28,
+  "shells": [
+    2,
+    8,
+    18,
+    16,
+    1
+  ],
+  "cpkHex": "0a7d8c",
+  "discoveredBy": "William Hyde Wollaston",
+  "yearDiscovered": "1803"
+}

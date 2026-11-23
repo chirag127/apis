@@ -1,0 +1,10 @@
+{
+  "id": "domino-tiles",
+  "name": "Domino Tiles",
+  "start": "U+1F030",
+  "end": "U+1F09F",
+  "startCode": 127024,
+  "endCode": 127135,
+  "size": 112,
+  "range": "U+1F030..U+1F09F"
+}

@@ -1,0 +1,19 @@
+{
+  "byId": {
+    "110001": {
+      "id": "110001",
+      "name": "New Delhi GPO",
+      "district": "New Delhi",
+      "state": "Delhi",
+      "status": "pilot-fixture"
+    },
+    "400001": {
+      "id": "400001",
+      "name": "Mumbai GPO",
+      "district": "Mumbai",
+      "state": "Maharashtra",
+      "status": "pilot-fixture"
+    }
+  },
+  "searchableFields": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "NF",
+  "iso2": "NF",
+  "name": "Norfolk Island",
+  "callingCode": "+672",
+  "callingCodeRoot": "672",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": "([0-258]\\d{4})$",
+  "exampleNumber": "106609",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

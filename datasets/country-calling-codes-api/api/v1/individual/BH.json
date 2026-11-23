@@ -1,0 +1,14 @@
+{
+  "id": "BH",
+  "iso2": "BH",
+  "name": "Bahrain",
+  "callingCode": "+973",
+  "callingCodeRoot": "973",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "17001234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

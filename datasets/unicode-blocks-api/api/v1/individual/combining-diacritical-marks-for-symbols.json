@@ -1,0 +1,10 @@
+{
+  "id": "combining-diacritical-marks-for-symbols",
+  "name": "Combining Diacritical Marks for Symbols",
+  "start": "U+20D0",
+  "end": "U+20FF",
+  "startCode": 8400,
+  "endCode": 8447,
+  "size": 48,
+  "range": "U+20D0..U+20FF"
+}

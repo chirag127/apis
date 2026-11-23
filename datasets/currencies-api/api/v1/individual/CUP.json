@@ -1,0 +1,10 @@
+{
+  "id": "CUP",
+  "alpha3": "CUP",
+  "numeric": "192",
+  "name": "Cuban Peso",
+  "minorUnits": 2,
+  "countries": [
+    "CUBA"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "XAU",
+  "alpha3": "XAU",
+  "numeric": "959",
+  "name": "Gold",
+  "minorUnits": null,
+  "countries": [
+    "ZZ08_Gold"
+  ]
+}

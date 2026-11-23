@@ -1,0 +1,14 @@
+{
+  "id": "PY",
+  "iso2": "PY",
+  "name": "Paraguay",
+  "callingCode": "+595",
+  "callingCodeRoot": "595",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "212345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "FSL-1.1-ALv2",
+  "name": "Functional Source License, Version 1.1, ALv2 Future License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 674,
+  "reference": "https://spdx.org/licenses/FSL-1.1-ALv2.html",
+  "detailsUrl": "https://spdx.org/licenses/FSL-1.1-ALv2.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/FSL-1.1-ALv2.txt",
+  "seeAlso": [
+    "https://fsl.software/FSL-1.1-ALv2.template.md"
+  ]
+}

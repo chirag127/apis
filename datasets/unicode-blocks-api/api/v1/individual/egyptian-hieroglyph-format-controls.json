@@ -1,0 +1,10 @@
+{
+  "id": "egyptian-hieroglyph-format-controls",
+  "name": "Egyptian Hieroglyph Format Controls",
+  "start": "U+13430",
+  "end": "U+1345F",
+  "startCode": 78896,
+  "endCode": 78943,
+  "size": 48,
+  "range": "U+13430..U+1345F"
+}

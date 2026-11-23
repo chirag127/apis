@@ -1,0 +1,14 @@
+{
+  "id": "SX",
+  "iso2": "SX",
+  "name": "Sint Maarten",
+  "callingCode": "+1",
+  "callingCodeRoot": "1",
+  "internationalPrefix": "011",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "1",
+  "nationalPrefixForParsing": "(5\\d{6})$|1",
+  "exampleNumber": "7215425678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

@@ -1,0 +1,3532 @@
+[
+  {
+    "id": "basic-latin",
+    "name": "Basic Latin",
+    "start": "U+0000",
+    "end": "U+007F",
+    "startCode": 0,
+    "endCode": 127,
+    "size": 128,
+    "range": "U+0000..U+007F"
+  },
+  {
+    "id": "latin-1-supplement",
+    "name": "Latin-1 Supplement",
+    "start": "U+0080",
+    "end": "U+00FF",
+    "startCode": 128,
+    "endCode": 255,
+    "size": 128,
+    "range": "U+0080..U+00FF"
+  },
+  {
+    "id": "latin-extended-a",
+    "name": "Latin Extended-A",
+    "start": "U+0100",
+    "end": "U+017F",
+    "startCode": 256,
+    "endCode": 383,
+    "size": 128,
+    "range": "U+0100..U+017F"
+  },
+  {
+    "id": "latin-extended-b",
+    "name": "Latin Extended-B",
+    "start": "U+0180",
+    "end": "U+024F",
+    "startCode": 384,
+    "endCode": 591,
+    "size": 208,
+    "range": "U+0180..U+024F"
+  },
+  {
+    "id": "ipa-extensions",
+    "name": "IPA Extensions",
+    "start": "U+0250",
+    "end": "U+02AF",
+    "startCode": 592,
+    "endCode": 687,
+    "size": 96,
+    "range": "U+0250..U+02AF"
+  },
+  {
+    "id": "spacing-modifier-letters",
+    "name": "Spacing Modifier Letters",
+    "start": "U+02B0",
+    "end": "U+02FF",
+    "startCode": 688,
+    "endCode": 767,
+    "size": 80,
+    "range": "U+02B0..U+02FF"
+  },
+  {
+    "id": "combining-diacritical-marks",
+    "name": "Combining Diacritical Marks",
+    "start": "U+0300",
+    "end": "U+036F",
+    "startCode": 768,
+    "endCode": 879,
+    "size": 112,
+    "range": "U+0300..U+036F"
+  },
+  {
+    "id": "greek-and-coptic",
+    "name": "Greek and Coptic",
+    "start": "U+0370",
+    "end": "U+03FF",
+    "startCode": 880,
+    "endCode": 1023,
+    "size": 144,
+    "range": "U+0370..U+03FF"
+  },
+  {
+    "id": "cyrillic",
+    "name": "Cyrillic",
+    "start": "U+0400",
+    "end": "U+04FF",
+    "startCode": 1024,
+    "endCode": 1279,
+    "size": 256,
+    "range": "U+0400..U+04FF"
+  },
+  {
+    "id": "cyrillic-supplement",
+    "name": "Cyrillic Supplement",
+    "start": "U+0500",
+    "end": "U+052F",
+    "startCode": 1280,
+    "endCode": 1327,
+    "size": 48,
+    "range": "U+0500..U+052F"
+  },
+  {
+    "id": "armenian",
+    "name": "Armenian",
+    "start": "U+0530",
+    "end": "U+058F",
+    "startCode": 1328,
+    "endCode": 1423,
+    "size": 96,
+    "range": "U+0530..U+058F"
+  },
+  {
+    "id": "hebrew",
+    "name": "Hebrew",
+    "start": "U+0590",
+    "end": "U+05FF",
+    "startCode": 1424,
+    "endCode": 1535,
+    "size": 112,
+    "range": "U+0590..U+05FF"
+  },
+  {
+    "id": "arabic",
+    "name": "Arabic",
+    "start": "U+0600",
+    "end": "U+06FF",
+    "startCode": 1536,
+    "endCode": 1791,
+    "size": 256,
+    "range": "U+0600..U+06FF"
+  },
+  {
+    "id": "syriac",
+    "name": "Syriac",
+    "start": "U+0700",
+    "end": "U+074F",
+    "startCode": 1792,
+    "endCode": 1871,
+    "size": 80,
+    "range": "U+0700..U+074F"
+  },
+  {
+    "id": "arabic-supplement",
+    "name": "Arabic Supplement",
+    "start": "U+0750",
+    "end": "U+077F",
+    "startCode": 1872,
+    "endCode": 1919,
+    "size": 48,
+    "range": "U+0750..U+077F"
+  },
+  {
+    "id": "thaana",
+    "name": "Thaana",
+    "start": "U+0780",
+    "end": "U+07BF",
+    "startCode": 1920,
+    "endCode": 1983,
+    "size": 64,
+    "range": "U+0780..U+07BF"
+  },
+  {
+    "id": "nko",
+    "name": "NKo",
+    "start": "U+07C0",
+    "end": "U+07FF",
+    "startCode": 1984,
+    "endCode": 2047,
+    "size": 64,
+    "range": "U+07C0..U+07FF"
+  },
+  {
+    "id": "samaritan",
+    "name": "Samaritan",
+    "start": "U+0800",
+    "end": "U+083F",
+    "startCode": 2048,
+    "endCode": 2111,
+    "size": 64,
+    "range": "U+0800..U+083F"
+  },
+  {
+    "id": "mandaic",
+    "name": "Mandaic",
+    "start": "U+0840",
+    "end": "U+085F",
+    "startCode": 2112,
+    "endCode": 2143,
+    "size": 32,
+    "range": "U+0840..U+085F"
+  },
+  {
+    "id": "syriac-supplement",
+    "name": "Syriac Supplement",
+    "start": "U+0860",
+    "end": "U+086F",
+    "startCode": 2144,
+    "endCode": 2159,
+    "size": 16,
+    "range": "U+0860..U+086F"
+  },
+  {
+    "id": "arabic-extended-b",
+    "name": "Arabic Extended-B",
+    "start": "U+0870",
+    "end": "U+089F",
+    "startCode": 2160,
+    "endCode": 2207,
+    "size": 48,
+    "range": "U+0870..U+089F"
+  },
+  {
+    "id": "arabic-extended-a",
+    "name": "Arabic Extended-A",
+    "start": "U+08A0",
+    "end": "U+08FF",
+    "startCode": 2208,
+    "endCode": 2303,
+    "size": 96,
+    "range": "U+08A0..U+08FF"
+  },
+  {
+    "id": "devanagari",
+    "name": "Devanagari",
+    "start": "U+0900",
+    "end": "U+097F",
+    "startCode": 2304,
+    "endCode": 2431,
+    "size": 128,
+    "range": "U+0900..U+097F"
+  },
+  {
+    "id": "bengali",
+    "name": "Bengali",
+    "start": "U+0980",
+    "end": "U+09FF",
+    "startCode": 2432,
+    "endCode": 2559,
+    "size": 128,
+    "range": "U+0980..U+09FF"
+  },
+  {
+    "id": "gurmukhi",
+    "name": "Gurmukhi",
+    "start": "U+0A00",
+    "end": "U+0A7F",
+    "startCode": 2560,
+    "endCode": 2687,
+    "size": 128,
+    "range": "U+0A00..U+0A7F"
+  },
+  {
+    "id": "gujarati",
+    "name": "Gujarati",
+    "start": "U+0A80",
+    "end": "U+0AFF",
+    "startCode": 2688,
+    "endCode": 2815,
+    "size": 128,
+    "range": "U+0A80..U+0AFF"
+  },
+  {
+    "id": "oriya",
+    "name": "Oriya",
+    "start": "U+0B00",
+    "end": "U+0B7F",
+    "startCode": 2816,
+    "endCode": 2943,
+    "size": 128,
+    "range": "U+0B00..U+0B7F"
+  },
+  {
+    "id": "tamil",
+    "name": "Tamil",
+    "start": "U+0B80",
+    "end": "U+0BFF",
+    "startCode": 2944,
+    "endCode": 3071,
+    "size": 128,
+    "range": "U+0B80..U+0BFF"
+  },
+  {
+    "id": "telugu",
+    "name": "Telugu",
+    "start": "U+0C00",
+    "end": "U+0C7F",
+    "startCode": 3072,
+    "endCode": 3199,
+    "size": 128,
+    "range": "U+0C00..U+0C7F"
+  },
+  {
+    "id": "kannada",
+    "name": "Kannada",
+    "start": "U+0C80",
+    "end": "U+0CFF",
+    "startCode": 3200,
+    "endCode": 3327,
+    "size": 128,
+    "range": "U+0C80..U+0CFF"
+  },
+  {
+    "id": "malayalam",
+    "name": "Malayalam",
+    "start": "U+0D00",
+    "end": "U+0D7F",
+    "startCode": 3328,
+    "endCode": 3455,
+    "size": 128,
+    "range": "U+0D00..U+0D7F"
+  },
+  {
+    "id": "sinhala",
+    "name": "Sinhala",
+    "start": "U+0D80",
+    "end": "U+0DFF",
+    "startCode": 3456,
+    "endCode": 3583,
+    "size": 128,
+    "range": "U+0D80..U+0DFF"
+  },
+  {
+    "id": "thai",
+    "name": "Thai",
+    "start": "U+0E00",
+    "end": "U+0E7F",
+    "startCode": 3584,
+    "endCode": 3711,
+    "size": 128,
+    "range": "U+0E00..U+0E7F"
+  },
+  {
+    "id": "lao",
+    "name": "Lao",
+    "start": "U+0E80",
+    "end": "U+0EFF",
+    "startCode": 3712,
+    "endCode": 3839,
+    "size": 128,
+    "range": "U+0E80..U+0EFF"
+  },
+  {
+    "id": "tibetan",
+    "name": "Tibetan",
+    "start": "U+0F00",
+    "end": "U+0FFF",
+    "startCode": 3840,
+    "endCode": 4095,
+    "size": 256,
+    "range": "U+0F00..U+0FFF"
+  },
+  {
+    "id": "myanmar",
+    "name": "Myanmar",
+    "start": "U+1000",
+    "end": "U+109F",
+    "startCode": 4096,
+    "endCode": 4255,
+    "size": 160,
+    "range": "U+1000..U+109F"
+  },
+  {
+    "id": "georgian",
+    "name": "Georgian",
+    "start": "U+10A0",
+    "end": "U+10FF",
+    "startCode": 4256,
+    "endCode": 4351,
+    "size": 96,
+    "range": "U+10A0..U+10FF"
+  },
+  {
+    "id": "hangul-jamo",
+    "name": "Hangul Jamo",
+    "start": "U+1100",
+    "end": "U+11FF",
+    "startCode": 4352,
+    "endCode": 4607,
+    "size": 256,
+    "range": "U+1100..U+11FF"
+  },
+  {
+    "id": "ethiopic",
+    "name": "Ethiopic",
+    "start": "U+1200",
+    "end": "U+137F",
+    "startCode": 4608,
+    "endCode": 4991,
+    "size": 384,
+    "range": "U+1200..U+137F"
+  },
+  {
+    "id": "ethiopic-supplement",
+    "name": "Ethiopic Supplement",
+    "start": "U+1380",
+    "end": "U+139F",
+    "startCode": 4992,
+    "endCode": 5023,
+    "size": 32,
+    "range": "U+1380..U+139F"
+  },
+  {
+    "id": "cherokee",
+    "name": "Cherokee",
+    "start": "U+13A0",
+    "end": "U+13FF",
+    "startCode": 5024,
+    "endCode": 5119,
+    "size": 96,
+    "range": "U+13A0..U+13FF"
+  },
+  {
+    "id": "unified-canadian-aboriginal-syllabics",
+    "name": "Unified Canadian Aboriginal Syllabics",
+    "start": "U+1400",
+    "end": "U+167F",
+    "startCode": 5120,
+    "endCode": 5759,
+    "size": 640,
+    "range": "U+1400..U+167F"
+  },
+  {
+    "id": "ogham",
+    "name": "Ogham",
+    "start": "U+1680",
+    "end": "U+169F",
+    "startCode": 5760,
+    "endCode": 5791,
+    "size": 32,
+    "range": "U+1680..U+169F"
+  },
+  {
+    "id": "runic",
+    "name": "Runic",
+    "start": "U+16A0",
+    "end": "U+16FF",
+    "startCode": 5792,
+    "endCode": 5887,
+    "size": 96,
+    "range": "U+16A0..U+16FF"
+  },
+  {
+    "id": "tagalog",
+    "name": "Tagalog",
+    "start": "U+1700",
+    "end": "U+171F",
+    "startCode": 5888,
+    "endCode": 5919,
+    "size": 32,
+    "range": "U+1700..U+171F"
+  },
+  {
+    "id": "hanunoo",
+    "name": "Hanunoo",
+    "start": "U+1720",
+    "end": "U+173F",
+    "startCode": 5920,
+    "endCode": 5951,
+    "size": 32,
+    "range": "U+1720..U+173F"
+  },
+  {
+    "id": "buhid",
+    "name": "Buhid",
+    "start": "U+1740",
+    "end": "U+175F",
+    "startCode": 5952,
+    "endCode": 5983,
+    "size": 32,
+    "range": "U+1740..U+175F"
+  },
+  {
+    "id": "tagbanwa",
+    "name": "Tagbanwa",
+    "start": "U+1760",
+    "end": "U+177F",
+    "startCode": 5984,
+    "endCode": 6015,
+    "size": 32,
+    "range": "U+1760..U+177F"
+  },
+  {
+    "id": "khmer",
+    "name": "Khmer",
+    "start": "U+1780",
+    "end": "U+17FF",
+    "startCode": 6016,
+    "endCode": 6143,
+    "size": 128,
+    "range": "U+1780..U+17FF"
+  },
+  {
+    "id": "mongolian",
+    "name": "Mongolian",
+    "start": "U+1800",
+    "end": "U+18AF",
+    "startCode": 6144,
+    "endCode": 6319,
+    "size": 176,
+    "range": "U+1800..U+18AF"
+  },
+  {
+    "id": "unified-canadian-aboriginal-syllabics-extended",
+    "name": "Unified Canadian Aboriginal Syllabics Extended",
+    "start": "U+18B0",
+    "end": "U+18FF",
+    "startCode": 6320,
+    "endCode": 6399,
+    "size": 80,
+    "range": "U+18B0..U+18FF"
+  },
+  {
+    "id": "limbu",
+    "name": "Limbu",
+    "start": "U+1900",
+    "end": "U+194F",
+    "startCode": 6400,
+    "endCode": 6479,
+    "size": 80,
+    "range": "U+1900..U+194F"
+  },
+  {
+    "id": "tai-le",
+    "name": "Tai Le",
+    "start": "U+1950",
+    "end": "U+197F",
+    "startCode": 6480,
+    "endCode": 6527,
+    "size": 48,
+    "range": "U+1950..U+197F"
+  },
+  {
+    "id": "new-tai-lue",
+    "name": "New Tai Lue",
+    "start": "U+1980",
+    "end": "U+19DF",
+    "startCode": 6528,
+    "endCode": 6623,
+    "size": 96,
+    "range": "U+1980..U+19DF"
+  },
+  {
+    "id": "khmer-symbols",
+    "name": "Khmer Symbols",
+    "start": "U+19E0",
+    "end": "U+19FF",
+    "startCode": 6624,
+    "endCode": 6655,
+    "size": 32,
+    "range": "U+19E0..U+19FF"
+  },
+  {
+    "id": "buginese",
+    "name": "Buginese",
+    "start": "U+1A00",
+    "end": "U+1A1F",
+    "startCode": 6656,
+    "endCode": 6687,
+    "size": 32,
+    "range": "U+1A00..U+1A1F"
+  },
+  {
+    "id": "tai-tham",
+    "name": "Tai Tham",
+    "start": "U+1A20",
+    "end": "U+1AAF",
+    "startCode": 6688,
+    "endCode": 6831,
+    "size": 144,
+    "range": "U+1A20..U+1AAF"
+  },
+  {
+    "id": "combining-diacritical-marks-extended",
+    "name": "Combining Diacritical Marks Extended",
+    "start": "U+1AB0",
+    "end": "U+1AFF",
+    "startCode": 6832,
+    "endCode": 6911,
+    "size": 80,
+    "range": "U+1AB0..U+1AFF"
+  },
+  {
+    "id": "balinese",
+    "name": "Balinese",
+    "start": "U+1B00",
+    "end": "U+1B7F",
+    "startCode": 6912,
+    "endCode": 7039,
+    "size": 128,
+    "range": "U+1B00..U+1B7F"
+  },
+  {
+    "id": "sundanese",
+    "name": "Sundanese",
+    "start": "U+1B80",
+    "end": "U+1BBF",
+    "startCode": 7040,
+    "endCode": 7103,
+    "size": 64,
+    "range": "U+1B80..U+1BBF"
+  },
+  {
+    "id": "batak",
+    "name": "Batak",
+    "start": "U+1BC0",
+    "end": "U+1BFF",
+    "startCode": 7104,
+    "endCode": 7167,
+    "size": 64,
+    "range": "U+1BC0..U+1BFF"
+  },
+  {
+    "id": "lepcha",
+    "name": "Lepcha",
+    "start": "U+1C00",
+    "end": "U+1C4F",
+    "startCode": 7168,
+    "endCode": 7247,
+    "size": 80,
+    "range": "U+1C00..U+1C4F"
+  },
+  {
+    "id": "ol-chiki",
+    "name": "Ol Chiki",
+    "start": "U+1C50",
+    "end": "U+1C7F",
+    "startCode": 7248,
+    "endCode": 7295,
+    "size": 48,
+    "range": "U+1C50..U+1C7F"
+  },
+  {
+    "id": "cyrillic-extended-c",
+    "name": "Cyrillic Extended-C",
+    "start": "U+1C80",
+    "end": "U+1C8F",
+    "startCode": 7296,
+    "endCode": 7311,
+    "size": 16,
+    "range": "U+1C80..U+1C8F"
+  },
+  {
+    "id": "georgian-extended",
+    "name": "Georgian Extended",
+    "start": "U+1C90",
+    "end": "U+1CBF",
+    "startCode": 7312,
+    "endCode": 7359,
+    "size": 48,
+    "range": "U+1C90..U+1CBF"
+  },
+  {
+    "id": "sundanese-supplement",
+    "name": "Sundanese Supplement",
+    "start": "U+1CC0",
+    "end": "U+1CCF",
+    "startCode": 7360,
+    "endCode": 7375,
+    "size": 16,
+    "range": "U+1CC0..U+1CCF"
+  },
+  {
+    "id": "vedic-extensions",
+    "name": "Vedic Extensions",
+    "start": "U+1CD0",
+    "end": "U+1CFF",
+    "startCode": 7376,
+    "endCode": 7423,
+    "size": 48,
+    "range": "U+1CD0..U+1CFF"
+  },
+  {
+    "id": "phonetic-extensions",
+    "name": "Phonetic Extensions",
+    "start": "U+1D00",
+    "end": "U+1D7F",
+    "startCode": 7424,
+    "endCode": 7551,
+    "size": 128,
+    "range": "U+1D00..U+1D7F"
+  },
+  {
+    "id": "phonetic-extensions-supplement",
+    "name": "Phonetic Extensions Supplement",
+    "start": "U+1D80",
+    "end": "U+1DBF",
+    "startCode": 7552,
+    "endCode": 7615,
+    "size": 64,
+    "range": "U+1D80..U+1DBF"
+  },
+  {
+    "id": "combining-diacritical-marks-supplement",
+    "name": "Combining Diacritical Marks Supplement",
+    "start": "U+1DC0",
+    "end": "U+1DFF",
+    "startCode": 7616,
+    "endCode": 7679,
+    "size": 64,
+    "range": "U+1DC0..U+1DFF"
+  },
+  {
+    "id": "latin-extended-additional",
+    "name": "Latin Extended Additional",
+    "start": "U+1E00",
+    "end": "U+1EFF",
+    "startCode": 7680,
+    "endCode": 7935,
+    "size": 256,
+    "range": "U+1E00..U+1EFF"
+  },
+  {
+    "id": "greek-extended",
+    "name": "Greek Extended",
+    "start": "U+1F00",
+    "end": "U+1FFF",
+    "startCode": 7936,
+    "endCode": 8191,
+    "size": 256,
+    "range": "U+1F00..U+1FFF"
+  },
+  {
+    "id": "general-punctuation",
+    "name": "General Punctuation",
+    "start": "U+2000",
+    "end": "U+206F",
+    "startCode": 8192,
+    "endCode": 8303,
+    "size": 112,
+    "range": "U+2000..U+206F"
+  },
+  {
+    "id": "superscripts-and-subscripts",
+    "name": "Superscripts and Subscripts",
+    "start": "U+2070",
+    "end": "U+209F",
+    "startCode": 8304,
+    "endCode": 8351,
+    "size": 48,
+    "range": "U+2070..U+209F"
+  },
+  {
+    "id": "currency-symbols",
+    "name": "Currency Symbols",
+    "start": "U+20A0",
+    "end": "U+20CF",
+    "startCode": 8352,
+    "endCode": 8399,
+    "size": 48,
+    "range": "U+20A0..U+20CF"
+  },
+  {
+    "id": "combining-diacritical-marks-for-symbols",
+    "name": "Combining Diacritical Marks for Symbols",
+    "start": "U+20D0",
+    "end": "U+20FF",
+    "startCode": 8400,
+    "endCode": 8447,
+    "size": 48,
+    "range": "U+20D0..U+20FF"
+  },
+  {
+    "id": "letterlike-symbols",
+    "name": "Letterlike Symbols",
+    "start": "U+2100",
+    "end": "U+214F",
+    "startCode": 8448,
+    "endCode": 8527,
+    "size": 80,
+    "range": "U+2100..U+214F"
+  },
+  {
+    "id": "number-forms",
+    "name": "Number Forms",
+    "start": "U+2150",
+    "end": "U+218F",
+    "startCode": 8528,
+    "endCode": 8591,
+    "size": 64,
+    "range": "U+2150..U+218F"
+  },
+  {
+    "id": "arrows",
+    "name": "Arrows",
+    "start": "U+2190",
+    "end": "U+21FF",
+    "startCode": 8592,
+    "endCode": 8703,
+    "size": 112,
+    "range": "U+2190..U+21FF"
+  },
+  {
+    "id": "mathematical-operators",
+    "name": "Mathematical Operators",
+    "start": "U+2200",
+    "end": "U+22FF",
+    "startCode": 8704,
+    "endCode": 8959,
+    "size": 256,
+    "range": "U+2200..U+22FF"
+  },
+  {
+    "id": "miscellaneous-technical",
+    "name": "Miscellaneous Technical",
+    "start": "U+2300",
+    "end": "U+23FF",
+    "startCode": 8960,
+    "endCode": 9215,
+    "size": 256,
+    "range": "U+2300..U+23FF"
+  },
+  {
+    "id": "control-pictures",
+    "name": "Control Pictures",
+    "start": "U+2400",
+    "end": "U+243F",
+    "startCode": 9216,
+    "endCode": 9279,
+    "size": 64,
+    "range": "U+2400..U+243F"
+  },
+  {
+    "id": "optical-character-recognition",
+    "name": "Optical Character Recognition",
+    "start": "U+2440",
+    "end": "U+245F",
+    "startCode": 9280,
+    "endCode": 9311,
+    "size": 32,
+    "range": "U+2440..U+245F"
+  },
+  {
+    "id": "enclosed-alphanumerics",
+    "name": "Enclosed Alphanumerics",
+    "start": "U+2460",
+    "end": "U+24FF",
+    "startCode": 9312,
+    "endCode": 9471,
+    "size": 160,
+    "range": "U+2460..U+24FF"
+  },
+  {
+    "id": "box-drawing",
+    "name": "Box Drawing",
+    "start": "U+2500",
+    "end": "U+257F",
+    "startCode": 9472,
+    "endCode": 9599,
+    "size": 128,
+    "range": "U+2500..U+257F"
+  },
+  {
+    "id": "block-elements",
+    "name": "Block Elements",
+    "start": "U+2580",
+    "end": "U+259F",
+    "startCode": 9600,
+    "endCode": 9631,
+    "size": 32,
+    "range": "U+2580..U+259F"
+  },
+  {
+    "id": "geometric-shapes",
+    "name": "Geometric Shapes",
+    "start": "U+25A0",
+    "end": "U+25FF",
+    "startCode": 9632,
+    "endCode": 9727,
+    "size": 96,
+    "range": "U+25A0..U+25FF"
+  },
+  {
+    "id": "miscellaneous-symbols",
+    "name": "Miscellaneous Symbols",
+    "start": "U+2600",
+    "end": "U+26FF",
+    "startCode": 9728,
+    "endCode": 9983,
+    "size": 256,
+    "range": "U+2600..U+26FF"
+  },
+  {
+    "id": "dingbats",
+    "name": "Dingbats",
+    "start": "U+2700",
+    "end": "U+27BF",
+    "startCode": 9984,
+    "endCode": 10175,
+    "size": 192,
+    "range": "U+2700..U+27BF"
+  },
+  {
+    "id": "miscellaneous-mathematical-symbols-a",
+    "name": "Miscellaneous Mathematical Symbols-A",
+    "start": "U+27C0",
+    "end": "U+27EF",
+    "startCode": 10176,
+    "endCode": 10223,
+    "size": 48,
+    "range": "U+27C0..U+27EF"
+  },
+  {
+    "id": "supplemental-arrows-a",
+    "name": "Supplemental Arrows-A",
+    "start": "U+27F0",
+    "end": "U+27FF",
+    "startCode": 10224,
+    "endCode": 10239,
+    "size": 16,
+    "range": "U+27F0..U+27FF"
+  },
+  {
+    "id": "braille-patterns",
+    "name": "Braille Patterns",
+    "start": "U+2800",
+    "end": "U+28FF",
+    "startCode": 10240,
+    "endCode": 10495,
+    "size": 256,
+    "range": "U+2800..U+28FF"
+  },
+  {
+    "id": "supplemental-arrows-b",
+    "name": "Supplemental Arrows-B",
+    "start": "U+2900",
+    "end": "U+297F",
+    "startCode": 10496,
+    "endCode": 10623,
+    "size": 128,
+    "range": "U+2900..U+297F"
+  },
+  {
+    "id": "miscellaneous-mathematical-symbols-b",
+    "name": "Miscellaneous Mathematical Symbols-B",
+    "start": "U+2980",
+    "end": "U+29FF",
+    "startCode": 10624,
+    "endCode": 10751,
+    "size": 128,
+    "range": "U+2980..U+29FF"
+  },
+  {
+    "id": "supplemental-mathematical-operators",
+    "name": "Supplemental Mathematical Operators",
+    "start": "U+2A00",
+    "end": "U+2AFF",
+    "startCode": 10752,
+    "endCode": 11007,
+    "size": 256,
+    "range": "U+2A00..U+2AFF"
+  },
+  {
+    "id": "miscellaneous-symbols-and-arrows",
+    "name": "Miscellaneous Symbols and Arrows",
+    "start": "U+2B00",
+    "end": "U+2BFF",
+    "startCode": 11008,
+    "endCode": 11263,
+    "size": 256,
+    "range": "U+2B00..U+2BFF"
+  },
+  {
+    "id": "glagolitic",
+    "name": "Glagolitic",
+    "start": "U+2C00",
+    "end": "U+2C5F",
+    "startCode": 11264,
+    "endCode": 11359,
+    "size": 96,
+    "range": "U+2C00..U+2C5F"
+  },
+  {
+    "id": "latin-extended-c",
+    "name": "Latin Extended-C",
+    "start": "U+2C60",
+    "end": "U+2C7F",
+    "startCode": 11360,
+    "endCode": 11391,
+    "size": 32,
+    "range": "U+2C60..U+2C7F"
+  },
+  {
+    "id": "coptic",
+    "name": "Coptic",
+    "start": "U+2C80",
+    "end": "U+2CFF",
+    "startCode": 11392,
+    "endCode": 11519,
+    "size": 128,
+    "range": "U+2C80..U+2CFF"
+  },
+  {
+    "id": "georgian-supplement",
+    "name": "Georgian Supplement",
+    "start": "U+2D00",
+    "end": "U+2D2F",
+    "startCode": 11520,
+    "endCode": 11567,
+    "size": 48,
+    "range": "U+2D00..U+2D2F"
+  },
+  {
+    "id": "tifinagh",
+    "name": "Tifinagh",
+    "start": "U+2D30",
+    "end": "U+2D7F",
+    "startCode": 11568,
+    "endCode": 11647,
+    "size": 80,
+    "range": "U+2D30..U+2D7F"
+  },
+  {
+    "id": "ethiopic-extended",
+    "name": "Ethiopic Extended",
+    "start": "U+2D80",
+    "end": "U+2DDF",
+    "startCode": 11648,
+    "endCode": 11743,
+    "size": 96,
+    "range": "U+2D80..U+2DDF"
+  },
+  {
+    "id": "cyrillic-extended-a",
+    "name": "Cyrillic Extended-A",
+    "start": "U+2DE0",
+    "end": "U+2DFF",
+    "startCode": 11744,
+    "endCode": 11775,
+    "size": 32,
+    "range": "U+2DE0..U+2DFF"
+  },
+  {
+    "id": "supplemental-punctuation",
+    "name": "Supplemental Punctuation",
+    "start": "U+2E00",
+    "end": "U+2E7F",
+    "startCode": 11776,
+    "endCode": 11903,
+    "size": 128,
+    "range": "U+2E00..U+2E7F"
+  },
+  {
+    "id": "cjk-radicals-supplement",
+    "name": "CJK Radicals Supplement",
+    "start": "U+2E80",
+    "end": "U+2EFF",
+    "startCode": 11904,
+    "endCode": 12031,
+    "size": 128,
+    "range": "U+2E80..U+2EFF"
+  },
+  {
+    "id": "kangxi-radicals",
+    "name": "Kangxi Radicals",
+    "start": "U+2F00",
+    "end": "U+2FDF",
+    "startCode": 12032,
+    "endCode": 12255,
+    "size": 224,
+    "range": "U+2F00..U+2FDF"
+  },
+  {
+    "id": "ideographic-description-characters",
+    "name": "Ideographic Description Characters",
+    "start": "U+2FF0",
+    "end": "U+2FFF",
+    "startCode": 12272,
+    "endCode": 12287,
+    "size": 16,
+    "range": "U+2FF0..U+2FFF"
+  },
+  {
+    "id": "cjk-symbols-and-punctuation",
+    "name": "CJK Symbols and Punctuation",
+    "start": "U+3000",
+    "end": "U+303F",
+    "startCode": 12288,
+    "endCode": 12351,
+    "size": 64,
+    "range": "U+3000..U+303F"
+  },
+  {
+    "id": "hiragana",
+    "name": "Hiragana",
+    "start": "U+3040",
+    "end": "U+309F",
+    "startCode": 12352,
+    "endCode": 12447,
+    "size": 96,
+    "range": "U+3040..U+309F"
+  },
+  {
+    "id": "katakana",
+    "name": "Katakana",
+    "start": "U+30A0",
+    "end": "U+30FF",
+    "startCode": 12448,
+    "endCode": 12543,
+    "size": 96,
+    "range": "U+30A0..U+30FF"
+  },
+  {
+    "id": "bopomofo",
+    "name": "Bopomofo",
+    "start": "U+3100",
+    "end": "U+312F",
+    "startCode": 12544,
+    "endCode": 12591,
+    "size": 48,
+    "range": "U+3100..U+312F"
+  },
+  {
+    "id": "hangul-compatibility-jamo",
+    "name": "Hangul Compatibility Jamo",
+    "start": "U+3130",
+    "end": "U+318F",
+    "startCode": 12592,
+    "endCode": 12687,
+    "size": 96,
+    "range": "U+3130..U+318F"
+  },
+  {
+    "id": "kanbun",
+    "name": "Kanbun",
+    "start": "U+3190",
+    "end": "U+319F",
+    "startCode": 12688,
+    "endCode": 12703,
+    "size": 16,
+    "range": "U+3190..U+319F"
+  },
+  {
+    "id": "bopomofo-extended",
+    "name": "Bopomofo Extended",
+    "start": "U+31A0",
+    "end": "U+31BF",
+    "startCode": 12704,
+    "endCode": 12735,
+    "size": 32,
+    "range": "U+31A0..U+31BF"
+  },
+  {
+    "id": "cjk-strokes",
+    "name": "CJK Strokes",
+    "start": "U+31C0",
+    "end": "U+31EF",
+    "startCode": 12736,
+    "endCode": 12783,
+    "size": 48,
+    "range": "U+31C0..U+31EF"
+  },
+  {
+    "id": "katakana-phonetic-extensions",
+    "name": "Katakana Phonetic Extensions",
+    "start": "U+31F0",
+    "end": "U+31FF",
+    "startCode": 12784,
+    "endCode": 12799,
+    "size": 16,
+    "range": "U+31F0..U+31FF"
+  },
+  {
+    "id": "enclosed-cjk-letters-and-months",
+    "name": "Enclosed CJK Letters and Months",
+    "start": "U+3200",
+    "end": "U+32FF",
+    "startCode": 12800,
+    "endCode": 13055,
+    "size": 256,
+    "range": "U+3200..U+32FF"
+  },
+  {
+    "id": "cjk-compatibility",
+    "name": "CJK Compatibility",
+    "start": "U+3300",
+    "end": "U+33FF",
+    "startCode": 13056,
+    "endCode": 13311,
+    "size": 256,
+    "range": "U+3300..U+33FF"
+  },
+  {
+    "id": "cjk-unified-ideographs-extension-a",
+    "name": "CJK Unified Ideographs Extension A",
+    "start": "U+3400",
+    "end": "U+4DBF",
+    "startCode": 13312,
+    "endCode": 19903,
+    "size": 6592,
+    "range": "U+3400..U+4DBF"
+  },
+  {
+    "id": "yijing-hexagram-symbols",
+    "name": "Yijing Hexagram Symbols",
+    "start": "U+4DC0",
+    "end": "U+4DFF",
+    "startCode": 19904,
+    "endCode": 19967,
+    "size": 64,
+    "range": "U+4DC0..U+4DFF"
+  },
+  {
+    "id": "cjk-unified-ideographs",
+    "name": "CJK Unified Ideographs",
+    "start": "U+4E00",
+    "end": "U+9FFF",
+    "startCode": 19968,
+    "endCode": 40959,
+    "size": 20992,
+    "range": "U+4E00..U+9FFF"
+  },
+  {
+    "id": "yi-syllables",
+    "name": "Yi Syllables",
+    "start": "U+A000",
+    "end": "U+A48F",
+    "startCode": 40960,
+    "endCode": 42127,
+    "size": 1168,
+    "range": "U+A000..U+A48F"
+  },
+  {
+    "id": "yi-radicals",
+    "name": "Yi Radicals",
+    "start": "U+A490",
+    "end": "U+A4CF",
+    "startCode": 42128,
+    "endCode": 42191,
+    "size": 64,
+    "range": "U+A490..U+A4CF"
+  },
+  {
+    "id": "lisu",
+    "name": "Lisu",
+    "start": "U+A4D0",
+    "end": "U+A4FF",
+    "startCode": 42192,
+    "endCode": 42239,
+    "size": 48,
+    "range": "U+A4D0..U+A4FF"
+  },
+  {
+    "id": "vai",
+    "name": "Vai",
+    "start": "U+A500",
+    "end": "U+A63F",
+    "startCode": 42240,
+    "endCode": 42559,
+    "size": 320,
+    "range": "U+A500..U+A63F"
+  },
+  {
+    "id": "cyrillic-extended-b",
+    "name": "Cyrillic Extended-B",
+    "start": "U+A640",
+    "end": "U+A69F",
+    "startCode": 42560,
+    "endCode": 42655,
+    "size": 96,
+    "range": "U+A640..U+A69F"
+  },
+  {
+    "id": "bamum",
+    "name": "Bamum",
+    "start": "U+A6A0",
+    "end": "U+A6FF",
+    "startCode": 42656,
+    "endCode": 42751,
+    "size": 96,
+    "range": "U+A6A0..U+A6FF"
+  },
+  {
+    "id": "modifier-tone-letters",
+    "name": "Modifier Tone Letters",
+    "start": "U+A700",
+    "end": "U+A71F",
+    "startCode": 42752,
+    "endCode": 42783,
+    "size": 32,
+    "range": "U+A700..U+A71F"
+  },
+  {
+    "id": "latin-extended-d",
+    "name": "Latin Extended-D",
+    "start": "U+A720",
+    "end": "U+A7FF",
+    "startCode": 42784,
+    "endCode": 43007,
+    "size": 224,
+    "range": "U+A720..U+A7FF"
+  },
+  {
+    "id": "syloti-nagri",
+    "name": "Syloti Nagri",
+    "start": "U+A800",
+    "end": "U+A82F",
+    "startCode": 43008,
+    "endCode": 43055,
+    "size": 48,
+    "range": "U+A800..U+A82F"
+  },
+  {
+    "id": "common-indic-number-forms",
+    "name": "Common Indic Number Forms",
+    "start": "U+A830",
+    "end": "U+A83F",
+    "startCode": 43056,
+    "endCode": 43071,
+    "size": 16,
+    "range": "U+A830..U+A83F"
+  },
+  {
+    "id": "phags-pa",
+    "name": "Phags-pa",
+    "start": "U+A840",
+    "end": "U+A87F",
+    "startCode": 43072,
+    "endCode": 43135,
+    "size": 64,
+    "range": "U+A840..U+A87F"
+  },
+  {
+    "id": "saurashtra",
+    "name": "Saurashtra",
+    "start": "U+A880",
+    "end": "U+A8DF",
+    "startCode": 43136,
+    "endCode": 43231,
+    "size": 96,
+    "range": "U+A880..U+A8DF"
+  },
+  {
+    "id": "devanagari-extended",
+    "name": "Devanagari Extended",
+    "start": "U+A8E0",
+    "end": "U+A8FF",
+    "startCode": 43232,
+    "endCode": 43263,
+    "size": 32,
+    "range": "U+A8E0..U+A8FF"
+  },
+  {
+    "id": "kayah-li",
+    "name": "Kayah Li",
+    "start": "U+A900",
+    "end": "U+A92F",
+    "startCode": 43264,
+    "endCode": 43311,
+    "size": 48,
+    "range": "U+A900..U+A92F"
+  },
+  {
+    "id": "rejang",
+    "name": "Rejang",
+    "start": "U+A930",
+    "end": "U+A95F",
+    "startCode": 43312,
+    "endCode": 43359,
+    "size": 48,
+    "range": "U+A930..U+A95F"
+  },
+  {
+    "id": "hangul-jamo-extended-a",
+    "name": "Hangul Jamo Extended-A",
+    "start": "U+A960",
+    "end": "U+A97F",
+    "startCode": 43360,
+    "endCode": 43391,
+    "size": 32,
+    "range": "U+A960..U+A97F"
+  },
+  {
+    "id": "javanese",
+    "name": "Javanese",
+    "start": "U+A980",
+    "end": "U+A9DF",
+    "startCode": 43392,
+    "endCode": 43487,
+    "size": 96,
+    "range": "U+A980..U+A9DF"
+  },
+  {
+    "id": "myanmar-extended-b",
+    "name": "Myanmar Extended-B",
+    "start": "U+A9E0",
+    "end": "U+A9FF",
+    "startCode": 43488,
+    "endCode": 43519,
+    "size": 32,
+    "range": "U+A9E0..U+A9FF"
+  },
+  {
+    "id": "cham",
+    "name": "Cham",
+    "start": "U+AA00",
+    "end": "U+AA5F",
+    "startCode": 43520,
+    "endCode": 43615,
+    "size": 96,
+    "range": "U+AA00..U+AA5F"
+  },
+  {
+    "id": "myanmar-extended-a",
+    "name": "Myanmar Extended-A",
+    "start": "U+AA60",
+    "end": "U+AA7F",
+    "startCode": 43616,
+    "endCode": 43647,
+    "size": 32,
+    "range": "U+AA60..U+AA7F"
+  },
+  {
+    "id": "tai-viet",
+    "name": "Tai Viet",
+    "start": "U+AA80",
+    "end": "U+AADF",
+    "startCode": 43648,
+    "endCode": 43743,
+    "size": 96,
+    "range": "U+AA80..U+AADF"
+  },
+  {
+    "id": "meetei-mayek-extensions",
+    "name": "Meetei Mayek Extensions",
+    "start": "U+AAE0",
+    "end": "U+AAFF",
+    "startCode": 43744,
+    "endCode": 43775,
+    "size": 32,
+    "range": "U+AAE0..U+AAFF"
+  },
+  {
+    "id": "ethiopic-extended-a",
+    "name": "Ethiopic Extended-A",
+    "start": "U+AB00",
+    "end": "U+AB2F",
+    "startCode": 43776,
+    "endCode": 43823,
+    "size": 48,
+    "range": "U+AB00..U+AB2F"
+  },
+  {
+    "id": "latin-extended-e",
+    "name": "Latin Extended-E",
+    "start": "U+AB30",
+    "end": "U+AB6F",
+    "startCode": 43824,
+    "endCode": 43887,
+    "size": 64,
+    "range": "U+AB30..U+AB6F"
+  },
+  {
+    "id": "cherokee-supplement",
+    "name": "Cherokee Supplement",
+    "start": "U+AB70",
+    "end": "U+ABBF",
+    "startCode": 43888,
+    "endCode": 43967,
+    "size": 80,
+    "range": "U+AB70..U+ABBF"
+  },
+  {
+    "id": "meetei-mayek",
+    "name": "Meetei Mayek",
+    "start": "U+ABC0",
+    "end": "U+ABFF",
+    "startCode": 43968,
+    "endCode": 44031,
+    "size": 64,
+    "range": "U+ABC0..U+ABFF"
+  },
+  {
+    "id": "hangul-syllables",
+    "name": "Hangul Syllables",
+    "start": "U+AC00",
+    "end": "U+D7AF",
+    "startCode": 44032,
+    "endCode": 55215,
+    "size": 11184,
+    "range": "U+AC00..U+D7AF"
+  },
+  {
+    "id": "hangul-jamo-extended-b",
+    "name": "Hangul Jamo Extended-B",
+    "start": "U+D7B0",
+    "end": "U+D7FF",
+    "startCode": 55216,
+    "endCode": 55295,
+    "size": 80,
+    "range": "U+D7B0..U+D7FF"
+  },
+  {
+    "id": "high-surrogates",
+    "name": "High Surrogates",
+    "start": "U+D800",
+    "end": "U+DB7F",
+    "startCode": 55296,
+    "endCode": 56191,
+    "size": 896,
+    "range": "U+D800..U+DB7F"
+  },
+  {
+    "id": "high-private-use-surrogates",
+    "name": "High Private Use Surrogates",
+    "start": "U+DB80",
+    "end": "U+DBFF",
+    "startCode": 56192,
+    "endCode": 56319,
+    "size": 128,
+    "range": "U+DB80..U+DBFF"
+  },
+  {
+    "id": "low-surrogates",
+    "name": "Low Surrogates",
+    "start": "U+DC00",
+    "end": "U+DFFF",
+    "startCode": 56320,
+    "endCode": 57343,
+    "size": 1024,
+    "range": "U+DC00..U+DFFF"
+  },
+  {
+    "id": "private-use-area",
+    "name": "Private Use Area",
+    "start": "U+E000",
+    "end": "U+F8FF",
+    "startCode": 57344,
+    "endCode": 63743,
+    "size": 6400,
+    "range": "U+E000..U+F8FF"
+  },
+  {
+    "id": "cjk-compatibility-ideographs",
+    "name": "CJK Compatibility Ideographs",
+    "start": "U+F900",
+    "end": "U+FAFF",
+    "startCode": 63744,
+    "endCode": 64255,
+    "size": 512,
+    "range": "U+F900..U+FAFF"
+  },
+  {
+    "id": "alphabetic-presentation-forms",
+    "name": "Alphabetic Presentation Forms",
+    "start": "U+FB00",
+    "end": "U+FB4F",
+    "startCode": 64256,
+    "endCode": 64335,
+    "size": 80,
+    "range": "U+FB00..U+FB4F"
+  },
+  {
+    "id": "arabic-presentation-forms-a",
+    "name": "Arabic Presentation Forms-A",
+    "start": "U+FB50",
+    "end": "U+FDFF",
+    "startCode": 64336,
+    "endCode": 65023,
+    "size": 688,
+    "range": "U+FB50..U+FDFF"
+  },
+  {
+    "id": "variation-selectors",
+    "name": "Variation Selectors",
+    "start": "U+FE00",
+    "end": "U+FE0F",
+    "startCode": 65024,
+    "endCode": 65039,
+    "size": 16,
+    "range": "U+FE00..U+FE0F"
+  },
+  {
+    "id": "vertical-forms",
+    "name": "Vertical Forms",
+    "start": "U+FE10",
+    "end": "U+FE1F",
+    "startCode": 65040,
+    "endCode": 65055,
+    "size": 16,
+    "range": "U+FE10..U+FE1F"
+  },
+  {
+    "id": "combining-half-marks",
+    "name": "Combining Half Marks",
+    "start": "U+FE20",
+    "end": "U+FE2F",
+    "startCode": 65056,
+    "endCode": 65071,
+    "size": 16,
+    "range": "U+FE20..U+FE2F"
+  },
+  {
+    "id": "cjk-compatibility-forms",
+    "name": "CJK Compatibility Forms",
+    "start": "U+FE30",
+    "end": "U+FE4F",
+    "startCode": 65072,
+    "endCode": 65103,
+    "size": 32,
+    "range": "U+FE30..U+FE4F"
+  },
+  {
+    "id": "small-form-variants",
+    "name": "Small Form Variants",
+    "start": "U+FE50",
+    "end": "U+FE6F",
+    "startCode": 65104,
+    "endCode": 65135,
+    "size": 32,
+    "range": "U+FE50..U+FE6F"
+  },
+  {
+    "id": "arabic-presentation-forms-b",
+    "name": "Arabic Presentation Forms-B",
+    "start": "U+FE70",
+    "end": "U+FEFF",
+    "startCode": 65136,
+    "endCode": 65279,
+    "size": 144,
+    "range": "U+FE70..U+FEFF"
+  },
+  {
+    "id": "halfwidth-and-fullwidth-forms",
+    "name": "Halfwidth and Fullwidth Forms",
+    "start": "U+FF00",
+    "end": "U+FFEF",
+    "startCode": 65280,
+    "endCode": 65519,
+    "size": 240,
+    "range": "U+FF00..U+FFEF"
+  },
+  {
+    "id": "specials",
+    "name": "Specials",
+    "start": "U+FFF0",
+    "end": "U+FFFF",
+    "startCode": 65520,
+    "endCode": 65535,
+    "size": 16,
+    "range": "U+FFF0..U+FFFF"
+  },
+  {
+    "id": "linear-b-syllabary",
+    "name": "Linear B Syllabary",
+    "start": "U+10000",
+    "end": "U+1007F",
+    "startCode": 65536,
+    "endCode": 65663,
+    "size": 128,
+    "range": "U+10000..U+1007F"
+  },
+  {
+    "id": "linear-b-ideograms",
+    "name": "Linear B Ideograms",
+    "start": "U+10080",
+    "end": "U+100FF",
+    "startCode": 65664,
+    "endCode": 65791,
+    "size": 128,
+    "range": "U+10080..U+100FF"
+  },
+  {
+    "id": "aegean-numbers",
+    "name": "Aegean Numbers",
+    "start": "U+10100",
+    "end": "U+1013F",
+    "startCode": 65792,
+    "endCode": 65855,
+    "size": 64,
+    "range": "U+10100..U+1013F"
+  },
+  {
+    "id": "ancient-greek-numbers",
+    "name": "Ancient Greek Numbers",
+    "start": "U+10140",
+    "end": "U+1018F",
+    "startCode": 65856,
+    "endCode": 65935,
+    "size": 80,
+    "range": "U+10140..U+1018F"
+  },
+  {
+    "id": "ancient-symbols",
+    "name": "Ancient Symbols",
+    "start": "U+10190",
+    "end": "U+101CF",
+    "startCode": 65936,
+    "endCode": 65999,
+    "size": 64,
+    "range": "U+10190..U+101CF"
+  },
+  {
+    "id": "phaistos-disc",
+    "name": "Phaistos Disc",
+    "start": "U+101D0",
+    "end": "U+101FF",
+    "startCode": 66000,
+    "endCode": 66047,
+    "size": 48,
+    "range": "U+101D0..U+101FF"
+  },
+  {
+    "id": "lycian",
+    "name": "Lycian",
+    "start": "U+10280",
+    "end": "U+1029F",
+    "startCode": 66176,
+    "endCode": 66207,
+    "size": 32,
+    "range": "U+10280..U+1029F"
+  },
+  {
+    "id": "carian",
+    "name": "Carian",
+    "start": "U+102A0",
+    "end": "U+102DF",
+    "startCode": 66208,
+    "endCode": 66271,
+    "size": 64,
+    "range": "U+102A0..U+102DF"
+  },
+  {
+    "id": "coptic-epact-numbers",
+    "name": "Coptic Epact Numbers",
+    "start": "U+102E0",
+    "end": "U+102FF",
+    "startCode": 66272,
+    "endCode": 66303,
+    "size": 32,
+    "range": "U+102E0..U+102FF"
+  },
+  {
+    "id": "old-italic",
+    "name": "Old Italic",
+    "start": "U+10300",
+    "end": "U+1032F",
+    "startCode": 66304,
+    "endCode": 66351,
+    "size": 48,
+    "range": "U+10300..U+1032F"
+  },
+  {
+    "id": "gothic",
+    "name": "Gothic",
+    "start": "U+10330",
+    "end": "U+1034F",
+    "startCode": 66352,
+    "endCode": 66383,
+    "size": 32,
+    "range": "U+10330..U+1034F"
+  },
+  {
+    "id": "old-permic",
+    "name": "Old Permic",
+    "start": "U+10350",
+    "end": "U+1037F",
+    "startCode": 66384,
+    "endCode": 66431,
+    "size": 48,
+    "range": "U+10350..U+1037F"
+  },
+  {
+    "id": "ugaritic",
+    "name": "Ugaritic",
+    "start": "U+10380",
+    "end": "U+1039F",
+    "startCode": 66432,
+    "endCode": 66463,
+    "size": 32,
+    "range": "U+10380..U+1039F"
+  },
+  {
+    "id": "old-persian",
+    "name": "Old Persian",
+    "start": "U+103A0",
+    "end": "U+103DF",
+    "startCode": 66464,
+    "endCode": 66527,
+    "size": 64,
+    "range": "U+103A0..U+103DF"
+  },
+  {
+    "id": "deseret",
+    "name": "Deseret",
+    "start": "U+10400",
+    "end": "U+1044F",
+    "startCode": 66560,
+    "endCode": 66639,
+    "size": 80,
+    "range": "U+10400..U+1044F"
+  },
+  {
+    "id": "shavian",
+    "name": "Shavian",
+    "start": "U+10450",
+    "end": "U+1047F",
+    "startCode": 66640,
+    "endCode": 66687,
+    "size": 48,
+    "range": "U+10450..U+1047F"
+  },
+  {
+    "id": "osmanya",
+    "name": "Osmanya",
+    "start": "U+10480",
+    "end": "U+104AF",
+    "startCode": 66688,
+    "endCode": 66735,
+    "size": 48,
+    "range": "U+10480..U+104AF"
+  },
+  {
+    "id": "osage",
+    "name": "Osage",
+    "start": "U+104B0",
+    "end": "U+104FF",
+    "startCode": 66736,
+    "endCode": 66815,
+    "size": 80,
+    "range": "U+104B0..U+104FF"
+  },
+  {
+    "id": "elbasan",
+    "name": "Elbasan",
+    "start": "U+10500",
+    "end": "U+1052F",
+    "startCode": 66816,
+    "endCode": 66863,
+    "size": 48,
+    "range": "U+10500..U+1052F"
+  },
+  {
+    "id": "caucasian-albanian",
+    "name": "Caucasian Albanian",
+    "start": "U+10530",
+    "end": "U+1056F",
+    "startCode": 66864,
+    "endCode": 66927,
+    "size": 64,
+    "range": "U+10530..U+1056F"
+  },
+  {
+    "id": "vithkuqi",
+    "name": "Vithkuqi",
+    "start": "U+10570",
+    "end": "U+105BF",
+    "startCode": 66928,
+    "endCode": 67007,
+    "size": 80,
+    "range": "U+10570..U+105BF"
+  },
+  {
+    "id": "todhri",
+    "name": "Todhri",
+    "start": "U+105C0",
+    "end": "U+105FF",
+    "startCode": 67008,
+    "endCode": 67071,
+    "size": 64,
+    "range": "U+105C0..U+105FF"
+  },
+  {
+    "id": "linear-a",
+    "name": "Linear A",
+    "start": "U+10600",
+    "end": "U+1077F",
+    "startCode": 67072,
+    "endCode": 67455,
+    "size": 384,
+    "range": "U+10600..U+1077F"
+  },
+  {
+    "id": "latin-extended-f",
+    "name": "Latin Extended-F",
+    "start": "U+10780",
+    "end": "U+107BF",
+    "startCode": 67456,
+    "endCode": 67519,
+    "size": 64,
+    "range": "U+10780..U+107BF"
+  },
+  {
+    "id": "cypriot-syllabary",
+    "name": "Cypriot Syllabary",
+    "start": "U+10800",
+    "end": "U+1083F",
+    "startCode": 67584,
+    "endCode": 67647,
+    "size": 64,
+    "range": "U+10800..U+1083F"
+  },
+  {
+    "id": "imperial-aramaic",
+    "name": "Imperial Aramaic",
+    "start": "U+10840",
+    "end": "U+1085F",
+    "startCode": 67648,
+    "endCode": 67679,
+    "size": 32,
+    "range": "U+10840..U+1085F"
+  },
+  {
+    "id": "palmyrene",
+    "name": "Palmyrene",
+    "start": "U+10860",
+    "end": "U+1087F",
+    "startCode": 67680,
+    "endCode": 67711,
+    "size": 32,
+    "range": "U+10860..U+1087F"
+  },
+  {
+    "id": "nabataean",
+    "name": "Nabataean",
+    "start": "U+10880",
+    "end": "U+108AF",
+    "startCode": 67712,
+    "endCode": 67759,
+    "size": 48,
+    "range": "U+10880..U+108AF"
+  },
+  {
+    "id": "hatran",
+    "name": "Hatran",
+    "start": "U+108E0",
+    "end": "U+108FF",
+    "startCode": 67808,
+    "endCode": 67839,
+    "size": 32,
+    "range": "U+108E0..U+108FF"
+  },
+  {
+    "id": "phoenician",
+    "name": "Phoenician",
+    "start": "U+10900",
+    "end": "U+1091F",
+    "startCode": 67840,
+    "endCode": 67871,
+    "size": 32,
+    "range": "U+10900..U+1091F"
+  },
+  {
+    "id": "lydian",
+    "name": "Lydian",
+    "start": "U+10920",
+    "end": "U+1093F",
+    "startCode": 67872,
+    "endCode": 67903,
+    "size": 32,
+    "range": "U+10920..U+1093F"
+  },
+  {
+    "id": "sidetic",
+    "name": "Sidetic",
+    "start": "U+10940",
+    "end": "U+1095F",
+    "startCode": 67904,
+    "endCode": 67935,
+    "size": 32,
+    "range": "U+10940..U+1095F"
+  },
+  {
+    "id": "meroitic-hieroglyphs",
+    "name": "Meroitic Hieroglyphs",
+    "start": "U+10980",
+    "end": "U+1099F",
+    "startCode": 67968,
+    "endCode": 67999,
+    "size": 32,
+    "range": "U+10980..U+1099F"
+  },
+  {
+    "id": "meroitic-cursive",
+    "name": "Meroitic Cursive",
+    "start": "U+109A0",
+    "end": "U+109FF",
+    "startCode": 68000,
+    "endCode": 68095,
+    "size": 96,
+    "range": "U+109A0..U+109FF"
+  },
+  {
+    "id": "kharoshthi",
+    "name": "Kharoshthi",
+    "start": "U+10A00",
+    "end": "U+10A5F",
+    "startCode": 68096,
+    "endCode": 68191,
+    "size": 96,
+    "range": "U+10A00..U+10A5F"
+  },
+  {
+    "id": "old-south-arabian",
+    "name": "Old South Arabian",
+    "start": "U+10A60",
+    "end": "U+10A7F",
+    "startCode": 68192,
+    "endCode": 68223,
+    "size": 32,
+    "range": "U+10A60..U+10A7F"
+  },
+  {
+    "id": "old-north-arabian",
+    "name": "Old North Arabian",
+    "start": "U+10A80",
+    "end": "U+10A9F",
+    "startCode": 68224,
+    "endCode": 68255,
+    "size": 32,
+    "range": "U+10A80..U+10A9F"
+  },
+  {
+    "id": "manichaean",
+    "name": "Manichaean",
+    "start": "U+10AC0",
+    "end": "U+10AFF",
+    "startCode": 68288,
+    "endCode": 68351,
+    "size": 64,
+    "range": "U+10AC0..U+10AFF"
+  },
+  {
+    "id": "avestan",
+    "name": "Avestan",
+    "start": "U+10B00",
+    "end": "U+10B3F",
+    "startCode": 68352,
+    "endCode": 68415,
+    "size": 64,
+    "range": "U+10B00..U+10B3F"
+  },
+  {
+    "id": "inscriptional-parthian",
+    "name": "Inscriptional Parthian",
+    "start": "U+10B40",
+    "end": "U+10B5F",
+    "startCode": 68416,
+    "endCode": 68447,
+    "size": 32,
+    "range": "U+10B40..U+10B5F"
+  },
+  {
+    "id": "inscriptional-pahlavi",
+    "name": "Inscriptional Pahlavi",
+    "start": "U+10B60",
+    "end": "U+10B7F",
+    "startCode": 68448,
+    "endCode": 68479,
+    "size": 32,
+    "range": "U+10B60..U+10B7F"
+  },
+  {
+    "id": "psalter-pahlavi",
+    "name": "Psalter Pahlavi",
+    "start": "U+10B80",
+    "end": "U+10BAF",
+    "startCode": 68480,
+    "endCode": 68527,
+    "size": 48,
+    "range": "U+10B80..U+10BAF"
+  },
+  {
+    "id": "old-turkic",
+    "name": "Old Turkic",
+    "start": "U+10C00",
+    "end": "U+10C4F",
+    "startCode": 68608,
+    "endCode": 68687,
+    "size": 80,
+    "range": "U+10C00..U+10C4F"
+  },
+  {
+    "id": "old-hungarian",
+    "name": "Old Hungarian",
+    "start": "U+10C80",
+    "end": "U+10CFF",
+    "startCode": 68736,
+    "endCode": 68863,
+    "size": 128,
+    "range": "U+10C80..U+10CFF"
+  },
+  {
+    "id": "hanifi-rohingya",
+    "name": "Hanifi Rohingya",
+    "start": "U+10D00",
+    "end": "U+10D3F",
+    "startCode": 68864,
+    "endCode": 68927,
+    "size": 64,
+    "range": "U+10D00..U+10D3F"
+  },
+  {
+    "id": "garay",
+    "name": "Garay",
+    "start": "U+10D40",
+    "end": "U+10D8F",
+    "startCode": 68928,
+    "endCode": 69007,
+    "size": 80,
+    "range": "U+10D40..U+10D8F"
+  },
+  {
+    "id": "rumi-numeral-symbols",
+    "name": "Rumi Numeral Symbols",
+    "start": "U+10E60",
+    "end": "U+10E7F",
+    "startCode": 69216,
+    "endCode": 69247,
+    "size": 32,
+    "range": "U+10E60..U+10E7F"
+  },
+  {
+    "id": "yezidi",
+    "name": "Yezidi",
+    "start": "U+10E80",
+    "end": "U+10EBF",
+    "startCode": 69248,
+    "endCode": 69311,
+    "size": 64,
+    "range": "U+10E80..U+10EBF"
+  },
+  {
+    "id": "arabic-extended-c",
+    "name": "Arabic Extended-C",
+    "start": "U+10EC0",
+    "end": "U+10EFF",
+    "startCode": 69312,
+    "endCode": 69375,
+    "size": 64,
+    "range": "U+10EC0..U+10EFF"
+  },
+  {
+    "id": "old-sogdian",
+    "name": "Old Sogdian",
+    "start": "U+10F00",
+    "end": "U+10F2F",
+    "startCode": 69376,
+    "endCode": 69423,
+    "size": 48,
+    "range": "U+10F00..U+10F2F"
+  },
+  {
+    "id": "sogdian",
+    "name": "Sogdian",
+    "start": "U+10F30",
+    "end": "U+10F6F",
+    "startCode": 69424,
+    "endCode": 69487,
+    "size": 64,
+    "range": "U+10F30..U+10F6F"
+  },
+  {
+    "id": "old-uyghur",
+    "name": "Old Uyghur",
+    "start": "U+10F70",
+    "end": "U+10FAF",
+    "startCode": 69488,
+    "endCode": 69551,
+    "size": 64,
+    "range": "U+10F70..U+10FAF"
+  },
+  {
+    "id": "chorasmian",
+    "name": "Chorasmian",
+    "start": "U+10FB0",
+    "end": "U+10FDF",
+    "startCode": 69552,
+    "endCode": 69599,
+    "size": 48,
+    "range": "U+10FB0..U+10FDF"
+  },
+  {
+    "id": "elymaic",
+    "name": "Elymaic",
+    "start": "U+10FE0",
+    "end": "U+10FFF",
+    "startCode": 69600,
+    "endCode": 69631,
+    "size": 32,
+    "range": "U+10FE0..U+10FFF"
+  },
+  {
+    "id": "brahmi",
+    "name": "Brahmi",
+    "start": "U+11000",
+    "end": "U+1107F",
+    "startCode": 69632,
+    "endCode": 69759,
+    "size": 128,
+    "range": "U+11000..U+1107F"
+  },
+  {
+    "id": "kaithi",
+    "name": "Kaithi",
+    "start": "U+11080",
+    "end": "U+110CF",
+    "startCode": 69760,
+    "endCode": 69839,
+    "size": 80,
+    "range": "U+11080..U+110CF"
+  },
+  {
+    "id": "sora-sompeng",
+    "name": "Sora Sompeng",
+    "start": "U+110D0",
+    "end": "U+110FF",
+    "startCode": 69840,
+    "endCode": 69887,
+    "size": 48,
+    "range": "U+110D0..U+110FF"
+  },
+  {
+    "id": "chakma",
+    "name": "Chakma",
+    "start": "U+11100",
+    "end": "U+1114F",
+    "startCode": 69888,
+    "endCode": 69967,
+    "size": 80,
+    "range": "U+11100..U+1114F"
+  },
+  {
+    "id": "mahajani",
+    "name": "Mahajani",
+    "start": "U+11150",
+    "end": "U+1117F",
+    "startCode": 69968,
+    "endCode": 70015,
+    "size": 48,
+    "range": "U+11150..U+1117F"
+  },
+  {
+    "id": "sharada",
+    "name": "Sharada",
+    "start": "U+11180",
+    "end": "U+111DF",
+    "startCode": 70016,
+    "endCode": 70111,
+    "size": 96,
+    "range": "U+11180..U+111DF"
+  },
+  {
+    "id": "sinhala-archaic-numbers",
+    "name": "Sinhala Archaic Numbers",
+    "start": "U+111E0",
+    "end": "U+111FF",
+    "startCode": 70112,
+    "endCode": 70143,
+    "size": 32,
+    "range": "U+111E0..U+111FF"
+  },
+  {
+    "id": "khojki",
+    "name": "Khojki",
+    "start": "U+11200",
+    "end": "U+1124F",
+    "startCode": 70144,
+    "endCode": 70223,
+    "size": 80,
+    "range": "U+11200..U+1124F"
+  },
+  {
+    "id": "multani",
+    "name": "Multani",
+    "start": "U+11280",
+    "end": "U+112AF",
+    "startCode": 70272,
+    "endCode": 70319,
+    "size": 48,
+    "range": "U+11280..U+112AF"
+  },
+  {
+    "id": "khudawadi",
+    "name": "Khudawadi",
+    "start": "U+112B0",
+    "end": "U+112FF",
+    "startCode": 70320,
+    "endCode": 70399,
+    "size": 80,
+    "range": "U+112B0..U+112FF"
+  },
+  {
+    "id": "grantha",
+    "name": "Grantha",
+    "start": "U+11300",
+    "end": "U+1137F",
+    "startCode": 70400,
+    "endCode": 70527,
+    "size": 128,
+    "range": "U+11300..U+1137F"
+  },
+  {
+    "id": "tulu-tigalari",
+    "name": "Tulu-Tigalari",
+    "start": "U+11380",
+    "end": "U+113FF",
+    "startCode": 70528,
+    "endCode": 70655,
+    "size": 128,
+    "range": "U+11380..U+113FF"
+  },
+  {
+    "id": "newa",
+    "name": "Newa",
+    "start": "U+11400",
+    "end": "U+1147F",
+    "startCode": 70656,
+    "endCode": 70783,
+    "size": 128,
+    "range": "U+11400..U+1147F"
+  },
+  {
+    "id": "tirhuta",
+    "name": "Tirhuta",
+    "start": "U+11480",
+    "end": "U+114DF",
+    "startCode": 70784,
+    "endCode": 70879,
+    "size": 96,
+    "range": "U+11480..U+114DF"
+  },
+  {
+    "id": "siddham",
+    "name": "Siddham",
+    "start": "U+11580",
+    "end": "U+115FF",
+    "startCode": 71040,
+    "endCode": 71167,
+    "size": 128,
+    "range": "U+11580..U+115FF"
+  },
+  {
+    "id": "modi",
+    "name": "Modi",
+    "start": "U+11600",
+    "end": "U+1165F",
+    "startCode": 71168,
+    "endCode": 71263,
+    "size": 96,
+    "range": "U+11600..U+1165F"
+  },
+  {
+    "id": "mongolian-supplement",
+    "name": "Mongolian Supplement",
+    "start": "U+11660",
+    "end": "U+1167F",
+    "startCode": 71264,
+    "endCode": 71295,
+    "size": 32,
+    "range": "U+11660..U+1167F"
+  },
+  {
+    "id": "takri",
+    "name": "Takri",
+    "start": "U+11680",
+    "end": "U+116CF",
+    "startCode": 71296,
+    "endCode": 71375,
+    "size": 80,
+    "range": "U+11680..U+116CF"
+  },
+  {
+    "id": "myanmar-extended-c",
+    "name": "Myanmar Extended-C",
+    "start": "U+116D0",
+    "end": "U+116FF",
+    "startCode": 71376,
+    "endCode": 71423,
+    "size": 48,
+    "range": "U+116D0..U+116FF"
+  },
+  {
+    "id": "ahom",
+    "name": "Ahom",
+    "start": "U+11700",
+    "end": "U+1174F",
+    "startCode": 71424,
+    "endCode": 71503,
+    "size": 80,
+    "range": "U+11700..U+1174F"
+  },
+  {
+    "id": "dogra",
+    "name": "Dogra",
+    "start": "U+11800",
+    "end": "U+1184F",
+    "startCode": 71680,
+    "endCode": 71759,
+    "size": 80,
+    "range": "U+11800..U+1184F"
+  },
+  {
+    "id": "warang-citi",
+    "name": "Warang Citi",
+    "start": "U+118A0",
+    "end": "U+118FF",
+    "startCode": 71840,
+    "endCode": 71935,
+    "size": 96,
+    "range": "U+118A0..U+118FF"
+  },
+  {
+    "id": "dives-akuru",
+    "name": "Dives Akuru",
+    "start": "U+11900",
+    "end": "U+1195F",
+    "startCode": 71936,
+    "endCode": 72031,
+    "size": 96,
+    "range": "U+11900..U+1195F"
+  },
+  {
+    "id": "nandinagari",
+    "name": "Nandinagari",
+    "start": "U+119A0",
+    "end": "U+119FF",
+    "startCode": 72096,
+    "endCode": 72191,
+    "size": 96,
+    "range": "U+119A0..U+119FF"
+  },
+  {
+    "id": "zanabazar-square",
+    "name": "Zanabazar Square",
+    "start": "U+11A00",
+    "end": "U+11A4F",
+    "startCode": 72192,
+    "endCode": 72271,
+    "size": 80,
+    "range": "U+11A00..U+11A4F"
+  },
+  {
+    "id": "soyombo",
+    "name": "Soyombo",
+    "start": "U+11A50",
+    "end": "U+11AAF",
+    "startCode": 72272,
+    "endCode": 72367,
+    "size": 96,
+    "range": "U+11A50..U+11AAF"
+  },
+  {
+    "id": "unified-canadian-aboriginal-syllabics-extended-a",
+    "name": "Unified Canadian Aboriginal Syllabics Extended-A",
+    "start": "U+11AB0",
+    "end": "U+11ABF",
+    "startCode": 72368,
+    "endCode": 72383,
+    "size": 16,
+    "range": "U+11AB0..U+11ABF"
+  },
+  {
+    "id": "pau-cin-hau",
+    "name": "Pau Cin Hau",
+    "start": "U+11AC0",
+    "end": "U+11AFF",
+    "startCode": 72384,
+    "endCode": 72447,
+    "size": 64,
+    "range": "U+11AC0..U+11AFF"
+  },
+  {
+    "id": "devanagari-extended-a",
+    "name": "Devanagari Extended-A",
+    "start": "U+11B00",
+    "end": "U+11B5F",
+    "startCode": 72448,
+    "endCode": 72543,
+    "size": 96,
+    "range": "U+11B00..U+11B5F"
+  },
+  {
+    "id": "sharada-supplement",
+    "name": "Sharada Supplement",
+    "start": "U+11B60",
+    "end": "U+11B7F",
+    "startCode": 72544,
+    "endCode": 72575,
+    "size": 32,
+    "range": "U+11B60..U+11B7F"
+  },
+  {
+    "id": "sunuwar",
+    "name": "Sunuwar",
+    "start": "U+11BC0",
+    "end": "U+11BFF",
+    "startCode": 72640,
+    "endCode": 72703,
+    "size": 64,
+    "range": "U+11BC0..U+11BFF"
+  },
+  {
+    "id": "bhaiksuki",
+    "name": "Bhaiksuki",
+    "start": "U+11C00",
+    "end": "U+11C6F",
+    "startCode": 72704,
+    "endCode": 72815,
+    "size": 112,
+    "range": "U+11C00..U+11C6F"
+  },
+  {
+    "id": "marchen",
+    "name": "Marchen",
+    "start": "U+11C70",
+    "end": "U+11CBF",
+    "startCode": 72816,
+    "endCode": 72895,
+    "size": 80,
+    "range": "U+11C70..U+11CBF"
+  },
+  {
+    "id": "masaram-gondi",
+    "name": "Masaram Gondi",
+    "start": "U+11D00",
+    "end": "U+11D5F",
+    "startCode": 72960,
+    "endCode": 73055,
+    "size": 96,
+    "range": "U+11D00..U+11D5F"
+  },
+  {
+    "id": "gunjala-gondi",
+    "name": "Gunjala Gondi",
+    "start": "U+11D60",
+    "end": "U+11DAF",
+    "startCode": 73056,
+    "endCode": 73135,
+    "size": 80,
+    "range": "U+11D60..U+11DAF"
+  },
+  {
+    "id": "tolong-siki",
+    "name": "Tolong Siki",
+    "start": "U+11DB0",
+    "end": "U+11DEF",
+    "startCode": 73136,
+    "endCode": 73199,
+    "size": 64,
+    "range": "U+11DB0..U+11DEF"
+  },
+  {
+    "id": "bengali-supplement",
+    "name": "Bengali Supplement",
+    "start": "U+11DF0",
+    "end": "U+11DFF",
+    "startCode": 73200,
+    "endCode": 73215,
+    "size": 16,
+    "range": "U+11DF0..U+11DFF"
+  },
+  {
+    "id": "makasar",
+    "name": "Makasar",
+    "start": "U+11EE0",
+    "end": "U+11EFF",
+    "startCode": 73440,
+    "endCode": 73471,
+    "size": 32,
+    "range": "U+11EE0..U+11EFF"
+  },
+  {
+    "id": "kawi",
+    "name": "Kawi",
+    "start": "U+11F00",
+    "end": "U+11F5F",
+    "startCode": 73472,
+    "endCode": 73567,
+    "size": 96,
+    "range": "U+11F00..U+11F5F"
+  },
+  {
+    "id": "lisu-supplement",
+    "name": "Lisu Supplement",
+    "start": "U+11FB0",
+    "end": "U+11FBF",
+    "startCode": 73648,
+    "endCode": 73663,
+    "size": 16,
+    "range": "U+11FB0..U+11FBF"
+  },
+  {
+    "id": "tamil-supplement",
+    "name": "Tamil Supplement",
+    "start": "U+11FC0",
+    "end": "U+11FFF",
+    "startCode": 73664,
+    "endCode": 73727,
+    "size": 64,
+    "range": "U+11FC0..U+11FFF"
+  },
+  {
+    "id": "cuneiform",
+    "name": "Cuneiform",
+    "start": "U+12000",
+    "end": "U+123FF",
+    "startCode": 73728,
+    "endCode": 74751,
+    "size": 1024,
+    "range": "U+12000..U+123FF"
+  },
+  {
+    "id": "cuneiform-numbers-and-punctuation",
+    "name": "Cuneiform Numbers and Punctuation",
+    "start": "U+12400",
+    "end": "U+1247F",
+    "startCode": 74752,
+    "endCode": 74879,
+    "size": 128,
+    "range": "U+12400..U+1247F"
+  },
+  {
+    "id": "early-dynastic-cuneiform",
+    "name": "Early Dynastic Cuneiform",
+    "start": "U+12480",
+    "end": "U+1254F",
+    "startCode": 74880,
+    "endCode": 75087,
+    "size": 208,
+    "range": "U+12480..U+1254F"
+  },
+  {
+    "id": "archaic-cuneiform-numerals",
+    "name": "Archaic Cuneiform Numerals",
+    "start": "U+12550",
+    "end": "U+1268F",
+    "startCode": 75088,
+    "endCode": 75407,
+    "size": 320,
+    "range": "U+12550..U+1268F"
+  },
+  {
+    "id": "cypro-minoan",
+    "name": "Cypro-Minoan",
+    "start": "U+12F90",
+    "end": "U+12FFF",
+    "startCode": 77712,
+    "endCode": 77823,
+    "size": 112,
+    "range": "U+12F90..U+12FFF"
+  },
+  {
+    "id": "egyptian-hieroglyphs",
+    "name": "Egyptian Hieroglyphs",
+    "start": "U+13000",
+    "end": "U+1342F",
+    "startCode": 77824,
+    "endCode": 78895,
+    "size": 1072,
+    "range": "U+13000..U+1342F"
+  },
+  {
+    "id": "egyptian-hieroglyph-format-controls",
+    "name": "Egyptian Hieroglyph Format Controls",
+    "start": "U+13430",
+    "end": "U+1345F",
+    "startCode": 78896,
+    "endCode": 78943,
+    "size": 48,
+    "range": "U+13430..U+1345F"
+  },
+  {
+    "id": "egyptian-hieroglyphs-extended-a",
+    "name": "Egyptian Hieroglyphs Extended-A",
+    "start": "U+13460",
+    "end": "U+143FF",
+    "startCode": 78944,
+    "endCode": 82943,
+    "size": 4000,
+    "range": "U+13460..U+143FF"
+  },
+  {
+    "id": "anatolian-hieroglyphs",
+    "name": "Anatolian Hieroglyphs",
+    "start": "U+14400",
+    "end": "U+1467F",
+    "startCode": 82944,
+    "endCode": 83583,
+    "size": 640,
+    "range": "U+14400..U+1467F"
+  },
+  {
+    "id": "gurung-khema",
+    "name": "Gurung Khema",
+    "start": "U+16100",
+    "end": "U+1613F",
+    "startCode": 90368,
+    "endCode": 90431,
+    "size": 64,
+    "range": "U+16100..U+1613F"
+  },
+  {
+    "id": "bamum-supplement",
+    "name": "Bamum Supplement",
+    "start": "U+16800",
+    "end": "U+16A3F",
+    "startCode": 92160,
+    "endCode": 92735,
+    "size": 576,
+    "range": "U+16800..U+16A3F"
+  },
+  {
+    "id": "mro",
+    "name": "Mro",
+    "start": "U+16A40",
+    "end": "U+16A6F",
+    "startCode": 92736,
+    "endCode": 92783,
+    "size": 48,
+    "range": "U+16A40..U+16A6F"
+  },
+  {
+    "id": "tangsa",
+    "name": "Tangsa",
+    "start": "U+16A70",
+    "end": "U+16ACF",
+    "startCode": 92784,
+    "endCode": 92879,
+    "size": 96,
+    "range": "U+16A70..U+16ACF"
+  },
+  {
+    "id": "bassa-vah",
+    "name": "Bassa Vah",
+    "start": "U+16AD0",
+    "end": "U+16AFF",
+    "startCode": 92880,
+    "endCode": 92927,
+    "size": 48,
+    "range": "U+16AD0..U+16AFF"
+  },
+  {
+    "id": "pahawh-hmong",
+    "name": "Pahawh Hmong",
+    "start": "U+16B00",
+    "end": "U+16B8F",
+    "startCode": 92928,
+    "endCode": 93071,
+    "size": 144,
+    "range": "U+16B00..U+16B8F"
+  },
+  {
+    "id": "kirat-rai",
+    "name": "Kirat Rai",
+    "start": "U+16D40",
+    "end": "U+16D7F",
+    "startCode": 93504,
+    "endCode": 93567,
+    "size": 64,
+    "range": "U+16D40..U+16D7F"
+  },
+  {
+    "id": "medefaidrin",
+    "name": "Medefaidrin",
+    "start": "U+16E40",
+    "end": "U+16E9F",
+    "startCode": 93760,
+    "endCode": 93855,
+    "size": 96,
+    "range": "U+16E40..U+16E9F"
+  },
+  {
+    "id": "beria-erfe",
+    "name": "Beria Erfe",
+    "start": "U+16EA0",
+    "end": "U+16EDF",
+    "startCode": 93856,
+    "endCode": 93919,
+    "size": 64,
+    "range": "U+16EA0..U+16EDF"
+  },
+  {
+    "id": "miao",
+    "name": "Miao",
+    "start": "U+16F00",
+    "end": "U+16F9F",
+    "startCode": 93952,
+    "endCode": 94111,
+    "size": 160,
+    "range": "U+16F00..U+16F9F"
+  },
+  {
+    "id": "ideographic-symbols-and-punctuation",
+    "name": "Ideographic Symbols and Punctuation",
+    "start": "U+16FE0",
+    "end": "U+16FFF",
+    "startCode": 94176,
+    "endCode": 94207,
+    "size": 32,
+    "range": "U+16FE0..U+16FFF"
+  },
+  {
+    "id": "tangut",
+    "name": "Tangut",
+    "start": "U+17000",
+    "end": "U+187FF",
+    "startCode": 94208,
+    "endCode": 100351,
+    "size": 6144,
+    "range": "U+17000..U+187FF"
+  },
+  {
+    "id": "tangut-components",
+    "name": "Tangut Components",
+    "start": "U+18800",
+    "end": "U+18AFF",
+    "startCode": 100352,
+    "endCode": 101119,
+    "size": 768,
+    "range": "U+18800..U+18AFF"
+  },
+  {
+    "id": "khitan-small-script",
+    "name": "Khitan Small Script",
+    "start": "U+18B00",
+    "end": "U+18CFF",
+    "startCode": 101120,
+    "endCode": 101631,
+    "size": 512,
+    "range": "U+18B00..U+18CFF"
+  },
+  {
+    "id": "tangut-supplement",
+    "name": "Tangut Supplement",
+    "start": "U+18D00",
+    "end": "U+18D7F",
+    "startCode": 101632,
+    "endCode": 101759,
+    "size": 128,
+    "range": "U+18D00..U+18D7F"
+  },
+  {
+    "id": "tangut-components-supplement",
+    "name": "Tangut Components Supplement",
+    "start": "U+18D80",
+    "end": "U+18DFF",
+    "startCode": 101760,
+    "endCode": 101887,
+    "size": 128,
+    "range": "U+18D80..U+18DFF"
+  },
+  {
+    "id": "jurchen",
+    "name": "Jurchen",
+    "start": "U+18E00",
+    "end": "U+1919F",
+    "startCode": 101888,
+    "endCode": 102815,
+    "size": 928,
+    "range": "U+18E00..U+1919F"
+  },
+  {
+    "id": "jurchen-radicals",
+    "name": "Jurchen Radicals",
+    "start": "U+191A0",
+    "end": "U+191DF",
+    "startCode": 102816,
+    "endCode": 102879,
+    "size": 64,
+    "range": "U+191A0..U+191DF"
+  },
+  {
+    "id": "kana-extended-b",
+    "name": "Kana Extended-B",
+    "start": "U+1AFF0",
+    "end": "U+1AFFF",
+    "startCode": 110576,
+    "endCode": 110591,
+    "size": 16,
+    "range": "U+1AFF0..U+1AFFF"
+  },
+  {
+    "id": "kana-supplement",
+    "name": "Kana Supplement",
+    "start": "U+1B000",
+    "end": "U+1B0FF",
+    "startCode": 110592,
+    "endCode": 110847,
+    "size": 256,
+    "range": "U+1B000..U+1B0FF"
+  },
+  {
+    "id": "kana-extended-a",
+    "name": "Kana Extended-A",
+    "start": "U+1B100",
+    "end": "U+1B12F",
+    "startCode": 110848,
+    "endCode": 110895,
+    "size": 48,
+    "range": "U+1B100..U+1B12F"
+  },
+  {
+    "id": "small-kana-extension",
+    "name": "Small Kana Extension",
+    "start": "U+1B130",
+    "end": "U+1B16F",
+    "startCode": 110896,
+    "endCode": 110959,
+    "size": 64,
+    "range": "U+1B130..U+1B16F"
+  },
+  {
+    "id": "nushu",
+    "name": "Nushu",
+    "start": "U+1B170",
+    "end": "U+1B2FF",
+    "startCode": 110960,
+    "endCode": 111359,
+    "size": 400,
+    "range": "U+1B170..U+1B2FF"
+  },
+  {
+    "id": "duployan",
+    "name": "Duployan",
+    "start": "U+1BC00",
+    "end": "U+1BC9F",
+    "startCode": 113664,
+    "endCode": 113823,
+    "size": 160,
+    "range": "U+1BC00..U+1BC9F"
+  },
+  {
+    "id": "shorthand-format-controls",
+    "name": "Shorthand Format Controls",
+    "start": "U+1BCA0",
+    "end": "U+1BCAF",
+    "startCode": 113824,
+    "endCode": 113839,
+    "size": 16,
+    "range": "U+1BCA0..U+1BCAF"
+  },
+  {
+    "id": "symbols-for-legacy-computing-supplement",
+    "name": "Symbols for Legacy Computing Supplement",
+    "start": "U+1CC00",
+    "end": "U+1CEBF",
+    "startCode": 117760,
+    "endCode": 118463,
+    "size": 704,
+    "range": "U+1CC00..U+1CEBF"
+  },
+  {
+    "id": "miscellaneous-symbols-supplement",
+    "name": "Miscellaneous Symbols Supplement",
+    "start": "U+1CEC0",
+    "end": "U+1CEFF",
+    "startCode": 118464,
+    "endCode": 118527,
+    "size": 64,
+    "range": "U+1CEC0..U+1CEFF"
+  },
+  {
+    "id": "znamenny-musical-notation",
+    "name": "Znamenny Musical Notation",
+    "start": "U+1CF00",
+    "end": "U+1CFCF",
+    "startCode": 118528,
+    "endCode": 118735,
+    "size": 208,
+    "range": "U+1CF00..U+1CFCF"
+  },
+  {
+    "id": "byzantine-musical-symbols",
+    "name": "Byzantine Musical Symbols",
+    "start": "U+1D000",
+    "end": "U+1D0FF",
+    "startCode": 118784,
+    "endCode": 119039,
+    "size": 256,
+    "range": "U+1D000..U+1D0FF"
+  },
+  {
+    "id": "musical-symbols",
+    "name": "Musical Symbols",
+    "start": "U+1D100",
+    "end": "U+1D1FF",
+    "startCode": 119040,
+    "endCode": 119295,
+    "size": 256,
+    "range": "U+1D100..U+1D1FF"
+  },
+  {
+    "id": "ancient-greek-musical-notation",
+    "name": "Ancient Greek Musical Notation",
+    "start": "U+1D200",
+    "end": "U+1D24F",
+    "startCode": 119296,
+    "endCode": 119375,
+    "size": 80,
+    "range": "U+1D200..U+1D24F"
+  },
+  {
+    "id": "musical-symbols-supplement",
+    "name": "Musical Symbols Supplement",
+    "start": "U+1D250",
+    "end": "U+1D28F",
+    "startCode": 119376,
+    "endCode": 119439,
+    "size": 64,
+    "range": "U+1D250..U+1D28F"
+  },
+  {
+    "id": "kaktovik-numerals",
+    "name": "Kaktovik Numerals",
+    "start": "U+1D2C0",
+    "end": "U+1D2DF",
+    "startCode": 119488,
+    "endCode": 119519,
+    "size": 32,
+    "range": "U+1D2C0..U+1D2DF"
+  },
+  {
+    "id": "mayan-numerals",
+    "name": "Mayan Numerals",
+    "start": "U+1D2E0",
+    "end": "U+1D2FF",
+    "startCode": 119520,
+    "endCode": 119551,
+    "size": 32,
+    "range": "U+1D2E0..U+1D2FF"
+  },
+  {
+    "id": "tai-xuan-jing-symbols",
+    "name": "Tai Xuan Jing Symbols",
+    "start": "U+1D300",
+    "end": "U+1D35F",
+    "startCode": 119552,
+    "endCode": 119647,
+    "size": 96,
+    "range": "U+1D300..U+1D35F"
+  },
+  {
+    "id": "counting-rod-numerals",
+    "name": "Counting Rod Numerals",
+    "start": "U+1D360",
+    "end": "U+1D37F",
+    "startCode": 119648,
+    "endCode": 119679,
+    "size": 32,
+    "range": "U+1D360..U+1D37F"
+  },
+  {
+    "id": "mathematical-alphanumeric-symbols",
+    "name": "Mathematical Alphanumeric Symbols",
+    "start": "U+1D400",
+    "end": "U+1D7FF",
+    "startCode": 119808,
+    "endCode": 120831,
+    "size": 1024,
+    "range": "U+1D400..U+1D7FF"
+  },
+  {
+    "id": "sutton-signwriting",
+    "name": "Sutton SignWriting",
+    "start": "U+1D800",
+    "end": "U+1DAAF",
+    "startCode": 120832,
+    "endCode": 121519,
+    "size": 688,
+    "range": "U+1D800..U+1DAAF"
+  },
+  {
+    "id": "miscellaneous-symbols-and-arrows-extended",
+    "name": "Miscellaneous Symbols and Arrows Extended",
+    "start": "U+1DB00",
+    "end": "U+1DBFF",
+    "startCode": 121600,
+    "endCode": 121855,
+    "size": 256,
+    "range": "U+1DB00..U+1DBFF"
+  },
+  {
+    "id": "latin-extended-g",
+    "name": "Latin Extended-G",
+    "start": "U+1DF00",
+    "end": "U+1DFFF",
+    "startCode": 122624,
+    "endCode": 122879,
+    "size": 256,
+    "range": "U+1DF00..U+1DFFF"
+  },
+  {
+    "id": "glagolitic-supplement",
+    "name": "Glagolitic Supplement",
+    "start": "U+1E000",
+    "end": "U+1E02F",
+    "startCode": 122880,
+    "endCode": 122927,
+    "size": 48,
+    "range": "U+1E000..U+1E02F"
+  },
+  {
+    "id": "cyrillic-extended-d",
+    "name": "Cyrillic Extended-D",
+    "start": "U+1E030",
+    "end": "U+1E08F",
+    "startCode": 122928,
+    "endCode": 123023,
+    "size": 96,
+    "range": "U+1E030..U+1E08F"
+  },
+  {
+    "id": "nyiakeng-puachue-hmong",
+    "name": "Nyiakeng Puachue Hmong",
+    "start": "U+1E100",
+    "end": "U+1E14F",
+    "startCode": 123136,
+    "endCode": 123215,
+    "size": 80,
+    "range": "U+1E100..U+1E14F"
+  },
+  {
+    "id": "toto",
+    "name": "Toto",
+    "start": "U+1E290",
+    "end": "U+1E2BF",
+    "startCode": 123536,
+    "endCode": 123583,
+    "size": 48,
+    "range": "U+1E290..U+1E2BF"
+  },
+  {
+    "id": "wancho",
+    "name": "Wancho",
+    "start": "U+1E2C0",
+    "end": "U+1E2FF",
+    "startCode": 123584,
+    "endCode": 123647,
+    "size": 64,
+    "range": "U+1E2C0..U+1E2FF"
+  },
+  {
+    "id": "nag-mundari",
+    "name": "Nag Mundari",
+    "start": "U+1E4D0",
+    "end": "U+1E4FF",
+    "startCode": 124112,
+    "endCode": 124159,
+    "size": 48,
+    "range": "U+1E4D0..U+1E4FF"
+  },
+  {
+    "id": "ol-onal",
+    "name": "Ol Onal",
+    "start": "U+1E5D0",
+    "end": "U+1E5FF",
+    "startCode": 124368,
+    "endCode": 124415,
+    "size": 48,
+    "range": "U+1E5D0..U+1E5FF"
+  },
+  {
+    "id": "tai-yo",
+    "name": "Tai Yo",
+    "start": "U+1E6C0",
+    "end": "U+1E6FF",
+    "startCode": 124608,
+    "endCode": 124671,
+    "size": 64,
+    "range": "U+1E6C0..U+1E6FF"
+  },
+  {
+    "id": "ethiopic-extended-b",
+    "name": "Ethiopic Extended-B",
+    "start": "U+1E7E0",
+    "end": "U+1E7FF",
+    "startCode": 124896,
+    "endCode": 124927,
+    "size": 32,
+    "range": "U+1E7E0..U+1E7FF"
+  },
+  {
+    "id": "mende-kikakui",
+    "name": "Mende Kikakui",
+    "start": "U+1E800",
+    "end": "U+1E8DF",
+    "startCode": 124928,
+    "endCode": 125151,
+    "size": 224,
+    "range": "U+1E800..U+1E8DF"
+  },
+  {
+    "id": "adlam",
+    "name": "Adlam",
+    "start": "U+1E900",
+    "end": "U+1E95F",
+    "startCode": 125184,
+    "endCode": 125279,
+    "size": 96,
+    "range": "U+1E900..U+1E95F"
+  },
+  {
+    "id": "indic-siyaq-numbers",
+    "name": "Indic Siyaq Numbers",
+    "start": "U+1EC70",
+    "end": "U+1ECBF",
+    "startCode": 126064,
+    "endCode": 126143,
+    "size": 80,
+    "range": "U+1EC70..U+1ECBF"
+  },
+  {
+    "id": "ottoman-siyaq-numbers",
+    "name": "Ottoman Siyaq Numbers",
+    "start": "U+1ED00",
+    "end": "U+1ED4F",
+    "startCode": 126208,
+    "endCode": 126287,
+    "size": 80,
+    "range": "U+1ED00..U+1ED4F"
+  },
+  {
+    "id": "arabic-mathematical-alphabetic-symbols",
+    "name": "Arabic Mathematical Alphabetic Symbols",
+    "start": "U+1EE00",
+    "end": "U+1EEFF",
+    "startCode": 126464,
+    "endCode": 126719,
+    "size": 256,
+    "range": "U+1EE00..U+1EEFF"
+  },
+  {
+    "id": "mahjong-tiles",
+    "name": "Mahjong Tiles",
+    "start": "U+1F000",
+    "end": "U+1F02F",
+    "startCode": 126976,
+    "endCode": 127023,
+    "size": 48,
+    "range": "U+1F000..U+1F02F"
+  },
+  {
+    "id": "domino-tiles",
+    "name": "Domino Tiles",
+    "start": "U+1F030",
+    "end": "U+1F09F",
+    "startCode": 127024,
+    "endCode": 127135,
+    "size": 112,
+    "range": "U+1F030..U+1F09F"
+  },
+  {
+    "id": "playing-cards",
+    "name": "Playing Cards",
+    "start": "U+1F0A0",
+    "end": "U+1F0FF",
+    "startCode": 127136,
+    "endCode": 127231,
+    "size": 96,
+    "range": "U+1F0A0..U+1F0FF"
+  },
+  {
+    "id": "enclosed-alphanumeric-supplement",
+    "name": "Enclosed Alphanumeric Supplement",
+    "start": "U+1F100",
+    "end": "U+1F1FF",
+    "startCode": 127232,
+    "endCode": 127487,
+    "size": 256,
+    "range": "U+1F100..U+1F1FF"
+  },
+  {
+    "id": "enclosed-ideographic-supplement",
+    "name": "Enclosed Ideographic Supplement",
+    "start": "U+1F200",
+    "end": "U+1F2FF",
+    "startCode": 127488,
+    "endCode": 127743,
+    "size": 256,
+    "range": "U+1F200..U+1F2FF"
+  },
+  {
+    "id": "miscellaneous-symbols-and-pictographs",
+    "name": "Miscellaneous Symbols and Pictographs",
+    "start": "U+1F300",
+    "end": "U+1F5FF",
+    "startCode": 127744,
+    "endCode": 128511,
+    "size": 768,
+    "range": "U+1F300..U+1F5FF"
+  },
+  {
+    "id": "emoticons",
+    "name": "Emoticons",
+    "start": "U+1F600",
+    "end": "U+1F64F",
+    "startCode": 128512,
+    "endCode": 128591,
+    "size": 80,
+    "range": "U+1F600..U+1F64F"
+  },
+  {
+    "id": "ornamental-dingbats",
+    "name": "Ornamental Dingbats",
+    "start": "U+1F650",
+    "end": "U+1F67F",
+    "startCode": 128592,
+    "endCode": 128639,
+    "size": 48,
+    "range": "U+1F650..U+1F67F"
+  },
+  {
+    "id": "transport-and-map-symbols",
+    "name": "Transport and Map Symbols",
+    "start": "U+1F680",
+    "end": "U+1F6FF",
+    "startCode": 128640,
+    "endCode": 128767,
+    "size": 128,
+    "range": "U+1F680..U+1F6FF"
+  },
+  {
+    "id": "alchemical-symbols",
+    "name": "Alchemical Symbols",
+    "start": "U+1F700",
+    "end": "U+1F77F",
+    "startCode": 128768,
+    "endCode": 128895,
+    "size": 128,
+    "range": "U+1F700..U+1F77F"
+  },
+  {
+    "id": "geometric-shapes-extended",
+    "name": "Geometric Shapes Extended",
+    "start": "U+1F780",
+    "end": "U+1F7FF",
+    "startCode": 128896,
+    "endCode": 129023,
+    "size": 128,
+    "range": "U+1F780..U+1F7FF"
+  },
+  {
+    "id": "supplemental-arrows-c",
+    "name": "Supplemental Arrows-C",
+    "start": "U+1F800",
+    "end": "U+1F8FF",
+    "startCode": 129024,
+    "endCode": 129279,
+    "size": 256,
+    "range": "U+1F800..U+1F8FF"
+  },
+  {
+    "id": "supplemental-symbols-and-pictographs",
+    "name": "Supplemental Symbols and Pictographs",
+    "start": "U+1F900",
+    "end": "U+1F9FF",
+    "startCode": 129280,
+    "endCode": 129535,
+    "size": 256,
+    "range": "U+1F900..U+1F9FF"
+  },
+  {
+    "id": "chess-symbols",
+    "name": "Chess Symbols",
+    "start": "U+1FA00",
+    "end": "U+1FA6F",
+    "startCode": 129536,
+    "endCode": 129647,
+    "size": 112,
+    "range": "U+1FA00..U+1FA6F"
+  },
+  {
+    "id": "symbols-and-pictographs-extended-a",
+    "name": "Symbols and Pictographs Extended-A",
+    "start": "U+1FA70",
+    "end": "U+1FAFF",
+    "startCode": 129648,
+    "endCode": 129791,
+    "size": 144,
+    "range": "U+1FA70..U+1FAFF"
+  },
+  {
+    "id": "symbols-for-legacy-computing",
+    "name": "Symbols for Legacy Computing",
+    "start": "U+1FB00",
+    "end": "U+1FBFF",
+    "startCode": 129792,
+    "endCode": 130047,
+    "size": 256,
+    "range": "U+1FB00..U+1FBFF"
+  },
+  {
+    "id": "cjk-unified-ideographs-extension-b",
+    "name": "CJK Unified Ideographs Extension B",
+    "start": "U+20000",
+    "end": "U+2A6DF",
+    "startCode": 131072,
+    "endCode": 173791,
+    "size": 42720,
+    "range": "U+20000..U+2A6DF"
+  },
+  {
+    "id": "cjk-unified-ideographs-extension-c",
+    "name": "CJK Unified Ideographs Extension C",
+    "start": "U+2A700",
+    "end": "U+2B73F",
+    "startCode": 173824,
+    "endCode": 177983,
+    "size": 4160,
+    "range": "U+2A700..U+2B73F"
+  },
+  {
+    "id": "cjk-unified-ideographs-extension-d",
+    "name": "CJK Unified Ideographs Extension D",
+    "start": "U+2B740",
+    "end": "U+2B81F",
+    "startCode": 177984,
+    "endCode": 178207,
+    "size": 224,
+    "range": "U+2B740..U+2B81F"
+  },
+  {
+    "id": "cjk-unified-ideographs-extension-e",
+    "name": "CJK Unified Ideographs Extension E",
+    "start": "U+2B820",
+    "end": "U+2CEAF",
+    "startCode": 178208,
+    "endCode": 183983,
+    "size": 5776,
+    "range": "U+2B820..U+2CEAF"
+  },
+  {
+    "id": "cjk-unified-ideographs-extension-f",
+    "name": "CJK Unified Ideographs Extension F",
+    "start": "U+2CEB0",
+    "end": "U+2EBEF",
+    "startCode": 183984,
+    "endCode": 191471,
+    "size": 7488,
+    "range": "U+2CEB0..U+2EBEF"
+  },
+  {
+    "id": "cjk-unified-ideographs-extension-i",
+    "name": "CJK Unified Ideographs Extension I",
+    "start": "U+2EBF0",
+    "end": "U+2EE5F",
+    "startCode": 191472,
+    "endCode": 192095,
+    "size": 624,
+    "range": "U+2EBF0..U+2EE5F"
+  },
+  {
+    "id": "cjk-compatibility-ideographs-supplement",
+    "name": "CJK Compatibility Ideographs Supplement",
+    "start": "U+2F800",
+    "end": "U+2FA1F",
+    "startCode": 194560,
+    "endCode": 195103,
+    "size": 544,
+    "range": "U+2F800..U+2FA1F"
+  },
+  {
+    "id": "cjk-unified-ideographs-extension-g",
+    "name": "CJK Unified Ideographs Extension G",
+    "start": "U+30000",
+    "end": "U+3134F",
+    "startCode": 196608,
+    "endCode": 201551,
+    "size": 4944,
+    "range": "U+30000..U+3134F"
+  },
+  {
+    "id": "cjk-unified-ideographs-extension-h",
+    "name": "CJK Unified Ideographs Extension H",
+    "start": "U+31350",
+    "end": "U+323AF",
+    "startCode": 201552,
+    "endCode": 205743,
+    "size": 4192,
+    "range": "U+31350..U+323AF"
+  },
+  {
+    "id": "cjk-unified-ideographs-extension-j",
+    "name": "CJK Unified Ideographs Extension J",
+    "start": "U+323B0",
+    "end": "U+3347F",
+    "startCode": 205744,
+    "endCode": 210047,
+    "size": 4304,
+    "range": "U+323B0..U+3347F"
+  },
+  {
+    "id": "seal",
+    "name": "Seal",
+    "start": "U+3D000",
+    "end": "U+3FC3F",
+    "startCode": 249856,
+    "endCode": 261183,
+    "size": 11328,
+    "range": "U+3D000..U+3FC3F"
+  },
+  {
+    "id": "tags",
+    "name": "Tags",
+    "start": "U+E0000",
+    "end": "U+E007F",
+    "startCode": 917504,
+    "endCode": 917631,
+    "size": 128,
+    "range": "U+E0000..U+E007F"
+  },
+  {
+    "id": "variation-selectors-supplement",
+    "name": "Variation Selectors Supplement",
+    "start": "U+E0100",
+    "end": "U+E01EF",
+    "startCode": 917760,
+    "endCode": 917999,
+    "size": 240,
+    "range": "U+E0100..U+E01EF"
+  },
+  {
+    "id": "supplementary-private-use-area-a",
+    "name": "Supplementary Private Use Area-A",
+    "start": "U+F0000",
+    "end": "U+FFFFF",
+    "startCode": 983040,
+    "endCode": 1048575,
+    "size": 65536,
+    "range": "U+F0000..U+FFFFF"
+  },
+  {
+    "id": "supplementary-private-use-area-b",
+    "name": "Supplementary Private Use Area-B",
+    "start": "U+100000",
+    "end": "U+10FFFF",
+    "startCode": 1048576,
+    "endCode": 1114111,
+    "size": 65536,
+    "range": "U+100000..U+10FFFF"
+  }
+]

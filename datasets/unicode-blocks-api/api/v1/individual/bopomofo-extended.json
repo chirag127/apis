@@ -1,0 +1,10 @@
+{
+  "id": "bopomofo-extended",
+  "name": "Bopomofo Extended",
+  "start": "U+31A0",
+  "end": "U+31BF",
+  "startCode": 12704,
+  "endCode": 12735,
+  "size": 32,
+  "range": "U+31A0..U+31BF"
+}

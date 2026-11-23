@@ -1,0 +1,14 @@
+{
+  "id": "APAFML",
+  "name": "Adobe Postscript AFM License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 339,
+  "reference": "https://spdx.org/licenses/APAFML.html",
+  "detailsUrl": "https://spdx.org/licenses/APAFML.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/APAFML.txt",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/AdobePostscriptAFM"
+  ]
+}

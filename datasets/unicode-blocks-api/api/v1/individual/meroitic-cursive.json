@@ -1,0 +1,10 @@
+{
+  "id": "meroitic-cursive",
+  "name": "Meroitic Cursive",
+  "start": "U+109A0",
+  "end": "U+109FF",
+  "startCode": 68000,
+  "endCode": 68095,
+  "size": 96,
+  "range": "U+109A0..U+109FF"
+}

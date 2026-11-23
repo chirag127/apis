@@ -1,0 +1,14 @@
+{
+  "id": "ES",
+  "iso2": "ES",
+  "name": "Spain",
+  "callingCode": "+34",
+  "callingCodeRoot": "34",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "810123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

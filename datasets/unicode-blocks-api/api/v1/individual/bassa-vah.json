@@ -1,0 +1,10 @@
+{
+  "id": "bassa-vah",
+  "name": "Bassa Vah",
+  "start": "U+16AD0",
+  "end": "U+16AFF",
+  "startCode": 92880,
+  "endCode": 92927,
+  "size": 48,
+  "range": "U+16AD0..U+16AFF"
+}

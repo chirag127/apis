@@ -1,0 +1,10 @@
+{
+  "id": "IQD",
+  "alpha3": "IQD",
+  "numeric": "368",
+  "name": "Iraqi Dinar",
+  "minorUnits": 3,
+  "countries": [
+    "IRAQ"
+  ]
+}

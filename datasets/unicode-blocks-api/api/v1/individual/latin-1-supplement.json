@@ -1,0 +1,10 @@
+{
+  "id": "latin-1-supplement",
+  "name": "Latin-1 Supplement",
+  "start": "U+0080",
+  "end": "U+00FF",
+  "startCode": 128,
+  "endCode": 255,
+  "size": 128,
+  "range": "U+0080..U+00FF"
+}

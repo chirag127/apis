@@ -1,0 +1,10 @@
+{
+  "id": "chakma",
+  "name": "Chakma",
+  "start": "U+11100",
+  "end": "U+1114F",
+  "startCode": 69888,
+  "endCode": 69967,
+  "size": 80,
+  "range": "U+11100..U+1114F"
+}

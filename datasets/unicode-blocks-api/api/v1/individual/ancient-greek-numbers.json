@@ -1,0 +1,10 @@
+{
+  "id": "ancient-greek-numbers",
+  "name": "Ancient Greek Numbers",
+  "start": "U+10140",
+  "end": "U+1018F",
+  "startCode": 65856,
+  "endCode": 65935,
+  "size": 80,
+  "range": "U+10140..U+1018F"
+}

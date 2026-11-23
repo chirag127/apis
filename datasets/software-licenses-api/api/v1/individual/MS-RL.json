@@ -1,0 +1,15 @@
+{
+  "id": "MS-RL",
+  "name": "Microsoft Reciprocal License",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 662,
+  "reference": "https://spdx.org/licenses/MS-RL.html",
+  "detailsUrl": "https://spdx.org/licenses/MS-RL.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MS-RL.txt",
+  "seeAlso": [
+    "http://www.microsoft.com/opensource/licenses.mspx",
+    "https://opensource.org/license/MS-RL"
+  ]
+}

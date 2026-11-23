@@ -1,0 +1,14 @@
+{
+  "id": "Naumen",
+  "name": "Naumen Public License",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 278,
+  "reference": "https://spdx.org/licenses/Naumen.html",
+  "detailsUrl": "https://spdx.org/licenses/Naumen.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Naumen.txt",
+  "seeAlso": [
+    "https://opensource.org/license/Naumen"
+  ]
+}

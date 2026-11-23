@@ -1,0 +1,14 @@
+{
+  "id": "OGL-UK-3.0",
+  "name": "Open Government Licence v3.0",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 516,
+  "reference": "https://spdx.org/licenses/OGL-UK-3.0.html",
+  "detailsUrl": "https://spdx.org/licenses/OGL-UK-3.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/OGL-UK-3.0.txt",
+  "seeAlso": [
+    "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  ]
+}

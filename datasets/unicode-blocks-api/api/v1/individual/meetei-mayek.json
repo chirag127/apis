@@ -1,0 +1,10 @@
+{
+  "id": "meetei-mayek",
+  "name": "Meetei Mayek",
+  "start": "U+ABC0",
+  "end": "U+ABFF",
+  "startCode": 43968,
+  "endCode": 44031,
+  "size": 64,
+  "range": "U+ABC0..U+ABFF"
+}

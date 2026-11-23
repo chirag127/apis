@@ -1,0 +1,14 @@
+{
+  "id": "Sleepycat",
+  "name": "Sleepycat License",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 528,
+  "reference": "https://spdx.org/licenses/Sleepycat.html",
+  "detailsUrl": "https://spdx.org/licenses/Sleepycat.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Sleepycat.txt",
+  "seeAlso": [
+    "https://opensource.org/license/Sleepycat"
+  ]
+}

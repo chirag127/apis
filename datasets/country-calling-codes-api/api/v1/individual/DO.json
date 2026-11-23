@@ -1,0 +1,14 @@
+{
+  "id": "DO",
+  "iso2": "DO",
+  "name": "Dominican Republic",
+  "callingCode": "+1",
+  "callingCodeRoot": "1",
+  "internationalPrefix": "011",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "1",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "8092345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

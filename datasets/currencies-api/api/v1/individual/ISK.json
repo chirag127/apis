@@ -1,0 +1,10 @@
+{
+  "id": "ISK",
+  "alpha3": "ISK",
+  "numeric": "352",
+  "name": "Iceland Krona",
+  "minorUnits": 0,
+  "countries": [
+    "ICELAND"
+  ]
+}

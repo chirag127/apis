@@ -1,0 +1,14 @@
+{
+  "id": "DocBook-XML",
+  "name": "DocBook XML License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 352,
+  "reference": "https://spdx.org/licenses/DocBook-XML.html",
+  "detailsUrl": "https://spdx.org/licenses/DocBook-XML.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/DocBook-XML.txt",
+  "seeAlso": [
+    "https://github.com/docbook/xslt10-stylesheets/blob/efd62655c11cc8773708df7a843613fa1e932bf8/xsl/COPYING#L27"
+  ]
+}

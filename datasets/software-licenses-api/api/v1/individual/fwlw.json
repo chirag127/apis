@@ -1,0 +1,14 @@
+{
+  "id": "fwlw",
+  "name": "fwlw License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 609,
+  "reference": "https://spdx.org/licenses/fwlw.html",
+  "detailsUrl": "https://spdx.org/licenses/fwlw.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/fwlw.txt",
+  "seeAlso": [
+    "https://mirrors.nic.cz/tex-archive/macros/latex/contrib/fwlw/README"
+  ]
+}

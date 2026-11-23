@@ -1,0 +1,14 @@
+{
+  "id": "GH",
+  "iso2": "GH",
+  "name": "Ghana",
+  "callingCode": "+233",
+  "callingCodeRoot": "233",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "302345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

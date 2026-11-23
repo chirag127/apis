@@ -1,0 +1,10 @@
+{
+  "id": "ornamental-dingbats",
+  "name": "Ornamental Dingbats",
+  "start": "U+1F650",
+  "end": "U+1F67F",
+  "startCode": 128592,
+  "endCode": 128639,
+  "size": 48,
+  "range": "U+1F650..U+1F67F"
+}

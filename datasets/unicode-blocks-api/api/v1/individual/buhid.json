@@ -1,0 +1,10 @@
+{
+  "id": "buhid",
+  "name": "Buhid",
+  "start": "U+1740",
+  "end": "U+175F",
+  "startCode": 5952,
+  "endCode": 5983,
+  "size": 32,
+  "range": "U+1740..U+175F"
+}

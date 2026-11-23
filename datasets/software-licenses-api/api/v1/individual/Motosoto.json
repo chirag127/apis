@@ -1,0 +1,14 @@
+{
+  "id": "Motosoto",
+  "name": "Motosoto License",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 219,
+  "reference": "https://spdx.org/licenses/Motosoto.html",
+  "detailsUrl": "https://spdx.org/licenses/Motosoto.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Motosoto.txt",
+  "seeAlso": [
+    "https://opensource.org/license/Motosoto"
+  ]
+}

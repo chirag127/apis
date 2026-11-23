@@ -1,0 +1,10 @@
+{
+  "id": "USN",
+  "alpha3": "USN",
+  "numeric": "997",
+  "name": "US Dollar (Next day)",
+  "minorUnits": 2,
+  "countries": [
+    "UNITED STATES OF AMERICA (THE)"
+  ]
+}

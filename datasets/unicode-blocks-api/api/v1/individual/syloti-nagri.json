@@ -1,0 +1,10 @@
+{
+  "id": "syloti-nagri",
+  "name": "Syloti Nagri",
+  "start": "U+A800",
+  "end": "U+A82F",
+  "startCode": 43008,
+  "endCode": 43055,
+  "size": 48,
+  "range": "U+A800..U+A82F"
+}

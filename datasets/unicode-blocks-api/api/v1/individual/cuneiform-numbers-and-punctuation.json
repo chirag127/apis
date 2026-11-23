@@ -1,0 +1,10 @@
+{
+  "id": "cuneiform-numbers-and-punctuation",
+  "name": "Cuneiform Numbers and Punctuation",
+  "start": "U+12400",
+  "end": "U+1247F",
+  "startCode": 74752,
+  "endCode": 74879,
+  "size": 128,
+  "range": "U+12400..U+1247F"
+}

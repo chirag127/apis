@@ -1,0 +1,14 @@
+{
+  "id": "JE",
+  "iso2": "JE",
+  "name": "Jersey",
+  "callingCode": "+44",
+  "callingCodeRoot": "44",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": "([0-24-8]\\d{5})$|0|180020",
+  "exampleNumber": "1534456789",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

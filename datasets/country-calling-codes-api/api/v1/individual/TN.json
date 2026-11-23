@@ -1,0 +1,14 @@
+{
+  "id": "TN",
+  "iso2": "TN",
+  "name": "Tunisia",
+  "callingCode": "+216",
+  "callingCodeRoot": "216",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "30010123",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

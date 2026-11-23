@@ -1,0 +1,10 @@
+{
+  "id": "latin-extended-e",
+  "name": "Latin Extended-E",
+  "start": "U+AB30",
+  "end": "U+AB6F",
+  "startCode": 43824,
+  "endCode": 43887,
+  "size": 64,
+  "range": "U+AB30..U+AB6F"
+}

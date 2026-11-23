@@ -1,0 +1,15 @@
+{
+  "status": "healthy",
+  "lastUpdated": "2026-08-25T13:59:37.130Z",
+  "sourceUpdatedAt": "2026-08-25T13:59:37.130Z",
+  "retrievedAt": "2026-08-25T13:59:37.130Z",
+  "recordCount": 2,
+  "version": "1.0.0",
+  "schemaVersion": "1.0.0",
+  "source": "ncert.nic.in",
+  "license": "CC-BY-4.0",
+  "updateCadence": "yearly",
+  "nextUpdateDue": "2026-11-23T13:59:37.130Z",
+  "lastFailedAt": null,
+  "failureReason": null
+}

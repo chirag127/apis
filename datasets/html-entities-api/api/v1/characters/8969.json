@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8969
+  ],
+  "codepointsHex": [
+    "0x2309"
+  ],
+  "character": "⌉",
+  "names": [
+    {
+      "name": "&RightCeiling;",
+      "legacy": false
+    },
+    {
+      "name": "&rceil;",
+      "legacy": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8465
+  ],
+  "codepointsHex": [
+    "0x2111"
+  ],
+  "character": "ℑ",
+  "names": [
+    {
+      "name": "&Ifr;",
+      "legacy": false
+    },
+    {
+      "name": "&Im;",
+      "legacy": false
+    },
+    {
+      "name": "&image;",
+      "legacy": false
+    },
+    {
+      "name": "&imagpart;",
+      "legacy": false
+    }
+  ]
+}

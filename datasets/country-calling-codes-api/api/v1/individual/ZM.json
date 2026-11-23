@@ -1,0 +1,14 @@
+{
+  "id": "ZM",
+  "iso2": "ZM",
+  "name": "Zambia",
+  "callingCode": "+260",
+  "callingCodeRoot": "260",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "211234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

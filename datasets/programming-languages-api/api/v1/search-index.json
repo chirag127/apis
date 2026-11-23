@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "programming-languages": {
+      "id": "programming-languages",
+      "name": "Programming Languages",
+      "status": "scaffold",
+      "source": "Public data"
+    }
+  },
+  "searchableFields": []
+}

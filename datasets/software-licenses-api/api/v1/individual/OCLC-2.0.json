@@ -1,0 +1,15 @@
+{
+  "id": "OCLC-2.0",
+  "name": "OCLC Research Public License 2.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 649,
+  "reference": "https://spdx.org/licenses/OCLC-2.0.html",
+  "detailsUrl": "https://spdx.org/licenses/OCLC-2.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/OCLC-2.0.txt",
+  "seeAlso": [
+    "http://www.oclc.org/research/activities/software/license/v2final.htm",
+    "https://opensource.org/license/OCLC-2.0"
+  ]
+}

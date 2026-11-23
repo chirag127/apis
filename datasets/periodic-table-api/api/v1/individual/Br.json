@@ -1,0 +1,27 @@
+{
+  "id": "Br",
+  "atomicNumber": 35,
+  "symbol": "Br",
+  "name": "Bromine",
+  "atomicMass": 79.904,
+  "category": "diatomic nonmetal",
+  "block": "p",
+  "group": 17,
+  "period": 4,
+  "phase": "Liquid",
+  "density": 3.1028,
+  "meltingPoint": 265.8,
+  "boilingPoint": 332,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p5",
+  "electronConfigurationSemantic": "[Ar] 3d10 4s2 4p5",
+  "electronegativity": 2.96,
+  "shells": [
+    2,
+    8,
+    18,
+    7
+  ],
+  "cpkHex": "a62929",
+  "discoveredBy": "Antoine Jérôme Balard",
+  "yearDiscovered": "1826"
+}

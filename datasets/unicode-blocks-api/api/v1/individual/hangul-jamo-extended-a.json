@@ -1,0 +1,10 @@
+{
+  "id": "hangul-jamo-extended-a",
+  "name": "Hangul Jamo Extended-A",
+  "start": "U+A960",
+  "end": "U+A97F",
+  "startCode": 43360,
+  "endCode": 43391,
+  "size": 32,
+  "range": "U+A960..U+A97F"
+}

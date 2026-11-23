@@ -1,0 +1,14 @@
+{
+  "id": "AML",
+  "name": "Apple MIT License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 306,
+  "reference": "https://spdx.org/licenses/AML.html",
+  "detailsUrl": "https://spdx.org/licenses/AML.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/AML.txt",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/Apple_MIT_License"
+  ]
+}

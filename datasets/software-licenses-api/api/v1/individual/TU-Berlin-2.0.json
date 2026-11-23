@@ -1,0 +1,14 @@
+{
+  "id": "TU-Berlin-2.0",
+  "name": "Technische Universitaet Berlin License 2.0",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 146,
+  "reference": "https://spdx.org/licenses/TU-Berlin-2.0.html",
+  "detailsUrl": "https://spdx.org/licenses/TU-Berlin-2.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/TU-Berlin-2.0.txt",
+  "seeAlso": [
+    "https://github.com/CorsixTH/deps/blob/fd339a9f526d1d9c9f01ccf39e438a015da50035/licences/libgsm.txt"
+  ]
+}

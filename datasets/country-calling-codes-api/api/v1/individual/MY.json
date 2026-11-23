@@ -1,0 +1,14 @@
+{
+  "id": "MY",
+  "iso2": "MY",
+  "name": "Malaysia",
+  "callingCode": "+60",
+  "callingCodeRoot": "60",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "323856789",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

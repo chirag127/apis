@@ -1,0 +1,32 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8726
+  ],
+  "codepointsHex": [
+    "0x2216"
+  ],
+  "character": "∖",
+  "names": [
+    {
+      "name": "&Backslash;",
+      "legacy": false
+    },
+    {
+      "name": "&setminus;",
+      "legacy": false
+    },
+    {
+      "name": "&setmn;",
+      "legacy": false
+    },
+    {
+      "name": "&smallsetminus;",
+      "legacy": false
+    },
+    {
+      "name": "&ssetmn;",
+      "legacy": false
+    }
+  ]
+}

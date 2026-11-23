@@ -1,0 +1,14 @@
+{
+  "id": "NU",
+  "iso2": "NU",
+  "name": "Niue",
+  "callingCode": "+683",
+  "callingCodeRoot": "683",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "7012",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

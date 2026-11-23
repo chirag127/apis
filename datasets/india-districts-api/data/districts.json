@@ -1,0 +1,14 @@
+[
+  {
+    "id": "IN-AP-AN",
+    "name": "Anantapur",
+    "state": "Andhra Pradesh",
+    "status": "pilot-fixture"
+  },
+  {
+    "id": "IN-MH-PU",
+    "name": "Pune",
+    "state": "Maharashtra",
+    "status": "pilot-fixture"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "BT",
+  "iso2": "BT",
+  "name": "Bhutan",
+  "callingCode": "+975",
+  "callingCodeRoot": "975",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "2345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "CX",
+  "iso2": "CX",
+  "name": "Christmas Island",
+  "callingCode": "+61",
+  "callingCodeRoot": "61",
+  "internationalPrefix": "001[14-689]|14(?:1[14]|34|4[17]|[56]6|7[47]|88)0011",
+  "preferredInternationalPrefix": "0011",
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": "([59]\\d{7})$|0",
+  "exampleNumber": "891641234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

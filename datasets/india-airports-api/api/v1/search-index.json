@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "india-airports": {
+      "id": "india-airports",
+      "name": "Indian Airports",
+      "status": "scaffold",
+      "source": "AAI open data"
+    }
+  },
+  "searchableFields": []
+}

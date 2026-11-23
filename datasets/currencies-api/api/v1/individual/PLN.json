@@ -1,0 +1,10 @@
+{
+  "id": "PLN",
+  "alpha3": "PLN",
+  "numeric": "985",
+  "name": "Zloty",
+  "minorUnits": 2,
+  "countries": [
+    "POLAND"
+  ]
+}

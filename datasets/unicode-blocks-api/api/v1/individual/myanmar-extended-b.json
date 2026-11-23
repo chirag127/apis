@@ -1,0 +1,10 @@
+{
+  "id": "myanmar-extended-b",
+  "name": "Myanmar Extended-B",
+  "start": "U+A9E0",
+  "end": "U+A9FF",
+  "startCode": 43488,
+  "endCode": 43519,
+  "size": 32,
+  "range": "U+A9E0..U+A9FF"
+}

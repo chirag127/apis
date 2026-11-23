@@ -1,0 +1,14 @@
+{
+  "id": "NZ",
+  "iso2": "NZ",
+  "name": "New Zealand",
+  "callingCode": "+64",
+  "callingCodeRoot": "64",
+  "internationalPrefix": "0(?:0|161)",
+  "preferredInternationalPrefix": "00",
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "32345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

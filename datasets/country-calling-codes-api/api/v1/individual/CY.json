@@ -1,0 +1,14 @@
+{
+  "id": "CY",
+  "iso2": "CY",
+  "name": "Cyprus",
+  "callingCode": "+357",
+  "callingCodeRoot": "357",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "22345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

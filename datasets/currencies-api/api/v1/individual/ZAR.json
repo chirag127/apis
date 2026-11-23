@@ -1,0 +1,12 @@
+{
+  "id": "ZAR",
+  "alpha3": "ZAR",
+  "numeric": "710",
+  "name": "Rand",
+  "minorUnits": 2,
+  "countries": [
+    "LESOTHO",
+    "NAMIBIA",
+    "SOUTH AFRICA"
+  ]
+}

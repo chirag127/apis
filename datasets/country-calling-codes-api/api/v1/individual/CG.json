@@ -1,0 +1,14 @@
+{
+  "id": "CG",
+  "iso2": "CG",
+  "name": "Congo - Brazzaville",
+  "callingCode": "+242",
+  "callingCodeRoot": "242",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "222123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

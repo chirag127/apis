@@ -1,0 +1,10 @@
+{
+  "id": "sinhala",
+  "name": "Sinhala",
+  "start": "U+0D80",
+  "end": "U+0DFF",
+  "startCode": 3456,
+  "endCode": 3583,
+  "size": 128,
+  "range": "U+0D80..U+0DFF"
+}

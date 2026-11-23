@@ -1,0 +1,10 @@
+{
+  "id": "rumi-numeral-symbols",
+  "name": "Rumi Numeral Symbols",
+  "start": "U+10E60",
+  "end": "U+10E7F",
+  "startCode": 69216,
+  "endCode": 69247,
+  "size": 32,
+  "range": "U+10E60..U+10E7F"
+}

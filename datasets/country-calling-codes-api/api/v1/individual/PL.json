@@ -1,0 +1,14 @@
+{
+  "id": "PL",
+  "iso2": "PL",
+  "name": "Poland",
+  "callingCode": "+48",
+  "callingCodeRoot": "48",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "123456789",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

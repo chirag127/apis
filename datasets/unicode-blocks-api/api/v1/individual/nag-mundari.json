@@ -1,0 +1,10 @@
+{
+  "id": "nag-mundari",
+  "name": "Nag Mundari",
+  "start": "U+1E4D0",
+  "end": "U+1E4FF",
+  "startCode": 124112,
+  "endCode": 124159,
+  "size": 48,
+  "range": "U+1E4D0..U+1E4FF"
+}

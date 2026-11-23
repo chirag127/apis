@@ -1,0 +1,10 @@
+{
+  "id": "yezidi",
+  "name": "Yezidi",
+  "start": "U+10E80",
+  "end": "U+10EBF",
+  "startCode": 69248,
+  "endCode": 69311,
+  "size": 64,
+  "range": "U+10E80..U+10EBF"
+}

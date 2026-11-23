@@ -1,0 +1,10 @@
+{
+  "id": "hangul-syllables",
+  "name": "Hangul Syllables",
+  "start": "U+AC00",
+  "end": "U+D7AF",
+  "startCode": 44032,
+  "endCode": 55215,
+  "size": 11184,
+  "range": "U+AC00..U+D7AF"
+}

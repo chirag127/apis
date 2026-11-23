@@ -1,0 +1,253 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Software Licences",
+    "description": "Every licence on the SPDX License List — 740 identifiers from `0BSD` to `ZPL-2.1`, 32 of them retired — with the OSI-approved and FSF-libre flags, the canonical reference URL and the URL of the full licence text.",
+    "version": "1.0.0",
+    "license": {
+      "name": "SPDX License List metadata; individual licence texts under their own terms"
+    },
+    "contact": {
+      "name": "Chirag Singhal",
+      "url": "https://github.com/chirag127",
+      "email": "chirag@oriz.in"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://chirag127.github.io/software-licenses-api",
+      "description": "GitHub Pages"
+    }
+  ],
+  "paths": {
+    "/api/v1/data.json": {
+      "get": {
+        "summary": "All 740 SPDX licences",
+        "operationId": "listData",
+        "responses": {
+          "200": {
+            "description": "JSON array of 740 records",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/SpdxLicense"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/individual/{id}.json": {
+      "get": {
+        "summary": "One record by id",
+        "operationId": "getRecord",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "description": "Record id"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "One record",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SpdxLicense"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "No record with that id"
+          }
+        }
+      }
+    },
+    "/api/v1/search-index.json": {
+      "get": {
+        "summary": "All records keyed by id",
+        "operationId": "getSearchIndex",
+        "responses": {
+          "200": {
+            "description": "Object with a byId map of every record",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "byId": {
+                      "type": "object",
+                      "additionalProperties": {
+                        "$ref": "#/components/schemas/SpdxLicense"
+                      }
+                    }
+                  },
+                  "required": [
+                    "byId"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/meta.json": {
+      "get": {
+        "summary": "Dataset metadata",
+        "operationId": "getMeta",
+        "responses": {
+          "200": {
+            "description": "Record count, source URLs, retrieval time",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "status": {
+                      "type": "string"
+                    },
+                    "lastUpdated": {
+                      "type": "string"
+                    },
+                    "sourceUpdatedAt": {
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    },
+                    "retrievedAt": {
+                      "type": "string"
+                    },
+                    "recordCount": {
+                      "type": "integer"
+                    },
+                    "version": {
+                      "type": "string"
+                    },
+                    "schemaVersion": {
+                      "type": "string"
+                    },
+                    "source": {
+                      "type": "string"
+                    },
+                    "sourceUrl": {
+                      "type": "string"
+                    },
+                    "license": {
+                      "type": "string"
+                    },
+                    "updateCadence": {
+                      "type": "string"
+                    },
+                    "nextUpdateDue": {
+                      "type": "string"
+                    },
+                    "lastFailedAt": {
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    },
+                    "failureReason": {
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "SpdxLicense": {
+        "type": "object",
+        "required": [
+          "id",
+          "name",
+          "deprecated",
+          "osiApproved",
+          "fsfLibre",
+          "reference",
+          "detailsUrl",
+          "textUrl",
+          "seeAlso"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "SPDX licence identifier",
+            "example": "Apache-2.0"
+          },
+          "name": {
+            "type": "string",
+            "description": "Full licence name as the SPDX list writes it",
+            "example": "Apache License 2.0"
+          },
+          "deprecated": {
+            "type": "boolean",
+            "description": "True for retired identifiers, which still resolve"
+          },
+          "osiApproved": {
+            "type": "boolean",
+            "description": "True when the Open Source Initiative approved the licence"
+          },
+          "fsfLibre": {
+            "type": "boolean",
+            "description": "True when the FSF records the licence as free/libre. SPDX omits the flag unless it is true, so false means not recorded, not proven non-free"
+          },
+          "referenceNumber": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "description": "Position in the SPDX list, as published",
+            "example": 359
+          },
+          "reference": {
+            "type": "string",
+            "description": "Canonical SPDX licence page",
+            "example": "https://spdx.org/licenses/Apache-2.0.html"
+          },
+          "detailsUrl": {
+            "type": "string",
+            "description": "SPDX JSON detail record",
+            "example": "https://spdx.org/licenses/Apache-2.0.json"
+          },
+          "textUrl": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Plain-text licence, null for the retired identifiers that no longer ship one",
+            "example": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Apache-2.0.txt"
+          },
+          "seeAlso": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Upstream URLs SPDX records for the licence"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

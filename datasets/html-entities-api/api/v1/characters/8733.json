@@ -1,0 +1,32 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8733
+  ],
+  "codepointsHex": [
+    "0x221D"
+  ],
+  "character": "∝",
+  "names": [
+    {
+      "name": "&Proportional;",
+      "legacy": false
+    },
+    {
+      "name": "&prop;",
+      "legacy": false
+    },
+    {
+      "name": "&propto;",
+      "legacy": false
+    },
+    {
+      "name": "&varpropto;",
+      "legacy": false
+    },
+    {
+      "name": "&vprop;",
+      "legacy": false
+    }
+  ]
+}

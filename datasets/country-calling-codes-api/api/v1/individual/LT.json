@@ -1,0 +1,14 @@
+{
+  "id": "LT",
+  "iso2": "LT",
+  "name": "Lithuania",
+  "callingCode": "+370",
+  "callingCodeRoot": "370",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": "[08]",
+  "exampleNumber": "31234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

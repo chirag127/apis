@@ -1,289 +1,90 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Chirag's Free JSON APIs — catalogue</title>
-<meta name="description" content="Free, static JSON APIs. No authentication, no server, no rate limit. The committed JSON is the database.">
-<style>
-  :root {
-    --bg: #0f1115; --panel: #171a21; --border: #262b36;
-    --fg: #e8eaf0; --dim: #98a0b3; --accent: #4da3ff;
-    --ok: #3fb950; --warn: #d29922; --err: #f85149;
-  }
-  * { box-sizing: border-box; }
-  body {
-    margin: 0; background: var(--bg); color: var(--fg);
-    font: 15px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    -webkit-font-smoothing: antialiased;
-  }
-  .wrap { max-width: 1080px; margin: 0 auto; padding: 0 22px; }
-
-  header { padding: 56px 0 28px; border-bottom: 1px solid var(--border); }
-  h1 { font-size: 34px; line-height: 1.15; margin: 0 0 10px; letter-spacing: -0.02em; }
-  .lede { font-size: 17px; color: var(--dim); max-width: 62ch; margin: 0 0 18px; }
-  .pills { display: flex; flex-wrap: wrap; gap: 8px; }
-  .pill {
-    font-size: 12.5px; padding: 5px 11px; border-radius: 999px;
-    background: var(--panel); border: 1px solid var(--border); color: var(--dim);
-  }
-  .pill b { color: var(--fg); font-weight: 650; }
-
-  .controls {
-    position: sticky; top: 0; z-index: 20; background: var(--bg);
-    padding: 18px 0; border-bottom: 1px solid var(--border);
-    display: flex; flex-wrap: wrap; gap: 10px; align-items: center;
-  }
-  #q {
-    flex: 1 1 260px; font: inherit; font-size: 15px; padding: 11px 14px;
-    border-radius: 11px; border: 1px solid var(--border);
-    background: var(--panel); color: var(--fg); outline: none;
-  }
-  #q:focus { border-color: var(--accent); }
-  .chip {
-    font: inherit; font-size: 13px; padding: 8px 13px; border-radius: 999px;
-    border: 1px solid var(--border); background: transparent; color: var(--dim);
-    cursor: pointer; transition: all .12s;
-  }
-  .chip:hover { color: var(--fg); border-color: var(--dim); }
-  .chip.on { background: var(--accent); border-color: var(--accent); color: #06121f; font-weight: 650; }
-
-  .count { font-size: 13px; color: var(--dim); padding: 14px 0 4px; }
-
-  .grid {
-    display: grid; grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
-    gap: 12px; padding: 12px 0 40px;
-  }
-  .card {
-    background: var(--panel); border: 1px solid var(--border); border-radius: 13px;
-    padding: 15px 16px; display: flex; flex-direction: column; gap: 9px;
-    transition: border-color .12s, transform .12s;
-  }
-  .card:hover { border-color: var(--dim); transform: translateY(-1px); }
-  .card h3 { margin: 0; font-size: 15.5px; letter-spacing: -0.01em; }
-  .card h3 a { color: var(--fg); text-decoration: none; }
-  .card h3 a:hover { color: var(--accent); }
-  .card .desc { font-size: 13px; color: var(--dim); margin: 0; flex: 1; }
-
-  .meta { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
-  .tag {
-    font-size: 11px; padding: 3px 8px; border-radius: 6px;
-    background: rgba(255,255,255,.05); color: var(--dim);
-  }
-  .status {
-    font-size: 11px; padding: 3px 8px; border-radius: 6px; font-weight: 600;
-    font-variant-numeric: tabular-nums;
-  }
-  .status.live { background: rgba(63,185,80,.15); color: var(--ok); }
-  .status.stub { background: rgba(210,153,34,.15); color: var(--warn); }
-  .status.dead { background: rgba(248,81,73,.15); color: var(--err); }
-  .status.checking { background: rgba(255,255,255,.06); color: var(--dim); }
-
-  .endpoint {
-    font: 11.5px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace;
-    color: var(--dim); background: rgba(0,0,0,.25);
-    padding: 6px 9px; border-radius: 7px; overflow-wrap: anywhere;
-  }
-
-  footer { border-top: 1px solid var(--border); padding: 44px 0 60px; margin-top: 20px; }
-  footer h2 { font-size: 20px; margin: 0 0 8px; letter-spacing: -0.01em; }
-  footer p { color: var(--dim); margin: 0 0 14px; max-width: 64ch; }
-  .links { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 18px; }
-  .links a {
-    font-size: 13px; padding: 8px 13px; border-radius: 9px; text-decoration: none;
-    border: 1px solid var(--border); color: var(--fg); transition: all .12s;
-  }
-  .links a:hover { border-color: var(--accent); color: var(--accent); }
-  .links a.primary { background: var(--accent); border-color: var(--accent); color: #06121f; font-weight: 650; }
-  .links a.primary:hover { opacity: .9; color: #06121f; }
-  .note { font-size: 12.5px; color: var(--dim); }
-
-  @media (max-width: 620px) {
-    h1 { font-size: 27px; }
-    .grid { grid-template-columns: 1fr; }
-  }
-</style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Free JSON APIs — one collection</title>
+  <meta name="description" content="70 consolidated static JSON APIs. Browse endpoints, inspect source snapshots, and check record counts directly in your browser.">
+  <style>
+    :root { --bg:#0f1115; --panel:#171a21; --border:#262b36; --fg:#e8eaf0; --dim:#98a0b3; --accent:#4da3ff; --ok:#3fb950; --warn:#d29922; --err:#f85149; --on-accent:#06121f; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--fg); font:15px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+    .wrap { max-width:1080px; margin:auto; padding:0 22px; }
+    header { padding:48px 0 26px; border-bottom:1px solid var(--border); }
+    h1 { font-size:34px; line-height:1.15; margin:0 0 14px; letter-spacing:-.02em; }
+    .lede { font-size:17px; color:var(--dim); max-width:65ch; }
+    a { color:var(--accent); text-underline-offset:3px; }
+    a:focus-visible, button:focus-visible, input:focus-visible { outline:2px solid var(--accent); outline-offset:4px; }
+    .pills { display:flex; flex-wrap:wrap; gap:8px; }
+    .pill { padding:5px 11px; border:1px solid var(--border); border-radius:999px; color:var(--dim); font-size:13px; }
+    .pill b { color:var(--fg); }
+    .controls { position:sticky; top:0; background:var(--bg); padding:18px 0; border-bottom:1px solid var(--border); display:flex; flex-wrap:wrap; gap:10px; align-items:center; z-index:1; }
+    .search { flex:1 1 100%; }
+    .search label { display:block; font-size:13px; color:var(--dim); margin-bottom:4px; }
+    #q { width:100%; font:inherit; padding:10px 14px; border:1px solid var(--border); border-radius:9px; background:var(--panel); color:var(--fg); }
+    .chip { font:inherit; font-size:13px; min-height:40px; padding:7px 13px; border-radius:999px; border:1px solid var(--border); background:transparent; color:var(--dim); cursor:pointer; }
+    .chip.on { background:var(--accent); color:var(--on-accent); border-color:var(--accent); font-weight:650; }
+    .count { color:var(--dim); font-size:13px; padding:14px 0 4px; }
+    .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(min(310px,100%),1fr)); gap:12px; padding:12px 0 32px; }
+    .card { min-width:0; background:var(--panel); border:1px solid var(--border); border-radius:12px; padding:16px; display:flex; flex-direction:column; gap:10px; }
+    .card h2 { margin:0; font-size:16px; overflow-wrap:anywhere; }
+    .card h2 a { color:var(--fg); }
+    .desc { font-size:13px; color:var(--dim); margin:0; flex:1; }
+    .meta { display:flex; flex-wrap:wrap; gap:8px; align-items:center; }
+    .status,.tag { font-size:12px; color:var(--dim); }
+    .status.live { color:var(--ok); }
+    .status.stub,.status.empty { color:var(--warn); }
+    .status.dead { color:var(--err); }
+    .endpoint { font:12px/1.5 ui-monospace,Consolas,monospace; overflow-wrap:anywhere; padding:8px; border:1px solid var(--border); border-radius:6px; }
+    .source { font-size:12px; }
+    footer { border-top:1px solid var(--border); padding:32px 0 48px; }
+    footer h2 { font-size:21px; margin:0 0 8px; }
+    footer p { max-width:65ch; color:var(--dim); }
+    .links { display:flex; flex-wrap:wrap; gap:12px; }
+    .links a { padding:6px 0; }
+    @media(max-width:620px) { h1 { font-size:28px; } .controls { position:static; } }
+  </style>
 </head>
 <body>
 <div class="wrap">
-
-<header>
-  <h1>Free JSON APIs</h1>
-  <p class="lede">
-    Static JSON endpoints for developers. No authentication, no server, no rate limit, no
-    telemetry. The committed JSON is the database, GitHub Pages serves it, and GitHub Actions
-    keeps it fresh. Everything is open source.
-  </p>
-  <div class="pills">
-    <span class="pill"><b id="n-total">–</b> APIs</span>
-    <span class="pill"><b id="n-live">–</b> with real data</span>
-    <span class="pill"><b id="n-auto">–</b> auto-updated</span>
-    <span class="pill"><b>$0</b> cost, forever</span>
-  </div>
-</header>
-
-<div class="controls">
-  <input id="q" type="search" placeholder="Search APIs — try pincode, emoji, http, india…" autocomplete="off">
-  <button class="chip on" data-filter="all">All</button>
-  <button class="chip" data-filter="live">Has data</button>
-  <button class="chip" data-filter="stub">Needs data</button>
-  <button class="chip" data-filter="india">India</button>
-  <button class="chip" data-filter="dev">Developer</button>
-  <button class="chip" data-filter="science">Science</button>
+  <header>
+    <h1>Free JSON APIs</h1>
+    <p class="lede">One repository. Seventy datasets and reference collections. Open an endpoint, inspect its source, or check its records directly in your browser.</p>
+    <p class="lede">No API key. Committed JSON served by GitHub Pages. Scaffold snapshots are labelled; a successful fetch does not certify accuracy or freshness.</p>
+    <div class="pills"><span class="pill"><b id="n-total">–</b> APIs</span><span class="pill"><b id="n-live">–</b> with records</span><span class="pill"><b id="n-stub">–</b> scaffolds</span></div>
+  </header>
+  <main>
+    <div class="controls" aria-label="Filter APIs">
+      <div class="search"><label for="q">Search APIs</label><input id="q" type="search" placeholder="Try pincode, emoji, HTTP or India" autocomplete="off"></div>
+      <button class="chip on" data-filter="all" aria-pressed="true">All</button>
+      <button class="chip" data-filter="live" aria-pressed="false">Has records</button>
+      <button class="chip" data-filter="stub" aria-pressed="false">Scaffolds</button>
+      <button class="chip" data-filter="dead" aria-pressed="false">Fetch failed</button>
+      <button class="chip" data-filter="india" aria-pressed="false">India</button>
+      <button class="chip" data-filter="dev" aria-pressed="false">Developer</button>
+      <button class="chip" data-filter="science" aria-pressed="false">Science</button>
+    </div>
+    <p class="count" id="count" role="status">Loading catalogue…</p>
+    <noscript>JavaScript is needed for search and live checks. <a href="catalogue.json">Download endpoint catalogue</a>.</noscript>
+    <div class="grid" id="grid"></div>
+  </main>
+  <footer class="hire-me">
+    <h2>Hire me</h2><p>Chirag Singhal — building free, open APIs and tools.</p>
+    <p>Code, contracts, preserved histories and refresh tools live in <a href="https://github.com/chirag127/apis">one repository</a>. Dataset licences and provenance remain alongside each source.</p>
+    <div class="links">
+      <a href="mailto:chirag@oriz.in">chirag@oriz.in</a>
+      <a href="https://github.com/chirag127">GitHub</a>
+      <a href="https://www.linkedin.com/in/chirag127/">LinkedIn</a>
+      <a href="https://x.com/singhal127">X</a>
+      <a href="https://www.youtube.com/@ChiragSinghal127">YouTube</a>
+      <a href="https://www.instagram.com/chiragsinghal127/">Instagram</a>
+      <a href="https://www.reddit.com/user/Far_Macaron_9910/">Reddit</a>
+      <a href="https://buymeacoffee.com/chirag127">Buy me a coffee</a>
+    </div>
+  </footer>
 </div>
-
-<div class="count" id="count">Loading catalogue…</div>
-<div class="grid" id="grid"></div>
-
-<footer>
-  <h2>About the author</h2>
-  <p>
-    <b>Chirag Singhal</b> — building free, open APIs and tools. Everything here is free: no
-    authentication, no rate limits, no telemetry, no upsell. The point is to give developers
-    data that should never have needed a credit card.
-  </p>
-  <p>
-    Each API is a repository with an OpenAPI contract, a JSON Schema, and where the data changes,
-    a GitHub Actions workflow that refreshes it. If one of these saves you an afternoon and you
-    want to work together, that is exactly what this page is for.
-  </p>
-  <div class="links">
-    <a class="primary" href="mailto:chirag@oriz.in">chirag@oriz.in</a>
-    <a href="https://github.com/chirag127">GitHub</a>
-    <a href="https://www.linkedin.com/in/chirag127/">LinkedIn</a>
-    <a href="https://x.com/singhal127">X</a>
-    <a href="https://www.youtube.com/@ChiragSinghal127">YouTube</a>
-    <a href="https://www.instagram.com/chiragsinghal127/">Instagram</a>
-    <a href="https://www.reddit.com/user/Far_Macaron_9910/">Reddit</a>
-    <a href="https://buymeacoffee.com/chirag127">Buy me a coffee</a>
-  </div>
-  <p class="note">
-    <b>Hiring?</b> I build developer tooling, data APIs and web platforms. Email me — I reply to
-    everything.
-  </p>
-</footer>
-
-</div>
-
 <script src="catalogue.js"></script>
-<script>
-// The catalogue is generated from the repo scan; the live status is measured in the browser.
-// Same-origin on chirag127.github.io/*, so fetch works without CORS.
-const APIS = window.__CATALOGUE__ || [];
-
-const CATS = {
-  india: ["india-", "ncert-", "jee-", "neet-", "upsc-", "gate-", "rbi-", "gst-", "tds-", "ipo-", "gsec-", "fii-", "cricket-ipl", "indian-", "income-tax", "mutual-fund", "reit-", "govt-", "savings-", "fd-rates"],
-  dev: ["http-", "html-", "css-", "json-", "regex-", "git-", "linux-", "sql-", "javascript-", "mime-", "file-", "software-", "crypto-", "unicode-", "http-status", "programming-", "keyboard-"],
-  science: ["periodic-", "physics-", "math-", "si-", "nav-", "chemistry-", "nutrition-", "amino-", "physical-", "constellation-"]
-};
-
-const grid = document.getElementById("grid");
-const countEl = document.getElementById("count");
-const qEl = document.getElementById("q");
-let activeFilter = "all";
-
-function categoryOf(name) {
-  for (const k in CATS) if (CATS[k].some((p) => name.startsWith(p))) return k;
-  return "other";
-}
-
-function esc(s) {
-  return String(s || "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
-}
-
-function render() {
-  const q = qEl.value.trim().toLowerCase();
-  const rows = APIS.filter((a) => {
-    if (activeFilter === "live" && !a.live) return false;
-    if (activeFilter === "stub" && a.live) return false;
-    if (activeFilter !== "all" && ["india", "dev", "science"].includes(activeFilter) && categoryOf(a.name) !== activeFilter) return false;
-    if (q && !(a.name + " " + a.desc).toLowerCase().includes(q)) return false;
-    return true;
-  });
-
-  countEl.textContent = rows.length + " of " + APIS.length + " APIs"
-    + (q ? ' matching "' + q + '"' : "")
-    + (activeFilter !== "all" ? " · filter: " + activeFilter : "");
-
-  grid.innerHTML = rows.map((a) => {
-    const url = "https://chirag127.github.io/" + a.name + "/api/v1/" + (a.path || "data.json");
-    const statusClass = a.status === "live" ? "live" : a.status === "checking" ? "checking" : "stub";
-    const statusText = a.status === "live"
-      ? a.records + " records"
-      : a.status === "checking" ? "checking…" : "needs data";
-    return (
-      '<div class="card">' +
-        '<h3><a href="https://github.com/chirag127/' + esc(a.name) + '">' + esc(a.name) + "</a></h3>" +
-        '<p class="desc">' + esc(a.desc || "Static JSON API") + "</p>" +
-        '<div class="meta">' +
-          '<span class="status ' + statusClass + '">' + statusText + "</span>" +
-          (a.auto ? '<span class="tag">auto-updated</span>' : "") +
-          '<span class="tag">' + esc(categoryOf(a.name)) + "</span>" +
-        "</div>" +
-        '<div class="endpoint">' + esc(url) + "</div>" +
-      "</div>"
-    );
-  }).join("");
-}
-
-// Live test: fetch each API and record the real record count.
-// Paths vary per repo (india-states serves states.json, not data.json), so probe
-// the known candidates and use the first that returns JSON. Bounded concurrency.
-const PROBE_PATHS = ["data.json", "index.json", "states.json", "elements.json", "compounds.json", "quotes.json", "emoji.json", "ports.json", "entities/index.json", "subdivisions.json", "countries.json", "tlds.json", "airports.json"];
-
-async function liveTest() {
-  const queue = APIS.slice();
-  const worker = async () => {
-    while (queue.length) {
-      const a = queue.shift();
-      // Probe every known path and take the LARGEST count — a repo may serve a small
-      // index at data.json while its real dataset lives at another path.
-      let best = 0;
-      let bestPath = "data.json";
-      let found = false;
-      // Some repos put data at the site root rather than under api/v1/ (fear-greed
-      // serves /data/latest.json), so probe both places.
-      const paths = PROBE_PATHS.concat(["../../data/latest.json", "../../data/index.json"]);
-      for (const p of paths) {
-        const url = "https://chirag127.github.io/" + a.name + "/api/v1/" + p;
-        try {
-          const r = await fetch(url, { cache: "no-store" });
-          if (!r.ok) continue;
-          const j = await r.json();
-          found = true;
-          const n = Array.isArray(j) ? j.length
-            : Array.isArray(j.data) ? j.data.length
-            : typeof j.count === "number" ? j.count
-            : Array.isArray(j.dates) ? j.dates.length
-            : Object.keys(j).length;
-          if (n > best) { best = n; bestPath = p; }
-        } catch (e) { /* not JSON, try the next */ }
-      }
-      a.records = best;
-      a.path = bestPath;
-      a.status = found && best > 2 ? "live" : "stub";
-    }
-  };
-  await Promise.all([worker(), worker(), worker(), worker()]);
-  const live = APIS.filter((a) => a.status === "live").length;
-  document.getElementById("n-total").textContent = APIS.length;
-  document.getElementById("n-live").textContent = live;
-  document.getElementById("n-auto").textContent = APIS.filter((a) => a.auto).length;
-  render();
-}
-
-qEl.addEventListener("input", render);
-document.querySelectorAll(".chip").forEach((c) => {
-  c.addEventListener("click", () => {
-    document.querySelectorAll(".chip").forEach((x) => x.classList.remove("on"));
-    c.classList.add("on");
-    activeFilter = c.dataset.filter;
-    render();
-  });
-});
-
-render();
-liveTest();
-</script>
+<script src="scripts/catalogue-client.js"></script>
+<script src="app.js"></script>
 </body>
 </html>

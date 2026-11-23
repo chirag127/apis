@@ -1,0 +1,14 @@
+{
+  "id": "CC0-1.0",
+  "name": "Creative Commons Zero v1.0 Universal",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": true,
+  "referenceNumber": 215,
+  "reference": "https://spdx.org/licenses/CC0-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/CC0-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC0-1.0.txt",
+  "seeAlso": [
+    "https://creativecommons.org/publicdomain/zero/1.0/legalcode"
+  ]
+}

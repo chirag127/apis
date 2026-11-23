@@ -1,0 +1,10 @@
+# Indian Parliamentary Constituencies
+
+Lok Sabha and Rajya Sabha constituency metadata
+
+- API: https://chirag127.github.io/india-parliament/data.json
+- OpenAPI: https://chirag127.github.io/india-parliament/openapi.json
+- Schema: https://chirag127.github.io/india-parliament/data/schema.json
+- License: CC-BY-4.0
+- Source: Election Commission open data
+- Status: india-parliament

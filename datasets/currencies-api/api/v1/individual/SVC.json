@@ -1,0 +1,10 @@
+{
+  "id": "SVC",
+  "alpha3": "SVC",
+  "numeric": "222",
+  "name": "El Salvador Colon",
+  "minorUnits": 2,
+  "countries": [
+    "EL SALVADOR"
+  ]
+}

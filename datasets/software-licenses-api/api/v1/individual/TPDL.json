@@ -1,0 +1,14 @@
+{
+  "id": "TPDL",
+  "name": "Time::ParseDate License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 673,
+  "reference": "https://spdx.org/licenses/TPDL.html",
+  "detailsUrl": "https://spdx.org/licenses/TPDL.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/TPDL.txt",
+  "seeAlso": [
+    "https://metacpan.org/pod/Time::ParseDate#LICENSE"
+  ]
+}

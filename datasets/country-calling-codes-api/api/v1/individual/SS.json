@@ -1,0 +1,14 @@
+{
+  "id": "SS",
+  "iso2": "SS",
+  "name": "South Sudan",
+  "callingCode": "+211",
+  "callingCodeRoot": "211",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "181234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

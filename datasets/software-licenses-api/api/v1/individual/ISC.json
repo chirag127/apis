@@ -1,0 +1,16 @@
+{
+  "id": "ISC",
+  "name": "ISC License",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 232,
+  "reference": "https://spdx.org/licenses/ISC.html",
+  "detailsUrl": "https://spdx.org/licenses/ISC.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/ISC.txt",
+  "seeAlso": [
+    "https://www.isc.org/licenses/",
+    "https://www.isc.org/downloads/software-support-policy/isc-license/",
+    "https://opensource.org/license/ISC"
+  ]
+}

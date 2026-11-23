@@ -1,0 +1,10 @@
+{
+  "id": "small-kana-extension",
+  "name": "Small Kana Extension",
+  "start": "U+1B130",
+  "end": "U+1B16F",
+  "startCode": 110896,
+  "endCode": 110959,
+  "size": 64,
+  "range": "U+1B130..U+1B16F"
+}

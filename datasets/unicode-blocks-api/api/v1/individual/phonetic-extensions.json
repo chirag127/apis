@@ -1,0 +1,10 @@
+{
+  "id": "phonetic-extensions",
+  "name": "Phonetic Extensions",
+  "start": "U+1D00",
+  "end": "U+1D7F",
+  "startCode": 7424,
+  "endCode": 7551,
+  "size": 128,
+  "range": "U+1D00..U+1D7F"
+}

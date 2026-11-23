@@ -1,0 +1,10 @@
+{
+  "id": "KES",
+  "alpha3": "KES",
+  "numeric": "404",
+  "name": "Kenyan Shilling",
+  "minorUnits": 2,
+  "countries": [
+    "KENYA"
+  ]
+}

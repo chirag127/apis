@@ -1,0 +1,14 @@
+{
+  "id": "BY",
+  "iso2": "BY",
+  "name": "Belarus",
+  "callingCode": "+375",
+  "callingCodeRoot": "375",
+  "internationalPrefix": "810",
+  "preferredInternationalPrefix": "8~10",
+  "nationalPrefix": "8",
+  "nationalPrefixForParsing": "0|80?",
+  "exampleNumber": "152450911",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

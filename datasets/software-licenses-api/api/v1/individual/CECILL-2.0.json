@@ -1,0 +1,14 @@
+{
+  "id": "CECILL-2.0",
+  "name": "CeCILL Free Software License Agreement v2.0",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": true,
+  "referenceNumber": 122,
+  "reference": "https://spdx.org/licenses/CECILL-2.0.html",
+  "detailsUrl": "https://spdx.org/licenses/CECILL-2.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CECILL-2.0.txt",
+  "seeAlso": [
+    "http://www.cecill.info/licences/Licence_CeCILL_V2-en.html"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "YER",
+  "alpha3": "YER",
+  "numeric": "886",
+  "name": "Yemeni Rial",
+  "minorUnits": 2,
+  "countries": [
+    "YEMEN"
+  ]
+}

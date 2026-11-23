@@ -1,0 +1,55 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Mobile Chipsets",
+    "description": "Snapdragon, MediaTek, Exynos chipsets with specs and benchmark scores",
+    "version": "1.0.0",
+    "license": {
+      "name": "CC-BY-4.0"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://chirag127.github.io/mobile-chipsets",
+      "description": "GitHub Pages"
+    }
+  ],
+  "paths": {
+    "/data.json": {
+      "get": {
+        "summary": "Mobile Chipsets data",
+        "description": "Snapdragon, MediaTek, Exynos chipsets with specs and benchmark scores",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/chipsets": {
+      "get": {
+        "summary": "Mobile Chipsets",
+        "description": "Snapdragon, MediaTek, Exynos chipsets with specs and benchmark scores",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

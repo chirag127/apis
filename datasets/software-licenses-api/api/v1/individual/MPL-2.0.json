@@ -1,0 +1,15 @@
+{
+  "id": "MPL-2.0",
+  "name": "Mozilla Public License 2.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 548,
+  "reference": "https://spdx.org/licenses/MPL-2.0.html",
+  "detailsUrl": "https://spdx.org/licenses/MPL-2.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MPL-2.0.txt",
+  "seeAlso": [
+    "https://www.mozilla.org/MPL/2.0/",
+    "https://opensource.org/license/MPL-2.0"
+  ]
+}

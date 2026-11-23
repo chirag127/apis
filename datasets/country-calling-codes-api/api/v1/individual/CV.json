@@ -1,0 +1,14 @@
+{
+  "id": "CV",
+  "iso2": "CV",
+  "name": "Cape Verde",
+  "callingCode": "+238",
+  "callingCodeRoot": "238",
+  "internationalPrefix": "0",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "2211234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

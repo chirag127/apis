@@ -1,0 +1,10 @@
+{
+  "id": "tangut-supplement",
+  "name": "Tangut Supplement",
+  "start": "U+18D00",
+  "end": "U+18D7F",
+  "startCode": 101632,
+  "endCode": 101759,
+  "size": 128,
+  "range": "U+18D00..U+18D7F"
+}

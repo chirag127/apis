@@ -1,0 +1,14 @@
+{
+  "id": "SH",
+  "iso2": "SH",
+  "name": "St. Helena, Ascension & Tristan da Cunha",
+  "callingCode": "+290",
+  "callingCodeRoot": "290",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "22158",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "seal",
+  "name": "Seal",
+  "start": "U+3D000",
+  "end": "U+3FC3F",
+  "startCode": 249856,
+  "endCode": 261183,
+  "size": 11328,
+  "range": "U+3D000..U+3FC3F"
+}

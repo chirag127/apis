@@ -1,0 +1,10 @@
+{
+  "id": "TRY",
+  "alpha3": "TRY",
+  "numeric": "949",
+  "name": "Turkish Lira",
+  "minorUnits": 2,
+  "countries": [
+    "TÜRKİYE"
+  ]
+}

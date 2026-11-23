@@ -1,0 +1,14 @@
+{
+  "id": "FSFAP-no-warranty-disclaimer",
+  "name": "FSF All Permissive License (without Warranty)",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 448,
+  "reference": "https://spdx.org/licenses/FSFAP-no-warranty-disclaimer.html",
+  "detailsUrl": "https://spdx.org/licenses/FSFAP-no-warranty-disclaimer.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/FSFAP-no-warranty-disclaimer.txt",
+  "seeAlso": [
+    "https://git.savannah.gnu.org/cgit/wget.git/tree/util/trunc.c?h=v1.21.3&id=40747a11e44ced5a8ac628a41f879ced3e2ebce9#n6"
+  ]
+}

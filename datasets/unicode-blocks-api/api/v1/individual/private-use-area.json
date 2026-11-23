@@ -1,0 +1,10 @@
+{
+  "id": "private-use-area",
+  "name": "Private Use Area",
+  "start": "U+E000",
+  "end": "U+F8FF",
+  "startCode": 57344,
+  "endCode": 63743,
+  "size": 6400,
+  "range": "U+E000..U+F8FF"
+}

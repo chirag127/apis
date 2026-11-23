@@ -1,0 +1,10 @@
+{
+  "id": "enclosed-ideographic-supplement",
+  "name": "Enclosed Ideographic Supplement",
+  "start": "U+1F200",
+  "end": "U+1F2FF",
+  "startCode": 127488,
+  "endCode": 127743,
+  "size": 256,
+  "range": "U+1F200..U+1F2FF"
+}

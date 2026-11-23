@@ -1,0 +1,150 @@
+openapi: 3.1.0
+info:
+  title: HTML Entities API
+  version: 1.0.0
+  description: >-
+    All 2,231 named character references from the WHATWG HTML Standard, served as
+    free static JSON from GitHub Pages. No authentication, no rate limit.
+  license:
+    name: MIT
+    identifier: MIT
+servers:
+  - url: https://chirag127.github.io/html-entities-api
+    description: GitHub Pages
+paths:
+  /api/v1/entities.json:
+    get:
+      summary: All named character references
+      description: Returns the complete dataset — 2,231 entities.
+      responses:
+        "200":
+          description: The full entity list.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/EntityCollection"
+  /api/v1/entities/index.json:
+    get:
+      summary: Name-to-codepoint index
+      description: >-
+        Maps every entity name (including case variants like `&AMP;` and `&amp;`)
+        to its codepoints and legacy flag. Use this for client-side lookups.
+      responses:
+        "200":
+          description: The index.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  generatedFrom:
+                    type: string
+                    format: uri
+                  count:
+                    type: integer
+                    const: 2231
+                  index:
+                    type: object
+                    additionalProperties:
+                      $ref: "#/components/schemas/EntityIndexEntry"
+  /api/v1/characters/{codepoint}:
+    get:
+      summary: One character by codepoint
+      description: >-
+        Returns a single character and every entity name that resolves to it.
+        1,511 files exist, one per distinct codepoint sequence.
+      parameters:
+        - name: codepoint
+          in: path
+          required: true
+          description: Decimal Unicode codepoint, e.g. `38` for `&`.
+          schema:
+            type: integer
+            minimum: 0
+            maximum: 1114111
+      responses:
+        "200":
+          description: The character record.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/CharacterRecord"
+        "404":
+          description: No entity maps to this codepoint.
+components:
+  schemas:
+    Entity:
+      type: object
+      properties:
+        name:
+          type: string
+          description: The reference as written in the spec, e.g. `&amp;`.
+          examples: ["&amp;", "&NotEqualTilde;"]
+        codepoints:
+          type: array
+          items:
+            type: integer
+          description: Decimal Unicode codepoints; multi-codepoint for sequences.
+          examples: [[38], [8770, 824]]
+        codepointsHex:
+          type: array
+          items:
+            type: string
+          description: The same codepoints as 4-digit uppercase hex.
+          examples: [["0x0026"], ["0x2242", "0x0338"]]
+        character:
+          type: string
+          description: The rendered character or sequence.
+          examples: ["&", "≂̸"]
+        legacy:
+          type: boolean
+          description: True when the reference has no trailing semicolon.
+    EntityCollection:
+      type: object
+      properties:
+        generatedFrom:
+          type: string
+          format: uri
+          examples: ["https://html.spec.whatwg.org/entities.json"]
+        count:
+          type: integer
+          const: 2231
+        entities:
+          type: array
+          items:
+            $ref: "#/components/schemas/Entity"
+    EntityIndexEntry:
+      type: object
+      properties:
+        codepoints:
+          type: array
+          items:
+            type: integer
+        legacy:
+          type: boolean
+    CharacterRecord:
+      type: object
+      properties:
+        generatedFrom:
+          type: string
+          format: uri
+        codepoints:
+          type: array
+          items:
+            type: integer
+        codepointsHex:
+          type: array
+          items:
+            type: string
+        character:
+          type: string
+        names:
+          type: array
+          description: Every entity name that resolves to this character.
+          items:
+            type: object
+            properties:
+              name:
+                type: string
+              legacy:
+                type: boolean

@@ -1,0 +1,24 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8642
+  ],
+  "codepointsHex": [
+    "0x21C2"
+  ],
+  "character": "⇂",
+  "names": [
+    {
+      "name": "&RightDownVector;",
+      "legacy": false
+    },
+    {
+      "name": "&dharr;",
+      "legacy": false
+    },
+    {
+      "name": "&downharpoonright;",
+      "legacy": false
+    }
+  ]
+}

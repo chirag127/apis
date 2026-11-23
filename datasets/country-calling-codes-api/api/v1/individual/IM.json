@@ -1,0 +1,14 @@
+{
+  "id": "IM",
+  "iso2": "IM",
+  "name": "Isle of Man",
+  "callingCode": "+44",
+  "callingCodeRoot": "44",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": "([25-8]\\d{5})$|0|180020",
+  "exampleNumber": "1624756789",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

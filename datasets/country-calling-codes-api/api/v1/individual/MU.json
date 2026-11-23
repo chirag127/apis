@@ -1,0 +1,14 @@
+{
+  "id": "MU",
+  "iso2": "MU",
+  "name": "Mauritius",
+  "callingCode": "+230",
+  "callingCodeRoot": "230",
+  "internationalPrefix": "0(?:0|[24-7]0|3[03])",
+  "preferredInternationalPrefix": "020",
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "54480123",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "JMD",
+  "alpha3": "JMD",
+  "numeric": "388",
+  "name": "Jamaican Dollar",
+  "minorUnits": 2,
+  "countries": [
+    "JAMAICA"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "GPL-2.0-with-font-exception",
+  "name": "GNU General Public License v2.0 w/Font exception",
+  "deprecated": true,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 375,
+  "reference": "https://spdx.org/licenses/GPL-2.0-with-font-exception.html",
+  "detailsUrl": "https://spdx.org/licenses/GPL-2.0-with-font-exception.json",
+  "textUrl": null,
+  "seeAlso": [
+    "https://www.gnu.org/licenses/gpl-faq.html#FontException"
+  ]
+}

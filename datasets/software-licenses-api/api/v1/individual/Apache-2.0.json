@@ -1,0 +1,15 @@
+{
+  "id": "Apache-2.0",
+  "name": "Apache License 2.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 55,
+  "reference": "https://spdx.org/licenses/Apache-2.0.html",
+  "detailsUrl": "https://spdx.org/licenses/Apache-2.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Apache-2.0.txt",
+  "seeAlso": [
+    "https://www.apache.org/licenses/LICENSE-2.0",
+    "https://opensource.org/license/apache-2.0"
+  ]
+}

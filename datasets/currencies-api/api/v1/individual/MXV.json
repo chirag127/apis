@@ -1,0 +1,10 @@
+{
+  "id": "MXV",
+  "alpha3": "MXV",
+  "numeric": "979",
+  "name": "Mexican Unidad de Inversion (UDI)",
+  "minorUnits": 2,
+  "countries": [
+    "MEXICO"
+  ]
+}

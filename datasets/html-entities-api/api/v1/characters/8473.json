@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8473
+  ],
+  "codepointsHex": [
+    "0x2119"
+  ],
+  "character": "ℙ",
+  "names": [
+    {
+      "name": "&Popf;",
+      "legacy": false
+    },
+    {
+      "name": "&primes;",
+      "legacy": false
+    }
+  ]
+}

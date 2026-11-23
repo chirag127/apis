@@ -1,0 +1,15 @@
+{
+  "id": "CAL-1.0",
+  "name": "Cryptographic Autonomy License 1.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 177,
+  "reference": "https://spdx.org/licenses/CAL-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/CAL-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CAL-1.0.txt",
+  "seeAlso": [
+    "http://cryptographicautonomylicense.com/license-text.html",
+    "https://opensource.org/license/CAL-1.0"
+  ]
+}

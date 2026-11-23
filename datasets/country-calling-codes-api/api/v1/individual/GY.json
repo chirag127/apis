@@ -1,0 +1,14 @@
+{
+  "id": "GY",
+  "iso2": "GY",
+  "name": "Guyana",
+  "callingCode": "+592",
+  "callingCodeRoot": "592",
+  "internationalPrefix": "001",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "2201234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

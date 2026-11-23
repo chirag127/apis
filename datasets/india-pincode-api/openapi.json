@@ -1,0 +1,73 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "India PIN Code Directory",
+    "description": "All 155000+ PIN codes with post office, district, state, and coordinates",
+    "version": "1.0.0",
+    "license": {
+      "name": "CC-BY-4.0"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://chirag127.github.io/india-pincode",
+      "description": "GitHub Pages"
+    }
+  ],
+  "paths": {
+    "/data.json": {
+      "get": {
+        "summary": "India PIN Code Directory data",
+        "description": "All 155000+ PIN codes with post office, district, state, and coordinates",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/pincodes": {
+      "get": {
+        "summary": "India PIN Code Directory",
+        "description": "All 155000+ PIN codes with post office, district, state, and coordinates",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/pincodes/{pin}": {
+      "get": {
+        "summary": "India PIN Code Directory",
+        "description": "All 155000+ PIN codes with post office, district, state, and coordinates",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

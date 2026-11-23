@@ -1,0 +1,10 @@
+{
+  "id": "AFN",
+  "alpha3": "AFN",
+  "numeric": "971",
+  "name": "Afghani",
+  "minorUnits": 2,
+  "countries": [
+    "AFGHANISTAN"
+  ]
+}

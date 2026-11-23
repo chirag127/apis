@@ -1,0 +1,14 @@
+{
+  "id": "001-979",
+  "iso2": "001",
+  "name": "Non-geographical entity",
+  "callingCode": "+979",
+  "callingCodeRoot": "979",
+  "internationalPrefix": null,
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "123456789",
+  "exampleNumberKind": "premiumRate",
+  "mobileNumberPortableRegion": false
+}

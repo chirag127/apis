@@ -1,0 +1,14 @@
+{
+  "id": "Watcom-1.0",
+  "name": "Sybase Open Watcom Public License 1.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 428,
+  "reference": "https://spdx.org/licenses/Watcom-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/Watcom-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Watcom-1.0.txt",
+  "seeAlso": [
+    "https://opensource.org/license/Watcom-1.0"
+  ]
+}

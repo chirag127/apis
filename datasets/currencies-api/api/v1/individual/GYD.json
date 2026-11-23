@@ -1,0 +1,10 @@
+{
+  "id": "GYD",
+  "alpha3": "GYD",
+  "numeric": "328",
+  "name": "Guyana Dollar",
+  "minorUnits": 2,
+  "countries": [
+    "GUYANA"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    213
+  ],
+  "codepointsHex": [
+    "0x00D5"
+  ],
+  "character": "Õ",
+  "names": [
+    {
+      "name": "&Otilde",
+      "legacy": true
+    },
+    {
+      "name": "&Otilde;",
+      "legacy": false
+    }
+  ]
+}

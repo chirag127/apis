@@ -1,0 +1,10 @@
+{
+  "id": "musical-symbols-supplement",
+  "name": "Musical Symbols Supplement",
+  "start": "U+1D250",
+  "end": "U+1D28F",
+  "startCode": 119376,
+  "endCode": 119439,
+  "size": 64,
+  "range": "U+1D250..U+1D28F"
+}

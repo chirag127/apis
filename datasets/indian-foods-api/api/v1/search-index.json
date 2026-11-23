@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "indian-foods": {
+      "id": "indian-foods",
+      "name": "Indian Foods",
+      "status": "scaffold",
+      "source": "Public nutrition data"
+    }
+  },
+  "searchableFields": []
+}

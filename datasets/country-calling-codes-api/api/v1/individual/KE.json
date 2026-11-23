@@ -1,0 +1,14 @@
+{
+  "id": "KE",
+  "iso2": "KE",
+  "name": "Kenya",
+  "callingCode": "+254",
+  "callingCodeRoot": "254",
+  "internationalPrefix": "000",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "202012345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

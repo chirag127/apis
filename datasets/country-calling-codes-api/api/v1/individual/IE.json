@@ -1,0 +1,14 @@
+{
+  "id": "IE",
+  "iso2": "IE",
+  "name": "Ireland",
+  "callingCode": "+353",
+  "callingCodeRoot": "353",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "2212345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

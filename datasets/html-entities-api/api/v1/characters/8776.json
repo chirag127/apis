@@ -1,0 +1,36 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8776
+  ],
+  "codepointsHex": [
+    "0x2248"
+  ],
+  "character": "≈",
+  "names": [
+    {
+      "name": "&TildeTilde;",
+      "legacy": false
+    },
+    {
+      "name": "&ap;",
+      "legacy": false
+    },
+    {
+      "name": "&approx;",
+      "legacy": false
+    },
+    {
+      "name": "&asymp;",
+      "legacy": false
+    },
+    {
+      "name": "&thickapprox;",
+      "legacy": false
+    },
+    {
+      "name": "&thkap;",
+      "legacy": false
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "AO",
+  "iso2": "AO",
+  "name": "Angola",
+  "callingCode": "+244",
+  "callingCodeRoot": "244",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "222123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "IRR",
+  "alpha3": "IRR",
+  "numeric": "364",
+  "name": "Iranian Rial",
+  "minorUnits": 2,
+  "countries": [
+    "IRAN (ISLAMIC REPUBLIC OF)"
+  ]
+}

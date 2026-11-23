@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "holiday-world": {
+      "id": "holiday-world",
+      "name": "World Holidays",
+      "status": "scaffold",
+      "source": "Public holiday calendars"
+    }
+  },
+  "searchableFields": []
+}

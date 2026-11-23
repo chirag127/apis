@@ -1,0 +1,10 @@
+{
+  "id": "unified-canadian-aboriginal-syllabics-extended",
+  "name": "Unified Canadian Aboriginal Syllabics Extended",
+  "start": "U+18B0",
+  "end": "U+18FF",
+  "startCode": 6320,
+  "endCode": 6399,
+  "size": 80,
+  "range": "U+18B0..U+18FF"
+}

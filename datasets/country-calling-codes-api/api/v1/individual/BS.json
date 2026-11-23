@@ -1,0 +1,14 @@
+{
+  "id": "BS",
+  "iso2": "BS",
+  "name": "Bahamas",
+  "callingCode": "+1",
+  "callingCodeRoot": "1",
+  "internationalPrefix": "011",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "1",
+  "nationalPrefixForParsing": "([3-8]\\d{6})$|1",
+  "exampleNumber": "2423456789",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

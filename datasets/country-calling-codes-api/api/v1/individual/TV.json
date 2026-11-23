@@ -1,0 +1,14 @@
+{
+  "id": "TV",
+  "iso2": "TV",
+  "name": "Tuvalu",
+  "callingCode": "+688",
+  "callingCodeRoot": "688",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "20123",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

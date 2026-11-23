@@ -1,0 +1,14 @@
+{
+  "id": "PW",
+  "iso2": "PW",
+  "name": "Palau",
+  "callingCode": "+680",
+  "callingCodeRoot": "680",
+  "internationalPrefix": "01[12]",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "2771234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "SOS",
+  "alpha3": "SOS",
+  "numeric": "706",
+  "name": "Somali Shilling",
+  "minorUnits": 2,
+  "countries": [
+    "SOMALIA"
+  ]
+}

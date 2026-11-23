@@ -1,0 +1,14 @@
+{
+  "id": "GI",
+  "iso2": "GI",
+  "name": "Gibraltar",
+  "callingCode": "+350",
+  "callingCodeRoot": "350",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "20012345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

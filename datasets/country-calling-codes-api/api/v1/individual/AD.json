@@ -1,0 +1,14 @@
+{
+  "id": "AD",
+  "iso2": "AD",
+  "name": "Andorra",
+  "callingCode": "+376",
+  "callingCodeRoot": "376",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "712345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

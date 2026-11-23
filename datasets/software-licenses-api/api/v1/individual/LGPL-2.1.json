@@ -1,0 +1,15 @@
+{
+  "id": "LGPL-2.1",
+  "name": "GNU Lesser General Public License v2.1 only",
+  "deprecated": true,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 389,
+  "reference": "https://spdx.org/licenses/LGPL-2.1.html",
+  "detailsUrl": "https://spdx.org/licenses/LGPL-2.1.json",
+  "textUrl": null,
+  "seeAlso": [
+    "https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
+    "https://opensource.org/license/LGPL-2.1"
+  ]
+}

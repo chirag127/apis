@@ -1,0 +1,29 @@
+{
+  "id": "Tl",
+  "atomicNumber": 81,
+  "symbol": "Tl",
+  "name": "Thallium",
+  "atomicMass": 204.38,
+  "category": "post-transition metal",
+  "block": "p",
+  "group": 13,
+  "period": 6,
+  "phase": "Solid",
+  "density": 11.85,
+  "meltingPoint": 577,
+  "boilingPoint": 1746,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p1",
+  "electronConfigurationSemantic": "[Xe] 4f14 5d10 6s2 6p1",
+  "electronegativity": 1.62,
+  "shells": [
+    2,
+    8,
+    18,
+    32,
+    18,
+    3
+  ],
+  "cpkHex": "a6544d",
+  "discoveredBy": "William Crookes",
+  "yearDiscovered": "1861"
+}

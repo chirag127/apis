@@ -1,0 +1,24 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8492
+  ],
+  "codepointsHex": [
+    "0x212C"
+  ],
+  "character": "ℬ",
+  "names": [
+    {
+      "name": "&Bernoullis;",
+      "legacy": false
+    },
+    {
+      "name": "&Bscr;",
+      "legacy": false
+    },
+    {
+      "name": "&bernou;",
+      "legacy": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "git-commands": {
+      "id": "git-commands",
+      "name": "Git Commands",
+      "status": "scaffold",
+      "source": "Git docs"
+    }
+  },
+  "searchableFields": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "RO",
+  "iso2": "RO",
+  "name": "Romania",
+  "callingCode": "+40",
+  "callingCodeRoot": "40",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "211234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

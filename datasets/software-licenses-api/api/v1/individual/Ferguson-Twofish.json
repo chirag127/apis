@@ -1,0 +1,14 @@
+{
+  "id": "Ferguson-Twofish",
+  "name": "Ferguson Twofish License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 493,
+  "reference": "https://spdx.org/licenses/Ferguson-Twofish.html",
+  "detailsUrl": "https://spdx.org/licenses/Ferguson-Twofish.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Ferguson-Twofish.txt",
+  "seeAlso": [
+    "https://github.com/wernerd/ZRTPCPP/blob/6b3cd8e6783642292bad0c21e3e5e5ce45ff3e03/cryptcommon/twofish.c#L113C3-L127"
+  ]
+}

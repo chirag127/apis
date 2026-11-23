@@ -1,0 +1,10 @@
+{
+  "id": "georgian-supplement",
+  "name": "Georgian Supplement",
+  "start": "U+2D00",
+  "end": "U+2D2F",
+  "startCode": 11520,
+  "endCode": 11567,
+  "size": 48,
+  "range": "U+2D00..U+2D2F"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cham",
+  "name": "Cham",
+  "start": "U+AA00",
+  "end": "U+AA5F",
+  "startCode": 43520,
+  "endCode": 43615,
+  "size": 96,
+  "range": "U+AA00..U+AA5F"
+}

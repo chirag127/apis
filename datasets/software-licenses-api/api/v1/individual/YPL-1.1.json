@@ -1,0 +1,14 @@
+{
+  "id": "YPL-1.1",
+  "name": "Yahoo! Public License v1.1",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": true,
+  "referenceNumber": 188,
+  "reference": "https://spdx.org/licenses/YPL-1.1.html",
+  "detailsUrl": "https://spdx.org/licenses/YPL-1.1.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/YPL-1.1.txt",
+  "seeAlso": [
+    "http://www.zimbra.com/license/yahoo_public_license_1.1.html"
+  ]
+}

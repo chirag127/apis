@@ -1,0 +1,6 @@
+{
+  "id": "gst-rates",
+  "name": "GST Rates",
+  "status": "scaffold",
+  "source": "CBIC public notification"
+}

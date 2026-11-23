@@ -1,0 +1,16 @@
+{
+  "id": "LiLiQ-P-1.1",
+  "name": "Licence Libre du Québec – Permissive version 1.1",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 460,
+  "reference": "https://spdx.org/licenses/LiLiQ-P-1.1.html",
+  "detailsUrl": "https://spdx.org/licenses/LiLiQ-P-1.1.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/LiLiQ-P-1.1.txt",
+  "seeAlso": [
+    "https://forge.gouv.qc.ca/licence/fr/liliq-v1-1/",
+    "http://opensource.org/license/LiLiQ-P-1.1",
+    "https://forge.gouv.qc.ca/licence/liliq-p/"
+  ]
+}

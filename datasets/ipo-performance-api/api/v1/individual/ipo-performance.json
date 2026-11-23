@@ -1,0 +1,6 @@
+{
+  "id": "ipo-performance",
+  "name": "IPO Performance History",
+  "status": "scaffold",
+  "source": "BSE/NSE public data"
+}

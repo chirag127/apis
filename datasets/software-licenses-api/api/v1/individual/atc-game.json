@@ -1,0 +1,14 @@
+{
+  "id": "atc-game",
+  "name": "atc Game License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 434,
+  "reference": "https://spdx.org/licenses/atc-game.html",
+  "detailsUrl": "https://spdx.org/licenses/atc-game.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/atc-game.txt",
+  "seeAlso": [
+    "https://github.com/vattam/BSDGames/blob/master/atc/extern.c#L36"
+  ]
+}

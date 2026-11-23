@@ -1,0 +1,10 @@
+{
+  "id": "MYR",
+  "alpha3": "MYR",
+  "numeric": "458",
+  "name": "Malaysian Ringgit",
+  "minorUnits": 2,
+  "countries": [
+    "MALAYSIA"
+  ]
+}

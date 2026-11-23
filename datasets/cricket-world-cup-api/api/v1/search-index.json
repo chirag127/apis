@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "cricket-world-cup": {
+      "id": "cricket-world-cup",
+      "name": "Cricket World Cup",
+      "status": "scaffold",
+      "source": "ICC public data"
+    }
+  },
+  "searchableFields": []
+}

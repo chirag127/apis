@@ -1,0 +1,10 @@
+{
+  "id": "arabic-mathematical-alphabetic-symbols",
+  "name": "Arabic Mathematical Alphabetic Symbols",
+  "start": "U+1EE00",
+  "end": "U+1EEFF",
+  "startCode": 126464,
+  "endCode": 126719,
+  "size": 256,
+  "range": "U+1EE00..U+1EEFF"
+}

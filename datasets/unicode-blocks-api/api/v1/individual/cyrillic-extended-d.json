@@ -1,0 +1,10 @@
+{
+  "id": "cyrillic-extended-d",
+  "name": "Cyrillic Extended-D",
+  "start": "U+1E030",
+  "end": "U+1E08F",
+  "startCode": 122928,
+  "endCode": 123023,
+  "size": 96,
+  "range": "U+1E030..U+1E08F"
+}

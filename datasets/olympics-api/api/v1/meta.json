@@ -1,0 +1,15 @@
+{
+  "status": "healthy",
+  "lastUpdated": "2026-08-25T13:59:38.549Z",
+  "sourceUpdatedAt": "2026-08-25T13:59:38.549Z",
+  "retrievedAt": "2026-08-25T13:59:38.549Z",
+  "recordCount": 1,
+  "version": "1.0.0",
+  "schemaVersion": "1.0.0",
+  "source": "IOC public data",
+  "license": "CC-BY-4.0",
+  "updateCadence": "event-based",
+  "nextUpdateDue": "2026-11-23T13:59:38.549Z",
+  "lastFailedAt": null,
+  "failureReason": null
+}

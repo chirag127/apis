@@ -1,0 +1,10 @@
+{
+  "id": "DZD",
+  "alpha3": "DZD",
+  "numeric": "012",
+  "name": "Algerian Dinar",
+  "minorUnits": 2,
+  "countries": [
+    "ALGERIA"
+  ]
+}

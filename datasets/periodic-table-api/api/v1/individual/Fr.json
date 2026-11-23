@@ -1,0 +1,30 @@
+{
+  "id": "Fr",
+  "atomicNumber": 87,
+  "symbol": "Fr",
+  "name": "Francium",
+  "atomicMass": 223,
+  "category": "alkali metal",
+  "block": "s",
+  "group": 1,
+  "period": 7,
+  "phase": "Solid",
+  "density": 1.87,
+  "meltingPoint": 300,
+  "boilingPoint": 950,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s1",
+  "electronConfigurationSemantic": "[Rn] 7s1",
+  "electronegativity": 0.79,
+  "shells": [
+    2,
+    8,
+    18,
+    32,
+    18,
+    8,
+    1
+  ],
+  "cpkHex": "420066",
+  "discoveredBy": "Marguerite Perey",
+  "yearDiscovered": "1939"
+}

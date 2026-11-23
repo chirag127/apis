@@ -1,0 +1,14 @@
+{
+  "id": "MulanPSL-2.0",
+  "name": "Mulan Permissive Software License, Version 2",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 346,
+  "reference": "https://spdx.org/licenses/MulanPSL-2.0.html",
+  "detailsUrl": "https://spdx.org/licenses/MulanPSL-2.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MulanPSL-2.0.txt",
+  "seeAlso": [
+    "https://license.coscl.org.cn/MulanPSL2"
+  ]
+}

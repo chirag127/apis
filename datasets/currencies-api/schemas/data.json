@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://chirag127.github.io/currencies/schemas/data.json",
+  "title": "World Currencies",
+  "description": "All ISO 4217 currencies with alpha-3 code, numeric code, minor unit and the territories that use them.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "alpha3",
+      "numeric",
+      "name",
+      "minorUnits",
+      "countries"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "description": "ISO 4217 alpha-3 code, used as the record id"
+      },
+      "alpha3": {
+        "type": "string",
+        "description": "ISO 4217 alphabetic code"
+      },
+      "numeric": {
+        "type": "string",
+        "description": "ISO 4217 numeric code, zero padded to three digits"
+      },
+      "name": {
+        "type": "string",
+        "description": "Currency name as registered"
+      },
+      "minorUnits": {
+        "type": "integer",
+        "description": "Decimal digits in the minor unit; null where the registry says N.A."
+      },
+      "countries": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "Territories listed against this currency in ISO 4217 list one"
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "FJD",
+  "alpha3": "FJD",
+  "numeric": "242",
+  "name": "Fiji Dollar",
+  "minorUnits": 2,
+  "countries": [
+    "FIJI"
+  ]
+}

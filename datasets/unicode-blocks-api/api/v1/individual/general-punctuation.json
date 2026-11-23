@@ -1,0 +1,10 @@
+{
+  "id": "general-punctuation",
+  "name": "General Punctuation",
+  "start": "U+2000",
+  "end": "U+206F",
+  "startCode": 8192,
+  "endCode": 8303,
+  "size": 112,
+  "range": "U+2000..U+206F"
+}

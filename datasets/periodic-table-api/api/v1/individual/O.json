@@ -1,0 +1,25 @@
+{
+  "id": "O",
+  "atomicNumber": 8,
+  "symbol": "O",
+  "name": "Oxygen",
+  "atomicMass": 15.999,
+  "category": "diatomic nonmetal",
+  "block": "p",
+  "group": 16,
+  "period": 2,
+  "phase": "Gas",
+  "density": 1.429,
+  "meltingPoint": 54.36,
+  "boilingPoint": 90.188,
+  "electronConfiguration": "1s2 2s2 2p4",
+  "electronConfigurationSemantic": "[He] 2s2 2p4",
+  "electronegativity": 3.44,
+  "shells": [
+    2,
+    6
+  ],
+  "cpkHex": "ff0d0d",
+  "discoveredBy": "Carl Wilhelm Scheele",
+  "yearDiscovered": "1774"
+}

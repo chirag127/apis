@@ -1,0 +1,10 @@
+{
+  "id": "makasar",
+  "name": "Makasar",
+  "start": "U+11EE0",
+  "end": "U+11EFF",
+  "startCode": 73440,
+  "endCode": 73471,
+  "size": 32,
+  "range": "U+11EE0..U+11EFF"
+}

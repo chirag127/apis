@@ -1,0 +1,14 @@
+{
+  "id": "IO",
+  "iso2": "IO",
+  "name": "British Indian Ocean Territory",
+  "callingCode": "+246",
+  "callingCodeRoot": "246",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "3709100",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

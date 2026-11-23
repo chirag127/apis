@@ -1,0 +1,57 @@
+name: Update chemistry data
+
+on:
+  schedule:
+    - cron: '0 3 1 * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: Force the update even when the source is unchanged
+        required: false
+        default: 'false'
+
+concurrency:
+  group: update-chemistry-formulas-api
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - name: Fetch PubChem data
+        run: python scraper/fetch.py
+      - name: Build endpoints
+        run: python scripts/build_api.py
+      - name: Test and validate
+        run: |
+          python -m pytest -q
+          python scripts/validate.py
+      - name: Commit changed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data api schemas
+          if git diff --cached --quiet; then
+            echo "No data changes"
+            exit 0
+          fi
+          git commit -m "data: refresh chemistry formulas from PubChem"
+          git push
+      - name: Create issue on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = `Chemistry data update failed: ${new Date().toISOString()}`;
+            const body = `The PubChem fetch, build, or validation failed. Last known good data was retained.\n\nRun: ${context.runId}`;
+            github.rest.issues.create({ owner: context.repo.owner, repo: context.repo.repo, title, body });

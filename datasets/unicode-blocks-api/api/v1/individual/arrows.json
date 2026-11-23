@@ -1,0 +1,10 @@
+{
+  "id": "arrows",
+  "name": "Arrows",
+  "start": "U+2190",
+  "end": "U+21FF",
+  "startCode": 8592,
+  "endCode": 8703,
+  "size": 112,
+  "range": "U+2190..U+21FF"
+}

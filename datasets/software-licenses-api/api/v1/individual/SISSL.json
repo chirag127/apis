@@ -1,0 +1,15 @@
+{
+  "id": "SISSL",
+  "name": "Sun Industry Standards Source License v1.1",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 277,
+  "reference": "https://spdx.org/licenses/SISSL.html",
+  "detailsUrl": "https://spdx.org/licenses/SISSL.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/SISSL.txt",
+  "seeAlso": [
+    "http://www.openoffice.org/licenses/sissl_license.html",
+    "https://opensource.org/license/SISSL"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "SCR",
+  "alpha3": "SCR",
+  "numeric": "690",
+  "name": "Seychelles Rupee",
+  "minorUnits": 2,
+  "countries": [
+    "SEYCHELLES"
+  ]
+}

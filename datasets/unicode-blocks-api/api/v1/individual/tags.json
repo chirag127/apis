@@ -1,0 +1,10 @@
+{
+  "id": "tags",
+  "name": "Tags",
+  "start": "U+E0000",
+  "end": "U+E007F",
+  "startCode": 917504,
+  "endCode": 917631,
+  "size": 128,
+  "range": "U+E0000..U+E007F"
+}

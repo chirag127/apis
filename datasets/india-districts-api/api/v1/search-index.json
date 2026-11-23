@@ -1,0 +1,17 @@
+{
+  "byId": {
+    "IN-AP-AN": {
+      "id": "IN-AP-AN",
+      "name": "Anantapur",
+      "state": "Andhra Pradesh",
+      "status": "pilot-fixture"
+    },
+    "IN-MH-PU": {
+      "id": "IN-MH-PU",
+      "name": "Pune",
+      "state": "Maharashtra",
+      "status": "pilot-fixture"
+    }
+  },
+  "searchableFields": []
+}

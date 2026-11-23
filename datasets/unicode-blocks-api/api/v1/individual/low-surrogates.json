@@ -1,0 +1,10 @@
+{
+  "id": "low-surrogates",
+  "name": "Low Surrogates",
+  "start": "U+DC00",
+  "end": "U+DFFF",
+  "startCode": 56320,
+  "endCode": 57343,
+  "size": 1024,
+  "range": "U+DC00..U+DFFF"
+}

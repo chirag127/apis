@@ -1,0 +1,10 @@
+{
+  "id": "old-hungarian",
+  "name": "Old Hungarian",
+  "start": "U+10C80",
+  "end": "U+10CFF",
+  "startCode": 68736,
+  "endCode": 68863,
+  "size": 128,
+  "range": "U+10C80..U+10CFF"
+}

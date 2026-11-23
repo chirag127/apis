@@ -1,0 +1,14 @@
+{
+  "id": "TM",
+  "iso2": "TM",
+  "name": "Turkmenistan",
+  "callingCode": "+993",
+  "callingCodeRoot": "993",
+  "internationalPrefix": "810",
+  "preferredInternationalPrefix": "8~10",
+  "nationalPrefix": "8",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "12345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

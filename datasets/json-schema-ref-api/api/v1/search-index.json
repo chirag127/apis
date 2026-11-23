@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "json-schema-ref": {
+      "id": "json-schema-ref",
+      "name": "JSON Schema Keywords",
+      "status": "scaffold",
+      "source": "json-schema.org"
+    }
+  },
+  "searchableFields": []
+}

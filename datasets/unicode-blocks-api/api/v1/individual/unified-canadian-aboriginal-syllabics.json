@@ -1,0 +1,10 @@
+{
+  "id": "unified-canadian-aboriginal-syllabics",
+  "name": "Unified Canadian Aboriginal Syllabics",
+  "start": "U+1400",
+  "end": "U+167F",
+  "startCode": 5120,
+  "endCode": 5759,
+  "size": 640,
+  "range": "U+1400..U+167F"
+}

@@ -1,0 +1,15 @@
+{
+  "status": "healthy",
+  "lastUpdated": "2026-08-25T13:59:38.576Z",
+  "sourceUpdatedAt": "2026-08-25T13:59:38.576Z",
+  "retrievedAt": "2026-08-25T13:59:38.576Z",
+  "recordCount": 1,
+  "version": "1.0.0",
+  "schemaVersion": "1.0.0",
+  "source": "India.gov.in",
+  "license": "CC-BY-4.0",
+  "updateCadence": "yearly",
+  "nextUpdateDue": "2026-11-23T13:59:38.576Z",
+  "lastFailedAt": null,
+  "failureReason": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": "001-882",
+  "iso2": "001",
+  "name": "Non-geographical entity",
+  "callingCode": "+882",
+  "callingCodeRoot": "882",
+  "internationalPrefix": null,
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "3421234",
+  "exampleNumberKind": "mobile",
+  "mobileNumberPortableRegion": false
+}

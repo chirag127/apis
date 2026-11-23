@@ -1,0 +1,29 @@
+{
+  "id": "Po",
+  "atomicNumber": 84,
+  "symbol": "Po",
+  "name": "Polonium",
+  "atomicMass": 209,
+  "category": "post-transition metal",
+  "block": "p",
+  "group": 16,
+  "period": 6,
+  "phase": "Solid",
+  "density": 9.196,
+  "meltingPoint": 527,
+  "boilingPoint": 1235,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p4",
+  "electronConfigurationSemantic": "[Xe] 4f14 5d10 6s2 6p4",
+  "electronegativity": 2,
+  "shells": [
+    2,
+    8,
+    18,
+    32,
+    18,
+    6
+  ],
+  "cpkHex": "ab5c00",
+  "discoveredBy": "Pierre Curie",
+  "yearDiscovered": "1898"
+}

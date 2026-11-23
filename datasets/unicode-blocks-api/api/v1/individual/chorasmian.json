@@ -1,0 +1,10 @@
+{
+  "id": "chorasmian",
+  "name": "Chorasmian",
+  "start": "U+10FB0",
+  "end": "U+10FDF",
+  "startCode": 69552,
+  "endCode": 69599,
+  "size": 48,
+  "range": "U+10FB0..U+10FDF"
+}

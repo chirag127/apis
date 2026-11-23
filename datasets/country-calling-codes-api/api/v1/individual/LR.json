@@ -1,0 +1,14 @@
+{
+  "id": "LR",
+  "iso2": "LR",
+  "name": "Liberia",
+  "callingCode": "+231",
+  "callingCodeRoot": "231",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "21234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

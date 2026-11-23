@@ -1,0 +1,14 @@
+{
+  "id": "MC",
+  "iso2": "MC",
+  "name": "Monaco",
+  "callingCode": "+377",
+  "callingCodeRoot": "377",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "99123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

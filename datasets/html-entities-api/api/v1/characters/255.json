@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    255
+  ],
+  "codepointsHex": [
+    "0x00FF"
+  ],
+  "character": "ÿ",
+  "names": [
+    {
+      "name": "&yuml",
+      "legacy": true
+    },
+    {
+      "name": "&yuml;",
+      "legacy": false
+    }
+  ]
+}

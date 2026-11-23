@@ -1,0 +1,6 @@
+{
+  "id": "countries",
+  "name": "Countries of the World",
+  "status": "scaffold",
+  "source": "REST Countries / public data"
+}

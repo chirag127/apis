@@ -1,0 +1,14 @@
+{
+  "id": "FM",
+  "iso2": "FM",
+  "name": "Micronesia",
+  "callingCode": "+691",
+  "callingCodeRoot": "691",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "3201234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

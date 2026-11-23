@@ -1,0 +1,16 @@
+[
+  {
+    "id": "110001",
+    "name": "New Delhi GPO",
+    "district": "New Delhi",
+    "state": "Delhi",
+    "status": "pilot-fixture"
+  },
+  {
+    "id": "400001",
+    "name": "Mumbai GPO",
+    "district": "Mumbai",
+    "state": "Maharashtra",
+    "status": "pilot-fixture"
+  }
+]

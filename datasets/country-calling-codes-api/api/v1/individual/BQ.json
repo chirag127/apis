@@ -1,0 +1,14 @@
+{
+  "id": "BQ",
+  "iso2": "BQ",
+  "name": "Caribbean Netherlands",
+  "callingCode": "+599",
+  "callingCodeRoot": "599",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "7151234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "combining-diacritical-marks-supplement",
+  "name": "Combining Diacritical Marks Supplement",
+  "start": "U+1DC0",
+  "end": "U+1DFF",
+  "startCode": 7616,
+  "endCode": 7679,
+  "size": 64,
+  "range": "U+1DC0..U+1DFF"
+}

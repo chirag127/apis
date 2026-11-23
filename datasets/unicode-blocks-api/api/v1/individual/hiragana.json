@@ -1,0 +1,10 @@
+{
+  "id": "hiragana",
+  "name": "Hiragana",
+  "start": "U+3040",
+  "end": "U+309F",
+  "startCode": 12352,
+  "endCode": 12447,
+  "size": 96,
+  "range": "U+3040..U+309F"
+}

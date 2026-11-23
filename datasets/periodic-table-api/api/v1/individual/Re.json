@@ -1,0 +1,29 @@
+{
+  "id": "Re",
+  "atomicNumber": 75,
+  "symbol": "Re",
+  "name": "Rhenium",
+  "atomicMass": 186.2071,
+  "category": "transition metal",
+  "block": "d",
+  "group": 7,
+  "period": 6,
+  "phase": "Solid",
+  "density": 21.02,
+  "meltingPoint": 3459,
+  "boilingPoint": 5869,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d5",
+  "electronConfigurationSemantic": "[Xe] 4f14 5d5 6s2",
+  "electronegativity": 1.9,
+  "shells": [
+    2,
+    8,
+    18,
+    32,
+    13,
+    2
+  ],
+  "cpkHex": "267dab",
+  "discoveredBy": "Masataka Ogawa",
+  "yearDiscovered": "1925"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "MUR",
+  "alpha3": "MUR",
+  "numeric": "480",
+  "name": "Mauritius Rupee",
+  "minorUnits": 2,
+  "countries": [
+    "MAURITIUS"
+  ]
+}

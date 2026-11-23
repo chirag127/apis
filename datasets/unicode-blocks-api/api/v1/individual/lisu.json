@@ -1,0 +1,10 @@
+{
+  "id": "lisu",
+  "name": "Lisu",
+  "start": "U+A4D0",
+  "end": "U+A4FF",
+  "startCode": 42192,
+  "endCode": 42239,
+  "size": 48,
+  "range": "U+A4D0..U+A4FF"
+}

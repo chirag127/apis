@@ -1,0 +1,10 @@
+{
+  "id": "cjk-radicals-supplement",
+  "name": "CJK Radicals Supplement",
+  "start": "U+2E80",
+  "end": "U+2EFF",
+  "startCode": 11904,
+  "endCode": 12031,
+  "size": 128,
+  "range": "U+2E80..U+2EFF"
+}

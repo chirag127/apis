@@ -1,0 +1,14 @@
+{
+  "id": "NC",
+  "iso2": "NC",
+  "name": "New Caledonia",
+  "callingCode": "+687",
+  "callingCodeRoot": "687",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "201234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "supplemental-arrows-c",
+  "name": "Supplemental Arrows-C",
+  "start": "U+1F800",
+  "end": "U+1F8FF",
+  "startCode": 129024,
+  "endCode": 129279,
+  "size": 256,
+  "range": "U+1F800..U+1F8FF"
+}

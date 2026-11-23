@@ -1,0 +1,14 @@
+{
+  "id": "SPL-1.0",
+  "name": "Sun Public License v1.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 66,
+  "reference": "https://spdx.org/licenses/SPL-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/SPL-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/SPL-1.0.txt",
+  "seeAlso": [
+    "https://opensource.org/license/SPL-1.0"
+  ]
+}

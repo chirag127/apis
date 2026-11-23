@@ -1,0 +1,29 @@
+{
+  "id": "Gd",
+  "atomicNumber": 64,
+  "symbol": "Gd",
+  "name": "Gadolinium",
+  "atomicMass": 157.253,
+  "category": "lanthanide",
+  "block": "f",
+  "group": 3,
+  "period": 6,
+  "phase": "Solid",
+  "density": 7.9,
+  "meltingPoint": 1585,
+  "boilingPoint": 3273,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f7 5d1",
+  "electronConfigurationSemantic": "[Xe] 4f7 5d1 6s2",
+  "electronegativity": 1.2,
+  "shells": [
+    2,
+    8,
+    18,
+    25,
+    9,
+    2
+  ],
+  "cpkHex": "45ffc7",
+  "discoveredBy": "Jean Charles Galissard de Marignac",
+  "yearDiscovered": "1880"
+}

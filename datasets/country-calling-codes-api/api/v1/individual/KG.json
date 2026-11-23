@@ -1,0 +1,14 @@
+{
+  "id": "KG",
+  "iso2": "KG",
+  "name": "Kyrgyzstan",
+  "callingCode": "+996",
+  "callingCodeRoot": "996",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "312123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

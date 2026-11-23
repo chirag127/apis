@@ -1,0 +1,10 @@
+{
+  "id": "GIP",
+  "alpha3": "GIP",
+  "numeric": "292",
+  "name": "Gibraltar Pound",
+  "minorUnits": 2,
+  "countries": [
+    "GIBRALTAR"
+  ]
+}

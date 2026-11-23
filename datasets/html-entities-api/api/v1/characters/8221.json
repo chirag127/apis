@@ -1,0 +1,24 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8221
+  ],
+  "codepointsHex": [
+    "0x201D"
+  ],
+  "character": "”",
+  "names": [
+    {
+      "name": "&CloseCurlyDoubleQuote;",
+      "legacy": false
+    },
+    {
+      "name": "&rdquo;",
+      "legacy": false
+    },
+    {
+      "name": "&rdquor;",
+      "legacy": false
+    }
+  ]
+}

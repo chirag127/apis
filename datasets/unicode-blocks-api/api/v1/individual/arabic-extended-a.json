@@ -1,0 +1,10 @@
+{
+  "id": "arabic-extended-a",
+  "name": "Arabic Extended-A",
+  "start": "U+08A0",
+  "end": "U+08FF",
+  "startCode": 2208,
+  "endCode": 2303,
+  "size": 96,
+  "range": "U+08A0..U+08FF"
+}

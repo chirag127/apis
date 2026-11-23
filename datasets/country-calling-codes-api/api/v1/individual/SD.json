@@ -1,0 +1,14 @@
+{
+  "id": "SD",
+  "iso2": "SD",
+  "name": "Sudan",
+  "callingCode": "+249",
+  "callingCodeRoot": "249",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "153123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

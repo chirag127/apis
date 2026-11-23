@@ -1,0 +1,10 @@
+{
+  "id": "BRL",
+  "alpha3": "BRL",
+  "numeric": "986",
+  "name": "Brazilian Real",
+  "minorUnits": 2,
+  "countries": [
+    "BRAZIL"
+  ]
+}

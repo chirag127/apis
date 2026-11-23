@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    214
+  ],
+  "codepointsHex": [
+    "0x00D6"
+  ],
+  "character": "Ö",
+  "names": [
+    {
+      "name": "&Ouml",
+      "legacy": true
+    },
+    {
+      "name": "&Ouml;",
+      "legacy": false
+    }
+  ]
+}

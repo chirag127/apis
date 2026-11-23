@@ -1,0 +1,91 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "NCERT Textbooks",
+    "description": "Complete NCERT book metadata from Class 1-12 across all subjects",
+    "version": "1.0.0",
+    "license": {
+      "name": "CC-BY-4.0"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://chirag127.github.io/ncert-books",
+      "description": "GitHub Pages"
+    }
+  ],
+  "paths": {
+    "/data.json": {
+      "get": {
+        "summary": "NCERT Textbooks data",
+        "description": "Complete NCERT book metadata from Class 1-12 across all subjects",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/books": {
+      "get": {
+        "summary": "NCERT Textbooks",
+        "description": "Complete NCERT book metadata from Class 1-12 across all subjects",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/books/{class}": {
+      "get": {
+        "summary": "NCERT Textbooks",
+        "description": "Complete NCERT book metadata from Class 1-12 across all subjects",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/books/{class}/{subject}": {
+      "get": {
+        "summary": "NCERT Textbooks",
+        "description": "Complete NCERT book metadata from Class 1-12 across all subjects",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

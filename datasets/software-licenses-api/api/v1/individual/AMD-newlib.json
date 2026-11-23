@@ -1,0 +1,14 @@
+{
+  "id": "AMD-newlib",
+  "name": "AMD newlib License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 405,
+  "reference": "https://spdx.org/licenses/AMD-newlib.html",
+  "detailsUrl": "https://spdx.org/licenses/AMD-newlib.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/AMD-newlib.txt",
+  "seeAlso": [
+    "https://sourceware.org/git/?p=newlib-cygwin.git;a=blob;f=newlib/libc/sys/a29khif/_close.S;h=04f52ae00de1dafbd9055ad8d73c5c697a3aae7f;hb=HEAD"
+  ]
+}

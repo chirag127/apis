@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "india-railway-stations": {
+      "id": "india-railway-stations",
+      "name": "Indian Railway Stations",
+      "status": "scaffold",
+      "source": "IRCTC / RailYatri open data"
+    }
+  },
+  "searchableFields": []
+}

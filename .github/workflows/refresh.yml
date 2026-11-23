@@ -1,0 +1,71 @@
+name: Refresh datasets
+
+on:
+  workflow_dispatch:
+    inputs:
+      source:
+        description: Exact dataset name, all, or due (unsupported fetchers are reported)
+        required: true
+        default: due
+        type: string
+  schedule:
+    # Dispatch daily; the audited recipe keeps Monday, monthly or quarterly cadence.
+    - cron: '17 7 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: datasets-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.repository == 'chirag127/apis' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements-build.txt
+      - name: Refresh isolated datasets
+        env:
+          SOURCE: ${{ inputs.source || 'due' }}
+        run: node scripts/refresh.mjs --source "$SOURCE" --report "$RUNNER_TEMP/refresh-report.json" --pathspec "$RUNNER_TEMP/refresh-paths"
+      - name: Test and build before publication
+        run: |
+          node --test tests/*.test.mjs
+          node scripts/build.mjs
+      - name: Commit only validated generated paths
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ ! -s "$RUNNER_TEMP/refresh-paths" ]; then
+            echo 'No validated data changed.'
+            exit 0
+          fi
+          git --literal-pathspecs add --pathspec-from-file="$RUNNER_TEMP/refresh-paths" --pathspec-file-nul
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'data: refresh validated API datasets'
+          git -c 'credential.helper=!gh auth git-credential' push origin HEAD:main
+      - name: Retain refresh outcome
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: refresh-report
+          path: ${{ runner.temp }}/refresh-report.json
+          if-no-files-found: warn
+          retention-days: 14
+
+# Deploy workflow must listen to workflow_run for "Refresh datasets" success,
+# checking out main: pushes authenticated with GITHUB_TOKEN do not trigger push workflows.

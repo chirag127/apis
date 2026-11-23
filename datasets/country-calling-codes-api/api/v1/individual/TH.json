@@ -1,0 +1,14 @@
+{
+  "id": "TH",
+  "iso2": "TH",
+  "name": "Thailand",
+  "callingCode": "+66",
+  "callingCodeRoot": "66",
+  "internationalPrefix": "00[1-9]",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "21234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

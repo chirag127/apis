@@ -1,0 +1,10 @@
+{
+  "id": "avestan",
+  "name": "Avestan",
+  "start": "U+10B00",
+  "end": "U+10B3F",
+  "startCode": 68352,
+  "endCode": 68415,
+  "size": 64,
+  "range": "U+10B00..U+10B3F"
+}

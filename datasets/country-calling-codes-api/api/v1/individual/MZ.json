@@ -1,0 +1,14 @@
+{
+  "id": "MZ",
+  "iso2": "MZ",
+  "name": "Mozambique",
+  "callingCode": "+258",
+  "callingCodeRoot": "258",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "21123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

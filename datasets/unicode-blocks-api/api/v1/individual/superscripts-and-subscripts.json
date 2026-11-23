@@ -1,0 +1,10 @@
+{
+  "id": "superscripts-and-subscripts",
+  "name": "Superscripts and Subscripts",
+  "start": "U+2070",
+  "end": "U+209F",
+  "startCode": 8304,
+  "endCode": 8351,
+  "size": 48,
+  "range": "U+2070..U+209F"
+}

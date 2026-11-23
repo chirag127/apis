@@ -1,0 +1,14 @@
+{
+  "id": "SOFA",
+  "name": "SOFA Software License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 190,
+  "reference": "https://spdx.org/licenses/SOFA.html",
+  "detailsUrl": "https://spdx.org/licenses/SOFA.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/SOFA.txt",
+  "seeAlso": [
+    "http://www.iausofa.org/tandc.html"
+  ]
+}

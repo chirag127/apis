@@ -1,0 +1,14 @@
+{
+  "id": "IPL-1.0",
+  "name": "IBM Public License v1.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 321,
+  "reference": "https://spdx.org/licenses/IPL-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/IPL-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/IPL-1.0.txt",
+  "seeAlso": [
+    "https://opensource.org/license/IPL-1.0"
+  ]
+}

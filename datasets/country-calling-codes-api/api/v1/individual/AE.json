@@ -1,0 +1,14 @@
+{
+  "id": "AE",
+  "iso2": "AE",
+  "name": "United Arab Emirates",
+  "callingCode": "+971",
+  "callingCodeRoot": "971",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "22345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

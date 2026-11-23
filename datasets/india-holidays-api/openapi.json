@@ -1,0 +1,73 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "India Public Holidays",
+    "description": "Gazetted holidays, restricted holidays, and bank holidays for current and future years",
+    "version": "1.0.0",
+    "license": {
+      "name": "public-domain"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://chirag127.github.io/india-holidays",
+      "description": "GitHub Pages"
+    }
+  ],
+  "paths": {
+    "/data.json": {
+      "get": {
+        "summary": "India Public Holidays data",
+        "description": "Gazetted holidays, restricted holidays, and bank holidays for current and future years",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/holidays/{year}": {
+      "get": {
+        "summary": "India Public Holidays",
+        "description": "Gazetted holidays, restricted holidays, and bank holidays for current and future years",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/holidays/current": {
+      "get": {
+        "summary": "India Public Holidays",
+        "description": "Gazetted holidays, restricted holidays, and bank holidays for current and future years",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "SYP",
+  "alpha3": "SYP",
+  "numeric": "760",
+  "name": "Syrian Pound",
+  "minorUnits": 2,
+  "countries": [
+    "SYRIAN ARAB REPUBLIC"
+  ]
+}

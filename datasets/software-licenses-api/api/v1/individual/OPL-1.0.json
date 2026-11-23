@@ -1,0 +1,15 @@
+{
+  "id": "OPL-1.0",
+  "name": "Open Public License v1.0",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 92,
+  "reference": "https://spdx.org/licenses/OPL-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/OPL-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/OPL-1.0.txt",
+  "seeAlso": [
+    "http://old.koalateam.com/jackaroo/OPL_1_0.TXT",
+    "https://fedoraproject.org/wiki/Licensing/Open_Public_License"
+  ]
+}

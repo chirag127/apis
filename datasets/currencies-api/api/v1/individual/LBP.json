@@ -1,0 +1,10 @@
+{
+  "id": "LBP",
+  "alpha3": "LBP",
+  "numeric": "422",
+  "name": "Lebanese Pound",
+  "minorUnits": 2,
+  "countries": [
+    "LEBANON"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "BSD-1-Clause",
+  "name": "BSD 1-Clause License",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 334,
+  "reference": "https://spdx.org/licenses/BSD-1-Clause.html",
+  "detailsUrl": "https://spdx.org/licenses/BSD-1-Clause.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-1-Clause.txt",
+  "seeAlso": [
+    "https://svnweb.freebsd.org/base/head/include/ifaddrs.h?revision=326823"
+  ]
+}

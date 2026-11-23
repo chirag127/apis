@@ -1,0 +1,15 @@
+{
+  "id": "HPND-export-US-modify",
+  "name": "HPND with US Government export control warning and modification rqmt",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 669,
+  "reference": "https://spdx.org/licenses/HPND-export-US-modify.html",
+  "detailsUrl": "https://spdx.org/licenses/HPND-export-US-modify.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-export-US-modify.txt",
+  "seeAlso": [
+    "https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L1157-L1182",
+    "https://github.com/pythongssapi/k5test/blob/v0.10.3/K5TEST-LICENSE.txt"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "JO",
+  "iso2": "JO",
+  "name": "Jordan",
+  "callingCode": "+962",
+  "callingCodeRoot": "962",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "62001234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

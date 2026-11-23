@@ -1,0 +1,14 @@
+{
+  "id": "Furuseth",
+  "name": "Furuseth License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 554,
+  "reference": "https://spdx.org/licenses/Furuseth.html",
+  "detailsUrl": "https://spdx.org/licenses/Furuseth.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Furuseth.txt",
+  "seeAlso": [
+    "https://git.openldap.org/openldap/openldap/-/blob/master/COPYRIGHT?ref_type=heads#L39-51"
+  ]
+}

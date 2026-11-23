@@ -1,0 +1,28 @@
+{
+  "status": "healthy",
+  "lastUpdated": "2026-11-01T10:15:22.386468+00:00",
+  "sourceUpdatedAt": "2026-11-01T10:15:22.329549+00:00",
+  "retrievedAt": "2026-11-01T10:15:22.329549+00:00",
+  "recordCount": 111,
+  "version": "1.0.0",
+  "schemaVersion": "1.0.0",
+  "source": "PubChem PUG REST (National Library of Medicine)",
+  "sourceHome": "https://pubchem.ncbi.nlm.nih.gov/",
+  "license": "Code: MIT; data: PubChem/NLM terms",
+  "updateCadence": "manual",
+  "fields": [
+    "id",
+    "name",
+    "formula",
+    "molecular_weight",
+    "iupac_name",
+    "smiles",
+    "pubchem_cid",
+    "category",
+    "source",
+    "source_url"
+  ],
+  "missingFromSource": [
+    "Iron(III) oxide"
+  ]
+}

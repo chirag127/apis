@@ -1,0 +1,14 @@
+{
+  "id": "XK",
+  "iso2": "XK",
+  "name": "Kosovo",
+  "callingCode": "+383",
+  "callingCodeRoot": "383",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "28012345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

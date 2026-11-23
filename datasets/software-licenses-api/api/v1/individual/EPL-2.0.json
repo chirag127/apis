@@ -1,0 +1,17 @@
+{
+  "id": "EPL-2.0",
+  "name": "Eclipse Public License 2.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 655,
+  "reference": "https://spdx.org/licenses/EPL-2.0.html",
+  "detailsUrl": "https://spdx.org/licenses/EPL-2.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/EPL-2.0.txt",
+  "seeAlso": [
+    "https://www.eclipse.org/legal/epl-2.0",
+    "https://www.opensource.org/license/EPL-2.0",
+    "https://www.eclipse.org/legal/epl-v20.html",
+    "https://projects.eclipse.org/license/epl-2.0"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "GPL-3.0-with-autoconf-exception",
+  "name": "GNU General Public License v3.0 w/Autoconf exception",
+  "deprecated": true,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 229,
+  "reference": "https://spdx.org/licenses/GPL-3.0-with-autoconf-exception.html",
+  "detailsUrl": "https://spdx.org/licenses/GPL-3.0-with-autoconf-exception.json",
+  "textUrl": null,
+  "seeAlso": [
+    "https://www.gnu.org/licenses/autoconf-exception-3.0.html"
+  ]
+}

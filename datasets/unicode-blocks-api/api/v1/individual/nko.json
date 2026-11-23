@@ -1,0 +1,10 @@
+{
+  "id": "nko",
+  "name": "NKo",
+  "start": "U+07C0",
+  "end": "U+07FF",
+  "startCode": 1984,
+  "endCode": 2047,
+  "size": 64,
+  "range": "U+07C0..U+07FF"
+}

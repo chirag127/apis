@@ -1,0 +1,10 @@
+{
+  "id": "BHD",
+  "alpha3": "BHD",
+  "numeric": "048",
+  "name": "Bahraini Dinar",
+  "minorUnits": 3,
+  "countries": [
+    "BAHRAIN"
+  ]
+}

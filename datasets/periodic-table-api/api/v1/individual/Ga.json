@@ -1,0 +1,27 @@
+{
+  "id": "Ga",
+  "atomicNumber": 31,
+  "symbol": "Ga",
+  "name": "Gallium",
+  "atomicMass": 69.7231,
+  "category": "post-transition metal",
+  "block": "p",
+  "group": 13,
+  "period": 4,
+  "phase": "Solid",
+  "density": 5.91,
+  "meltingPoint": 302.9146,
+  "boilingPoint": 2673,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p1",
+  "electronConfigurationSemantic": "[Ar] 3d10 4s2 4p1",
+  "electronegativity": 1.81,
+  "shells": [
+    2,
+    8,
+    18,
+    3
+  ],
+  "cpkHex": "c28f8f",
+  "discoveredBy": "Lecoq de Boisbaudran",
+  "yearDiscovered": "1875"
+}

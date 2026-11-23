@@ -1,0 +1,10 @@
+{
+  "id": "rejang",
+  "name": "Rejang",
+  "start": "U+A930",
+  "end": "U+A95F",
+  "startCode": 43312,
+  "endCode": 43359,
+  "size": 48,
+  "range": "U+A930..U+A95F"
+}

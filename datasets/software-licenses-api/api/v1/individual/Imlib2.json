@@ -1,0 +1,15 @@
+{
+  "id": "Imlib2",
+  "name": "Imlib2 License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": true,
+  "referenceNumber": 578,
+  "reference": "https://spdx.org/licenses/Imlib2.html",
+  "detailsUrl": "https://spdx.org/licenses/Imlib2.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Imlib2.txt",
+  "seeAlso": [
+    "http://trac.enlightenment.org/e/browser/trunk/imlib2/COPYING",
+    "https://git.enlightenment.org/legacy/imlib2.git/tree/COPYING"
+  ]
+}

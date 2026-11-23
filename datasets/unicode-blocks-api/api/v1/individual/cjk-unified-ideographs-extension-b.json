@@ -1,0 +1,10 @@
+{
+  "id": "cjk-unified-ideographs-extension-b",
+  "name": "CJK Unified Ideographs Extension B",
+  "start": "U+20000",
+  "end": "U+2A6DF",
+  "startCode": 131072,
+  "endCode": 173791,
+  "size": 42720,
+  "range": "U+20000..U+2A6DF"
+}

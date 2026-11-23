@@ -1,0 +1,14 @@
+{
+  "id": "SZ",
+  "iso2": "SZ",
+  "name": "Eswatini",
+  "callingCode": "+268",
+  "callingCodeRoot": "268",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "22171234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

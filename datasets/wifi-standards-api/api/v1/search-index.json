@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "wifi-standards": {
+      "id": "wifi-standards",
+      "name": "Wi-Fi Standards",
+      "status": "scaffold",
+      "source": "IEEE public"
+    }
+  },
+  "searchableFields": []
+}

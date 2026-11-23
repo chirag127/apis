@@ -1,0 +1,14 @@
+{
+  "id": "MM",
+  "iso2": "MM",
+  "name": "Myanmar (Burma)",
+  "callingCode": "+95",
+  "callingCodeRoot": "95",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "1234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

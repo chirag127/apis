@@ -1,0 +1,10 @@
+{
+  "id": "bamum-supplement",
+  "name": "Bamum Supplement",
+  "start": "U+16800",
+  "end": "U+16A3F",
+  "startCode": 92160,
+  "endCode": 92735,
+  "size": 576,
+  "range": "U+16800..U+16A3F"
+}

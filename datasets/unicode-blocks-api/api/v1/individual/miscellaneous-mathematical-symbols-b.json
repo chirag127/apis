@@ -1,0 +1,10 @@
+{
+  "id": "miscellaneous-mathematical-symbols-b",
+  "name": "Miscellaneous Mathematical Symbols-B",
+  "start": "U+2980",
+  "end": "U+29FF",
+  "startCode": 10624,
+  "endCode": 10751,
+  "size": 128,
+  "range": "U+2980..U+29FF"
+}

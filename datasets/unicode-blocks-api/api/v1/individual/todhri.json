@@ -1,0 +1,10 @@
+{
+  "id": "todhri",
+  "name": "Todhri",
+  "start": "U+105C0",
+  "end": "U+105FF",
+  "startCode": 67008,
+  "endCode": 67071,
+  "size": 64,
+  "range": "U+105C0..U+105FF"
+}

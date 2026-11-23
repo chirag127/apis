@@ -1,0 +1,14 @@
+{
+  "id": "Artistic-1.0-Perl",
+  "name": "Artistic License 1.0 (Perl)",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 77,
+  "reference": "https://spdx.org/licenses/Artistic-1.0-Perl.html",
+  "detailsUrl": "https://spdx.org/licenses/Artistic-1.0-Perl.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Artistic-1.0-Perl.txt",
+  "seeAlso": [
+    "http://dev.perl.org/licenses/artistic.html"
+  ]
+}

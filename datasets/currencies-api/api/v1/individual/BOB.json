@@ -1,0 +1,10 @@
+{
+  "id": "BOB",
+  "alpha3": "BOB",
+  "numeric": "068",
+  "name": "Boliviano",
+  "minorUnits": 2,
+  "countries": [
+    "BOLIVIA (PLURINATIONAL STATE OF)"
+  ]
+}

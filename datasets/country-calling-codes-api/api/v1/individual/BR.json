@@ -1,0 +1,14 @@
+{
+  "id": "BR",
+  "iso2": "BR",
+  "name": "Brazil",
+  "callingCode": "+55",
+  "callingCodeRoot": "55",
+  "internationalPrefix": "00(?:1[245]|2[1-35]|31|4[13]|[56]5|99)",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": "\n                 (?:\n                   0|\n                   90\n                 )(?:\n                   (\n                     1[245]|\n                     2[1-35]|\n                     31|\n                     4[13]|\n                     [56]5|\n                     99\n                   )(\n                     \\d{10,11}\n                   )\n                 )?",
+  "exampleNumber": "1123456789",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

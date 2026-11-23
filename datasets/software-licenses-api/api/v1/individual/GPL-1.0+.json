@@ -1,0 +1,14 @@
+{
+  "id": "GPL-1.0+",
+  "name": "GNU General Public License v1.0 or later",
+  "deprecated": true,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 654,
+  "reference": "https://spdx.org/licenses/GPL-1.0+.html",
+  "detailsUrl": "https://spdx.org/licenses/GPL-1.0+.json",
+  "textUrl": null,
+  "seeAlso": [
+    "https://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html"
+  ]
+}

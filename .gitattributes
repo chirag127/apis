@@ -1,0 +1,3 @@
+# Preserve original blob bytes when importing on Windows with core.autocrlf enabled.
+datasets/** -text
+migration/*.zip -text

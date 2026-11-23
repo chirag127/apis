@@ -1,0 +1,14 @@
+{
+  "id": "Multics",
+  "name": "Multics License",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 265,
+  "reference": "https://spdx.org/licenses/Multics.html",
+  "detailsUrl": "https://spdx.org/licenses/Multics.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Multics.txt",
+  "seeAlso": [
+    "https://opensource.org/license/Multics"
+  ]
+}

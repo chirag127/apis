@@ -1,0 +1,14 @@
+{
+  "id": "GE",
+  "iso2": "GE",
+  "name": "Georgia",
+  "callingCode": "+995",
+  "callingCodeRoot": "995",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "322123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

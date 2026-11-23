@@ -1,0 +1,14 @@
+{
+  "id": "ME",
+  "iso2": "ME",
+  "name": "Montenegro",
+  "callingCode": "+382",
+  "callingCodeRoot": "382",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "30234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

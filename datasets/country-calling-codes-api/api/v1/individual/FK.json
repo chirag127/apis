@@ -1,0 +1,14 @@
+{
+  "id": "FK",
+  "iso2": "FK",
+  "name": "Falkland Islands",
+  "callingCode": "+500",
+  "callingCodeRoot": "500",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "31234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

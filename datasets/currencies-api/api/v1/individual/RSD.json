@@ -1,0 +1,10 @@
+{
+  "id": "RSD",
+  "alpha3": "RSD",
+  "numeric": "941",
+  "name": "Serbian Dinar",
+  "minorUnits": 2,
+  "countries": [
+    "SERBIA"
+  ]
+}

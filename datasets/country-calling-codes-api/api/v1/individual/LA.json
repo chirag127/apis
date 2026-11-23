@@ -1,0 +1,14 @@
+{
+  "id": "LA",
+  "iso2": "LA",
+  "name": "Laos",
+  "callingCode": "+856",
+  "callingCodeRoot": "856",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "21212862",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

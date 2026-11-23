@@ -1,0 +1,28 @@
+{
+  "id": "Mo",
+  "atomicNumber": 42,
+  "symbol": "Mo",
+  "name": "Molybdenum",
+  "atomicMass": 95.951,
+  "category": "transition metal",
+  "block": "d",
+  "group": 6,
+  "period": 5,
+  "phase": "Solid",
+  "density": 10.28,
+  "meltingPoint": 2896,
+  "boilingPoint": 4912,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d5",
+  "electronConfigurationSemantic": "[Kr] 4d5 5s1",
+  "electronegativity": 2.16,
+  "shells": [
+    2,
+    8,
+    18,
+    13,
+    1
+  ],
+  "cpkHex": "54b5b5",
+  "discoveredBy": "Carl Wilhelm Scheele",
+  "yearDiscovered": "1778"
+}

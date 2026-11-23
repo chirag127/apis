@@ -1,0 +1,10 @@
+{
+  "id": "CLP",
+  "alpha3": "CLP",
+  "numeric": "152",
+  "name": "Chilean Peso",
+  "minorUnits": 0,
+  "countries": [
+    "CHILE"
+  ]
+}

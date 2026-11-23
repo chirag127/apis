@@ -1,0 +1,24 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8652
+  ],
+  "codepointsHex": [
+    "0x21CC"
+  ],
+  "character": "⇌",
+  "names": [
+    {
+      "name": "&Equilibrium;",
+      "legacy": false
+    },
+    {
+      "name": "&rightleftharpoons;",
+      "legacy": false
+    },
+    {
+      "name": "&rlhar;",
+      "legacy": false
+    }
+  ]
+}

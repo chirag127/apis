@@ -1,0 +1,14 @@
+{
+  "id": "SR",
+  "iso2": "SR",
+  "name": "Suriname",
+  "callingCode": "+597",
+  "callingCodeRoot": "597",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "211234",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cyrillic-supplement",
+  "name": "Cyrillic Supplement",
+  "start": "U+0500",
+  "end": "U+052F",
+  "startCode": 1280,
+  "endCode": 1327,
+  "size": 48,
+  "range": "U+0500..U+052F"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vai",
+  "name": "Vai",
+  "start": "U+A500",
+  "end": "U+A63F",
+  "startCode": 42240,
+  "endCode": 42559,
+  "size": 320,
+  "range": "U+A500..U+A63F"
+}

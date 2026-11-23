@@ -1,0 +1,28 @@
+{
+  "id": "In",
+  "atomicNumber": 49,
+  "symbol": "In",
+  "name": "Indium",
+  "atomicMass": 114.8181,
+  "category": "post-transition metal",
+  "block": "p",
+  "group": 13,
+  "period": 5,
+  "phase": "Solid",
+  "density": 7.31,
+  "meltingPoint": 429.7485,
+  "boilingPoint": 2345,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p1",
+  "electronConfigurationSemantic": "[Kr] 4d10 5s2 5p1",
+  "electronegativity": 1.78,
+  "shells": [
+    2,
+    8,
+    18,
+    18,
+    3
+  ],
+  "cpkHex": "a67573",
+  "discoveredBy": "Ferdinand Reich",
+  "yearDiscovered": "1863"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cherokee",
+  "name": "Cherokee",
+  "start": "U+13A0",
+  "end": "U+13FF",
+  "startCode": 5024,
+  "endCode": 5119,
+  "size": 96,
+  "range": "U+13A0..U+13FF"
+}

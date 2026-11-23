@@ -1,0 +1,14 @@
+{
+  "id": "SMAIL-GPL",
+  "name": "SMAIL General Public License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 679,
+  "reference": "https://spdx.org/licenses/SMAIL-GPL.html",
+  "detailsUrl": "https://spdx.org/licenses/SMAIL-GPL.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/SMAIL-GPL.txt",
+  "seeAlso": [
+    "https://sources.debian.org/copyright/license/debianutils/4.11.2/"
+  ]
+}

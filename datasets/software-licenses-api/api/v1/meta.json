@@ -1,0 +1,16 @@
+{
+  "status": "healthy",
+  "lastUpdated": "2026-11-10T18:22:56Z",
+  "sourceUpdatedAt": "2026-10-28T00:00:00.000Z",
+  "retrievedAt": "2026-11-10T18:22:56Z",
+  "recordCount": 740,
+  "version": "1.0.0",
+  "schemaVersion": "1.0.0",
+  "source": "SPDX License List",
+  "sourceUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/json/licenses.json",
+  "license": "SPDX License List metadata; individual licence texts under their own terms",
+  "updateCadence": "quarterly",
+  "nextUpdateDue": "2027-02-08T18:22:56.000Z",
+  "lastFailedAt": null,
+  "failureReason": null
+}

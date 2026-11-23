@@ -1,0 +1,10 @@
+{
+  "id": "HUF",
+  "alpha3": "HUF",
+  "numeric": "348",
+  "name": "Forint",
+  "minorUnits": 2,
+  "countries": [
+    "HUNGARY"
+  ]
+}

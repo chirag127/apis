@@ -1,0 +1,14 @@
+{
+  "id": "BSD-3-Clause-flex",
+  "name": "BSD 3-Clause Flex variant",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 473,
+  "reference": "https://spdx.org/licenses/BSD-3-Clause-flex.html",
+  "detailsUrl": "https://spdx.org/licenses/BSD-3-Clause-flex.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-flex.txt",
+  "seeAlso": [
+    "https://github.com/westes/flex/blob/master/COPYING"
+  ]
+}

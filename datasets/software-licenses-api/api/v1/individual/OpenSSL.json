@@ -1,0 +1,14 @@
+{
+  "id": "OpenSSL",
+  "name": "OpenSSL License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": true,
+  "referenceNumber": 139,
+  "reference": "https://spdx.org/licenses/OpenSSL.html",
+  "detailsUrl": "https://spdx.org/licenses/OpenSSL.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/OpenSSL.txt",
+  "seeAlso": [
+    "http://www.openssl.org/source/license.html"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "transport-and-map-symbols",
+  "name": "Transport and Map Symbols",
+  "start": "U+1F680",
+  "end": "U+1F6FF",
+  "startCode": 128640,
+  "endCode": 128767,
+  "size": 128,
+  "range": "U+1F680..U+1F6FF"
+}

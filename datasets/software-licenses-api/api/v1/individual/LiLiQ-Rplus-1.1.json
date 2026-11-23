@@ -1,0 +1,16 @@
+{
+  "id": "LiLiQ-Rplus-1.1",
+  "name": "Licence Libre du Québec – Réciprocité forte version 1.1",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 170,
+  "reference": "https://spdx.org/licenses/LiLiQ-Rplus-1.1.html",
+  "detailsUrl": "https://spdx.org/licenses/LiLiQ-Rplus-1.1.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/LiLiQ-Rplus-1.1.txt",
+  "seeAlso": [
+    "https://www.forge.gouv.qc.ca/participez/licence-logicielle/licence-libre-du-quebec-liliq-en-francais/licence-libre-du-quebec-reciprocite-forte-liliq-r-v1-1/",
+    "http://opensource.org/license/LiLiQ-Rplus-1.1",
+    "https://forge.gouv.qc.ca/licence/liliq-r+/"
+  ]
+}

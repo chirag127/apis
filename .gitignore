@@ -1,0 +1,6 @@
+_site/
+_site.next/
+_site.previous/
+node_modules/
+__pycache__/
+.pytest_cache/

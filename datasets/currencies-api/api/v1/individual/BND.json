@@ -1,0 +1,10 @@
+{
+  "id": "BND",
+  "alpha3": "BND",
+  "numeric": "096",
+  "name": "Brunei Dollar",
+  "minorUnits": 2,
+  "countries": [
+    "BRUNEI DARUSSALAM"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "CU",
+  "iso2": "CU",
+  "name": "Cuba",
+  "callingCode": "+53",
+  "callingCodeRoot": "53",
+  "internationalPrefix": "119",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "71234567",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "SGP4",
+  "name": "SGP4 Permission Notice",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 246,
+  "reference": "https://spdx.org/licenses/SGP4.html",
+  "detailsUrl": "https://spdx.org/licenses/SGP4.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/SGP4.txt",
+  "seeAlso": [
+    "https://celestrak.org/publications/AIAA/2006-6753/faq.php"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "TZS",
+  "alpha3": "TZS",
+  "numeric": "834",
+  "name": "Tanzanian Shilling",
+  "minorUnits": 2,
+  "countries": [
+    "TANZANIA, UNITED REPUBLIC OF"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "LY",
+  "iso2": "LY",
+  "name": "Libya",
+  "callingCode": "+218",
+  "callingCodeRoot": "218",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "212345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

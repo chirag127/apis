@@ -1,0 +1,14 @@
+{
+  "id": "ICU",
+  "name": "ICU License",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 408,
+  "reference": "https://spdx.org/licenses/ICU.html",
+  "detailsUrl": "https://spdx.org/licenses/ICU.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/ICU.txt",
+  "seeAlso": [
+    "http://source.icu-project.org/repos/icu/icu/trunk/license.html"
+  ]
+}

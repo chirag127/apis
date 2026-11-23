@@ -1,0 +1,10 @@
+{
+  "id": "ottoman-siyaq-numbers",
+  "name": "Ottoman Siyaq Numbers",
+  "start": "U+1ED00",
+  "end": "U+1ED4F",
+  "startCode": 126208,
+  "endCode": 126287,
+  "size": 80,
+  "range": "U+1ED00..U+1ED4F"
+}

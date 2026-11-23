@@ -1,0 +1,10 @@
+{
+  "id": "saurashtra",
+  "name": "Saurashtra",
+  "start": "U+A880",
+  "end": "U+A8DF",
+  "startCode": 43136,
+  "endCode": 43231,
+  "size": 96,
+  "range": "U+A880..U+A8DF"
+}

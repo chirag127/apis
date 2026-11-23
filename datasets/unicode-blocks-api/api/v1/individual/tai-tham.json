@@ -1,0 +1,10 @@
+{
+  "id": "tai-tham",
+  "name": "Tai Tham",
+  "start": "U+1A20",
+  "end": "U+1AAF",
+  "startCode": 6688,
+  "endCode": 6831,
+  "size": 144,
+  "range": "U+1A20..U+1AAF"
+}

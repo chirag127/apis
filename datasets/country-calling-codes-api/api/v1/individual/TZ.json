@@ -1,0 +1,14 @@
+{
+  "id": "TZ",
+  "iso2": "TZ",
+  "name": "Tanzania",
+  "callingCode": "+255",
+  "callingCodeRoot": "255",
+  "internationalPrefix": "00[056]",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "222345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

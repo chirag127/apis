@@ -1,0 +1,10 @@
+{
+  "id": "latin-extended-b",
+  "name": "Latin Extended-B",
+  "start": "U+0180",
+  "end": "U+024F",
+  "startCode": 384,
+  "endCode": 591,
+  "size": 208,
+  "range": "U+0180..U+024F"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "TWD",
+  "alpha3": "TWD",
+  "numeric": "901",
+  "name": "New Taiwan Dollar",
+  "minorUnits": 2,
+  "countries": [
+    "TAIWAN (PROVINCE OF CHINA)"
+  ]
+}

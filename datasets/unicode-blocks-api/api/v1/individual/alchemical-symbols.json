@@ -1,0 +1,10 @@
+{
+  "id": "alchemical-symbols",
+  "name": "Alchemical Symbols",
+  "start": "U+1F700",
+  "end": "U+1F77F",
+  "startCode": 128768,
+  "endCode": 128895,
+  "size": 128,
+  "range": "U+1F700..U+1F77F"
+}

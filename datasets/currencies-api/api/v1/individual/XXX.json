@@ -1,0 +1,10 @@
+{
+  "id": "XXX",
+  "alpha3": "XXX",
+  "numeric": "999",
+  "name": "The codes assigned for transactions where no currency is involved",
+  "minorUnits": null,
+  "countries": [
+    "ZZ07_No_Currency"
+  ]
+}

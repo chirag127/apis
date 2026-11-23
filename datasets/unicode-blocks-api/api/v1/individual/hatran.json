@@ -1,0 +1,10 @@
+{
+  "id": "hatran",
+  "name": "Hatran",
+  "start": "U+108E0",
+  "end": "U+108FF",
+  "startCode": 67808,
+  "endCode": 67839,
+  "size": 32,
+  "range": "U+108E0..U+108FF"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "HPND-Pbmplus",
+  "name": "Historical Permission Notice and Disclaimer - Pbmplus variant",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 690,
+  "reference": "https://spdx.org/licenses/HPND-Pbmplus.html",
+  "detailsUrl": "https://spdx.org/licenses/HPND-Pbmplus.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-Pbmplus.txt",
+  "seeAlso": [
+    "https://sourceforge.net/p/netpbm/code/HEAD/tree/super_stable/netpbm.c#l8"
+  ]
+}

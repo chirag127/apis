@@ -1,0 +1,10 @@
+{
+  "id": "IDR",
+  "alpha3": "IDR",
+  "numeric": "360",
+  "name": "Rupiah",
+  "minorUnits": 2,
+  "countries": [
+    "INDONESIA"
+  ]
+}

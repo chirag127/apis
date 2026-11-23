@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    732
+  ],
+  "codepointsHex": [
+    "0x02DC"
+  ],
+  "character": "˜",
+  "names": [
+    {
+      "name": "&DiacriticalTilde;",
+      "legacy": false
+    },
+    {
+      "name": "&tilde;",
+      "legacy": false
+    }
+  ]
+}

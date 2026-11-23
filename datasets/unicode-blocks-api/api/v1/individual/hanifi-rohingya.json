@@ -1,0 +1,10 @@
+{
+  "id": "hanifi-rohingya",
+  "name": "Hanifi Rohingya",
+  "start": "U+10D00",
+  "end": "U+10D3F",
+  "startCode": 68864,
+  "endCode": 68927,
+  "size": 64,
+  "range": "U+10D00..U+10D3F"
+}

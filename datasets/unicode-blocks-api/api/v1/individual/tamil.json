@@ -1,0 +1,10 @@
+{
+  "id": "tamil",
+  "name": "Tamil",
+  "start": "U+0B80",
+  "end": "U+0BFF",
+  "startCode": 2944,
+  "endCode": 3071,
+  "size": 128,
+  "range": "U+0B80..U+0BFF"
+}

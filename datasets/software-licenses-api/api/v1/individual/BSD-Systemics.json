@@ -1,0 +1,14 @@
+{
+  "id": "BSD-Systemics",
+  "name": "Systemics BSD variant license",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 647,
+  "reference": "https://spdx.org/licenses/BSD-Systemics.html",
+  "detailsUrl": "https://spdx.org/licenses/BSD-Systemics.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-Systemics.txt",
+  "seeAlso": [
+    "https://metacpan.org/release/DPARIS/Crypt-DES-2.07/source/COPYRIGHT"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "elymaic",
+  "name": "Elymaic",
+  "start": "U+10FE0",
+  "end": "U+10FFF",
+  "startCode": 69600,
+  "endCode": 69631,
+  "size": 32,
+  "range": "U+10FE0..U+10FFF"
+}

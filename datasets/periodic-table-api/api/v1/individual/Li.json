@@ -1,0 +1,25 @@
+{
+  "id": "Li",
+  "atomicNumber": 3,
+  "symbol": "Li",
+  "name": "Lithium",
+  "atomicMass": 6.94,
+  "category": "alkali metal",
+  "block": "s",
+  "group": 1,
+  "period": 2,
+  "phase": "Solid",
+  "density": 0.534,
+  "meltingPoint": 453.65,
+  "boilingPoint": 1603,
+  "electronConfiguration": "1s2 2s1",
+  "electronConfigurationSemantic": "[He] 2s1",
+  "electronegativity": 0.98,
+  "shells": [
+    2,
+    1
+  ],
+  "cpkHex": "cc80ff",
+  "discoveredBy": "Johan August Arfwedson",
+  "yearDiscovered": "1817"
+}

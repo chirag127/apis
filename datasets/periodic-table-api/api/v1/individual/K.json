@@ -1,0 +1,27 @@
+{
+  "id": "K",
+  "atomicNumber": 19,
+  "symbol": "K",
+  "name": "Potassium",
+  "atomicMass": 39.09831,
+  "category": "alkali metal",
+  "block": "s",
+  "group": 1,
+  "period": 4,
+  "phase": "Solid",
+  "density": 0.862,
+  "meltingPoint": 336.7,
+  "boilingPoint": 1032,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s1",
+  "electronConfigurationSemantic": "[Ar] 4s1",
+  "electronegativity": 0.82,
+  "shells": [
+    2,
+    8,
+    8,
+    1
+  ],
+  "cpkHex": "8f40d4",
+  "discoveredBy": "Humphry Davy",
+  "yearDiscovered": "1807"
+}

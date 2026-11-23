@@ -1,0 +1,506 @@
+{
+  "schema_version": 1,
+  "owner": "chirag127",
+  "destination": "apis",
+  "baseline_metadata_archive_sha256": "9cf354e046b69ae93a4a73b5881088805d74ebbbdcdeb1b97a78c22e78ade535",
+  "source_manifest_sha256": "3cd596e09c705e02407eb397832aa0efc7e19375a5dd9981d7f8f56bb7c6fa6d",
+  "sources": [
+    {
+      "name": "currencies-api",
+      "repository_id": 1346231260,
+      "node_id": "R_kgDOUD3b3A",
+      "default_tip_oid": "3a7cd23816d39973280648036482b5bbb185536b",
+      "label_count": 14
+    },
+    {
+      "name": "currency-rates-api",
+      "repository_id": 1346231418,
+      "node_id": "R_kgDOUD3ceg",
+      "default_tip_oid": "94f836c1684abc5db3cbcdcb1df1960fa086e397",
+      "label_count": 57
+    },
+    {
+      "name": "gsec-rates-api",
+      "repository_id": 1346232813,
+      "node_id": "R_kgDOUD3h7Q",
+      "default_tip_oid": "6d42af47610327e6306253b6fee46f5bb8fafca2",
+      "label_count": 14
+    },
+    {
+      "name": "gst-rates-api",
+      "repository_id": 1346232955,
+      "node_id": "R_kgDOUD3iew",
+      "default_tip_oid": "5f987e07ec52bb37ad002309ae950dac6e735de4",
+      "label_count": 14
+    },
+    {
+      "name": "income-tax-slabs-api",
+      "repository_id": 1346233554,
+      "node_id": "R_kgDOUD3k0g",
+      "default_tip_oid": "2612a0f4b5dfb3a0e5560d11d663e701f840240b",
+      "label_count": 57
+    },
+    {
+      "name": "indian-banks-api",
+      "repository_id": 1346234810,
+      "node_id": "R_kgDOUD3pug",
+      "default_tip_oid": "98db6bf4e5e173fd31f5f5e567dfbaf6551554d3",
+      "label_count": 57
+    },
+    {
+      "name": "ipo-performance-api",
+      "repository_id": 1346235442,
+      "node_id": "R_kgDOUD3sMg",
+      "default_tip_oid": "b66b0dce51dd58932e1c895f4686fa49c5b1f404",
+      "label_count": 57
+    },
+    {
+      "name": "mutual-fund-categories-api",
+      "repository_id": 1346236656,
+      "node_id": "R_kgDOUD3w8A",
+      "default_tip_oid": "40ff8168ef20484b13a2fe5dafd508ec477acc2d",
+      "label_count": 57
+    },
+    {
+      "name": "rbi-rates-api",
+      "repository_id": 1346238283,
+      "node_id": "R_kgDOUD33Sw",
+      "default_tip_oid": "8d46e7c698685856f049f812e520113e81ea82d8",
+      "label_count": 57
+    },
+    {
+      "name": "tds-rates-api",
+      "repository_id": 1346239255,
+      "node_id": "R_kgDOUD37Fw",
+      "default_tip_oid": "f8c6d0618328579d67e2e03bad60dbcf99ac5dbd",
+      "label_count": 57
+    },
+    {
+      "name": "countries-api",
+      "repository_id": 1346230476,
+      "node_id": "R_kgDOUD3YzA",
+      "default_tip_oid": "077d174c492700d3509fbde447cda0135f4b263e",
+      "label_count": 57
+    },
+    {
+      "name": "holiday-world-api",
+      "repository_id": 1346233083,
+      "node_id": "R_kgDOUD3i-w",
+      "default_tip_oid": "e63e8a562b02743edaa7eeab18d8627bbccd0eff",
+      "label_count": 57
+    },
+    {
+      "name": "india-airports-api",
+      "repository_id": 1346233670,
+      "node_id": "R_kgDOUD3lRg",
+      "default_tip_oid": "0bfe3a97fbd261771c2cc40d54808f7b4c224f8b",
+      "label_count": 57
+    },
+    {
+      "name": "india-districts-api",
+      "repository_id": 1346228999,
+      "node_id": "R_kgDOUD3TBw",
+      "default_tip_oid": "b7234d84d34d1e9601d98ac30e81463a2acdfbf7",
+      "label_count": 57
+    },
+    {
+      "name": "india-holidays-api",
+      "repository_id": 1346233789,
+      "node_id": "R_kgDOUD3lvQ",
+      "default_tip_oid": "546306493abeb7b5eed64c63a9e0c57d8007ce45",
+      "label_count": 57
+    },
+    {
+      "name": "india-pincode-api",
+      "repository_id": 1346234153,
+      "node_id": "R_kgDOUD3nKQ",
+      "default_tip_oid": "83ecc0d92361e150c439280bcce797f7b0be500b",
+      "label_count": 57
+    },
+    {
+      "name": "india-railway-stations-api",
+      "repository_id": 1346234381,
+      "node_id": "R_kgDOUD3oDQ",
+      "default_tip_oid": "846674ce98ef91322bc8e64259e5a7f5fce38135",
+      "label_count": 57
+    },
+    {
+      "name": "india-states-api",
+      "repository_id": 1346234554,
+      "node_id": "R_kgDOUD3oug",
+      "default_tip_oid": "d146385b53921e326ab392936be7fb98d19abe68",
+      "label_count": 57
+    },
+    {
+      "name": "iso-3166-2-api",
+      "repository_id": 1453049500,
+      "node_id": "R_kgDOVpvGnA",
+      "default_tip_oid": "bd59344c46cb0232854a25c017f197619a62f5a8",
+      "label_count": 14
+    },
+    {
+      "name": "world-airports-api",
+      "repository_id": 1453050259,
+      "node_id": "R_kgDOVpvJkw",
+      "default_tip_oid": "636de0d93d9529df2cf9382fe1be91d4caeb9c6d",
+      "label_count": 14
+    },
+    {
+      "name": "gate-syllabus-api",
+      "repository_id": 1346232123,
+      "node_id": "R_kgDOUD3fOw",
+      "default_tip_oid": "dd4375e446bd0a8374fa233526480e0633600f68",
+      "label_count": 57
+    },
+    {
+      "name": "govt-colleges-api",
+      "repository_id": 1346232347,
+      "node_id": "R_kgDOUD3gGw",
+      "default_tip_oid": "b7d9e8090bc16116cf522273b2e5bfa09c4729eb",
+      "label_count": 57
+    },
+    {
+      "name": "govt-hospitals-api",
+      "repository_id": 1346232455,
+      "node_id": "R_kgDOUD3ghw",
+      "default_tip_oid": "f431645b8f6e01355a20c9314bbe191c3d2637d5",
+      "label_count": 20
+    },
+    {
+      "name": "govt-schemes-api",
+      "repository_id": 1346232596,
+      "node_id": "R_kgDOUD3hFA",
+      "default_tip_oid": "2400de9e03a9300e162e9a3b0514bb16078b9fe7",
+      "label_count": 14
+    },
+    {
+      "name": "india-parliament-api",
+      "repository_id": 1346234041,
+      "node_id": "R_kgDOUD3muQ",
+      "default_tip_oid": "0935dc9717bbd93ec02ddd48051c3edc9d37ad19",
+      "label_count": 57
+    },
+    {
+      "name": "jee-syllabus-api",
+      "repository_id": 1346235807,
+      "node_id": "R_kgDOUD3tnw",
+      "default_tip_oid": "4abb0afa15594e66db10421cf2d01ffa6b840213",
+      "label_count": 57
+    },
+    {
+      "name": "ncert-books-api",
+      "repository_id": 1346236862,
+      "node_id": "R_kgDOUD3xvg",
+      "default_tip_oid": "3e3c7e1a50102b8e9b7387da7b3b4668b03324d5",
+      "label_count": 57
+    },
+    {
+      "name": "neet-syllabus-api",
+      "repository_id": 1346237243,
+      "node_id": "R_kgDOUD3zOw",
+      "default_tip_oid": "11e49b0311c53c28b88014396c544c8f496764ea",
+      "label_count": 57
+    },
+    {
+      "name": "upsc-syllabus-api",
+      "repository_id": 1346239686,
+      "node_id": "R_kgDOUD38xg",
+      "default_tip_oid": "bdecc3bf0096000895c8c9d52fccd3530fea8877",
+      "label_count": 57
+    },
+    {
+      "name": "colors-api",
+      "repository_id": 1346230213,
+      "node_id": "R_kgDOUD3XxQ",
+      "default_tip_oid": "f1eb282a0f53d92ec17936fe8e95cd4d4d83edaa",
+      "label_count": 57
+    },
+    {
+      "name": "crypto-algorithms-api",
+      "repository_id": 1346231017,
+      "node_id": "R_kgDOUD3a6Q",
+      "default_tip_oid": "ebe79dacca4cdf5abfd98ea26d9b23b2b749e916",
+      "label_count": 14
+    },
+    {
+      "name": "css-properties-api",
+      "repository_id": 1346231135,
+      "node_id": "R_kgDOUD3bXw",
+      "default_tip_oid": "21dc20c42f3817cbf15acd6a40a4d676f2dd267c",
+      "label_count": 14
+    },
+    {
+      "name": "git-commands-api",
+      "repository_id": 1346232239,
+      "node_id": "R_kgDOUD3frw",
+      "default_tip_oid": "90075ffe9200824d0fc43795e2f65c0f8ad30471",
+      "label_count": 57
+    },
+    {
+      "name": "html-elements-api",
+      "repository_id": 1346233206,
+      "node_id": "R_kgDOUD3jdg",
+      "default_tip_oid": "8d8691ac5108322eb942ae64f526e774c057b2a5",
+      "label_count": 57
+    },
+    {
+      "name": "html-entities-api",
+      "repository_id": 1452991446,
+      "node_id": "R_kgDOVprj1g",
+      "default_tip_oid": "8a82ac15ca1bd5fc320a3948e6227271ee8018cc",
+      "label_count": 14
+    },
+    {
+      "name": "http-headers-api",
+      "repository_id": 1346233334,
+      "node_id": "R_kgDOUD3j9g",
+      "default_tip_oid": "e6d582d9acc2dfc9325f9e8b7c13e7d081e11f4c",
+      "label_count": 57
+    },
+    {
+      "name": "http-status-api",
+      "repository_id": 1346233440,
+      "node_id": "R_kgDOUD3kYA",
+      "default_tip_oid": "5ed37ee78adaddd3184f1b255c4c7b72075034cb",
+      "label_count": 57
+    },
+    {
+      "name": "javascript-builtin-api",
+      "repository_id": 1346235669,
+      "node_id": "R_kgDOUD3tFQ",
+      "default_tip_oid": "607089c401ebdffcf048cd24d2ee9929ce008367",
+      "label_count": 57
+    },
+    {
+      "name": "json-schema-ref-api",
+      "repository_id": 1346235901,
+      "node_id": "R_kgDOUD3t_Q",
+      "default_tip_oid": "aa7256207cdd49df6fbdfcaa3ef8014279edea3c",
+      "label_count": 57
+    },
+    {
+      "name": "linux-commands-api",
+      "repository_id": 1346236121,
+      "node_id": "R_kgDOUD3u2Q",
+      "default_tip_oid": "b9411d5879c2cf8a33d7839935260e47300b9154",
+      "label_count": 57
+    },
+    {
+      "name": "mime-types-api",
+      "repository_id": 1346236435,
+      "node_id": "R_kgDOUD3wEw",
+      "default_tip_oid": "caa83693f8787cd63934dd72c63892dd52d59615",
+      "label_count": 57
+    },
+    {
+      "name": "programming-languages-api",
+      "repository_id": 1346238041,
+      "node_id": "R_kgDOUD32WQ",
+      "default_tip_oid": "892a2197b9f66500a483c73079c75a46c7fd9617",
+      "label_count": 57
+    },
+    {
+      "name": "regex-tokens-api",
+      "repository_id": 1346238395,
+      "node_id": "R_kgDOUD33uw",
+      "default_tip_oid": "0848aade607474e507f03a76ed27f9d40527af98",
+      "label_count": 57
+    },
+    {
+      "name": "software-licenses-api",
+      "repository_id": 1346238941,
+      "node_id": "R_kgDOUD353Q",
+      "default_tip_oid": "19ce8a446cacd8fbd3bec1103bab1f83e2511c49",
+      "label_count": 57
+    },
+    {
+      "name": "sql-functions-api",
+      "repository_id": 1346239061,
+      "node_id": "R_kgDOUD36VQ",
+      "default_tip_oid": "15ea2b38b2ea3c76362392fa40c5716e7c881072",
+      "label_count": 57
+    },
+    {
+      "name": "unicode-blocks-api",
+      "repository_id": 1346239586,
+      "node_id": "R_kgDOUD38Yg",
+      "default_tip_oid": "b9adf6205738500c964ad94274dd9dad77a9e448",
+      "label_count": 57
+    },
+    {
+      "name": "country-calling-codes-api",
+      "repository_id": 1346230590,
+      "node_id": "R_kgDOUD3ZPg",
+      "default_tip_oid": "ca127c8c693bf035d1f90e54038b5bb8c432c473",
+      "label_count": 44
+    },
+    {
+      "name": "gpus-api",
+      "repository_id": 1346232702,
+      "node_id": "R_kgDOUD3hfg",
+      "default_tip_oid": "73b72ac07343dee63b86d125bd2606902e674c06",
+      "label_count": 14
+    },
+    {
+      "name": "mobile-chipsets-api",
+      "repository_id": 1346236569,
+      "node_id": "R_kgDOUD3wmQ",
+      "default_tip_oid": "3ed4b145027278ef3f8418fd90b2fdab78bd6a5c",
+      "label_count": 57
+    },
+    {
+      "name": "phone-number-formats-api",
+      "repository_id": 1453049801,
+      "node_id": "R_kgDOVpvHyQ",
+      "default_tip_oid": "2970df0bec036e6f654d49772f1a32d34f0ff34e",
+      "label_count": 14
+    },
+    {
+      "name": "tcp-ports-api",
+      "repository_id": 1452991677,
+      "node_id": "R_kgDOVprkvQ",
+      "default_tip_oid": "4e2d8ddb910731a31e70e9bbd7d013cfef7c40bd",
+      "label_count": 14
+    },
+    {
+      "name": "tlds-api",
+      "repository_id": 1453049997,
+      "node_id": "R_kgDOVpvIjQ",
+      "default_tip_oid": "70c2c6d1c8cdbe593889204206188b1c9d3c4661",
+      "label_count": 14
+    },
+    {
+      "name": "usb-standards-api",
+      "repository_id": 1346239785,
+      "node_id": "R_kgDOUD39KQ",
+      "default_tip_oid": "adc5303634003acba558b8c93953f24dda537027",
+      "label_count": 57
+    },
+    {
+      "name": "wifi-standards-api",
+      "repository_id": 1346239979,
+      "node_id": "R_kgDOUD396w",
+      "default_tip_oid": "26bf833fc35f269f9764ff7740568025c785948a",
+      "label_count": 57
+    },
+    {
+      "name": "chemistry-formulas-api",
+      "repository_id": 1346230105,
+      "node_id": "R_kgDOUD3XWQ",
+      "default_tip_oid": "b3738ad7f59299fda590725496e06e45aca69f5c",
+      "label_count": 57
+    },
+    {
+      "name": "math-formulas-api",
+      "repository_id": 1346236272,
+      "node_id": "R_kgDOUD3vcA",
+      "default_tip_oid": "185dbc8535004d7d47055676756e811e679e6b5b",
+      "label_count": 57
+    },
+    {
+      "name": "nav-units-api",
+      "repository_id": 1346236743,
+      "node_id": "R_kgDOUD3xRw",
+      "default_tip_oid": "3fbb7a5ae89991df350721589c66d6ea6814e4eb",
+      "label_count": 57
+    },
+    {
+      "name": "periodic-table-api",
+      "repository_id": 1346237562,
+      "node_id": "R_kgDOUD30eg",
+      "default_tip_oid": "dccb390b40f7079cd47206930a4f87ac2ab92164",
+      "label_count": 57
+    },
+    {
+      "name": "physics-formulas-api",
+      "repository_id": 1346237701,
+      "node_id": "R_kgDOUD31BQ",
+      "default_tip_oid": "eccb9b93920a72d86156315a51394ddee05409ee",
+      "label_count": 57
+    },
+    {
+      "name": "si-units-api",
+      "repository_id": 1346238717,
+      "node_id": "R_kgDOUD34_Q",
+      "default_tip_oid": "64ca4ab15bc04176ce8e78b017c5915c3c486709",
+      "label_count": 57
+    },
+    {
+      "name": "indian-crops-api",
+      "repository_id": 1346234924,
+      "node_id": "R_kgDOUD3qLA",
+      "default_tip_oid": "00ba5ce8ab64ea416c86acc6298f8bf0ca1abc03",
+      "label_count": 57
+    },
+    {
+      "name": "indian-foods-api",
+      "repository_id": 1346235047,
+      "node_id": "R_kgDOUD3qpw",
+      "default_tip_oid": "69dbdac4e1decec3ef44a60a84cd6413e5f478a6",
+      "label_count": 57
+    },
+    {
+      "name": "indian-spices-api",
+      "repository_id": 1346235182,
+      "node_id": "R_kgDOUD3rLg",
+      "default_tip_oid": "8c3c1d12a8dc1fd84779315f37c51e3db83edb8b",
+      "label_count": 57
+    },
+    {
+      "name": "nutrition-api",
+      "repository_id": 1346237348,
+      "node_id": "R_kgDOUD3zpA",
+      "default_tip_oid": "0b72d3db59be2efab289300363c5dcc0ccc9f71f",
+      "label_count": 57
+    },
+    {
+      "name": "cricket-ipl-api",
+      "repository_id": 1346230701,
+      "node_id": "R_kgDOUD3ZrQ",
+      "default_tip_oid": "c95fd0f22d0f97c1b0b5aca8e3f31b5d4479878a",
+      "label_count": 14
+    },
+    {
+      "name": "cricket-world-cup-api",
+      "repository_id": 1346230809,
+      "node_id": "R_kgDOUD3aGQ",
+      "default_tip_oid": "cfcc324fdd2de1478394e8d0c16f01e63de83918",
+      "label_count": 14
+    },
+    {
+      "name": "olympics-api",
+      "repository_id": 1346237469,
+      "node_id": "R_kgDOUD30HQ",
+      "default_tip_oid": "b4e9fcf675f001f6c19082cf4a2ea7e541aa1ef4",
+      "label_count": 57
+    },
+    {
+      "name": "emoji-api",
+      "repository_id": 1346231659,
+      "node_id": "R_kgDOUD3daw",
+      "default_tip_oid": "a7dd1e8a748bf70ed1451a00e30134ad4a1d1fb3",
+      "label_count": 57
+    },
+    {
+      "name": "languages-api",
+      "repository_id": 1346235991,
+      "node_id": "R_kgDOUD3uVw",
+      "default_tip_oid": "fee5abb314c45ce4a8128ac7b580cfe3876c6e1a",
+      "label_count": 57
+    },
+    {
+      "name": "quotes-api",
+      "repository_id": 1346238168,
+      "node_id": "R_kgDOUD322A",
+      "default_tip_oid": "834da5a49d580df6719d05198491b8e32eb22189",
+      "label_count": 57
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "public-labels-snapshot.json",
+      "bytes": 1204616,
+      "sha256": "a7a972732f7bb1fda2bf60aacfcae43a41e87c0978bbb6465324d48445c84586"
+    }
+  ]
+}

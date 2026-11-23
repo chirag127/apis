@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8488
+  ],
+  "codepointsHex": [
+    "0x2128"
+  ],
+  "character": "ℨ",
+  "names": [
+    {
+      "name": "&Zfr;",
+      "legacy": false
+    },
+    {
+      "name": "&zeetrf;",
+      "legacy": false
+    }
+  ]
+}

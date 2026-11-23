@@ -1,0 +1,17 @@
+{
+  "byId": {
+    "class-10-mathematics": {
+      "id": "class-10-mathematics",
+      "name": "Mathematics",
+      "class": "10",
+      "status": "pilot-fixture"
+    },
+    "class-10-science": {
+      "id": "class-10-science",
+      "name": "Science",
+      "class": "10",
+      "status": "pilot-fixture"
+    }
+  },
+  "searchableFields": []
+}

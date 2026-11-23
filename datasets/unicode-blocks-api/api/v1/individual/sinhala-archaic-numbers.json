@@ -1,0 +1,10 @@
+{
+  "id": "sinhala-archaic-numbers",
+  "name": "Sinhala Archaic Numbers",
+  "start": "U+111E0",
+  "end": "U+111FF",
+  "startCode": 70112,
+  "endCode": 70143,
+  "size": 32,
+  "range": "U+111E0..U+111FF"
+}

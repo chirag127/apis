@@ -1,0 +1,10 @@
+{
+  "id": "ugaritic",
+  "name": "Ugaritic",
+  "start": "U+10380",
+  "end": "U+1039F",
+  "startCode": 66432,
+  "endCode": 66463,
+  "size": 32,
+  "range": "U+10380..U+1039F"
+}

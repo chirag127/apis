@@ -1,0 +1,25 @@
+{
+  "id": "F",
+  "atomicNumber": 9,
+  "symbol": "F",
+  "name": "Fluorine",
+  "atomicMass": 18.9984031636,
+  "category": "diatomic nonmetal",
+  "block": "p",
+  "group": 17,
+  "period": 2,
+  "phase": "Gas",
+  "density": 1.696,
+  "meltingPoint": 53.48,
+  "boilingPoint": 85.03,
+  "electronConfiguration": "1s2 2s2 2p5",
+  "electronConfigurationSemantic": "[He] 2s2 2p5",
+  "electronegativity": 3.98,
+  "shells": [
+    2,
+    7
+  ],
+  "cpkHex": "90e050",
+  "discoveredBy": "André-Marie Ampère",
+  "yearDiscovered": "1670"
+}

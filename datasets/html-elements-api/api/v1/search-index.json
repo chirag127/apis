@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "html-elements": {
+      "id": "html-elements",
+      "name": "HTML Elements",
+      "status": "scaffold",
+      "source": "MDN / WHATWG"
+    }
+  },
+  "searchableFields": []
+}

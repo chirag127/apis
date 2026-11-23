@@ -1,0 +1,14 @@
+{
+  "id": "CryptoSwift",
+  "name": "CryptoSwift License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 136,
+  "reference": "https://spdx.org/licenses/CryptoSwift.html",
+  "detailsUrl": "https://spdx.org/licenses/CryptoSwift.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CryptoSwift.txt",
+  "seeAlso": [
+    "https://github.com/krzyzanowskim/CryptoSwift/blob/main/LICENSE"
+  ]
+}

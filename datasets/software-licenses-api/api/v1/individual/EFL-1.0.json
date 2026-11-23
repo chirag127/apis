@@ -1,0 +1,15 @@
+{
+  "id": "EFL-1.0",
+  "name": "Eiffel Forum License v1.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 735,
+  "reference": "https://spdx.org/licenses/EFL-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/EFL-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/EFL-1.0.txt",
+  "seeAlso": [
+    "http://www.eiffel-nice.org/license/forum.txt",
+    "https://opensource.org/license/EFL-1.0"
+  ]
+}

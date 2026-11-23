@@ -1,0 +1,55 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "UPSC Civil Services Syllabus",
+    "description": "UPSC CSE prelims and mains syllabus with optional subjects",
+    "version": "1.0.0",
+    "license": {
+      "name": "CC-BY-4.0"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://chirag127.github.io/upsc-syllabus",
+      "description": "GitHub Pages"
+    }
+  ],
+  "paths": {
+    "/data.json": {
+      "get": {
+        "summary": "UPSC Civil Services Syllabus data",
+        "description": "UPSC CSE prelims and mains syllabus with optional subjects",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/upsc": {
+      "get": {
+        "summary": "UPSC Civil Services Syllabus",
+        "description": "UPSC CSE prelims and mains syllabus with optional subjects",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

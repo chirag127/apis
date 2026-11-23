@@ -1,0 +1,15 @@
+{
+  "id": "MS-PL",
+  "name": "Microsoft Public License",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 728,
+  "reference": "https://spdx.org/licenses/MS-PL.html",
+  "detailsUrl": "https://spdx.org/licenses/MS-PL.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MS-PL.txt",
+  "seeAlso": [
+    "http://www.microsoft.com/opensource/licenses.mspx",
+    "https://opensource.org/license/MS-PL"
+  ]
+}

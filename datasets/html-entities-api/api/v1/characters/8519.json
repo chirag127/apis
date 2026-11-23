@@ -1,0 +1,24 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    8519
+  ],
+  "codepointsHex": [
+    "0x2147"
+  ],
+  "character": "ⅇ",
+  "names": [
+    {
+      "name": "&ExponentialE;",
+      "legacy": false
+    },
+    {
+      "name": "&ee;",
+      "legacy": false
+    },
+    {
+      "name": "&exponentiale;",
+      "legacy": false
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "GL",
+  "iso2": "GL",
+  "name": "Greenland",
+  "callingCode": "+299",
+  "callingCodeRoot": "299",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "321000",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

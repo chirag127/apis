@@ -1,0 +1,14 @@
+{
+  "id": "NG",
+  "iso2": "NG",
+  "name": "Nigeria",
+  "callingCode": "+234",
+  "callingCodeRoot": "234",
+  "internationalPrefix": "009",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "2033123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

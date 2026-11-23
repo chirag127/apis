@@ -1,0 +1,10 @@
+{
+  "id": "currency-symbols",
+  "name": "Currency Symbols",
+  "start": "U+20A0",
+  "end": "U+20CF",
+  "startCode": 8352,
+  "endCode": 8399,
+  "size": 48,
+  "range": "U+20A0..U+20CF"
+}

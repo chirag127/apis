@@ -1,0 +1,14 @@
+{
+  "id": "PM",
+  "iso2": "PM",
+  "name": "St. Pierre & Miquelon",
+  "callingCode": "+508",
+  "callingCodeRoot": "508",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "430123",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

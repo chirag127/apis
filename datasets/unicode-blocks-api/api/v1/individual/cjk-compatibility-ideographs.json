@@ -1,0 +1,10 @@
+{
+  "id": "cjk-compatibility-ideographs",
+  "name": "CJK Compatibility Ideographs",
+  "start": "U+F900",
+  "end": "U+FAFF",
+  "startCode": 63744,
+  "endCode": 64255,
+  "size": 512,
+  "range": "U+F900..U+FAFF"
+}

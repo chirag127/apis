@@ -1,0 +1,10 @@
+{
+  "id": "UGX",
+  "alpha3": "UGX",
+  "numeric": "800",
+  "name": "Uganda Shilling",
+  "minorUnits": 0,
+  "countries": [
+    "UGANDA"
+  ]
+}

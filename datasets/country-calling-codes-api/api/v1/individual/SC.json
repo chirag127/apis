@@ -1,0 +1,14 @@
+{
+  "id": "SC",
+  "iso2": "SC",
+  "name": "Seychelles",
+  "callingCode": "+248",
+  "callingCodeRoot": "248",
+  "internationalPrefix": "010|0[0-2]",
+  "preferredInternationalPrefix": "00",
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "4217123",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

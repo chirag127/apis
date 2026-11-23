@@ -1,0 +1,14 @@
+{
+  "id": "MD",
+  "iso2": "MD",
+  "name": "Moldova",
+  "callingCode": "+373",
+  "callingCodeRoot": "373",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "22212345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

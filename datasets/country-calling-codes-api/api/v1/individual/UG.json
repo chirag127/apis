@@ -1,0 +1,14 @@
+{
+  "id": "UG",
+  "iso2": "UG",
+  "name": "Uganda",
+  "callingCode": "+256",
+  "callingCodeRoot": "256",
+  "internationalPrefix": "00[057]",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "312345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

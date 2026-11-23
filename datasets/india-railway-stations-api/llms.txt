@@ -1,0 +1,10 @@
+# Indian Railway Stations
+
+All 7000+ railway stations with code, zone, division, state, and coordinates
+
+- API: https://chirag127.github.io/india-railway-stations/data.json
+- OpenAPI: https://chirag127.github.io/india-railway-stations/openapi.json
+- Schema: https://chirag127.github.io/india-railway-stations/data/schema.json
+- License: CC-BY-4.0
+- Source: IRCTC / RailYatri open data
+- Status: india-railway-stations

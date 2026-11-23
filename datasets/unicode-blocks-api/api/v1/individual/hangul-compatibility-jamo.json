@@ -1,0 +1,10 @@
+{
+  "id": "hangul-compatibility-jamo",
+  "name": "Hangul Compatibility Jamo",
+  "start": "U+3130",
+  "end": "U+318F",
+  "startCode": 12592,
+  "endCode": 12687,
+  "size": 96,
+  "range": "U+3130..U+318F"
+}

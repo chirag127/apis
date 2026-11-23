@@ -1,0 +1,14 @@
+{
+  "id": "TG",
+  "iso2": "TG",
+  "name": "Togo",
+  "callingCode": "+228",
+  "callingCodeRoot": "228",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "22212345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

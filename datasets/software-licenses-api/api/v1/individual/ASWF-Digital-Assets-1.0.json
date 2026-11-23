@@ -1,0 +1,14 @@
+{
+  "id": "ASWF-Digital-Assets-1.0",
+  "name": "ASWF Digital Assets License version 1.0",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 184,
+  "reference": "https://spdx.org/licenses/ASWF-Digital-Assets-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/ASWF-Digital-Assets-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/ASWF-Digital-Assets-1.0.txt",
+  "seeAlso": [
+    "https://github.com/AcademySoftwareFoundation/foundation/blob/main/digital_assets/aswf_digital_assets_license_v1.0.txt"
+  ]
+}

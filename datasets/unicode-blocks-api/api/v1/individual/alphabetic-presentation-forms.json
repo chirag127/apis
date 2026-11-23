@@ -1,0 +1,10 @@
+{
+  "id": "alphabetic-presentation-forms",
+  "name": "Alphabetic Presentation Forms",
+  "start": "U+FB00",
+  "end": "U+FB4F",
+  "startCode": 64256,
+  "endCode": 64335,
+  "size": 80,
+  "range": "U+FB00..U+FB4F"
+}

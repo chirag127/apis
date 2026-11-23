@@ -1,0 +1,14 @@
+{
+  "id": "CC-BY-NC-SA-1.0",
+  "name": "Creative Commons Attribution Non Commercial Share Alike 1.0 Generic",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 422,
+  "reference": "https://spdx.org/licenses/CC-BY-NC-SA-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/CC-BY-NC-SA-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-SA-1.0.txt",
+  "seeAlso": [
+    "https://creativecommons.org/licenses/by-nc-sa/1.0/legalcode"
+  ]
+}

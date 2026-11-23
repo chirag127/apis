@@ -1,0 +1,14 @@
+{
+  "id": "BE",
+  "iso2": "BE",
+  "name": "Belgium",
+  "callingCode": "+32",
+  "callingCodeRoot": "32",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "12345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

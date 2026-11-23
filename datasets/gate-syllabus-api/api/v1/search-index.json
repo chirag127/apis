@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "gate-syllabus": {
+      "id": "gate-syllabus",
+      "name": "GATE Syllabus",
+      "status": "scaffold",
+      "source": "IIT public notification"
+    }
+  },
+  "searchableFields": []
+}

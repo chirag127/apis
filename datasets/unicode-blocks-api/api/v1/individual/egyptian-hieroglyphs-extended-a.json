@@ -1,0 +1,10 @@
+{
+  "id": "egyptian-hieroglyphs-extended-a",
+  "name": "Egyptian Hieroglyphs Extended-A",
+  "start": "U+13460",
+  "end": "U+143FF",
+  "startCode": 78944,
+  "endCode": 82943,
+  "size": 4000,
+  "range": "U+13460..U+143FF"
+}

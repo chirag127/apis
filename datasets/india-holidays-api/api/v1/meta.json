@@ -1,0 +1,15 @@
+{
+  "status": "healthy",
+  "lastUpdated": "2026-08-25T13:59:36.350Z",
+  "sourceUpdatedAt": "2026-08-25T13:59:36.350Z",
+  "retrievedAt": "2026-08-25T13:59:36.350Z",
+  "recordCount": 3,
+  "version": "1.0.0",
+  "schemaVersion": "1.0.0",
+  "source": "Ministry of Personnel open notification",
+  "license": "public-domain",
+  "updateCadence": "yearly",
+  "nextUpdateDue": "2026-11-23T13:59:36.350Z",
+  "lastFailedAt": null,
+  "failureReason": null
+}

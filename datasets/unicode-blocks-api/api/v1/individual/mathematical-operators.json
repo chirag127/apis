@@ -1,0 +1,10 @@
+{
+  "id": "mathematical-operators",
+  "name": "Mathematical Operators",
+  "start": "U+2200",
+  "end": "U+22FF",
+  "startCode": 8704,
+  "endCode": 8959,
+  "size": 256,
+  "range": "U+2200..U+22FF"
+}

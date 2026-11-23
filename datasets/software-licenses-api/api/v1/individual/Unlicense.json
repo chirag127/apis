@@ -1,0 +1,14 @@
+{
+  "id": "Unlicense",
+  "name": "The Unlicense",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 285,
+  "reference": "https://spdx.org/licenses/Unlicense.html",
+  "detailsUrl": "https://spdx.org/licenses/Unlicense.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Unlicense.txt",
+  "seeAlso": [
+    "https://unlicense.org/"
+  ]
+}

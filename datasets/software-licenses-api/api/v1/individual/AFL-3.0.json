@@ -1,0 +1,15 @@
+{
+  "id": "AFL-3.0",
+  "name": "Academic Free License v3.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 288,
+  "reference": "https://spdx.org/licenses/AFL-3.0.html",
+  "detailsUrl": "https://spdx.org/licenses/AFL-3.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/AFL-3.0.txt",
+  "seeAlso": [
+    "http://www.rosenlaw.com/AFL3.0.htm",
+    "https://opensource.org/license/AFL-3.0"
+  ]
+}

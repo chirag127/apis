@@ -1,0 +1,10 @@
+{
+  "id": "SDG",
+  "alpha3": "SDG",
+  "numeric": "938",
+  "name": "Sudanese Pound",
+  "minorUnits": 2,
+  "countries": [
+    "SUDAN (THE)"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "new-tai-lue",
+  "name": "New Tai Lue",
+  "start": "U+1980",
+  "end": "U+19DF",
+  "startCode": 6528,
+  "endCode": 6623,
+  "size": 96,
+  "range": "U+1980..U+19DF"
+}

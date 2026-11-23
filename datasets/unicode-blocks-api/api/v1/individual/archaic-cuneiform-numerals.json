@@ -1,0 +1,10 @@
+{
+  "id": "archaic-cuneiform-numerals",
+  "name": "Archaic Cuneiform Numerals",
+  "start": "U+12550",
+  "end": "U+1268F",
+  "startCode": 75088,
+  "endCode": 75407,
+  "size": 320,
+  "range": "U+12550..U+1268F"
+}

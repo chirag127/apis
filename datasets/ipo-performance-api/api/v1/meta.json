@@ -1,0 +1,15 @@
+{
+  "status": "healthy",
+  "lastUpdated": "2026-08-25T13:59:37.628Z",
+  "sourceUpdatedAt": "2026-08-25T13:59:37.628Z",
+  "retrievedAt": "2026-08-25T13:59:37.628Z",
+  "recordCount": 1,
+  "version": "1.0.0",
+  "schemaVersion": "1.0.0",
+  "source": "BSE/NSE public data",
+  "license": "CC-BY-4.0",
+  "updateCadence": "weekly",
+  "nextUpdateDue": "2026-11-23T13:59:37.628Z",
+  "lastFailedAt": null,
+  "failureReason": null
+}

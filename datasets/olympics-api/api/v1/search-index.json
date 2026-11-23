@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "olympics": {
+      "id": "olympics",
+      "name": "Olympics Medal History",
+      "status": "scaffold",
+      "source": "IOC public data"
+    }
+  },
+  "searchableFields": []
+}

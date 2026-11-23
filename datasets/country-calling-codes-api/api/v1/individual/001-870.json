@@ -1,0 +1,14 @@
+{
+  "id": "001-870",
+  "iso2": "001",
+  "name": "Non-geographical entity",
+  "callingCode": "+870",
+  "callingCodeRoot": "870",
+  "internationalPrefix": null,
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "301234567",
+  "exampleNumberKind": "mobile",
+  "mobileNumberPortableRegion": false
+}

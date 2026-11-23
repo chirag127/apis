@@ -1,0 +1,14 @@
+{
+  "id": "OSL-2.0",
+  "name": "Open Software License 2.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 562,
+  "reference": "https://spdx.org/licenses/OSL-2.0.html",
+  "detailsUrl": "https://spdx.org/licenses/OSL-2.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/OSL-2.0.txt",
+  "seeAlso": [
+    "http://web.archive.org/web/20041020171434/http://www.rosenlaw.com/osl2.0.html"
+  ]
+}

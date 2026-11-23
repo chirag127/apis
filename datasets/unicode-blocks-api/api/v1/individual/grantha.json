@@ -1,0 +1,10 @@
+{
+  "id": "grantha",
+  "name": "Grantha",
+  "start": "U+11300",
+  "end": "U+1137F",
+  "startCode": 70400,
+  "endCode": 70527,
+  "size": 128,
+  "range": "U+11300..U+1137F"
+}

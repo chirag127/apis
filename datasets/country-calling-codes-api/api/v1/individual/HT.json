@@ -1,0 +1,14 @@
+{
+  "id": "HT",
+  "iso2": "HT",
+  "name": "Haiti",
+  "callingCode": "+509",
+  "callingCodeRoot": "509",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "22453300",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

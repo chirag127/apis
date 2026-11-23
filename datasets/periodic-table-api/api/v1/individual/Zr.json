@@ -1,0 +1,28 @@
+{
+  "id": "Zr",
+  "atomicNumber": 40,
+  "symbol": "Zr",
+  "name": "Zirconium",
+  "atomicMass": 91.2242,
+  "category": "transition metal",
+  "block": "d",
+  "group": 4,
+  "period": 5,
+  "phase": "Solid",
+  "density": 6.52,
+  "meltingPoint": 2128,
+  "boilingPoint": 4650,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d2",
+  "electronConfigurationSemantic": "[Kr] 4d2 5s2",
+  "electronegativity": 1.33,
+  "shells": [
+    2,
+    8,
+    18,
+    10,
+    2
+  ],
+  "cpkHex": "94e0e0",
+  "discoveredBy": "Martin Heinrich Klaproth",
+  "yearDiscovered": "1789"
+}

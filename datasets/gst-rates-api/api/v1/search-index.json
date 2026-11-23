@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "gst-rates": {
+      "id": "gst-rates",
+      "name": "GST Rates",
+      "status": "scaffold",
+      "source": "CBIC public notification"
+    }
+  },
+  "searchableFields": []
+}

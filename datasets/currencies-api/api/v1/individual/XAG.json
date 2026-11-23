@@ -1,0 +1,10 @@
+{
+  "id": "XAG",
+  "alpha3": "XAG",
+  "numeric": "961",
+  "name": "Silver",
+  "minorUnits": null,
+  "countries": [
+    "ZZ11_Silver"
+  ]
+}

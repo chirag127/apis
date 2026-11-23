@@ -1,0 +1,10 @@
+{
+  "id": "meroitic-hieroglyphs",
+  "name": "Meroitic Hieroglyphs",
+  "start": "U+10980",
+  "end": "U+1099F",
+  "startCode": 67968,
+  "endCode": 67999,
+  "size": 32,
+  "range": "U+10980..U+1099F"
+}

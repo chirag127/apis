@@ -1,0 +1,10 @@
+{
+  "id": "khmer",
+  "name": "Khmer",
+  "start": "U+1780",
+  "end": "U+17FF",
+  "startCode": 6016,
+  "endCode": 6143,
+  "size": 128,
+  "range": "U+1780..U+17FF"
+}

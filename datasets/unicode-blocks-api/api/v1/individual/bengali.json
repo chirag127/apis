@@ -1,0 +1,10 @@
+{
+  "id": "bengali",
+  "name": "Bengali",
+  "start": "U+0980",
+  "end": "U+09FF",
+  "startCode": 2432,
+  "endCode": 2559,
+  "size": 128,
+  "range": "U+0980..U+09FF"
+}

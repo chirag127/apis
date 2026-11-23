@@ -1,0 +1,16 @@
+{
+  "generatedFrom": "https://html.spec.whatwg.org/entities.json",
+  "codepoints": [
+    9
+  ],
+  "codepointsHex": [
+    "0x0009"
+  ],
+  "character": "\t",
+  "names": [
+    {
+      "name": "&Tab;",
+      "legacy": false
+    }
+  ]
+}

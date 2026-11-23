@@ -1,0 +1,10 @@
+{
+  "id": "nabataean",
+  "name": "Nabataean",
+  "start": "U+10880",
+  "end": "U+108AF",
+  "startCode": 67712,
+  "endCode": 67759,
+  "size": 48,
+  "range": "U+10880..U+108AF"
+}

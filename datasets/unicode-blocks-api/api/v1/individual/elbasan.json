@@ -1,0 +1,10 @@
+{
+  "id": "elbasan",
+  "name": "Elbasan",
+  "start": "U+10500",
+  "end": "U+1052F",
+  "startCode": 66816,
+  "endCode": 66863,
+  "size": 48,
+  "range": "U+10500..U+1052F"
+}

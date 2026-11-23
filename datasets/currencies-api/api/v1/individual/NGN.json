@@ -1,0 +1,10 @@
+{
+  "id": "NGN",
+  "alpha3": "NGN",
+  "numeric": "566",
+  "name": "Naira",
+  "minorUnits": 2,
+  "countries": [
+    "NIGERIA"
+  ]
+}

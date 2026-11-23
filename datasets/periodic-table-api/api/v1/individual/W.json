@@ -1,0 +1,29 @@
+{
+  "id": "W",
+  "atomicNumber": 74,
+  "symbol": "W",
+  "name": "Tungsten",
+  "atomicMass": 183.841,
+  "category": "transition metal",
+  "block": "d",
+  "group": 6,
+  "period": 6,
+  "phase": "Solid",
+  "density": 19.25,
+  "meltingPoint": 3695,
+  "boilingPoint": 6203,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d4",
+  "electronConfigurationSemantic": "[Xe] 4f14 5d4 6s2",
+  "electronegativity": 2.36,
+  "shells": [
+    2,
+    8,
+    18,
+    32,
+    12,
+    2
+  ],
+  "cpkHex": "2194d6",
+  "discoveredBy": "Carl Wilhelm Scheele",
+  "yearDiscovered": "1783"
+}

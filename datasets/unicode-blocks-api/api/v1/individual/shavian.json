@@ -1,0 +1,10 @@
+{
+  "id": "shavian",
+  "name": "Shavian",
+  "start": "U+10450",
+  "end": "U+1047F",
+  "startCode": 66640,
+  "endCode": 66687,
+  "size": 48,
+  "range": "U+10450..U+1047F"
+}

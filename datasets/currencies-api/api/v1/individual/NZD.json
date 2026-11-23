@@ -1,0 +1,14 @@
+{
+  "id": "NZD",
+  "alpha3": "NZD",
+  "numeric": "554",
+  "name": "New Zealand Dollar",
+  "minorUnits": 2,
+  "countries": [
+    "COOK ISLANDS (THE)",
+    "NEW ZEALAND",
+    "NIUE",
+    "PITCAIRN",
+    "TOKELAU"
+  ]
+}

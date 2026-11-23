@@ -1,0 +1,14 @@
+{
+  "id": "AW",
+  "iso2": "AW",
+  "name": "Aruba",
+  "callingCode": "+297",
+  "callingCodeRoot": "297",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "5212345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

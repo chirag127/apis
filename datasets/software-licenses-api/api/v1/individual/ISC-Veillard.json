@@ -1,0 +1,16 @@
+{
+  "id": "ISC-Veillard",
+  "name": "ISC Veillard variant",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 687,
+  "reference": "https://spdx.org/licenses/ISC-Veillard.html",
+  "detailsUrl": "https://spdx.org/licenses/ISC-Veillard.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/ISC-Veillard.txt",
+  "seeAlso": [
+    "https://raw.githubusercontent.com/GNOME/libxml2/4c2e7c651f6c2f0d1a74f350cbda95f7df3e7017/hash.c",
+    "https://github.com/GNOME/libxml2/blob/master/dict.c",
+    "https://sourceforge.net/p/ctrio/git/ci/master/tree/README"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "status": "healthy",
+  "lastUpdated": "2026-08-25T13:59:37.103Z",
+  "sourceUpdatedAt": "2026-08-25T13:59:37.103Z",
+  "retrievedAt": "2026-08-25T13:59:37.103Z",
+  "recordCount": 1,
+  "version": "1.0.0",
+  "schemaVersion": "1.0.0",
+  "source": "BIPM",
+  "license": "public-domain",
+  "updateCadence": "manual",
+  "nextUpdateDue": "2026-11-23T13:59:37.103Z",
+  "lastFailedAt": null,
+  "failureReason": null
+}

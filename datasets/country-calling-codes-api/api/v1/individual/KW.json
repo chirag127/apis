@@ -1,0 +1,14 @@
+{
+  "id": "KW",
+  "iso2": "KW",
+  "name": "Kuwait",
+  "callingCode": "+965",
+  "callingCodeRoot": "965",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "22345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

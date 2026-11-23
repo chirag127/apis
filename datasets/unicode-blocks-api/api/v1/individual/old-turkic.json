@@ -1,0 +1,10 @@
+{
+  "id": "old-turkic",
+  "name": "Old Turkic",
+  "start": "U+10C00",
+  "end": "U+10C4F",
+  "startCode": 68608,
+  "endCode": 68687,
+  "size": 80,
+  "range": "U+10C00..U+10C4F"
+}

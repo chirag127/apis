@@ -1,0 +1,10 @@
+{
+  "id": "COU",
+  "alpha3": "COU",
+  "numeric": "970",
+  "name": "Unidad de Valor Real",
+  "minorUnits": 2,
+  "countries": [
+    "COLOMBIA"
+  ]
+}

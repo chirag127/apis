@@ -1,0 +1,10 @@
+{
+  "id": "cjk-unified-ideographs",
+  "name": "CJK Unified Ideographs",
+  "start": "U+4E00",
+  "end": "U+9FFF",
+  "startCode": 19968,
+  "endCode": 40959,
+  "size": 20992,
+  "range": "U+4E00..U+9FFF"
+}

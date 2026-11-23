@@ -1,0 +1,10 @@
+{
+  "id": "KWD",
+  "alpha3": "KWD",
+  "numeric": "414",
+  "name": "Kuwaiti Dinar",
+  "minorUnits": 3,
+  "countries": [
+    "KUWAIT"
+  ]
+}

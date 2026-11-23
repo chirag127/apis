@@ -1,0 +1,14 @@
+{
+  "id": "CF",
+  "iso2": "CF",
+  "name": "Central African Republic",
+  "callingCode": "+236",
+  "callingCodeRoot": "236",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "21612345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

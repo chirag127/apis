@@ -1,0 +1,15 @@
+{
+  "id": "PostgreSQL",
+  "name": "PostgreSQL License",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 287,
+  "reference": "https://spdx.org/licenses/PostgreSQL.html",
+  "detailsUrl": "https://spdx.org/licenses/PostgreSQL.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/PostgreSQL.txt",
+  "seeAlso": [
+    "http://www.postgresql.org/about/licence",
+    "https://opensource.org/license/PostgreSQL"
+  ]
+}

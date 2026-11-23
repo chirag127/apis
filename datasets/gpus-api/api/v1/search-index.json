@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "gpus": {
+      "id": "gpus",
+      "name": "GPU Specifications",
+      "status": "scaffold",
+      "source": "Public benchmarks"
+    }
+  },
+  "searchableFields": []
+}

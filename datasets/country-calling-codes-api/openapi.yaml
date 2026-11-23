@@ -1,0 +1,188 @@
+openapi: 3.1.0
+info:
+  title: Country Calling Codes
+  description: 254 entries from Google's libphonenumber metadata — 245 countries and territories with an ISO 3166-1 code plus
+    9 non-geographical codes (+800, +808, +870, +878, +881, +882, +883, +888, +979) — each with its calling code, trunk prefix,
+    international prefix and a valid example number.
+  version: 1.0.0
+  license:
+    name: Apache-2.0 (libphonenumber); Unicode License v3 (CLDR)
+  contact:
+    name: Chirag Singhal
+    url: https://github.com/chirag127
+    email: chirag@oriz.in
+servers:
+- url: https://chirag127.github.io/country-calling-codes-api
+  description: GitHub Pages
+paths:
+  /api/v1/data.json:
+    get:
+      summary: All 254 calling codes
+      operationId: listData
+      responses:
+        '200':
+          description: JSON array of 254 records
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/CallingCode'
+  /api/v1/individual/{id}.json:
+    get:
+      summary: One record by id
+      operationId: getRecord
+      parameters:
+      - name: id
+        in: path
+        required: true
+        schema:
+          type: string
+        description: Record id
+      responses:
+        '200':
+          description: One record
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/CallingCode'
+        '404':
+          description: No record with that id
+  /api/v1/search-index.json:
+    get:
+      summary: All records keyed by id
+      operationId: getSearchIndex
+      responses:
+        '200':
+          description: Object with a byId map of every record
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  byId:
+                    type: object
+                    additionalProperties:
+                      $ref: '#/components/schemas/CallingCode'
+                required:
+                - byId
+  /api/v1/meta.json:
+    get:
+      summary: Dataset metadata
+      operationId: getMeta
+      responses:
+        '200':
+          description: Record count, source URLs, retrieval time
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                  lastUpdated:
+                    type: string
+                  sourceUpdatedAt:
+                    type:
+                    - string
+                    - 'null'
+                  retrievedAt:
+                    type: string
+                  recordCount:
+                    type: integer
+                  version:
+                    type: string
+                  schemaVersion:
+                    type: string
+                  source:
+                    type: string
+                  sourceUrl:
+                    type: string
+                  license:
+                    type: string
+                  updateCadence:
+                    type: string
+                  nextUpdateDue:
+                    type: string
+                  lastFailedAt:
+                    type:
+                    - string
+                    - 'null'
+                  failureReason:
+                    type:
+                    - string
+                    - 'null'
+components:
+  schemas:
+    CallingCode:
+      type: object
+      required:
+      - id
+      - iso2
+      - name
+      - callingCode
+      - callingCodeRoot
+      - internationalPrefix
+      - preferredInternationalPrefix
+      - nationalPrefix
+      - nationalPrefixForParsing
+      - exampleNumber
+      - exampleNumberKind
+      - mobileNumberPortableRegion
+      properties:
+        id:
+          type: string
+          description: ISO 3166-1 alpha-2 code, or 001-<code> for a non-geographical service
+          example: DE
+        iso2:
+          type: string
+          description: ISO 3166-1 alpha-2 code, 001 for the non-geographical services
+          example: DE
+        name:
+          type: string
+          description: English short name from CLDR; non-geographical services are labelled as such
+          example: Germany
+        callingCode:
+          type: string
+          description: Calling code with the plus sign
+          example: '+49'
+        callingCodeRoot:
+          type: string
+          description: Calling code digits only
+          example: '49'
+        internationalPrefix:
+          type:
+          - string
+          - 'null'
+          description: What you dial before a foreign number from inside the country; null for the nine non-geographical codes
+        preferredInternationalPrefix:
+          type:
+          - string
+          - 'null'
+          description: Preferred alternative where the metadata gives one
+        nationalPrefix:
+          type:
+          - string
+          - 'null'
+          description: Trunk prefix for national dialling; null when not declared
+        nationalPrefixForParsing:
+          type:
+          - string
+          - 'null'
+          description: Pattern libphonenumber uses to strip the prefix when parsing
+        exampleNumber:
+          type:
+          - string
+          - 'null'
+          description: A valid national number, digits only, unformatted
+          example: '30123456'
+        exampleNumberKind:
+          type:
+          - string
+          - 'null'
+          description: Which number type the example belongs to
+          example: fixedLine
+        mobileNumberPortableRegion:
+          type: boolean
+          description: True when the metadata flags the country as supporting mobile number portability
+      additionalProperties: false

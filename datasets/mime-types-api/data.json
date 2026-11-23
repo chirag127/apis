@@ -1,0 +1,46 @@
+[
+  {
+    "id": "application/json",
+    "name": "JSON",
+    "extensions": [
+      ".json"
+    ]
+  },
+  {
+    "id": "text/html",
+    "name": "HTML",
+    "extensions": [
+      ".html",
+      ".htm"
+    ]
+  },
+  {
+    "id": "text/css",
+    "name": "CSS",
+    "extensions": [
+      ".css"
+    ]
+  },
+  {
+    "id": "application/pdf",
+    "name": "PDF",
+    "extensions": [
+      ".pdf"
+    ]
+  },
+  {
+    "id": "image/png",
+    "name": "PNG",
+    "extensions": [
+      ".png"
+    ]
+  },
+  {
+    "id": "image/jpeg",
+    "name": "JPEG",
+    "extensions": [
+      ".jpg",
+      ".jpeg"
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": "Ho",
+  "atomicNumber": 67,
+  "symbol": "Ho",
+  "name": "Holmium",
+  "atomicMass": 164.930332,
+  "category": "lanthanide",
+  "block": "f",
+  "group": 3,
+  "period": 6,
+  "phase": "Solid",
+  "density": 8.79,
+  "meltingPoint": 1734,
+  "boilingPoint": 2873,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f11",
+  "electronConfigurationSemantic": "[Xe] 4f11 6s2",
+  "electronegativity": 1.23,
+  "shells": [
+    2,
+    8,
+    18,
+    29,
+    8,
+    2
+  ],
+  "cpkHex": "00ff9c",
+  "discoveredBy": "Marc Delafontaine",
+  "yearDiscovered": "1878"
+}

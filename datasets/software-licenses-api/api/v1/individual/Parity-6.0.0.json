@@ -1,0 +1,14 @@
+{
+  "id": "Parity-6.0.0",
+  "name": "The Parity Public License 6.0.0",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 97,
+  "reference": "https://spdx.org/licenses/Parity-6.0.0.html",
+  "detailsUrl": "https://spdx.org/licenses/Parity-6.0.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Parity-6.0.0.txt",
+  "seeAlso": [
+    "https://paritylicense.com/versions/6.0.0.html"
+  ]
+}

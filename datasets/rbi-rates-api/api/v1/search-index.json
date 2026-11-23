@@ -1,0 +1,19 @@
+{
+  "byId": {
+    "repo-rate": {
+      "id": "repo-rate",
+      "name": "Repo Rate",
+      "value": null,
+      "unit": "percent",
+      "status": "awaiting-source-refresh"
+    },
+    "reverse-repo-rate": {
+      "id": "reverse-repo-rate",
+      "name": "Reverse Repo Rate",
+      "value": null,
+      "unit": "percent",
+      "status": "awaiting-source-refresh"
+    }
+  },
+  "searchableFields": []
+}

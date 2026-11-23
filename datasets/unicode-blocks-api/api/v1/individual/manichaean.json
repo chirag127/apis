@@ -1,0 +1,10 @@
+{
+  "id": "manichaean",
+  "name": "Manichaean",
+  "start": "U+10AC0",
+  "end": "U+10AFF",
+  "startCode": 68288,
+  "endCode": 68351,
+  "size": 64,
+  "range": "U+10AC0..U+10AFF"
+}

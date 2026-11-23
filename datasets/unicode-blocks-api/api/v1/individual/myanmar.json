@@ -1,0 +1,10 @@
+{
+  "id": "myanmar",
+  "name": "Myanmar",
+  "start": "U+1000",
+  "end": "U+109F",
+  "startCode": 4096,
+  "endCode": 4255,
+  "size": 160,
+  "range": "U+1000..U+109F"
+}

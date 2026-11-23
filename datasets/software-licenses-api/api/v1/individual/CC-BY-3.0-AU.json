@@ -1,0 +1,14 @@
+{
+  "id": "CC-BY-3.0-AU",
+  "name": "Creative Commons Attribution 3.0 Australia",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 645,
+  "reference": "https://spdx.org/licenses/CC-BY-3.0-AU.html",
+  "detailsUrl": "https://spdx.org/licenses/CC-BY-3.0-AU.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-3.0-AU.txt",
+  "seeAlso": [
+    "https://creativecommons.org/licenses/by/3.0/au/legalcode"
+  ]
+}

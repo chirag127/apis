@@ -1,0 +1,14 @@
+{
+  "id": "ECL-1.0",
+  "name": "Educational Community License v1.0",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 319,
+  "reference": "https://spdx.org/licenses/ECL-1.0.html",
+  "detailsUrl": "https://spdx.org/licenses/ECL-1.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/ECL-1.0.txt",
+  "seeAlso": [
+    "https://opensource.org/license/ECL-1.0"
+  ]
+}

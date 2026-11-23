@@ -1,0 +1,10 @@
+{
+  "id": "halfwidth-and-fullwidth-forms",
+  "name": "Halfwidth and Fullwidth Forms",
+  "start": "U+FF00",
+  "end": "U+FFEF",
+  "startCode": 65280,
+  "endCode": 65519,
+  "size": 240,
+  "range": "U+FF00..U+FFEF"
+}

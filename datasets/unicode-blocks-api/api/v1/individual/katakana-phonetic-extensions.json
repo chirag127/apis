@@ -1,0 +1,10 @@
+{
+  "id": "katakana-phonetic-extensions",
+  "name": "Katakana Phonetic Extensions",
+  "start": "U+31F0",
+  "end": "U+31FF",
+  "startCode": 12784,
+  "endCode": 12799,
+  "size": 16,
+  "range": "U+31F0..U+31FF"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "SAR",
+  "alpha3": "SAR",
+  "numeric": "682",
+  "name": "Saudi Riyal",
+  "minorUnits": 2,
+  "countries": [
+    "SAUDI ARABIA"
+  ]
+}

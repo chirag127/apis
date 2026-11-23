@@ -1,0 +1,14 @@
+{
+  "id": "Zend-2.0",
+  "name": "Zend License v2.0",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": true,
+  "referenceNumber": 595,
+  "reference": "https://spdx.org/licenses/Zend-2.0.html",
+  "detailsUrl": "https://spdx.org/licenses/Zend-2.0.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Zend-2.0.txt",
+  "seeAlso": [
+    "https://web.archive.org/web/20130517195954/http://www.zend.com/license/2_00.txt"
+  ]
+}

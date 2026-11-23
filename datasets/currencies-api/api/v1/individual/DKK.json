@@ -1,0 +1,12 @@
+{
+  "id": "DKK",
+  "alpha3": "DKK",
+  "numeric": "208",
+  "name": "Danish Krone",
+  "minorUnits": 2,
+  "countries": [
+    "DENMARK",
+    "FAROE ISLANDS (THE)",
+    "GREENLAND"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Minpack",
+  "name": "Minpack License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 657,
+  "reference": "https://spdx.org/licenses/Minpack.html",
+  "detailsUrl": "https://spdx.org/licenses/Minpack.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Minpack.txt",
+  "seeAlso": [
+    "http://www.netlib.org/minpack/disclaimer",
+    "https://gitlab.com/libeigen/eigen/-/blob/master/COPYING.MINPACK"
+  ]
+}

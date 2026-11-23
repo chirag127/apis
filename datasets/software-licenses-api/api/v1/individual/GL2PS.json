@@ -1,0 +1,14 @@
+{
+  "id": "GL2PS",
+  "name": "GL2PS License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 100,
+  "reference": "https://spdx.org/licenses/GL2PS.html",
+  "detailsUrl": "https://spdx.org/licenses/GL2PS.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/GL2PS.txt",
+  "seeAlso": [
+    "http://www.geuz.org/gl2ps/COPYING.GL2PS"
+  ]
+}

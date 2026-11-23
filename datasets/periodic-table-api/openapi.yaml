@@ -1,0 +1,214 @@
+openapi: "3.1.0"
+info:
+  title: "Periodic Table"
+  description: "All 118 elements with atomic number, mass, category, electron configuration, electronegativity, melting and boiling points, discovery attribution and year."
+  version: "1.0.0"
+  license:
+    name: "MIT (code); element facts from IUPAC and NIST (data)"
+  contact:
+    name: "Chirag Singhal"
+    url: "https://github.com/chirag127"
+    email: "chirag@oriz.in"
+servers:
+  -
+    url: "https://chirag127.github.io/periodic-table-api"
+    description: "GitHub Pages"
+paths:
+  /api/v1/data.json:
+    get:
+      summary: "All 118 element records"
+      operationId: "listData"
+      responses:
+        '200':
+          description: "JSON array of records"
+          content:
+            application/json:
+              schema:
+                type: "array"
+                items:
+                  type: "object"
+                  properties:
+                    id:
+                      type: "string"
+                      description: "Element symbol, used as the record id"
+                    atomicNumber:
+                      type: "integer"
+                      description: "Atomic number"
+                    symbol:
+                      type: "string"
+                      description: "IUPAC element symbol"
+                    name:
+                      type: "string"
+                      description: "IUPAC element name"
+                    atomicMass:
+                      type: "number"
+                      description: "Standard atomic weight in u"
+                    category:
+                      type: "string"
+                      description: "Category string as published upstream"
+                    block:
+                      type: "string"
+                      description: "Periodic table block"
+                    group:
+                      type: "integer"
+                      description: "Periodic table group"
+                    period:
+                      type: "integer"
+                      description: "Periodic table period"
+                    phase:
+                      type: "string"
+                      description: "Phase at standard conditions"
+                    density:
+                      type: "number"
+                      description: "Density at standard conditions in g/cm3"
+                    meltingPoint:
+                      type: "number"
+                      description: "Melting point in kelvin; null where no agreed value exists"
+                    boilingPoint:
+                      type: "number"
+                      description: "Boiling point in kelvin; null where no agreed value exists"
+                    electronConfiguration:
+                      type: "string"
+                      description: "Full electron configuration"
+                    electronConfigurationSemantic:
+                      type: "string"
+                      description: "Noble-gas shorthand configuration"
+                    electronegativity:
+                      type: "number"
+                      description: "Pauling electronegativity; null where no agreed value exists"
+                    shells:
+                      type: "array"
+                      items:
+                        type: "integer"
+                      description: "Electrons per shell"
+                    cpkHex:
+                      type: "string"
+                      description: "CPK colour used for molecular renderings"
+                    discoveredBy:
+                      type: "string"
+                      description: "Discovery attribution, upstream verbatim: a person, an era or a year depending on the element"
+                    yearDiscovered:
+                      type: "string"
+                      description: "Year of discovery from PubChem; \"Ancient\" where the element was known before records"
+  /api/v1/individual/{id}.json:
+    get:
+      summary: "Single record by id"
+      operationId: "getRecord"
+      parameters:
+        -
+          name: "id"
+          in: "path"
+          required: true
+          schema:
+            type: "string"
+      responses:
+        '200':
+          description: "One record object"
+          content:
+            application/json:
+              schema:
+                type: "object"
+                properties:
+                  id:
+                    type: "string"
+                    description: "Element symbol, used as the record id"
+                  atomicNumber:
+                    type: "integer"
+                    description: "Atomic number"
+                  symbol:
+                    type: "string"
+                    description: "IUPAC element symbol"
+                  name:
+                    type: "string"
+                    description: "IUPAC element name"
+                  atomicMass:
+                    type: "number"
+                    description: "Standard atomic weight in u"
+                  category:
+                    type: "string"
+                    description: "Category string as published upstream"
+                  block:
+                    type: "string"
+                    description: "Periodic table block"
+                  group:
+                    type: "integer"
+                    description: "Periodic table group"
+                  period:
+                    type: "integer"
+                    description: "Periodic table period"
+                  phase:
+                    type: "string"
+                    description: "Phase at standard conditions"
+                  density:
+                    type: "number"
+                    description: "Density at standard conditions in g/cm3"
+                  meltingPoint:
+                    type: "number"
+                    description: "Melting point in kelvin; null where no agreed value exists"
+                  boilingPoint:
+                    type: "number"
+                    description: "Boiling point in kelvin; null where no agreed value exists"
+                  electronConfiguration:
+                    type: "string"
+                    description: "Full electron configuration"
+                  electronConfigurationSemantic:
+                    type: "string"
+                    description: "Noble-gas shorthand configuration"
+                  electronegativity:
+                    type: "number"
+                    description: "Pauling electronegativity; null where no agreed value exists"
+                  shells:
+                    type: "array"
+                    items:
+                      type: "integer"
+                    description: "Electrons per shell"
+                  cpkHex:
+                    type: "string"
+                    description: "CPK colour used for molecular renderings"
+                  discoveredBy:
+                    type: "string"
+                    description: "Discovery attribution, upstream verbatim: a person, an era or a year depending on the element"
+                  yearDiscovered:
+                    type: "string"
+                    description: "Year of discovery from PubChem; \"Ancient\" where the element was known before records"
+        '404':
+          description: "No record with that id"
+  /api/v1/search-index.json:
+    get:
+      summary: "All records keyed by id"
+      operationId: "getSearchIndex"
+      responses:
+        '200':
+          description: "Object of records keyed by id"
+  /api/v1/meta.json:
+    get:
+      summary: "Dataset metadata (record count, source, retrieval time)"
+      operationId: "getMeta"
+      responses:
+        '200':
+          description: "Metadata"
+          content:
+            application/json:
+              schema:
+                type: "object"
+                properties:
+                  status:
+                    type: "string"
+                  lastUpdated:
+                    type: "string"
+                  sourceUpdatedAt:
+                    type: ["string", "null"]
+                  retrievedAt:
+                    type: "string"
+                  recordCount:
+                    type: "integer"
+                  version:
+                    type: "string"
+                  schemaVersion:
+                    type: "string"
+                  source:
+                    type: "string"
+                  sourceUrl:
+                    type: "string"
+                  license:
+                    type: "string"

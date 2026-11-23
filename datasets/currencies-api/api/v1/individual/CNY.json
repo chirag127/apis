@@ -1,0 +1,10 @@
+{
+  "id": "CNY",
+  "alpha3": "CNY",
+  "numeric": "156",
+  "name": "Yuan Renminbi",
+  "minorUnits": 2,
+  "countries": [
+    "CHINA"
+  ]
+}

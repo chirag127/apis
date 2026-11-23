@@ -1,0 +1,10 @@
+{
+  "id": "early-dynastic-cuneiform",
+  "name": "Early Dynastic Cuneiform",
+  "start": "U+12480",
+  "end": "U+1254F",
+  "startCode": 74880,
+  "endCode": 75087,
+  "size": 208,
+  "range": "U+12480..U+1254F"
+}

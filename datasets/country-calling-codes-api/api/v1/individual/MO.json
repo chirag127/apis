@@ -1,0 +1,14 @@
+{
+  "id": "MO",
+  "iso2": "MO",
+  "name": "Macao SAR China",
+  "callingCode": "+853",
+  "callingCodeRoot": "853",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "28212345",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

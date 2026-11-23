@@ -1,0 +1,10 @@
+{
+  "id": "cjk-compatibility",
+  "name": "CJK Compatibility",
+  "start": "U+3300",
+  "end": "U+33FF",
+  "startCode": 13056,
+  "endCode": 13311,
+  "size": 256,
+  "range": "U+3300..U+33FF"
+}

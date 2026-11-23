@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-08-25T03:52:42.896Z",
+  "fields": [
+    "id",
+    "name",
+    "keywords"
+  ],
+  "records": [
+    {
+      "id": "india-airports",
+      "name": "Indian Airports",
+      "keywords": "indian airports india-airports india-ref airport iata code domestic airport international airport"
+    }
+  ]
+}

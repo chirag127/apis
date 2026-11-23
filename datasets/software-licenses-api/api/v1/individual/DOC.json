@@ -1,0 +1,15 @@
+{
+  "id": "DOC",
+  "name": "DOC License",
+  "deprecated": false,
+  "osiApproved": false,
+  "fsfLibre": false,
+  "referenceNumber": 393,
+  "reference": "https://spdx.org/licenses/DOC.html",
+  "detailsUrl": "https://spdx.org/licenses/DOC.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/DOC.txt",
+  "seeAlso": [
+    "http://www.cs.wustl.edu/~schmidt/ACE-copying.html",
+    "https://www.dre.vanderbilt.edu/~schmidt/ACE-copying.html"
+  ]
+}

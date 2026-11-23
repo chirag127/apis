@@ -1,0 +1,10 @@
+{
+  "id": "cuneiform",
+  "name": "Cuneiform",
+  "start": "U+12000",
+  "end": "U+123FF",
+  "startCode": 73728,
+  "endCode": 74751,
+  "size": 1024,
+  "range": "U+12000..U+123FF"
+}

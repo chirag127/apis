@@ -1,0 +1,10 @@
+{
+  "id": "counting-rod-numerals",
+  "name": "Counting Rod Numerals",
+  "start": "U+1D360",
+  "end": "U+1D37F",
+  "startCode": 119648,
+  "endCode": 119679,
+  "size": 32,
+  "range": "U+1D360..U+1D37F"
+}

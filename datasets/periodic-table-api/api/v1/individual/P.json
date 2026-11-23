@@ -1,0 +1,26 @@
+{
+  "id": "P",
+  "atomicNumber": 15,
+  "symbol": "P",
+  "name": "Phosphorus",
+  "atomicMass": 30.9737619985,
+  "category": "polyatomic nonmetal",
+  "block": "p",
+  "group": 15,
+  "period": 3,
+  "phase": "Solid",
+  "density": 1.823,
+  "meltingPoint": 317.3,
+  "boilingPoint": null,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p3",
+  "electronConfigurationSemantic": "[Ne] 3s2 3p3",
+  "electronegativity": 2.19,
+  "shells": [
+    2,
+    8,
+    5
+  ],
+  "cpkHex": "ff8000",
+  "discoveredBy": "Hennig Brand",
+  "yearDiscovered": "1669"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "LGPL-2.0-only",
+  "name": "GNU Library General Public License v2 only",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": false,
+  "referenceNumber": 294,
+  "reference": "https://spdx.org/licenses/LGPL-2.0-only.html",
+  "detailsUrl": "https://spdx.org/licenses/LGPL-2.0-only.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/LGPL-2.0-only.txt",
+  "seeAlso": [
+    "https://www.gnu.org/licenses/old-licenses/lgpl-2.0-standalone.html"
+  ]
+}

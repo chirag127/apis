@@ -1,0 +1,14 @@
+{
+  "id": "DE",
+  "iso2": "DE",
+  "name": "Germany",
+  "callingCode": "+49",
+  "callingCodeRoot": "49",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "30123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

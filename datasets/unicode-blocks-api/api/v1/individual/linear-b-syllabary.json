@@ -1,0 +1,10 @@
+{
+  "id": "linear-b-syllabary",
+  "name": "Linear B Syllabary",
+  "start": "U+10000",
+  "end": "U+1007F",
+  "startCode": 65536,
+  "endCode": 65663,
+  "size": 128,
+  "range": "U+10000..U+1007F"
+}

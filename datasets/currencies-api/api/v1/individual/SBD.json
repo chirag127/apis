@@ -1,0 +1,10 @@
+{
+  "id": "SBD",
+  "alpha3": "SBD",
+  "numeric": "090",
+  "name": "Solomon Islands Dollar",
+  "minorUnits": 2,
+  "countries": [
+    "SOLOMON ISLANDS"
+  ]
+}

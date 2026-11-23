@@ -1,0 +1,14 @@
+{
+  "id": "GT",
+  "iso2": "GT",
+  "name": "Guatemala",
+  "callingCode": "+502",
+  "callingCodeRoot": "502",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": null,
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "22456789",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "PH",
+  "iso2": "PH",
+  "name": "Philippines",
+  "callingCode": "+63",
+  "callingCodeRoot": "63",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "232345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

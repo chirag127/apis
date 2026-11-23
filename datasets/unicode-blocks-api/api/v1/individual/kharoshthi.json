@@ -1,0 +1,10 @@
+{
+  "id": "kharoshthi",
+  "name": "Kharoshthi",
+  "start": "U+10A00",
+  "end": "U+10A5F",
+  "startCode": 68096,
+  "endCode": 68191,
+  "size": 96,
+  "range": "U+10A00..U+10A5F"
+}

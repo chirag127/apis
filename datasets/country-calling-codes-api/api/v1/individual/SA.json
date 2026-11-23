@@ -1,0 +1,14 @@
+{
+  "id": "SA",
+  "iso2": "SA",
+  "name": "Saudi Arabia",
+  "callingCode": "+966",
+  "callingCodeRoot": "966",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "112345678",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": true
+}

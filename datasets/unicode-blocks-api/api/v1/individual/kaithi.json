@@ -1,0 +1,10 @@
+{
+  "id": "kaithi",
+  "name": "Kaithi",
+  "start": "U+11080",
+  "end": "U+110CF",
+  "startCode": 69760,
+  "endCode": 69839,
+  "size": 80,
+  "range": "U+11080..U+110CF"
+}

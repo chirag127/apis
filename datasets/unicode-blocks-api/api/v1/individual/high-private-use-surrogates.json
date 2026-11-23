@@ -1,0 +1,10 @@
+{
+  "id": "high-private-use-surrogates",
+  "name": "High Private Use Surrogates",
+  "start": "U+DB80",
+  "end": "U+DBFF",
+  "startCode": 56192,
+  "endCode": 56319,
+  "size": 128,
+  "range": "U+DB80..U+DBFF"
+}

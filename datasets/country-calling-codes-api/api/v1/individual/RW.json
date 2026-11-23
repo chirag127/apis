@@ -1,0 +1,14 @@
+{
+  "id": "RW",
+  "iso2": "RW",
+  "name": "Rwanda",
+  "callingCode": "+250",
+  "callingCodeRoot": "250",
+  "internationalPrefix": "00",
+  "preferredInternationalPrefix": null,
+  "nationalPrefix": "0",
+  "nationalPrefixForParsing": null,
+  "exampleNumber": "250123456",
+  "exampleNumberKind": "fixedLine",
+  "mobileNumberPortableRegion": false
+}

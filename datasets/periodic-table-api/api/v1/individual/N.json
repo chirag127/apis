@@ -1,0 +1,25 @@
+{
+  "id": "N",
+  "atomicNumber": 7,
+  "symbol": "N",
+  "name": "Nitrogen",
+  "atomicMass": 14.007,
+  "category": "diatomic nonmetal",
+  "block": "p",
+  "group": 15,
+  "period": 2,
+  "phase": "Gas",
+  "density": 1.251,
+  "meltingPoint": 63.15,
+  "boilingPoint": 77.355,
+  "electronConfiguration": "1s2 2s2 2p3",
+  "electronConfigurationSemantic": "[He] 2s2 2p3",
+  "electronegativity": 3.04,
+  "shells": [
+    2,
+    5
+  ],
+  "cpkHex": "3050f8",
+  "discoveredBy": "Daniel Rutherford",
+  "yearDiscovered": "1772"
+}

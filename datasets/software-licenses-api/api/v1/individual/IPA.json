@@ -1,0 +1,14 @@
+{
+  "id": "IPA",
+  "name": "IPA Font License",
+  "deprecated": false,
+  "osiApproved": true,
+  "fsfLibre": true,
+  "referenceNumber": 74,
+  "reference": "https://spdx.org/licenses/IPA.html",
+  "detailsUrl": "https://spdx.org/licenses/IPA.json",
+  "textUrl": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/IPA.txt",
+  "seeAlso": [
+    "https://opensource.org/license/IPA"
+  ]
+}

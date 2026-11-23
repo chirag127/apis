@@ -1,0 +1,27 @@
+{
+  "id": "Ge",
+  "atomicNumber": 32,
+  "symbol": "Ge",
+  "name": "Germanium",
+  "atomicMass": 72.6308,
+  "category": "metalloid",
+  "block": "p",
+  "group": 14,
+  "period": 4,
+  "phase": "Solid",
+  "density": 5.323,
+  "meltingPoint": 1211.4,
+  "boilingPoint": 3106,
+  "electronConfiguration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p2",
+  "electronConfigurationSemantic": "[Ar] 3d10 4s2 4p2",
+  "electronegativity": 2.01,
+  "shells": [
+    2,
+    8,
+    18,
+    4
+  ],
+  "cpkHex": "668f8f",
+  "discoveredBy": "Clemens Winkler",
+  "yearDiscovered": "1886"
+}
